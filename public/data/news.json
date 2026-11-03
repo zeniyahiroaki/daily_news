@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-03T11:46:52.836841+09:00",
-  "generated_at_formatted": "2026/11/03 11:46",
+  "generated_at": "2026-11-03T12:06:06.898135+09:00",
+  "generated_at_formatted": "2026/11/03 12:06",
   "target_date": "2026-11-03",
   "yesterday_date": "2026-11-02",
-  "total_articles": 151,
-  "today_articles_count": 22,
+  "total_articles": 148,
+  "today_articles_count": 27,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 151
+      "count": 148
     },
     {
       "id": "tech",
@@ -19,12 +19,12 @@
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 35
+      "count": 30
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 15
+      "count": 16
     },
     {
       "id": "music",
@@ -34,7 +34,7 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "appliance",
@@ -43,6 +43,91 @@
     }
   ],
   "articles": [
+    {
+      "id": "428dc9734ee8",
+      "title": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM ZOOM EX-Z55",
+      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2153115.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2153/115/01.jpg",
+      "summary": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM ZOOM EX-Z55",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-03T12:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "12:00",
+      "is_today": true
+    },
+    {
+      "id": "6dc1f6666550",
+      "title": "令和のデスクに平成レトロなスケルトン。「Nape Pro SE」の最安値はあと3日",
+      "url": "https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/29/543582ee-45d9-4444-9349-abda8a460d9d/original.png?w=1200",
+      "summary": "ギズモードとKeychronが共同開発したNape Pro SEの先行販売情報をお届けします。平成レトロなスケルトンデザインが魅力の小型トラックボールデバイスを最安値で購入できる超早割は11月6日正午までです。",
+      "summary_bullets": [
+        "ギズモードとKeychronが共同開発したNape Pro SEの先行販売情報をお届けします。平成レトロなスケルトンデザインが魅力の小型トラックボールデバイスを最安値で購入できる超早割は11月6日正午までです。"
+      ],
+      "published_at": "2026-11-03T12:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "12:00",
+      "is_today": true
+    },
+    {
+      "id": "945cdc2de46c",
+      "title": "ジェームス、洗車好きアイテムTAMAROUの新製品「クイックガラスコート」「ガラスポリッシュ＆コート」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153248.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/248/005.jpg",
+      "summary": "カーメンテナンスとカー用品を展開するジェームスは10月30日、プライベートブランド「TAMAROU」から新たにガラス撥水剤2アイテム「クイックガラスコート」と「ガラスポリッシュ＆コート」を発売した。",
+      "summary_bullets": [
+        "カーメンテナンスとカー用品を展開するジェームスは10月30日、プライベートブランド「TAMAROU」から新たにガラス撥水剤2アイテム「クイックガラスコート」と「ガラスポリッシュ＆コート」を発売した。"
+      ],
+      "published_at": "2026-11-03T11:59:45+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "11:59",
+      "is_today": true
+    },
+    {
+      "id": "d272876749dd",
+      "title": "ホンダ、新型「CRF1150L アフリカツイン」世界初公開 3タイプ展開で二輪初の「Honda SENSING RIDE」搭載モデルも",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153271.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/271/003.jpg",
+      "summary": "本田技研工業は11月3日（現地時間）、イタリア・ミラノで開幕した「EICMA 2026」で大型アドベンチャーバイク「CRF1150L Africa Twin（アフリカツイン）」シリーズを世界初公開した。2027年モデルとして全面刷新し、動力性能の向上と軽量化、低重心化を推進。新たにオフロード志向の「エンデューロスポーツ」を加え、用途に応じた3タイプを展開する。",
+      "summary_bullets": [
+        "本田技研工業は11月3日（現地時間）、イタリア・ミラノで開幕した「EICMA 2026」で大型アドベンチャーバイク「CRF1150L Africa Twin（アフリカツイン）」シリーズを世界初公開した。2027年モデルとして全面刷新し、動力性能の向上と軽量化、低重心化を推進。新たにオフロード志向の「エンデューロスポーツ」を加え、用途に応じた3タイプを展..."
+      ],
+      "published_at": "2026-11-03T11:57:48+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "11:57",
+      "is_today": true
+    },
+    {
+      "id": "a1b0582cefa1",
+      "title": "トヨタ豊田章男会長、令和8年秋の叙勲で旭日大綬章を受章 受章を励みに「これからも仲間とともに未来への挑戦を続ける」とコメント",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152899.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2152/899/01.jpg",
+      "summary": "11月3日、政府より令和8年秋の勲章受章者が発表された。勲章受章は各省庁の推薦などから選ばれるが、トヨタ自動車代表取締役会長 豊田章男氏は経済産業省推薦のもと、最高位の旭日大綬章を受章した。",
+      "summary_bullets": [
+        "11月3日、政府より令和8年秋の勲章受章者が発表された。勲章受章は各省庁の推薦などから選ばれるが、トヨタ自動車代表取締役会長 豊田章男氏は経済産業省推薦のもと、最高位の旭日大綬章を受章した。"
+      ],
+      "published_at": "2026-11-03T11:48:42+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "11:48",
+      "is_today": true
+    },
     {
       "id": "ee26bb80ef8b",
       "title": "ガッビガビ低画質jpgの呪いを解く、たった4行のGeminiプロンプト",
@@ -993,23 +1078,6 @@
       "published_at": "2026-11-02T17:00:00+09:00",
       "published_date": "2026-11-02",
       "published_time": "17:00",
-      "is_today": false
-    },
-    {
-      "id": "37bc1700f2cb",
-      "title": "AIエージェントの自動お買い物、1回で3万円超も…ショップは警戒",
-      "url": "https://www.gizmodo.jp/article/ai-shopping-agents-retailer-blocks/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/10/31/feb5f3a5-2704-4032-93ab-2bf38dba48bc/original.jpg?w=1200",
-      "summary": "うれしいような怖いような…。いまやAIとは、ただ質問した答えを調べて教えてくれるにとどまりません。Meta（メタ）が発表したAIエージェントの「Muse」は、自律的にブラウザなどを操作し、いろんな買い物や予約まで完了してくれると話題に。歓迎…",
-      "summary_bullets": [
-        "うれしいような怖いような…。いまやAIとは、ただ質問した答えを調べて教えてくれるにとどまりません。Meta（メタ）が発表したAIエージェントの「Muse」は、自律的にブラウザなどを操作し、いろんな買い物や予約まで完了してくれると話題に。歓迎…"
-      ],
-      "published_at": "2026-11-02T16:35:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "16:35",
       "is_today": false
     },
     {
@@ -2489,125 +2557,6 @@
       "published_at": "2026-11-02T05:30:00+09:00",
       "published_date": "2026-11-02",
       "published_time": "05:30",
-      "is_today": false
-    },
-    {
-      "id": "e8acf2d77ce1",
-      "title": "[三井公一の「スマホカメラでブラブラ」]アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/711/DSC_0978.jpg",
-      "summary": "今年もアップル「iPhone」の新製品が出揃った。今秋はスタンダードモデルの投入が見送られ、9月に発売されたハイエンド機の「iPhone 18 Pro」「iPhone 18 Pro Max」、そして10月23日に発売された同社初の折りたたみモデル「iPhone Duo」というラインナップだ。",
-      "summary_bullets": [
-        "今年もアップル「iPhone」の新製品が出揃った。今秋はスタンダードモデルの投入が見送られ、9月に発売されたハイエンド機の「iPhone 18 Pro」「iPhone 18 Pro Max」、そして10月23日に発売された同社初の折りたたみモデル「iPhone Duo」というラインナップだ。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "d2ae75b36833",
-      "title": "[本日の一品]名刺は自動、人間は覚悟　「機動文具 自動変形名刺ケース」を買った",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152688.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/688/14.jpg",
-      "summary": "名刺の縦横には、その会社の空気が出る。筆者が勤めた会社の名刺はどれも横型だったが、外資系なのに役員だけ縦型という会社もあった。肩書が上がると紙まで起立するのか、と妙に記憶に残っている。縦横の勢力図はさておき、名刺を相手に向けて差し出す儀式は、なかなか変わらない。",
-      "summary_bullets": [
-        "名刺の縦横には、その会社の空気が出る。筆者が勤めた会社の名刺はどれも横型だったが、外資系なのに役員だけ縦型という会社もあった。肩書が上がると紙まで起立するのか、と妙に記憶に残っている。縦横の勢力図はさておき、名刺を相手に向けて差し出す儀式は、なかなか変わらない。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "70b0e30424d6",
-      "title": "[スタパ齋藤の「スタパトロニクスMobile」]iPhone 18 Pro Maxのケースを買いまくり！　Spigenの定番ケースや極薄ケース、レンズ保護ケースを試したッ!!!",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2152042.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/042/stptncs2026-11-02_thumbnail.jpg",
-      "summary": "iPhone 18 Pro Maxを購入・使用開始してから1カ月弱が経過し、本体とともに使うアクセサリーも十分揃ったという感じ。なので今回は使っているアクセサリー類の使用感などをレビューしてゆきたいっ!!!",
-      "summary_bullets": [
-        "iPhone 18 Pro Maxを購入・使用開始してから1カ月弱が経過し、本体とともに使うアクセサリーも十分揃ったという感じ。なので今回は使っているアクセサリー類の使用感などをレビューしてゆきたいっ!!!"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "84023241ed5e",
-      "title": "[みんなのケータイ]「Fitbit Charge」シリーズ愛好家が「Fitbit Edge」を使ってみて最も気になったこと",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2152013.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/013/001.jpg",
-      "summary": "長らくFitbitのスマートバンドを使い続けてきた筆者。現在も「Fitbit Charge 6」を愛用しているのですが、先日グーグルが新しいスマートバンド「Fitbit Edge」を発売しました。",
-      "summary_bullets": [
-        "長らくFitbitのスマートバンドを使い続けてきた筆者。現在も「Fitbit Charge 6」を愛用しているのですが、先日グーグルが新しいスマートバンド「Fitbit Edge」を発売しました。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "2c7fa410d6c5",
-      "title": "ユーザー数6億6000万人の動画編集アプリ「CapCut」のグローバルイベントがシンガポールで初開催！　活気溢れるその模様をレポート[Sponsored]",
-      "url": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140326.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/326/cont3001.png",
-      "summary": "動画編集アプリ「CapCut(キャップカット)」は、シンガポールで初のグローバルコミュニティイベント「CapCut World」を開催した。",
-      "summary_bullets": [
-        "動画編集アプリ「CapCut(キャップカット)」は、シンガポールで初のグローバルコミュニティイベント「CapCut World」を開催した。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "23bafeb5ac15",
-      "title": "【日下部保雄の悠悠閑閑】ホンダのEV",
-      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2152684.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2152/684/001.jpg",
-      "summary": "軽EVが次々と登場している。中国のBYDが日本市場向けに初の軽自動車「Racco」を発表して大きな反響を呼んだのは夏のこと。日本メーカーでは日産・サクラに続き、2025年はホンダ・N-ONE e:が登場。そしてこの10月にはスズキ・e SKYが月間1000台を目標に発売され、軽EV時代の幕が開こうとしている。",
-      "summary_bullets": [
-        "軽EVが次々と登場している。中国のBYDが日本市場向けに初の軽自動車「Racco」を発表して大きな反響を呼んだのは夏のこと。日本メーカーでは日産・サクラに続き、2025年はホンダ・N-ONE e:が登場。そしてこの10月にはスズキ・e SKYが月間1000台を目標に発売され、軽EV時代の幕が開こうとしている。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "6e03f5601a76",
-      "title": "【2026～2027年シーズン】お勧めの最新スタッドレス＆オールシーズンタイヤカタログ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2150938.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2150/938/001.jpg",
-      "summary": "2026年は残暑もそれほど厳しくなく、むしろ豪雨による浸水被害がニュースを賑わせることになった。気象庁の3か月予報では、2026年11月～2027年1月の気温は「平均気温は北日本で高い確率50％、東・西日本と沖縄・奄美で高い確率60％」と平年より高くなることが見込まれ、降雪量も平年並みか少なくなると予想されている。",
-      "summary_bullets": [
-        "2026年は残暑もそれほど厳しくなく、むしろ豪雨による浸水被害がニュースを賑わせることになった。気象庁の3か月予報では、2026年11月～2027年1月の気温は「平均気温は北日本で高い確率50％、東・西日本と沖縄・奄美で高い確率60％」と平年より高くなることが見込まれ、降雪量も平年並みか少なくなると予想されている。"
-      ],
-      "published_at": "2026-11-02T00:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "00:00",
       "is_today": false
     }
   ]
