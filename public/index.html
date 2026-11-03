@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <title>デイリーニュースまとめ - 今日のニュース一覧</title>
+  <meta name="description" content="主要IT・テック・モバイル・カメラ・音楽・車の最新ニュースをまとめてジャンル別に一覧確認できるデイリーポータル">
+
+  <!-- PWA Settings -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#2563eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="デイリーニュース">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg">
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eff6ff',
+              100: '#dbeafe',
+              500: '#3b82f6',
+              600: '#2563eb',
+              700: '#1d4ed8',
+              800: '#1e40af',
+              900: '#1e3a8a',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Phosphor Icons (軽量アイコンライブラリ) -->
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body class="transition-colors duration-200">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-40 backdrop-blur-md bg-white/90 dark:bg-slate-900/90 border-b border-slate-200 dark:border-slate-800 transition-colors">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        
+        <!-- App Title & Logo -->
+        <div class="flex items-center space-x-3">
+          <img src="./icons/icon.svg" alt="Logo" class="w-9 h-9 rounded-xl shadow-sm">
+          <div>
+            <h1 class="text-lg font-bold tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
+              デイリーニュース
+              <span id="update-badge" class="hidden sm:inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/60 dark:text-blue-300">
+                18:00更新
+              </span>
+            </h1>
+            <p id="header-date" class="text-xs text-slate-500 dark:text-slate-400">読み込み中...</p>
+          </div>
+        </div>
+
+        <!-- Controls: Install Button, Search Toggle, Dark Mode -->
+        <div class="flex items-center space-x-2">
+          <!-- PWA Install Prompt Button -->
+          <button id="pwa-install-btn" class="hidden items-center space-x-1 px-3 py-1.5 text-xs font-semibold rounded-lg bg-blue-600 hover:bg-blue-700 text-white shadow-sm transition">
+            <i class="ph ph-download-simple text-sm"></i>
+            <span>アプリ追加</span>
+          </button>
+
+          <!-- Dark mode toggle -->
+          <button id="theme-toggle" aria-label="テーマ切り替え" class="p-2 rounded-xl text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+            <i id="theme-icon" class="ph ph-moon text-xl"></i>
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+
+    <!-- Top Toolbar: Search + Date Filters + Stats -->
+    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+      
+      <!-- Date toggle filter -->
+      <div class="flex items-center bg-slate-200/70 dark:bg-slate-800 p-1 rounded-xl text-xs font-medium w-fit">
+        <button id="filter-today" class="px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition">
+          本日出た記事 (<span id="today-count">0</span>)
+        </button>
+        <button id="filter-all-dates" class="px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition">
+          直近すべて (<span id="all-count">0</span>)
+        </button>
+      </div>
+
+      <!-- Search Input -->
+      <div class="relative flex-1 max-w-md">
+        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
+          <i class="ph ph-magnifying-glass text-lg"></i>
+        </div>
+        <input type="text" id="search-input" placeholder="記事タイトルや概要を検索..." 
+               class="block w-full pl-10 pr-9 py-2 text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+        <button id="search-clear" class="hidden absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-200">
+          <i class="ph ph-x-circle text-lg"></i>
+        </button>
+      </div>
+
+      <!-- Quick Actions (Reset Read, etc.) -->
+      <div class="flex items-center space-x-2 text-xs text-slate-500 dark:text-slate-400">
+        <span id="read-stats">既読: 0件</span>
+        <span>•</span>
+        <button id="btn-clear-read" class="hover:text-blue-600 dark:hover:text-blue-400 underline">既読クリア</button>
+      </div>
+
+    </div>
+
+    <!-- Genre Tabs (Scrollable on Mobile) -->
+    <div class="flex items-center space-x-2 overflow-x-auto pb-2 mb-6 scrollbar-none no-scrollbar" id="genre-tabs">
+      <!-- Tabs injected by JS -->
+    </div>
+
+    <!-- Articles Grid -->
+    <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Skeleton Loading Cards -->
+      <div class="news-card rounded-2xl p-4 animate-pulse flex flex-col space-y-3">
+        <div class="h-44 bg-slate-200 dark:bg-slate-700 rounded-xl"></div>
+        <div class="h-4 bg-slate-200 dark:bg-slate-700 rounded w-1/3"></div>
+        <div class="h-6 bg-slate-200 dark:bg-slate-700 rounded w-full"></div>
+        <div class="h-16 bg-slate-100 dark:bg-slate-800 rounded"></div>
+      </div>
+      <div class="news-card rounded-2xl p-4 animate-pulse flex flex-col space-y-3">
+        <div class="h-44 bg-slate-200 dark:bg-slate-700 rounded-xl"></div>
+        <div class="h-4 bg-slate-200 dark:bg-slate-700 rounded w-1/3"></div>
+        <div class="h-6 bg-slate-200 dark:bg-slate-700 rounded w-full"></div>
+        <div class="h-16 bg-slate-100 dark:bg-slate-800 rounded"></div>
+      </div>
+      <div class="news-card rounded-2xl p-4 animate-pulse flex flex-col space-y-3">
+        <div class="h-44 bg-slate-200 dark:bg-slate-700 rounded-xl"></div>
+        <div class="h-4 bg-slate-200 dark:bg-slate-700 rounded w-1/3"></div>
+        <div class="h-6 bg-slate-200 dark:bg-slate-700 rounded w-full"></div>
+        <div class="h-16 bg-slate-100 dark:bg-slate-800 rounded"></div>
+      </div>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-400 mb-4">
+        <i class="ph ph-newspaper-clipping text-3xl"></i>
+      </div>
+      <h3 class="text-base font-semibold text-slate-800 dark:text-slate-200 mb-1">記事が見つかりませんでした</h3>
+      <p class="text-sm text-slate-500 dark:text-slate-400 max-w-sm mx-auto">
+        検索条件やタブを切り替えるか、「直近すべて」をお試しください。
+      </p>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-16 border-t border-slate-200 dark:border-slate-800 py-8 text-center text-xs text-slate-500 dark:text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 space-y-2">
+      <p>デイリーニュースまとめ &bull; 毎日18:00自動更新</p>
+      <p class="text-[11px] text-slate-400 dark:text-slate-500">
+        情報元: Impress Watch各誌 / ITmedia / ギズモード・ジャパン / デジカメinfo / DTMステーション / Real Sound
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="./app.js"></script>
+</body>
+</html>

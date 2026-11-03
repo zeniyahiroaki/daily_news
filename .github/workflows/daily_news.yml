@@ -1,0 +1,76 @@
+name: Daily News Collector & Deploy
+
+on:
+  schedule:
+    # 毎日日本時間 18:00 (UTC 09:00) に自動実行
+    - cron: '0 9 * * *'
+  workflow_dispatch: # GitHubの画面から手動実行可能
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - 'public/index.html'
+      - 'public/app.js'
+      - 'public/style.css'
+
+# GitHub Pages へのデプロイ権限とコミット権限
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 同時デプロイの競合を防止
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonのセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 依存ライブラリのインストール
+        run: |
+          pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: ニュース収集＆要約スクリプト実行
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/collector.py
+
+      - name: 更新データのコミット＆プッシュ
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/news.json
+          if git diff --staged --quiet; then
+            echo "No changes in news.json"
+          else
+            git commit -m "Auto update daily news [$(date +'%Y-%m-%d %H:%M')]"
+            git push
+          fi
+        continue-on-error: true # コンフリクト等でpushできなくてもPagesデプロイは続行
+
+      - name: Pagesアーティファクトのアップロード
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'public'
+
+      - name: GitHub Pagesへデプロイ
+        id: deployment
+        uses: actions/deploy-pages@v4
