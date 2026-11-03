@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-03T12:10:28.395172+09:00",
-  "generated_at_formatted": "2026/11/03 12:10",
+  "generated_at": "2026-11-03T19:59:46.971083+09:00",
+  "generated_at_formatted": "2026/11/03 19:59",
   "target_date": "2026-11-03",
   "yesterday_date": "2026-11-02",
-  "total_articles": 148,
-  "today_articles_count": 27,
+  "total_articles": 141,
+  "today_articles_count": 41,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 148
+      "count": 141
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 75
+      "count": 68
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 30
+      "count": 29
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 16
+      "count": 15
     },
     {
       "id": "music",
@@ -34,15 +34,236 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 19
+      "count": 22
     },
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 7
+      "count": 6
     }
   ],
   "articles": [
+    {
+      "id": "b1e4fcce1c4e",
+      "title": "新型iMac（M6）触ってきた。2年ぶりのアップグレードで何が変わった？",
+      "url": "https://www.gizmodo.jp/article/m6-imac-hands-on/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/d8ed3eff-9751-422b-8378-6a51fd1bcc68/original.jpg?w=1200",
+      "summary": "新型M6チップを搭載した2年ぶりのiMacの実機インプレッション。前モデルから変わらないデザインや気になる性能向上、AI処理能力について解説します。",
+      "summary_bullets": [
+        "新型M6チップを搭載した2年ぶりのiMacの実機インプレッション。前モデルから変わらないデザインや気になる性能向上、AI処理能力について解説します。"
+      ],
+      "published_at": "2026-11-03T19:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "19:00",
+      "is_today": true
+    },
+    {
+      "id": "9fd61e63f50b",
+      "title": "トヨタ、新型ラリーマシン「GRセリカ ラリー1」を東京オートサロン2027で公開へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153289.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/289/003.jpg",
+      "summary": "TOYOTA GAZOO Racing World Rally Teamは11月3日、本拠地のあるフィンランド ユバスキュラにおいて2027年のWRC（世界ラリー選手権）の体制発表会を開催した。この体制発表会では、2027年はTOYOTA RACINGとGAZOO Racing TOYOTAの2チーム体制になることが明らかにされ、TOYOTA RACINGでは2027年規定に合致する新型ラリーマシン「GRセリカ ラリー1」を投入するという。",
+      "summary_bullets": [
+        "TOYOTA GAZOO Racing World Rally Teamは11月3日、本拠地のあるフィンランド ユバスキュラにおいて2027年のWRC（世界ラリー選手権）の体制発表会を開催した。この体制発表会では、2027年はTOYOTA RACINGとGAZOO Racing TOYOTAの2チーム体制になることが明らかにされ、TOYOTA RACI..."
+      ],
+      "published_at": "2026-11-03T18:01:01+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "18:01",
+      "is_today": true
+    },
+    {
+      "id": "ac40c8b9062f",
+      "title": "サム・アルトマン「バグ全部修正するのはもうムリ」",
+      "url": "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/26776105-f8dd-4244-875b-c20c7196ed1e/original.jpg?w=1200",
+      "summary": "GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞…",
+      "summary_bullets": [
+        "GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞…"
+      ],
+      "published_at": "2026-11-03T18:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "18:00",
+      "is_today": true
+    },
+    {
+      "id": "643a49f077c5",
+      "title": "トヨタ、2027年の世界ラリー選手権はGRセリカ ラリー1とGRヤリス ラリー1で参戦 TOYOTA RACINGとGAZOO Racing TOYOTAの2チームに",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153285.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/285/001.jpg",
+      "summary": "TOYOTA GAZOO Racing World Rally Teamは11月3日、本拠地のあるフィンランドにおいて2027年のWRC（世界ラリー選手権）の体制発表会を開催している。チーム代表のヤリ-マティ・ラトバラ氏らが登壇したこのイベントにおいて、スポーティング・ディレクターを務めるカイ・リンドストローム氏は、2027年は2チーム・2種類のクルマでの体制での参戦になると発表した。",
+      "summary_bullets": [
+        "TOYOTA GAZOO Racing World Rally Teamは11月3日、本拠地のあるフィンランドにおいて2027年のWRC（世界ラリー選手権）の体制発表会を開催している。チーム代表のヤリ-マティ・ラトバラ氏らが登壇したこのイベントにおいて、スポーティング・ディレクターを務めるカイ・リンドストローム氏は、2027年は2チーム・2種類のクルマ..."
+      ],
+      "published_at": "2026-11-03T16:49:51+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "16:49",
+      "is_today": true
+    },
+    {
+      "id": "c07e5b8c63a2",
+      "title": "この冬、暖をとるなら「巻くコタツ」",
+      "url": "https://www.gizmodo.jp/article/2611-maku-kotatsu/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/55e09740-7d57-4b76-ba86-50ff86f776c4/original.jpg?w=1200",
+      "summary": "ライソンの「巻くコタツ」は足元を360度温めるパネルヒーターです。30秒で温まる速暖性と自動OFF機能を備え、オフシーズンはコンパクトに収納できます。この冬の防寒対策に最適な新しい暖房器具をご紹介します。",
+      "summary_bullets": [
+        "ライソンの「巻くコタツ」は足元を360度温めるパネルヒーターです。30秒で温まる速暖性と自動OFF機能を備え、オフシーズンはコンパクトに収納できます。この冬の防寒対策に最適な新しい暖房器具をご紹介します。"
+      ],
+      "published_at": "2026-11-03T16:35:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "16:35",
+      "is_today": true
+    },
+    {
+      "id": "b2c1073862bf",
+      "title": "Stellantisジャパン、フルサイズピックアップトラック「RAM 1500 Limited」日本導入 2027年にまずは100台を発売予定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/280/001.jpg",
+      "summary": "Stellantisジャパンは11月3日、8ブランド合同イベント「STELLANTIS ALL BRANDS DAY - JAPAN 2026 -」が開催されている富士スピードウェイで、RAM（ラム）のフルサイズピックアップトラック「1500 Limited CREW CAB 5'7\" BOX」を日本に導入予定であると発表した。",
+      "summary_bullets": [
+        "Stellantisジャパンは11月3日、8ブランド合同イベント「STELLANTIS ALL BRANDS DAY - JAPAN 2026 -」が開催されている富士スピードウェイで、RAM（ラム）のフルサイズピックアップトラック「1500 Limited CREW CAB 5'7\" BOX」を日本に導入予定であると発表した。"
+      ],
+      "published_at": "2026-11-03T15:35:09+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "15:35",
+      "is_today": true
+    },
+    {
+      "id": "ecb9ec8acfa4",
+      "title": "プロアマ37名が出展する「ポストカード博」 写真をプリントして手に取る楽しみ　鎌倉で今週末開催",
+      "url": "https://dc.watch.impress.co.jp/docs/news/event/2153154.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2153/154/01.jpg",
+      "summary": "一般社団法人写真と暮らし研究所は、写真のプリント作品を売買するイベント「ポストカード博2026」を11月7日（土）・8日（日）に鎌倉市の「Garden & Space くるくる」で開催する。入場無料。",
+      "summary_bullets": [
+        "一般社団法人写真と暮らし研究所は、写真のプリント作品を売買するイベント「ポストカード博2026」を11月7日（土）・8日（日）に鎌倉市の「Garden & Space くるくる」で開催する。入場無料。"
+      ],
+      "published_at": "2026-11-03T15:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "15:00",
+      "is_today": true
+    },
+    {
+      "id": "a0f2b2654502",
+      "title": "フードってホントに必要？ 雨を通さず湿度を逃す、“全地形”に対応したジャケット",
+      "url": "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/075f519a-c424-4853-90af-abc94cd71390/original.jpg?w=1200",
+      "summary": "日常と非日常の環境でシームレスに対応するデサント オルテライン エイティワンを象徴するシェルジャケットシリーズ「ZENCHIKEI（ゼンチケイ）」。全地形対応を意味するこのシリーズから気になる新モデルをチェックしました。天候の変化にも対応す…",
+      "summary_bullets": [
+        "日常と非日常の環境でシームレスに対応するデサント オルテライン エイティワンを象徴するシェルジャケットシリーズ「ZENCHIKEI（ゼンチケイ）」。全地形対応を意味するこのシリーズから気になる新モデルをチェックしました。天候の変化にも対応す…"
+      ],
+      "published_at": "2026-11-03T15:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "15:00",
+      "is_today": true
+    },
+    {
+      "id": "d918a66b991c",
+      "title": "ウォーレン・バフェットの古典的なアドバイスは今なお有効…「S&amp;P500を買い、仕事に戻る」",
+      "url": "https://www.gizmodo.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire-kji/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/07/0c68e82e-a0aa-4014-9543-af97ec993184/original.jpg?w=1200",
+      "summary": "ウォーレン・バフェットは何十年にもわたり、あらゆる人が低コストのS&P500インデックスファンドに投資すべきだと述べてきました。S&P500は過去最高値を更新しています。",
+      "summary_bullets": [
+        "ウォーレン・バフェットは何十年にもわたり、あらゆる人が低コストのS&P500インデックスファンドに投資すべきだと述べてきました。S&P500は過去最高値を更新しています。"
+      ],
+      "published_at": "2026-11-03T14:35:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "14:35",
+      "is_today": true
+    },
+    {
+      "id": "62095cfd33da",
+      "title": "地震も津波も天気も24時間無料でチェック。特務機関NERVがYouTubeで配信開始",
+      "url": "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/590d4c4a-74ea-4243-8a56-433f57e28885/original.png?w=1200",
+      "summary": "自然災害が発生すると、わたしが真っ先にチェックするのが「特務機関NERV」のXアカウントです。これにどれだけ助けられたかわかりません。そんな「特務機関NERV」が、2026年11月2日から防災情報を24時間365日届けるYouTubeライブ…",
+      "summary_bullets": [
+        "自然災害が発生すると、わたしが真っ先にチェックするのが「特務機関NERV」のXアカウントです。これにどれだけ助けられたかわかりません。そんな「特務機関NERV」が、2026年11月2日から防災情報を24時間365日届けるYouTubeライブ…"
+      ],
+      "published_at": "2026-11-03T14:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "14:00",
+      "is_today": true
+    },
+    {
+      "id": "8ddfcc4d0918",
+      "title": "スマホのメモリ、ストレージで補えるって本当？Motorolaの「RAMブースト」を試してみた",
+      "url": "https://www.gizmodo.jp/article/2611-ram-boost-review/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/29/7be7d959-795e-4369-aca3-a7a7fe32de9a/original.jpg?w=1200",
+      "summary": "Motorolaのmoto g06に搭載されているRAMブースト機能の検証レビュー。ストレージをメモリの代わりに使うことでマルチタスク時の使い勝手がどう変わるのか、実際の操作感やベンチマーク結果を交えて分かりやすく解説します。",
+      "summary_bullets": [
+        "Motorolaのmoto g06に搭載されているRAMブースト機能の検証レビュー。ストレージをメモリの代わりに使うことでマルチタスク時の使い勝手がどう変わるのか、実際の操作感やベンチマーク結果を交えて分かりやすく解説します。"
+      ],
+      "published_at": "2026-11-03T13:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "13:00",
+      "is_today": true
+    },
+    {
+      "id": "6213fd849101",
+      "title": "iPhone Duo転売ヤー、AIフル活用で在庫を監視し秒で購入している",
+      "url": "https://www.gizmodo.jp/article/youll-never-guess-how-scalpers-are-reportedly-snagging-rare-iphone-duos/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/c797c03f-6666-48cb-9dd5-c02e6c1e983e/original.jpg?w=1200",
+      "summary": "Apple初の折りたたみスマホiPhone Duoの転売問題について解説。AIボットを活用した在庫監視の実態や高騰するオークション市場の現状をお伝えします。",
+      "summary_bullets": [
+        "Apple初の折りたたみスマホiPhone Duoの転売問題について解説。AIボットを活用した在庫監視の実態や高騰するオークション市場の現状をお伝えします。"
+      ],
+      "published_at": "2026-11-03T12:30:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "12:30",
+      "is_today": true
+    },
+    {
+      "id": "cf053f6d9daf",
+      "title": "日本自動車会議所、レースイベントで募った熊本県地震復興支援金を熊本県に贈呈",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152898.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2152/898/003.jpg",
+      "summary": "日本自動車会議所は11月2日、全国のレースイベントで募った熊本県地震復興支援金を熊本県に贈呈したと発表した。募金総額は1247万5396円（10月30日時点、株式会社オートポリスによる関連募金 339万7483円含む）。",
+      "summary_bullets": [
+        "日本自動車会議所は11月2日、全国のレースイベントで募った熊本県地震復興支援金を熊本県に贈呈したと発表した。募金総額は1247万5396円（10月30日時点、株式会社オートポリスによる関連募金 339万7483円含む）。"
+      ],
+      "published_at": "2026-11-03T12:25:47+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "12:25",
+      "is_today": true
+    },
     {
       "id": "428dc9734ee8",
       "title": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM ZOOM EX-Z55",
@@ -54,6 +275,23 @@
       "summary": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM ZOOM EX-Z55",
       "summary_bullets": [
         "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-03T12:00:00+09:00",
+      "published_date": "2026-11-03",
+      "published_time": "12:00",
+      "is_today": true
+    },
+    {
+      "id": "d281a8d41f7a",
+      "title": "月額無料のAI通訳イヤフォン「W4 Plus」を試す　翻訳精度をオンラインとオフラインで比較した",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/03/cover_news004.jpg",
+      "summary": "Makuakeで先行販売中のAI通訳イヤフォン「W4 Plus」を検証。月額無料のAI機能や動画／オフライン翻訳の実力を確かめた。字幕が高精度な一方、訳が大幅に削られる設定やPC非対応などの注意点も解説する。",
+      "summary_bullets": [
+        "Makuakeで先行販売中のAI通訳イヤフォン「W4 Plus」を検証。月額無料のAI機能や動画／オフライン翻訳の実力を確かめた。字幕が高精度な一方、訳が大幅に削られる設定やPC非対応などの注意点も解説する。"
       ],
       "published_at": "2026-11-03T12:00:00+09:00",
       "published_date": "2026-11-03",
@@ -198,7 +436,7 @@
     },
     {
       "id": "6edae7be0f64",
-      "title": "ジープ、「ラングラー 392 モアブ」日本導入決定！ V8 6.4リッターエンジン＆35インチタイヤのオフロード特化モデル",
+      "title": "ジープ、「ラングラー モアブ 392」日本導入決定！ V8 6.4リッターエンジン＆35インチタイヤのオフロード特化モデル",
       "url": "https://car.watch.impress.co.jp/docs/news/2153268.html",
       "media": "Car Watch",
       "genre": "car",
@@ -622,23 +860,6 @@
       "is_today": false
     },
     {
-      "id": "c20e34c5c8b4",
-      "title": "ケイト・ブランシェットとゼルナー兄弟が東京国際映画祭に登場。『アルファ・ギャング』とは？",
-      "url": "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/fe641796-2f84-4c28-af51-ff1b8b986213/original.jpg?w=1200",
-      "summary": "1950年代のレザーバイカー風の装いで地球に降り立ったのは、宇宙人集団“アルファ・ギャング”。人間の姿に化けた彼らに課せられたミッションは、地球を征服することーー。そんな奇想天外な映画『アルファ・ギャング』のアジアン・プレミアが10月30日…",
-      "summary_bullets": [
-        "1950年代のレザーバイカー風の装いで地球に降り立ったのは、宇宙人集団“アルファ・ギャング”。人間の姿に化けた彼らに課せられたミッションは、地球を征服することーー。そんな奇想天外な映画『アルファ・ギャング』のアジアン・プレミアが10月30日…"
-      ],
-      "published_at": "2026-11-02T20:30:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "20:30",
-      "is_today": false
-    },
-    {
       "id": "4026fed24e42",
       "title": "XREALが「XREAL AURA」を発表――CEOやグーグル、ソニーが語る空間コンピューティングとは",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2153244.html",
@@ -656,23 +877,6 @@
       "is_today": false
     },
     {
-      "id": "1e7e2396c5ce",
-      "title": "光学シースルーの限界を超えてます。XREAL AURA触ってきました",
-      "url": "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/d0958a02-9754-4d7a-b6ab-54fb13d7d1f1/original.jpg?w=1200",
-      "summary": "新型スマートグラスXREAL AURAのファーストインプレッション。視野角70度の圧倒的な大画面と高い没入感、これまでの光学シースルーの限界を超える進化を体験レポートでお届けします。",
-      "summary_bullets": [
-        "新型スマートグラスXREAL AURAのファーストインプレッション。視野角70度の圧倒的な大画面と高い没入感、これまでの光学シースルーの限界を超える進化を体験レポートでお届けします。"
-      ],
-      "published_at": "2026-11-02T20:15:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "20:15",
-      "is_today": false
-    },
-    {
       "id": "0753b540b4d0",
       "title": "7000円以下でヒンジまで守る、memumiのiPhone Duo用アラミド繊維ケースはハイレベルな逸品　MagSafe非対応だが対策あり",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/03/news011.html",
@@ -687,40 +891,6 @@
       "published_at": "2026-11-02T20:00:00+09:00",
       "published_date": "2026-11-02",
       "published_time": "20:00",
-      "is_today": false
-    },
-    {
-      "id": "316ec367045a",
-      "title": "iPodをBluetooth＆USB-C化。簡単改造で現代に蘇らせるマザーボード",
-      "url": "https://www.gizmodo.jp/article/sprout-pi-mainboard/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/10/31/e586e9cd-f16e-49bd-abbf-c0f8bdb8b752/original.jpg?w=1200",
-      "summary": "古いiPodをBluetoothとUSB-Cに対応させるマザーボードが登場。思い出の音楽プレイヤーを現代の仕様にアップグレードして蘇らせる方法を紹介します。",
-      "summary_bullets": [
-        "古いiPodをBluetoothとUSB-Cに対応させるマザーボードが登場。思い出の音楽プレイヤーを現代の仕様にアップグレードして蘇らせる方法を紹介します。"
-      ],
-      "published_at": "2026-11-02T20:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "20:00",
-      "is_today": false
-    },
-    {
-      "id": "bf6c70c1e160",
-      "title": "Apple、いきなりGoogleにケンカ売り始めた。公式サイトでChromeをボロクソに貶す",
-      "url": "https://www.gizmodo.jp/article/apple-criticizes-google-chrome/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/335b1bcf-6a81-4c7c-be3a-cbdc713db601/original.png?w=1200",
-      "summary": "Appleの公式サイトでGoogleのChromeが名指しで批判されている件について、Safariとの比較や機能の違いを分かりやすく解説します。",
-      "summary_bullets": [
-        "Appleの公式サイトでGoogleのChromeが名指しで批判されている件について、Safariとの比較や機能の違いを分かりやすく解説します。"
-      ],
-      "published_at": "2026-11-02T19:30:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "19:30",
       "is_today": false
     },
     {
@@ -755,23 +925,6 @@
       "published_at": "2026-11-02T19:02:21+09:00",
       "published_date": "2026-11-02",
       "published_time": "19:02",
-      "is_today": false
-    },
-    {
-      "id": "cc3aa49ad5a2",
-      "title": "タッチ対応じゃないほうはどうだろう。最新M6 MacBook Pro 14インチモデル、ハンズオン＆考察レビュー",
-      "url": "https://www.gizmodo.jp/article/2611-m6-macbook-pro-14-hands-on-review/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/01/251868b0-b032-4b94-b2ae-f19be44c89a3/original.jpg?w=1200",
-      "summary": "最新M6チップを搭載した14インチMacBook Proのハンズオンレビュー。タッチ非対応モデルの進化点や価格、実力を分かりやすく解説します。",
-      "summary_bullets": [
-        "最新M6チップを搭載した14インチMacBook Proのハンズオンレビュー。タッチ非対応モデルの進化点や価格、実力を分かりやすく解説します。"
-      ],
-      "published_at": "2026-11-02T19:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "19:00",
       "is_today": false
     },
     {
@@ -860,23 +1013,6 @@
       "is_today": false
     },
     {
-      "id": "d5b874fb25f5",
-      "title": "グーグル、AIに力を入れすぎて株価急落。自分の首を絞める結果に",
-      "url": "https://www.gizmodo.jp/article/google-eats-its-own-tail-and-profits-with-ai-summaries-as-stock-price-plunges/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/6ad3bcb8-e80d-4323-9fcd-416c231b3531/original.jpg?w=1200",
-      "summary": "Googleの決算から紐解くAI投資と株価急落の背景。AI機能の普及が検索広告の収益に与える影響や、巨額の設備投資がもたらす課題について詳しく解説します。",
-      "summary_bullets": [
-        "Googleの決算から紐解くAI投資と株価急落の背景。AI機能の普及が検索広告の収益に与える影響や、巨額の設備投資がもたらす課題について詳しく解説します。"
-      ],
-      "published_at": "2026-11-02T18:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "18:00",
-      "is_today": false
-    },
-    {
       "id": "edf010596100",
       "title": "フラッグシップARグラス後継モデル「XREAL 1 Pro＋」発売　映像画質や装着時の安定感を改善",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/02/news065.html",
@@ -908,23 +1044,6 @@
       "published_at": "2026-11-02T17:39:13+09:00",
       "published_date": "2026-11-02",
       "published_time": "17:39",
-      "is_today": false
-    },
-    {
-      "id": "abc5aebf22af",
-      "title": "コンデジにAIで「小さな画面」をちょい足し。愛機で自撮りがしたくて",
-      "url": "https://www.gizmodo.jp/article/2611-ai-camera-selfie-mount/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/cf6f0226-015b-4408-b01d-cab98ab68c24/original.jpg?w=1200",
-      "summary": "ThinkerZhangさんがRICOH GRに小さな画面を取り付ける部品をOpenAIのAIコーディングエージェントツール「Codex」で設計したとXで紹介しています。愛用のカメラで自撮りがしたい。自分の撮り方に必要なパーツをちょい足しし…",
-      "summary_bullets": [
-        "ThinkerZhangさんがRICOH GRに小さな画面を取り付ける部品をOpenAIのAIコーディングエージェントツール「Codex」で設計したとXで紹介しています。愛用のカメラで自撮りがしたい。自分の撮り方に必要なパーツをちょい足しし…"
-      ],
-      "published_at": "2026-11-02T17:35:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "17:35",
       "is_today": false
     },
     {
@@ -1061,23 +1180,6 @@
       "published_at": "2026-11-02T17:03:12+09:00",
       "published_date": "2026-11-02",
       "published_time": "17:03",
-      "is_today": false
-    },
-    {
-      "id": "641a7e415c06",
-      "title": "エアコンのリモコンがちょっと大きい→小さな1台をAIで錬成",
-      "url": "https://www.gizmodo.jp/article/2611-compact-ai-ac-remote/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/02/6979a7c7-ccf4-4452-b664-70b95f5c6321/original.jpg?w=1200",
-      "summary": "電子工作の自由度があがってる。Tony Huangさんが、OpenAIのAIコーディングエージェント「Codex」を使って小型端末「LilyGO」をエアコンのリモコンに変えたとXに投稿しています。使うたびに気になるところを自分で直したかった…",
-      "summary_bullets": [
-        "電子工作の自由度があがってる。Tony Huangさんが、OpenAIのAIコーディングエージェント「Codex」を使って小型端末「LilyGO」をエアコンのリモコンに変えたとXに投稿しています。使うたびに気になるところを自分で直したかった…"
-      ],
-      "published_at": "2026-11-02T17:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "17:00",
       "is_today": false
     },
     {
@@ -2336,227 +2438,6 @@
       "published_at": "2026-11-02T08:00:00+09:00",
       "published_date": "2026-11-02",
       "published_time": "08:00",
-      "is_today": false
-    },
-    {
-      "id": "a5746cf3f602",
-      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002778/10011096/2048",
-      "summary": "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。",
-      "summary_bullets": [
-        "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。"
-      ],
-      "published_at": "2026-11-02T07:28:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:28",
-      "is_today": false
-    },
-    {
-      "id": "234fbb85ebe4",
-      "title": "スズキも参画した「第19回クラシックカーフェスティバル in 桐生」開催 47万円の初代「アルト」を特別展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2152893.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2152/893/02.jpg",
-      "summary": "群馬県桐生市の群馬大学理工学部桐生キャンパスで11月1日、「第19回クラシックカーフェスティバル in 桐生」が開催された。同イベントには初めてスズキによる特別展示として、日本のモータリゼーションの歴史を彩った初代「アルト」や「フロンテ800」を展示するなどスズキ歴史館が全面的に協力した。",
-      "summary_bullets": [
-        "群馬県桐生市の群馬大学理工学部桐生キャンパスで11月1日、「第19回クラシックカーフェスティバル in 桐生」が開催された。同イベントには初めてスズキによる特別展示として、日本のモータリゼーションの歴史を彩った初代「アルト」や「フロンテ800」を展示するなどスズキ歴史館が全面的に協力した。"
-      ],
-      "published_at": "2026-11-02T07:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "0be00988490f",
-      "title": "岡嶋和幸の「あとで買う」 2,012点目：α7 Vの高いポテンシャルを引き出すための本 - デジカメ Watch",
-      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2152928.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2152/928/01.jpg",
-      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
-      "summary_bullets": [
-        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
-      ],
-      "published_at": "2026-11-02T07:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "efa02f64e354",
-      "title": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM EX-M2",
-      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2152683.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2152/683/01.jpg",
-      "summary": "忘れられない1台～私の愛したデジタルカメラ～カシオ EXILIM EX-M2",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-02T07:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "b0cc3528c3b3",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002777/10011093/2048",
-      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "summary_bullets": [
-        "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。"
-      ],
-      "published_at": "2026-11-02T07:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "9344e570a2af",
-      "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/02/cover_news003.jpg",
-      "summary": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
-      "summary_bullets": [
-        "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？"
-      ],
-      "published_at": "2026-11-02T07:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "24afc70e6e89",
-      "title": "【思い出家電】一人暮らしの自炊に使ったタイガーのミニ炊飯器",
-      "url": "https://kaden.watch.impress.co.jp/docs/readers/memories/2152726.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2152/726/0.jpg",
-      "summary": "メーカー・製品名 タイガーの炊飯ジャー「ミニ炊き JNA-0360」",
-      "summary_bullets": [
-        "メーカー・製品名 タイガーの炊飯ジャー「ミニ炊き JNA-0360」"
-      ],
-      "published_at": "2026-11-02T06:30:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:30",
-      "is_today": false
-    },
-    {
-      "id": "8fa41d8ef120",
-      "title": "【ギア推し】磁気スイッチ、どのキーに挿す？配置を自分で決める「G512 X 75」が楽しい",
-      "url": "https://pc.watch.impress.co.jp/docs/column/gamingdevice/2152730.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2152/730/01.jpg",
-      "summary": "ロジクールの「G512 X 75」で最初に手が伸びるのは、キーでもケーブルでもなく本体背面の半透明カバーだ。開けると磁気式のアナログスイッチが9個ホルダーに収まっていて、これをどのキーに挿すかと考え始めた時点で、もうこのキーボードは始まっている。",
-      "summary_bullets": [
-        "ロジクールの「G512 X 75」で最初に手が伸びるのは、キーでもケーブルでもなく本体背面の半透明カバーだ。開けると磁気式のアナログスイッチが9個ホルダーに収まっていて、これをどのキーに挿すかと考え始めた時点で、もうこのキーボードは始まっている。"
-      ],
-      "published_at": "2026-11-02T06:13:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:13",
-      "is_today": false
-    },
-    {
-      "id": "4e7364952577",
-      "title": "メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2152/921/image05.jpg",
-      "summary": "昨年(2025年)末にこんな記事を書いたわけだが、その後もメモリの価格高騰は止まらない。最近だと福田昭氏がこのような記事を書かれており、メモリベンダーにとっても、PCベンダーにとっても、エンドユーザーにとっても想定外の状況が続いているのが現状である。",
-      "summary_bullets": [
-        "昨年(2025年)末にこんな記事を書いたわけだが、その後もメモリの価格高騰は止まらない。最近だと福田昭氏がこのような記事を書かれており、メモリベンダーにとっても、PCベンダーにとっても、エンドユーザーにとっても想定外の状況が続いているのが現状である。"
-      ],
-      "published_at": "2026-11-02T06:02:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:02",
-      "is_today": false
-    },
-    {
-      "id": "8bbfc608a524",
-      "title": "Gemini、チャットから直接PDF・ドキュメント・スプレッドシートを生成・編集する新機能",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/694/main.jpg",
-      "summary": "Google（グーグル）は、Geminiのチャット上からドキュメント、PDF、プレゼンテーション、スプレッドシートなどのファイルを直接生成・プレビュー・編集する機能を追加した。",
-      "summary_bullets": [
-        "Google（グーグル）は、Geminiのチャット上からドキュメント、PDF、プレゼンテーション、スプレッドシートなどのファイルを直接生成・プレビュー・編集する機能を追加した。"
-      ],
-      "published_at": "2026-11-02T06:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "ef5d3682f28d",
-      "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/02/cover_news029.jpg",
-      "summary": "米Microsoftが、従業員の4人に1人に相当する最大6万人を対象とした早期退職プログラムを発表した。不調のゲームやPC部門だけでなく、売り出し中のAI部門までもが対象に含まれている。直後に発表された2027年度第1四半期決算の「Azure」と「CapEx」の数字から、その背景を読み解く。",
-      "summary_bullets": [
-        "米Microsoftが、従業員の4人に1人に相当する最大6万人を対象とした早期退職プログラムを発表した。不調のゲームやPC部門だけでなく、売り出し中のAI部門までもが対象に含まれている。直後に発表された2027年度第1四半期決算の「Azure」と「CapEx」の数字から、その背景を読み解く。"
-      ],
-      "published_at": "2026-11-02T06:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "6f6060a772e0",
-      "title": "人の力で「ミセスを見つけた」　ユニバーサル ミュージック社長が語る、AI時代に残る「人間の仕事」",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news026.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/02/cover_news026.jpg",
-      "summary": "テクノロジーの発展によって音楽の制作や届け方が変わる中、音楽会社のユニバーサル ミュージックは何を重視しているのか。AI時代でも変わらない、人間にしかできない仕事とは。",
-      "summary_bullets": [
-        "テクノロジーの発展によって音楽の制作や届け方が変わる中、音楽会社のユニバーサル ミュージックは何を重視しているのか。AI時代でも変わらない、人間にしかできない仕事とは。"
-      ],
-      "published_at": "2026-11-02T06:00:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "41f84ae9e0b5",
-      "title": "電話やFAXが当たり前、メアド把握はわずか1％　レンタルのニッケンは「年間27万件の請求書」をどうデジタル化した？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news011.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/02/cover_news011.jpg",
-      "summary": "年間27万件を超える請求書を抱え、普段のやりとりは電話やFAXに依存していたレンタルのニッケン。仕入れ先のメールアドレス把握率がわずか1％というアナログな環境から、どうやってデジタル化を進めたのか。",
-      "summary_bullets": [
-        "年間27万件を超える請求書を抱え、普段のやりとりは電話やFAXに依存していたレンタルのニッケン。仕入れ先のメールアドレス把握率がわずか1％というアナログな環境から、どうやってデジタル化を進めたのか。"
-      ],
-      "published_at": "2026-11-02T05:30:00+09:00",
-      "published_date": "2026-11-02",
-      "published_time": "05:30",
       "is_today": false
     }
   ]
