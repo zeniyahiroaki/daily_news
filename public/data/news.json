@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-07T04:52:05.808404+09:00",
-  "generated_at_formatted": "2026/11/07 04:52",
+  "generated_at": "2026-11-07T10:40:18.336954+09:00",
+  "generated_at_formatted": "2026/11/07 10:40",
   "target_date": "2026-11-07",
   "yesterday_date": "2026-11-06",
-  "total_articles": 159,
-  "today_articles_count": 1,
+  "total_articles": 152,
+  "today_articles_count": 13,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 159
+      "count": 152
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 76
+      "count": 72
     },
     {
       "id": "mobile",
@@ -34,15 +34,219 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 11
+      "count": 9
     },
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 9
+      "count": 8
     }
   ],
   "articles": [
+    {
+      "id": "213f55928b83",
+      "title": "Vポイントのキャンペーンまとめ【11月7日最新版】　5万～10万ポイント還元のチャンス、対象鉄道の乗車で10倍",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news012.jpg",
+      "summary": "11月に利用できるVポイントのキャンペーンをまとめた。Vクーポンを初めて利用して買い物をすると、条件を満たしたユーザーに抽選で最大5万Vポイントを付与する。京王電鉄などの対象区間に登録済みのVisaカードのタッチ決済で乗車すると、乗車でたまるVポイントが通常の10倍になる。",
+      "summary_bullets": [
+        "11月に利用できるVポイントのキャンペーンをまとめた。Vクーポンを初めて利用して買い物をすると、条件を満たしたユーザーに抽選で最大5万Vポイントを付与する。京王電鉄などの対象区間に登録済みのVisaカードのタッチ決済で乗車すると、乗車でたまるVポイントが通常の10倍になる。"
+      ],
+      "published_at": "2026-11-07T10:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "beb5c9ace4ec",
+      "title": "財布代わりになる約120gの軽量スマホショルダー　iPhone Pro Maxサイズもすっきり収納",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news009.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/l_asa_rakuten_01.jpg",
+      "summary": "楽天市場でスマホショルダーが販売されている。前面にはiPhone 14 Pro Max対応のオープンポケットを備え、小銭や紙幣が入るファスナーポケットと背面カードポケット3つを配置する。価格は2480円。",
+      "summary_bullets": [
+        "楽天市場でスマホショルダーが販売されている。前面にはiPhone 14 Pro Max対応のオープンポケットを備え、小銭や紙幣が入るファスナーポケットと背面カードポケット3つを配置する。価格は2480円。"
+      ],
+      "published_at": "2026-11-07T10:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "e3841e0f7906",
+      "title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154554.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/554/01.jpg",
+      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。",
+      "summary_bullets": [
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。"
+      ],
+      "published_at": "2026-11-07T09:39:41+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "09:39",
+      "is_today": true
+    },
+    {
+      "id": "f5283a1403d4",
+      "title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154549.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/549/01.jpg",
+      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる。",
+      "summary_bullets": [
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる。"
+      ],
+      "published_at": "2026-11-07T09:21:37+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "09:21",
+      "is_today": true
+    },
+    {
+      "id": "ae4a075cf912",
+      "title": "「ANIMAX MUSIX 2026」、TIGETでチケット販売中　11月20日・21日に開催",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154546.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/546/01.jpg",
+      "summary": "電子チケット販売サービス「TIGET」を運営するグラブス（grabss）は、11月20日・21日に横浜アリーナで開催されるアニメ音楽イベント「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」のチケットをTIGETで販売している。",
+      "summary_bullets": [
+        "電子チケット販売サービス「TIGET」を運営するグラブス（grabss）は、11月20日・21日に横浜アリーナで開催されるアニメ音楽イベント「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」のチケットをTIGETで販売している。"
+      ],
+      "published_at": "2026-11-07T09:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "09:00",
+      "is_today": true
+    },
+    {
+      "id": "dce57e9ac69e",
+      "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
+      "url": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/43d6cef7-29a9-432a-88f3-0a0a4673bab8/original.jpg?w=1200",
+      "summary": "新iPad miniのナノテクスチャーディスプレイを徹底検証。屋内や屋外の明るい場所での映り込みや反射を大幅に抑え、いつでもコンテンツに集中できる快適な視認性とその価値をご紹介します。",
+      "summary_bullets": [
+        "新iPad miniのナノテクスチャーディスプレイを徹底検証。屋内や屋外の明るい場所での映り込みや反射を大幅に抑え、いつでもコンテンツに集中できる快適な視認性とその価値をご紹介します。"
+      ],
+      "published_at": "2026-11-07T08:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "171805378f4e",
+      "title": "岡嶋和幸の「あとで買う」 2,017点目：ゴアテックス＆コンチネンタルのシューズ - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2154410.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/410/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-07T07:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "b7c607767531",
+      "title": "世界初「STT-MRAMを搭載した16nm AI SoC」が誕生　SDV推進に向けた動きも加速",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/07/news007.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/07/cover_news007.jpg",
+      "summary": "2026年11月2～6日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "summary_bullets": [
+        "2026年11月2～6日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。"
+      ],
+      "published_at": "2026-11-07T07:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "c43877900bdf",
+      "title": "【今すぐ読みたい！人気記事】Apple WatchとPixel Watch、日本で使うと差が出るのはここ！ - PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154526.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/526/1.jpg",
+      "summary": "街中で腕時計としてスマートウォッチを着けた人を見かけるのは、もはやめずらしい光景ではない。日常生活はもちろん、ビジネスシーンでもスマートウォッチは当たり前の風景になりつつあるといっていいだろう。",
+      "summary_bullets": [
+        "街中で腕時計としてスマートウォッチを着けた人を見かけるのは、もはやめずらしい光景ではない。日常生活はもちろん、ビジネスシーンでもスマートウォッチは当たり前の風景になりつつあるといっていいだろう。"
+      ],
+      "published_at": "2026-11-07T06:11:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "06:11",
+      "is_today": true
+    },
+    {
+      "id": "197baf473e2c",
+      "title": "【今すぐ読みたい！人気記事】Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた - PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154524.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/524/1.jpg",
+      "summary": "デジカメWatchにもこんな記事が掲載された「microSD Express」。任天堂の「Nintendo Switch 2」でこれが採用されることが発表され、さらに転売対策としてSwitch 2当選者限定でmicroSD Expressカードを任天堂が直販することを発表するなどしたことで、いろいろと話題になっているわけだが、この辺で一度規格と性能をまとめてご紹介したいと思う。",
+      "summary_bullets": [
+        "デジカメWatchにもこんな記事が掲載された「microSD Express」。任天堂の「Nintendo Switch 2」でこれが採用されることが発表され、さらに転売対策としてSwitch 2当選者限定でmicroSD Expressカードを任天堂が直販することを発表するなどしたことで、いろいろと話題になっているわけだが、この辺で一度規格と性能をま..."
+      ],
+      "published_at": "2026-11-07T06:03:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "06:03",
+      "is_today": true
+    },
+    {
+      "id": "cd1aade759e6",
+      "title": "「iPhone Duo」を売るだけで1台12万円の利益　香港の発売日に起きた“買い取り狂騒曲”、昼には相場が急落",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news002.jpg",
+      "summary": "Apple初の折りたたみスマホ「iPhone Duo」の発売日、香港では新品をすぐ売却する人が“スマホビル”に殺到した。512GBモデルは1台で約12万円の利益が出たが、昼には相場が急落した。現地の買い取り価格と、キャリア購入の実態をレポートする。",
+      "summary_bullets": [
+        "Apple初の折りたたみスマホ「iPhone Duo」の発売日、香港では新品をすぐ売却する人が“スマホビル”に殺到した。512GBモデルは1台で約12万円の利益が出たが、昼には相場が急落した。現地の買い取り価格と、キャリア購入の実態をレポートする。"
+      ],
+      "published_at": "2026-11-07T06:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "b941e7dea128",
+      "title": "初登場時の約3倍！　でも“通常価格”の120万円台に高騰した「GeForce RTX 5090」――それでもアキバで買い手が途絶えない理由",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/07/news011.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/07/cover_news011.jpg",
+      "summary": "長らく入手困難が続いていたGeForce RTX 5090搭載カードだが、ここにきて供給がじわじわと増えている。価格は上がり続けているものの、人気が衰える気配はない。",
+      "summary_bullets": [
+        "長らく入手困難が続いていたGeForce RTX 5090搭載カードだが、ここにきて供給がじわじわと増えている。価格は上がり続けているものの、人気が衰える気配はない。"
+      ],
+      "published_at": "2026-11-07T06:00:00+09:00",
+      "published_date": "2026-11-07",
+      "published_time": "06:00",
+      "is_today": true
+    },
     {
       "id": "f3cfd13e00db",
       "title": "KDDI上期決算はモバイル通信収入が335億円増　楽天ローミング縮小で「パケ止まり率」も3割改善",
@@ -1438,23 +1642,6 @@
       "is_today": false
     },
     {
-      "id": "f9a56ba57362",
-      "title": "盗撮疑惑はフタで解決。スマートグラスの課題を全潰しした「レイブン」",
-      "url": "https://www.gizmodo.jp/article/raven_prism-1_smartglasses/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/04/ea8d80bf-d2ec-4b5f-9796-a6287426acb3/original.png?w=1200",
-      "summary": "スマートグラスって便利そうだけど、毎日使うとなるとどうなの？カメラが付いていたら周りの人は落ち着かないかもしれないし、電池が切れたら使えなくなる。スマホとの接続が必要だったりもしますよね。スマホなしで動く。メガネの中身はLinuxそんな気に…",
-      "summary_bullets": [
-        "スマートグラスって便利そうだけど、毎日使うとなるとどうなの？カメラが付いていたら周りの人は落ち着かないかもしれないし、電池が切れたら使えなくなる。スマホとの接続が必要だったりもしますよね。スマホなしで動く。メガネの中身はLinuxそんな気に…"
-      ],
-      "published_at": "2026-11-06T13:15:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "13:15",
-      "is_today": false
-    },
-    {
       "id": "18ae750bcd15",
       "title": "楽天モバイルが「iPad」の価格発表、Webと店頭で発売",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2154275.html",
@@ -2101,23 +2288,6 @@
       "is_today": false
     },
     {
-      "id": "258d25d3d70e",
-      "title": "1円玉より薄い1万mAhの大容量モバイルバッテリー「UGREEN PB507」がセールで21％オフの2280円に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news054.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news054.jpg",
-      "summary": "Amazon.co.jpで、「UGREEN PB507」がセール中だ。薄型軽量なボディーに1万mAhの大容量バッテリーを搭載する他、最大20W出力のPD急速充電にも対応する。セール価格は21％オフの2280円。",
-      "summary_bullets": [
-        "Amazon.co.jpで、「UGREEN PB507」がセール中だ。薄型軽量なボディーに1万mAhの大容量バッテリーを搭載する他、最大20W出力のPD急速充電にも対応する。セール価格は21％オフの2280円。"
-      ],
-      "published_at": "2026-11-06T09:46:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "09:46",
-      "is_today": false
-    },
-    {
       "id": "70829a6c220b",
       "title": "【本日みつけたお買い得品】Ryzen 5搭載ミニPCが約1万5千円オトク！AmazonスマイルSale",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154180.html",
@@ -2149,23 +2319,6 @@
       "published_at": "2026-11-06T09:43:00+09:00",
       "published_date": "2026-11-06",
       "published_time": "09:43",
-      "is_today": false
-    },
-    {
-      "id": "5f8319d5419c",
-      "title": "ディスプレイで充電状態を確認できる「Anker Nano Charger (45W, Display, スイングプラグ) ブラック」がセールで30％オフの2790円に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news053.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news053.jpg",
-      "summary": "Amazon.co.jpで「Anker Nano Charger (45W, Display, スイングプラグ) ブラック」が30％オフの2790円で販売中。出力や充電モードを表示するディスプレイやスイングプラグを搭載する。",
-      "summary_bullets": [
-        "Amazon.co.jpで「Anker Nano Charger (45W, Display, スイングプラグ) ブラック」が30％オフの2790円で販売中。出力や充電モードを表示するディスプレイやスイングプラグを搭載する。"
-      ],
-      "published_at": "2026-11-06T09:42:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "09:42",
       "is_today": false
     },
     {
@@ -2271,23 +2424,6 @@
       "is_today": false
     },
     {
-      "id": "4c17e751c994",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002931/10011444/2048",
-      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
-      "summary_bullets": [
-        "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。"
-      ],
-      "published_at": "2026-11-06T07:57:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "07:57",
-      "is_today": false
-    },
-    {
       "id": "b30243997732",
       "title": "JAの美味しいものが送料無料でダイエットの決心を揺るがす",
       "url": "https://kaden.watch.impress.co.jp/docs/column/puko/2153995.html",
@@ -2305,23 +2441,6 @@
       "is_today": false
     },
     {
-      "id": "6d45cd081556",
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002928/10011434/2048",
-      "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "summary_bullets": [
-        "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。"
-      ],
-      "published_at": "2026-11-06T07:03:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "07:03",
-      "is_today": false
-    },
-    {
       "id": "180e78947509",
       "title": "岡嶋和幸の「あとで買う」 2,016点目：軽いタッチで切断できる超音波カッター - デジカメ Watch",
       "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2154118.html",
@@ -2332,23 +2451,6 @@
       "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
       "summary_bullets": [
         "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
-      ],
-      "published_at": "2026-11-06T07:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "09bbadf3c940",
-      "title": "タカラジェンヌ→「宝塚ホテル」支配人に　マネジメントに生きた「劇団で培った2つの力」とは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/06/news011.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news011.jpg",
-      "summary": "「ビジネス知識ゼロ」で宝塚ホテルの支配人に就任した元月組組長の憧花ゆりの氏。専門用語に戸惑いながらも、約300人の組織の中でリーダーシップを発揮してきた。その根底にあるのは、指示の伝言ゲームを防ぐ「日々の雑談」と、信頼を保つために「自分自身のパフォーマンスを死守する」という劇団時代の組織感覚だ。個性の強い集団を一つの目標へ動かす、元タカラジェンヌの型破りなマネジメント論に迫る。",
-      "summary_bullets": [
-        "「ビジネス知識ゼロ」で宝塚ホテルの支配人に就任した元月組組長の憧花ゆりの氏。専門用語に戸惑いながらも、約300人の組織の中でリーダーシップを発揮してきた。その根底にあるのは、指示の伝言ゲームを防ぐ「日々の雑談」と、信頼を保つために「自分自身のパフォーマンスを死守する」という劇団時代の組織感覚だ。個性の強い集団を一つの目標へ動かす、元タカラジェンヌの型破..."
       ],
       "published_at": "2026-11-06T07:00:00+09:00",
       "published_date": "2026-11-06",
@@ -2475,40 +2577,6 @@
       "is_today": false
     },
     {
-      "id": "a0d7e53aedf2",
-      "title": "ガチくんに! 第438回切り抜き「SFL選手アンケートでさはらスベる」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2154162.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/162/01.jpg",
-      "summary": "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。",
-      "summary_bullets": [
-        "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。"
-      ],
-      "published_at": "2026-11-06T06:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "5bdaba64d3df",
-      "title": "カメラバカにつける薬 in デジカメ Watch：NIKKOR Z 24-120mm f/4 Sをいまさら試す！",
-      "url": "https://dc.watch.impress.co.jp/docs/comic/clinic/2154112.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/112/list.jpg",
-      "summary": "カメラバカにつける薬 in デジカメ Watch：NIKKOR Z 24-120mm f/4 Sをいまさら試す！",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-06T06:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
       "id": "e441afe13883",
       "title": "IIJmioの「のりかえ価格」、スマホが1980円から　iPhoneやGalaxyも対象",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2154154.html",
@@ -2543,40 +2611,6 @@
       "is_today": false
     },
     {
-      "id": "9b1f67649e23",
-      "title": "Bluetoothの通信速度が約4倍に、最大7.5Mbpsの新技術「Bluetooth HDT」採択",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154146.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/146/01.jpg",
-      "summary": "Bluetooth技術の標準化団体であるBluetooth SIGは、データ転送の高速化や通信容量の拡大などを実現する新技術「Bluetooth High Data Throughput（Bluetooth HDT）」の採択を発表した。最大ビットレートは7.5Mbpsとなり、従来のBluetooth LE 2M PHYと比べて約4倍に引き上げられる。",
-      "summary_bullets": [
-        "Bluetooth技術の標準化団体であるBluetooth SIGは、データ転送の高速化や通信容量の拡大などを実現する新技術「Bluetooth High Data Throughput（Bluetooth HDT）」の採択を発表した。最大ビットレートは7.5Mbpsとなり、従来のBluetooth LE 2M PHYと比べて約4倍に引き上げられる。"
-      ],
-      "published_at": "2026-11-06T00:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "992ad33a7919",
-      "title": "【西川和久の不定期コラム】それってミニPCでは？Core i5と32GBを積んだ4ベイNAS「Beelink ME Pro 4-Bay」",
-      "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2154142.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/142/H00.jpg",
-      "summary": "【西川和久の不定期コラム】それってミニPCでは？Core i5と32GBを積んだ4ベイNAS「Beelink ME Pro 4-Bay」",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-06T00:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
       "id": "25863b9e2d0c",
       "title": "DaiShunがホストを務める新カルチャーイベント『PASSPORT 001』開催　 国内外のDJ11組が集結",
       "url": "https://realsound.jp/2026/11/post-2576469.html",
@@ -2591,159 +2625,6 @@
       "published_at": "2026-11-06T00:00:00+09:00",
       "published_date": "2026-11-06",
       "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "30c9bc856b6f",
-      "title": "【F1カメラマン熱田護の「気合いで撮る！」】第140回：いろんなことがありすぎたメキシコGP。ハースの平川選手、メルセデスのアントネッリ選手、おめでとう!!",
-      "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2154089.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/089/001.jpg",
-      "summary": "メキシコGP。いろんなことがありましたね。",
-      "summary_bullets": [
-        "メキシコGP。いろんなことがありましたね。"
-      ],
-      "published_at": "2026-11-05T19:54:46+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "19:54",
-      "is_today": false
-    },
-    {
-      "id": "54c905415013",
-      "title": "医学書院とNTT等、医療AI基盤の実証実験を関東病院で開始",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154095.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/095/0.jpg",
-      "summary": "医学書院、NTTおよびNTTドコモビジネスは、Ubieと医療AI情報プラットフォームを活用した共同実証を11月より開始する。同実証では、医学書院、NTT、NTTドコモビジネスが共同開発した医療AI情報プラットフォームとUbieの医療機関向け生成AIサービス「ユビー生成AI」を用い、NTT東日本関東病院で検証を行なう。",
-      "summary_bullets": [
-        "医学書院、NTTおよびNTTドコモビジネスは、Ubieと医療AI情報プラットフォームを活用した共同実証を11月より開始する。同実証では、医学書院、NTT、NTTドコモビジネスが共同開発した医療AI情報プラットフォームとUbieの医療機関向け生成AIサービス「ユビー生成AI」を用い、NTT東日本関東病院で検証を行なう。"
-      ],
-      "published_at": "2026-11-05T19:17:58+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "19:17",
-      "is_today": false
-    },
-    {
-      "id": "5eed5b6c3582",
-      "title": "日産自動車九州、九州・山口エリアで「福岡ソフトバンクホークス 日本一おめでとうフェア」開催 周東佑京選手のオリジナルグッズ用意",
-      "url": "https://car.watch.impress.co.jp/docs/news/2153999.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2153/999/02.jpg",
-      "summary": "日産自動車九州は11月5日、「Made in KYUSHU」プロジェクトのアンバサダーを務める周東佑京選手が所属する福岡ソフトバンクホークスの「SMBC日本シリーズ2026優勝」を記念して「福岡ソフトバンクホークス 日本一おめでとうフェア」を九州・山口エリアの日産新車販売店で開催すると発表した。",
-      "summary_bullets": [
-        "日産自動車九州は11月5日、「Made in KYUSHU」プロジェクトのアンバサダーを務める周東佑京選手が所属する福岡ソフトバンクホークスの「SMBC日本シリーズ2026優勝」を記念して「福岡ソフトバンクホークス 日本一おめでとうフェア」を九州・山口エリアの日産新車販売店で開催すると発表した。"
-      ],
-      "published_at": "2026-11-05T19:10:55+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "19:10",
-      "is_today": false
-    },
-    {
-      "id": "826bad9ca0d3",
-      "title": "BlenderもCADも動かすAI、Tencent「Hy4」が数日中に重み公開へ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2154064.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/064/1.jpg",
-      "summary": "中国のSNS/ゲームパブリッシャー大手のTencentが繰り出す新モデルは、“世界をリードするオープンソースAIモデルの1つ”をうたう。Tencentは11月4日(中国時間)、大規模言語モデル「Tencent Hy4」を発表した。「Tencent Cloud TokenHub」や「WorkBuddy」、「CodeBuddy」など同社のサービスですでに利用できる。モデルの重みとシステムカードは数日中に公開する予定。",
-      "summary_bullets": [
-        "中国のSNS/ゲームパブリッシャー大手のTencentが繰り出す新モデルは、“世界をリードするオープンソースAIモデルの1つ”をうたう。Tencentは11月4日(中国時間)、大規模言語モデル「Tencent Hy4」を発表した。「Tencent Cloud TokenHub」や「WorkBuddy」、「CodeBuddy」など同社のサービスですでに利..."
-      ],
-      "published_at": "2026-11-05T18:56:20+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "18:56",
-      "is_today": false
-    },
-    {
-      "id": "c76bfa024032",
-      "title": "電通と東京藝術大学、AIと芸術の関係は探り、新たな表現の可能性を探求",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154080.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/080/0501.jpg",
-      "summary": "電通と東京藝術大学は、AIと芸術に関する共同研究契約を締結した。両者は「アートベース／偶然はない。」を共同の活動拠点とし、研究者、アーティスト、クリエイター、テクノロジストがAIを活用して協働する。共同研究では、「絵画の拡張」「音楽の拡張」「社会の拡張」の3つのプロジェクトを進め、新たな表現の可能性を研究していく。",
-      "summary_bullets": [
-        "電通と東京藝術大学は、AIと芸術に関する共同研究契約を締結した。両者は「アートベース／偶然はない。」を共同の活動拠点とし、研究者、アーティスト、クリエイター、テクノロジストがAIを活用して協働する。共同研究では、「絵画の拡張」「音楽の拡張」「社会の拡張」の3つのプロジェクトを進め、新たな表現の可能性を研究していく。"
-      ],
-      "published_at": "2026-11-05T18:50:30+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "18:50",
-      "is_today": false
-    },
-    {
-      "id": "4053ede7ac29",
-      "title": "【本日みつけたお買い得品】ASUSの240Hz有機ELモニターが約3万6千円引き！AmazonスマイルSale",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154060.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/060/01.jpg",
-      "summary": "AmazonにてスマイルSaleが開催中。ASUSが展開するゲーミングモニターがセール価格で販売されており、26.5型の「PG27UCWM-J」は直近価格から3万6,221円引きの18万5,800円で購入可能になっている。",
-      "summary_bullets": [
-        "AmazonにてスマイルSaleが開催中。ASUSが展開するゲーミングモニターがセール価格で販売されており、26.5型の「PG27UCWM-J」は直近価格から3万6,221円引きの18万5,800円で購入可能になっている。"
-      ],
-      "published_at": "2026-11-05T18:25:01+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "18:25",
-      "is_today": false
-    },
-    {
-      "id": "d6362764fde9",
-      "title": "AI活用の買い物調査、期待するのは自分に似合うものの提案",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154062.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/062/00.jpg",
-      "summary": "楽天インサイトは、「生活者のAI活用購買における調査」をインターネットで実施した。調査期間は7月24日から7月28日。",
-      "summary_bullets": [
-        "楽天インサイトは、「生活者のAI活用購買における調査」をインターネットで実施した。調査期間は7月24日から7月28日。"
-      ],
-      "published_at": "2026-11-05T18:13:39+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "18:13",
-      "is_today": false
-    },
-    {
-      "id": "06a9c857aeb0",
-      "title": "ガートナー、2027年の日本のIT支出はAI関連需要が堅調で前年比9.7％増と予測",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154055.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/055/0400.jpg",
-      "summary": "ガートナージャパンは、2027年の日本IT支出総額が前年比9.7％増となる51兆2,000億円に達するとの見通しを発表した。",
-      "summary_bullets": [
-        "ガートナージャパンは、2027年の日本IT支出総額が前年比9.7％増となる51兆2,000億円に達するとの見通しを発表した。"
-      ],
-      "published_at": "2026-11-05T18:06:36+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "18:06",
-      "is_today": false
-    },
-    {
-      "id": "3aaa34c34912",
-      "title": "パン3枚入る広めのトースター　コイズミ",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2153860.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2153/860/001.jpg",
-      "summary": "小泉成器は、遠赤外線加工ヒーターを搭載した「オーブントースター KOS-1219/H」を11月に発売した。直販価格は8,980円。",
-      "summary_bullets": [
-        "小泉成器は、遠赤外線加工ヒーターを搭載した「オーブントースター KOS-1219/H」を11月に発売した。直販価格は8,980円。"
-      ],
-      "published_at": "2026-11-05T17:15:27+09:00",
-      "published_date": "2026-11-05",
-      "published_time": "17:15",
       "is_today": false
     }
   ]
