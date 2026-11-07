@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T19:54:26.240879+09:00",
-  "generated_at_formatted": "2026/11/07 19:54",
+  "generated_at": "2026-11-07T20:22:31.345617+09:00",
+  "generated_at_formatted": "2026/11/07 20:22",
   "target_date": "2026-11-07",
   "yesterday_date": "2026-11-06",
-  "total_articles": 142,
+  "total_articles": 141,
   "today_articles_count": 35,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 142
+      "count": 141
     },
     {
       "id": "tech",
@@ -39,7 +39,7 @@
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 6
+      "count": 5
     }
   ],
   "articles": [
@@ -2438,23 +2438,6 @@
       "published_at": "2026-11-06T09:00:00+09:00",
       "published_date": "2026-11-06",
       "published_time": "09:00",
-      "is_today": false
-    },
-    {
-      "id": "42f24f650b29",
-      "title": "電子レンジで1/2サイズのホットサンド焼けるToffyの調理器",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2153931.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2153/931/001.jpg",
-      "summary": "ラドンナは、電子レンジでハーフホットサンドを手軽に作れる「Toffy レンジウェル 電子レンジ用 ハーフホットサンドメーカー K-MW7」を、11月11日に発売する。価格は3,850円。",
-      "summary_bullets": [
-        "ラドンナは、電子レンジでハーフホットサンドを手軽に作れる「Toffy レンジウェル 電子レンジ用 ハーフホットサンドメーカー K-MW7」を、11月11日に発売する。価格は3,850円。"
-      ],
-      "published_at": "2026-11-06T08:04:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "08:04",
       "is_today": false
     }
   ]
