@@ -125,6 +125,7 @@ function initEventListeners() {
       state.currentDateFilter = 'today';
       btnToday.className = 'px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition';
       btnAll.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition';
+      renderGenreTabs();
       renderArticles();
     });
 
@@ -132,6 +133,7 @@ function initEventListeners() {
       state.currentDateFilter = 'all';
       btnAll.className = 'px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition';
       btnToday.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition';
+      renderGenreTabs();
       renderArticles();
     });
   }
@@ -233,12 +235,13 @@ function renderGenreTabs() {
     
     btn.className = `tab-btn px-4 py-2 rounded-xl text-xs font-semibold whitespace-nowrap flex items-center gap-1.5 transition ${isActive ? 'active' : ''}`;
     
-    // カウント
+    // カウント（現在の日付フィルターに応じて動的に計算）
     let countBadge = '';
     if (genre.id === 'favorites') {
       countBadge = `<span class="px-1.5 py-0.2 rounded-full bg-amber-100 text-amber-800 dark:bg-amber-900/60 dark:text-amber-300 text-[10px]">${state.favoriteIds.size}</span>`;
-    } else if (genre.count !== undefined) {
-      countBadge = `<span class="opacity-75 text-[10px]">(${genre.count})</span>`;
+    } else {
+      const count = getGenreCount(genre.id);
+      countBadge = `<span class="opacity-75 text-[10px]">(${count})</span>`;
     }
 
     btn.innerHTML = `${escapeHtml(genre.name)} ${countBadge}`;
@@ -250,6 +253,18 @@ function renderGenreTabs() {
 
     tabsContainer.appendChild(btn);
   });
+}
+
+function getGenreCount(genreId) {
+  return state.allArticles.filter(art => {
+    if (state.currentDateFilter === 'today' && !art.is_today) {
+      return false;
+    }
+    if (genreId !== 'all' && art.genre !== genreId) {
+      return false;
+    }
+    return true;
+  }).length;
 }
 
 // 7. 記事一覧のフィルタリングと描画
