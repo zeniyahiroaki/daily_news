@@ -121,18 +121,21 @@ function initEventListeners() {
   const btnAll = document.getElementById('filter-all-dates');
   
   if (btnToday && btnAll) {
+    const activeClass = 'px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition text-xs whitespace-nowrap';
+    const inactiveClass = 'px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition text-xs whitespace-nowrap';
+
     btnToday.addEventListener('click', () => {
       state.currentDateFilter = 'today';
-      btnToday.className = 'px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition';
-      btnAll.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition';
+      btnToday.className = activeClass;
+      btnAll.className = inactiveClass;
       renderGenreTabs();
       renderArticles();
     });
 
     btnAll.addEventListener('click', () => {
       state.currentDateFilter = 'all';
-      btnAll.className = 'px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition';
-      btnToday.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition';
+      btnAll.className = activeClass;
+      btnToday.className = inactiveClass;
       renderGenreTabs();
       renderArticles();
     });
