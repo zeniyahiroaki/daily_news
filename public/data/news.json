@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-08T10:08:36.370292+09:00",
-  "generated_at_formatted": "2026/11/08 10:08",
+  "generated_at": "2026-11-08T20:05:43.290691+09:00",
+  "generated_at_formatted": "2026/11/08 20:05",
   "target_date": "2026-11-08",
   "yesterday_date": "2026-11-07",
-  "total_articles": 51,
-  "today_articles_count": 10,
+  "total_articles": 49,
+  "today_articles_count": 29,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 51
+      "count": 49
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 37
+      "count": 32
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 7
+      "count": 8
     },
     {
       "id": "camera",
@@ -29,12 +29,12 @@
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "appliance",
@@ -43,6 +43,329 @@
     }
   ],
   "articles": [
+    {
+      "id": "050e0c6d143e",
+      "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
+      "url": "https://www.gizmodo.jp/article/2611-iron-powder-energy-storage/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/b05147f5-9912-449b-af91-25d094444d18/original.jpg?w=1200",
+      "summary": "太陽光で作った余剰電力を鉄の粉で蓄え、冬に活用する最新の研究を紹介。大量のエネルギーを長期間保管できるクリーンエネルギーの仕組みとメリットをわかりやすく解説します。",
+      "summary_bullets": [
+        "太陽光で作った余剰電力を鉄の粉で蓄え、冬に活用する最新の研究を紹介。大量のエネルギーを長期間保管できるクリーンエネルギーの仕組みとメリットをわかりやすく解説します。"
+      ],
+      "published_at": "2026-11-08T20:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "20:00",
+      "is_today": true
+    },
+    {
+      "id": "b12223a77b7e",
+      "title": "彗星が地球に「生命の種」を運んだ説、実はかなり無理があったかも",
+      "url": "https://www.gizmodo.jp/article/2611-comet-origin-of-life-theory-challenged/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/03/31283aa3-4026-4603-a089-f4fe1f3d8327/original.jpg?w=1200",
+      "summary": "彗星が生命の種を地球に届けたという長年の定説に疑問を投げかける最新研究を解説。衝突条件や化学反応のハードルから、生命の起源を科学的に読み解きます。",
+      "summary_bullets": [
+        "彗星が生命の種を地球に届けたという長年の定説に疑問を投げかける最新研究を解説。衝突条件や化学反応のハードルから、生命の起源を科学的に読み解きます。"
+      ],
+      "published_at": "2026-11-08T20:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "20:00",
+      "is_today": true
+    },
+    {
+      "id": "167c0020d4c8",
+      "title": "AIを使う人 vs 使わない人、働く時間が長いのはどっち？ 最大で1日90分の差がつくケースも",
+      "url": "https://www.gizmodo.jp/article/2611-ai-work-hours-comparison/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/9806e71f-b522-489b-8008-ffe3ee98ae74/original.jpg?w=1200",
+      "summary": "AIを使う人ほど労働時間が長いという調査結果について解説します。AI活用による労働時間短縮の現実と、生産性向上の裏にある課題を確認してみましょう。",
+      "summary_bullets": [
+        "AIを使う人ほど労働時間が長いという調査結果について解説します。AI活用による労働時間短縮の現実と、生産性向上の裏にある課題を確認してみましょう。"
+      ],
+      "published_at": "2026-11-08T19:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "19:00",
+      "is_today": true
+    },
+    {
+      "id": "dc2461e0e244",
+      "title": "WEC最終戦間もなくスタート、小林可夢偉と平川亮がWECダブルタイトルへ向け決勝前会見 F1参戦平川は「クルマの限界を探って走るという意味では同じ」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154629.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/629/004.jpg",
+      "summary": "WEC（世界耐久選手権）第8戦モンツァ6時間レースの決勝が11月8日（現地時間）、イタリアで開催される。シーズン最終戦となるモンツァ6時間に挑むトヨタレーシングは、7号車 TR010ハイブリッド（マイク・コンウェイ/ニック・デ・フリース/小林可夢偉）、8号車 TR010ハイブリッド（セバスチャン・ブエミ/ブレンドン・ハートレー/平川亮）は、予選で7号車が10位、8号車が16位と厳しい結果になり、日本時間で11月8日19時（現地時間11時）から始まる決勝レースに臨む。決勝前には、小林可夢偉選手兼チーム代表、平川亮選手のリモート会見が行なわれた。",
+      "summary_bullets": [
+        "WEC（世界耐久選手権）第8戦モンツァ6時間レースの決勝が11月8日（現地時間）、イタリアで開催される。シーズン最終戦となるモンツァ6時間に挑むトヨタレーシングは、7号車 TR010ハイブリッド（マイク・コンウェイ/ニック・デ・フリース/小林可夢偉）、8号車 TR010ハイブリッド（セバスチャン・ブエミ/ブレンドン・ハートレー/平川亮）は、予選で7号車..."
+      ],
+      "published_at": "2026-11-08T18:22:37+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "18:22",
+      "is_today": true
+    },
+    {
+      "id": "e77e7b51c7ce",
+      "title": "Xbox、ワニに丸のみされる。世界に1台の特注モデルが完成、ちゃんと遊べます",
+      "url": "https://www.gizmodo.jp/article/2611-xbox-series-x-alligator-edition/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/3243c6c9-b7d8-4828-8212-77ec8361ca49/original.jpg?w=1200",
+      "summary": "こんなの、欲しくなるに決まってるじゃないですか全長5フィート超（約1.5m超）のワニの模型に、Xbox Series Xを丸ごと入れた特注モデルが登場しました。名前は「Xbox Series X-BITE」。Microsoft（マイクロソフ…",
+      "summary_bullets": [
+        "こんなの、欲しくなるに決まってるじゃないですか全長5フィート超（約1.5m超）のワニの模型に、Xbox Series Xを丸ごと入れた特注モデルが登場しました。名前は「Xbox Series X-BITE」。Microsoft（マイクロソフ…"
+      ],
+      "published_at": "2026-11-08T18:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "18:00",
+      "is_today": true
+    },
+    {
+      "id": "52bb92144f36",
+      "title": "“キャッシュレス対応”のフィットネストラッカー、新たに登場か。新Galaxy Fit 4が大進化を遂げそう",
+      "url": "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/07/686a826f-d5b1-4489-90b3-348f8f8a681d/original.jpg?w=1200",
+      "summary": "サムスンの新型スマートバンド「Galaxy Fit 4」のリーク情報を解説。キャッシュレス決済対応の可能性やスマートウォッチとの違いについて紹介します。",
+      "summary_bullets": [
+        "サムスンの新型スマートバンド「Galaxy Fit 4」のリーク情報を解説。キャッシュレス決済対応の可能性やスマートウォッチとの違いについて紹介します。"
+      ],
+      "published_at": "2026-11-08T17:35:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "17:35",
+      "is_today": true
+    },
+    {
+      "id": "7439f58387dc",
+      "title": "ハチがつくる天然プラスチック。丈夫なのに自然に分解される",
+      "url": "https://www.gizmodo.jp/article/bee-made-natural-plastic-biodegradable/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/2647c5cf-d3dd-4c94-8ba4-06b7a008451e/original.png?w=1200",
+      "summary": "ハチが作り出す天然ポリエステルの驚異的な分解性と、環境に優しいサステナブルな次世代プラスチック開発への応用について解説します。",
+      "summary_bullets": [
+        "ハチが作り出す天然ポリエステルの驚異的な分解性と、環境に優しいサステナブルな次世代プラスチック開発への応用について解説します。"
+      ],
+      "published_at": "2026-11-08T17:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "17:00",
+      "is_today": true
+    },
+    {
+      "id": "23f6cad8dcf4",
+      "title": "中国初の有人月面着陸は「乗り換え」あり。月の上空で待ち合わせ",
+      "url": "https://www.gizmodo.jp/article/2611-china-manned-lunar-landing-rendezvous/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/7a1fc2fd-96aa-40f4-9f35-3f2dca615be3/original.jpg?w=1200",
+      "summary": "着陸する前に、月の上空で乗り換える予定なんです。中国が、宇宙飛行士を月面に送る計画の詳細を明らかにしました。2030年を迎える前に、中国人初の月面着陸を目指しているようです。まず、宇宙船と着陸機は別々に月へ向かい、月の周りを回りながらドッキ…",
+      "summary_bullets": [
+        "着陸する前に、月の上空で乗り換える予定なんです。中国が、宇宙飛行士を月面に送る計画の詳細を明らかにしました。2030年を迎える前に、中国人初の月面着陸を目指しているようです。まず、宇宙船と着陸機は別々に月へ向かい、月の周りを回りながらドッキ…"
+      ],
+      "published_at": "2026-11-08T16:35:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "16:35",
+      "is_today": true
+    },
+    {
+      "id": "19901b4480ff",
+      "title": "ミニバッグなのにエキスパンダブルで収納拡大。傘とペットボトルが同時に収まる",
+      "url": "https://www.gizmodo.jp/article/h-tag_hamburger_shoulder_bag/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/30776039-754c-415f-b19d-7b4d54cd6515/original.jpg?w=1200",
+      "summary": "手回り品を持ち歩くのに、サコッシュはスタイリッシュで軽くていいのだけど、マチがないタイプが多いため、ペットボトルやカメラなどが入らない。ミニバッグがバンズ。拡張ポケットのパティをはさむそれはないものねだりだと分かっていたのだが、コンパクトな…",
+      "summary_bullets": [
+        "手回り品を持ち歩くのに、サコッシュはスタイリッシュで軽くていいのだけど、マチがないタイプが多いため、ペットボトルやカメラなどが入らない。ミニバッグがバンズ。拡張ポケットのパティをはさむそれはないものねだりだと分かっていたのだが、コンパクトな…"
+      ],
+      "published_at": "2026-11-08T15:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "15:00",
+      "is_today": true
+    },
+    {
+      "id": "00de48e5e6e1",
+      "title": "ゲーム機、タオルで包むのやめました。Belkin「Nintendo Switch 2のためのケース」が長旅の味方",
+      "url": "https://www.gizmodo.jp/article/2611-belkin-nintendo-switch-2-charging-case-pro/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/04/5d5fb8db-f77d-4e02-9050-e1f197662286/original.jpg?w=1200",
+      "summary": "BelkinのNintendo Switch 2用充電ケースProをレビュー。モバイルバッテリーとスタンド機能が一体化し、長距離移動のゲーム体験を快適にする頼れる相棒です。",
+      "summary_bullets": [
+        "BelkinのNintendo Switch 2用充電ケースProをレビュー。モバイルバッテリーとスタンド機能が一体化し、長距離移動のゲーム体験を快適にする頼れる相棒です。"
+      ],
+      "published_at": "2026-11-08T14:35:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "14:35",
+      "is_today": true
+    },
+    {
+      "id": "73d9f496eb7f",
+      "title": "ドコモがahamoサイトの緊急メンテナンスを完了　「サイトの安全性が確認できた」ため",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news006.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/l_st52693_ahamo-01.jpg",
+      "summary": "NTTドコモが11月8日、ahamoサイトで実施していた緊急メンテナンスが完了したことを案内した。予防的措置として11月6日17時26分頃からからサービスを一時停止していた。サイトの安全性が確認できたことから、サービスを再開した。",
+      "summary_bullets": [
+        "NTTドコモが11月8日、ahamoサイトで実施していた緊急メンテナンスが完了したことを案内した。予防的措置として11月6日17時26分頃からからサービスを一時停止していた。サイトの安全性が確認できたことから、サービスを再開した。"
+      ],
+      "published_at": "2026-11-08T13:32:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "13:32",
+      "is_today": true
+    },
+    {
+      "id": "e056c12d429c",
+      "title": "28年ぶりの新作。キヤノンのタイマーリモコンが時計機能をゲット",
+      "url": "https://www.gizmodo.jp/article/canon-tc-n3-tc-e3-timer-remote/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/389a5aac-e4f9-40c7-8b82-a92f296bdca0/original.jpg?w=1200",
+      "summary": "キヤノンが28年ぶりに発表した有線タイマーリモコン「TC-N3」「TC-E3」の新作情報を解説します。待望の時計機能搭載や端子別の専用設計など、進化ポイントをご紹介します。",
+      "summary_bullets": [
+        "キヤノンが28年ぶりに発表した有線タイマーリモコン「TC-N3」「TC-E3」の新作情報を解説します。待望の時計機能搭載や端子別の専用設計など、進化ポイントをご紹介します。"
+      ],
+      "published_at": "2026-11-08T13:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "13:00",
+      "is_today": true
+    },
+    {
+      "id": "091683345ce4",
+      "title": "忘れられない1台～私の愛したデジタルカメラ～ニコン COOLPIX 5400",
+      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2154461.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/461/01.jpg",
+      "summary": "忘れられない1台～私の愛したデジタルカメラ～ニコン COOLPIX 5400",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-08T12:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "12:00",
+      "is_today": true
+    },
+    {
+      "id": "4dd833ab4cb6",
+      "title": "Boseのオープンイヤー、スポーツ向けは音もデザインもGoodです。悩ましいのはモデル選び",
+      "url": "https://www.gizmodo.jp/article/2611-bose-sport-open-earbuds-review/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/9630000b-5a54-42c7-abb8-4abadf68576f/original.jpg?w=1200",
+      "summary": "Boseのスポーツ向けオープンイヤー型イヤホンをレビュー。装着感や音質、Ultra Open Earbudsとの違いを解説します。",
+      "summary_bullets": [
+        "Boseのスポーツ向けオープンイヤー型イヤホンをレビュー。装着感や音質、Ultra Open Earbudsとの違いを解説します。"
+      ],
+      "published_at": "2026-11-08T12:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "12:00",
+      "is_today": true
+    },
+    {
+      "id": "94f4cdaedac8",
+      "title": "太陽の“500兆倍”。見逃されてきた宇宙一明るい天体",
+      "url": "https://www.gizmodo.jp/article/2611-brightest-quasar-sun-500-trillion-times/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2024/02/27/main_image_7c5720d234883d7a90e2afc1ada5e468903ab13b.jpg%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.jpg?w=1200",
+      "summary": "太陽の500兆倍の明るさを誇る宇宙一明るい天体「J0529-4351」の発見について解説します。40年間見逃されていた超巨大クエーサーの驚きの正体に迫ります。",
+      "summary_bullets": [
+        "太陽の500兆倍の明るさを誇る宇宙一明るい天体「J0529-4351」の発見について解説します。40年間見逃されていた超巨大クエーサーの驚きの正体に迫ります。"
+      ],
+      "published_at": "2026-11-08T11:35:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "11:35",
+      "is_today": true
+    },
+    {
+      "id": "c5d84556c8be",
+      "title": "Quick Shareにバックアップ機能追加。Androidスマホの写真がWindowsに自動保存される幸せ",
+      "url": "https://www.gizmodo.jp/article/2611-quick-share-android-windows-backup/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/c1609171-bfce-40f4-bc9c-d6ed78050d71/original.jpg?w=1200",
+      "summary": "Quick Shareの自動バックアップ機能によりAndroidスマホの写真がWindowsへ自動保存可能に。Googleフォトの容量を使わずPCストレージへ直接保存できる便利な新機能の仕組みを紹介します。",
+      "summary_bullets": [
+        "Quick Shareの自動バックアップ機能によりAndroidスマホの写真がWindowsへ自動保存可能に。Googleフォトの容量を使わずPCストレージへ直接保存できる便利な新機能の仕組みを紹介します。"
+      ],
+      "published_at": "2026-11-08T11:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "c6b3e3ffe2e6",
+      "title": "DRX-1、PMC1、α-Drumが集結。「電子ドラムが刻んだ技術と文化」から見えた3社の開発秘話と50年の系譜",
+      "url": "https://www.dtmstation.com/archives/81451.html",
+      "media": "DTMステーション",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/11/DSC_3027-1.jpg",
+      "summary": "2026年6月14日（日）、東京・西早稲田のArtware hub KAKEHASHI MEMORIALにて、「電子ドラムが刻んだ技術と文化〜50年の軌跡と未来〜」と題したイベントが開催されました。これは公益財団法人かけ […]",
+      "summary_bullets": [
+        "2026年6月14日（日）、東京・西早稲田のArtware hub KAKEHASHI MEMORIALにて、「電子ドラムが刻んだ技術と文化〜50年の軌跡と未来〜」と題したイベントが開催されました。これは公益財団法人かけ […]"
+      ],
+      "published_at": "2026-11-08T10:40:15+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "10:40",
+      "is_today": true
+    },
+    {
+      "id": "71023349b7de",
+      "title": "【ワークマン】2900円の「マルチ収納2WAYバッグ」　トート＆リュックになり、ヘルメットも収納できる",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news003.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/l_asa_100item_01.jpg",
+      "summary": "ワークマンで「マルチ収納2WAYバッグ」が販売されている。持ち手の長さ調節と収納可能な肩ベルトで、トートとリュックの使い分けが可能。ヘルメットやボールを固定できる伸縮／脱着可能な「外付け収納袋」を備える。",
+      "summary_bullets": [
+        "ワークマンで「マルチ収納2WAYバッグ」が販売されている。持ち手の長さ調節と収納可能な肩ベルトで、トートとリュックの使い分けが可能。ヘルメットやボールを固定できる伸縮／脱着可能な「外付け収納袋」を備える。"
+      ],
+      "published_at": "2026-11-08T10:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "45f699541a20",
+      "title": "ウエルシアのお得情報まとめ【11月8日最新版】　ブラックフライデーで最大20％還元、最大1万円・2万～3万ポイント還元も",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news004.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/cover_news004.jpg",
+      "summary": "ウエルシアで11月に利用できるキャンペーンをまとめた。ブラックフライデーキャンペーンでは、対象商品の購入で最大20％分のWAON POINTを付与する。アプリで毎日引ける「ヘアカラーまつりくじ」では、1等の当選者に3万WAON POINTを付与する。",
+      "summary_bullets": [
+        "ウエルシアで11月に利用できるキャンペーンをまとめた。ブラックフライデーキャンペーンでは、対象商品の購入で最大20％分のWAON POINTを付与する。アプリで毎日引ける「ヘアカラーまつりくじ」では、1等の当選者に3万WAON POINTを付与する。"
+      ],
+      "published_at": "2026-11-08T10:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "10:00",
+      "is_today": true
+    },
     {
       "id": "b585babfcf79",
       "title": "最後の一片まできれいにスライス。料理効率がアップするキッチンガジェット",
@@ -203,7 +526,7 @@
       "media": "Car Watch",
       "genre": "car",
       "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/612/041.jpg",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/612/044.jpg",
       "summary": "トヨタ自動車は11月5日、2027年1月付けの組織改正を発表し、技術・事業開発機能の実行力強化として全社直轄組織「トヨタロボティクス」を新設することを発表した。",
       "summary_bullets": [
         "トヨタ自動車は11月5日、2027年1月付けの組織改正を発表し、技術・事業開発機能の実行力強化として全社直轄組織「トヨタロボティクス」を新設することを発表した。"
@@ -299,57 +622,6 @@
       "is_today": false
     },
     {
-      "id": "cde2a9c49919",
-      "title": "唯一無二、キャラ立ち最高。職人技が随所に光る、国産腕時計のマイクロブランド",
-      "url": "https://www.gizmodo.jp/article/japanese_micro-brand_watches/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/4e5e4c15-1a1e-48df-a1b4-43073ab2d0ea/original.jpg?w=1200",
-      "summary": "工芸的なスイスの機械式時計に対し、クォーツとともに進化した日本の腕時計は実用的なイメージがありますが、ここ数年、その傾向が変りつつあります。工芸的な機械式時計を手掛ける国産マイクロブランドが、続々と登場してきているのです。東京・大塚発のイン…",
-      "summary_bullets": [
-        "工芸的なスイスの機械式時計に対し、クォーツとともに進化した日本の腕時計は実用的なイメージがありますが、ここ数年、その傾向が変りつつあります。工芸的な機械式時計を手掛ける国産マイクロブランドが、続々と登場してきているのです。東京・大塚発のイン…"
-      ],
-      "published_at": "2026-11-07T18:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "18:00",
-      "is_today": false
-    },
-    {
-      "id": "9ef27b4bad3f",
-      "title": "Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる",
-      "url": "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/9a577d05-58fa-40fe-b9ea-0b1ca3496b43/original.png?w=1200",
-      "summary": "森が、なくなってました。広さは330ヘクタール、東京ドーム約70個ぶん。場所はフィンランド北部の町、ムホス（Muhos）。Googleがデータセンターを建てる予定の土地でした。まずは衛星写真をどうぞ。こちらが2025年10月3日のもの。そし…",
-      "summary_bullets": [
-        "森が、なくなってました。広さは330ヘクタール、東京ドーム約70個ぶん。場所はフィンランド北部の町、ムホス（Muhos）。Googleがデータセンターを建てる予定の土地でした。まずは衛星写真をどうぞ。こちらが2025年10月3日のもの。そし…"
-      ],
-      "published_at": "2026-11-07T17:30:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "17:30",
-      "is_today": false
-    },
-    {
-      "id": "86bfa40962b8",
-      "title": "AIのせいで、人間であることの証明がどんどん面倒に…。きっかけは83万件の幽霊学生",
-      "url": "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/8067a459-f889-4b92-8989-7dbfbf8477c8/original.jpg?w=1200",
-      "summary": "AIで課題を書く学生を叱ってたら、学生ごと偽物だった。そんな話が、アメリカから届きました。司法省が10月29日に発表した「Operation Ghostbusters（ゴーストバスターズ作戦）」です。盗んだ個人情報で架空の学生を大学に入学さ…",
-      "summary_bullets": [
-        "AIで課題を書く学生を叱ってたら、学生ごと偽物だった。そんな話が、アメリカから届きました。司法省が10月29日に発表した「Operation Ghostbusters（ゴーストバスターズ作戦）」です。盗んだ個人情報で架空の学生を大学に入学さ…"
-      ],
-      "published_at": "2026-11-07T17:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "17:00",
-      "is_today": false
-    },
-    {
       "id": "749da0cce6bb",
       "title": "「povoの新規加入が非常に順調に伸びている」背景は？　今後は「2枚目→メイン」利用狙う――KDDI松田社長",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news019.html",
@@ -364,57 +636,6 @@
       "published_at": "2026-11-07T16:47:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "16:47",
-      "is_today": false
-    },
-    {
-      "id": "b4ae02ee6b1c",
-      "title": "コーヒーは食べる時代に。食感と風味が楽しい新感覚のお菓子 #SCAJ",
-      "url": "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/05/bd7d78ff-06f0-47d8-9aba-7a680ddb044e/original.jpg?w=1200",
-      "summary": "コーヒーは飲むだけじゃない！先月開催されたコーヒーの祭典『SCAJ』の会場で人だかりになっていたのは、コーヒーを食べて味わえるという「モカブル」。飲むコーヒーは抽出した後の豆カスは捨ててしまいますが、こちらはコーヒー豆ごと使うのだとか。これ…",
-      "summary_bullets": [
-        "コーヒーは飲むだけじゃない！先月開催されたコーヒーの祭典『SCAJ』の会場で人だかりになっていたのは、コーヒーを食べて味わえるという「モカブル」。飲むコーヒーは抽出した後の豆カスは捨ててしまいますが、こちらはコーヒー豆ごと使うのだとか。これ…"
-      ],
-      "published_at": "2026-11-07T16:35:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "16:35",
-      "is_today": false
-    },
-    {
-      "id": "adade2e258af",
-      "title": "ごちゃつくデスクが約4,000円でスッキリ。全部ここ（モニタ裏）にぶち込んじゃえ！",
-      "url": "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/4aa34135-8872-436e-85bc-c17a11baacdd/original.jpg?w=1200",
-      "summary": "ごちゃつくデスク周りを約4000円でスッキリ解決。モニター裏のVESA穴を活用してハブやケーブルなどを立体収納できる便利アイテムを紹介します。",
-      "summary_bullets": [
-        "ごちゃつくデスク周りを約4000円でスッキリ解決。モニター裏のVESA穴を活用してハブやケーブルなどを立体収納できる便利アイテムを紹介します。"
-      ],
-      "published_at": "2026-11-07T15:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "15:00",
-      "is_today": false
-    },
-    {
-      "id": "5d9589f82a0b",
-      "title": "山崎実業のNY発ブランド「APTO」の木製マグネットで、冷蔵庫の生活感＆貼りっぱなしが減った",
-      "url": "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/04/84a9632f-a1dc-4a18-9107-2c0d96b62d6e/original.jpg?w=1200",
-      "summary": "アンザイ サヤ 都内の賃貸マンションで夫と暮らし、小売の仕事とライター業を掛け持ちしています。仕事や好きなことに時間を使いたいから、家事はラクに、でも丁寧に。小さな不便を感じたら、モノを足すだけでなく、置き場所や動線も見直します。頑張らなく...",
-      "summary_bullets": [
-        "アンザイ サヤ 都内の賃貸マンションで夫と暮らし、小売の仕事とライター業を掛け持ちしています。仕事や好きなことに時間を使いたいから、家事はラクに、でも丁寧に。小さな不便を感じたら、モノを足すだけでなく、置き場所や動線も見直します。頑張らなく..."
-      ],
-      "published_at": "2026-11-07T14:35:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "14:35",
       "is_today": false
     },
     {
@@ -466,23 +687,6 @@
       "published_at": "2026-11-07T13:20:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "13:20",
-      "is_today": false
-    },
-    {
-      "id": "1f09b2752da0",
-      "title": "新型iMac、さっそく使ってみて気づいた。変わらないのは完成している証拠だ、と",
-      "url": "https://www.gizmodo.jp/article/m6-imac-review/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/e89eb81d-4545-40fd-93f4-8e31ecba59e3/original.png?w=1200",
-      "summary": "M6チップを搭載した新しいiMacのレビュー記事。ディスプレイや周辺機器がすべて揃った完成されたパッケージの魅力と、抜群のコスパを解説します。",
-      "summary_bullets": [
-        "M6チップを搭載した新しいiMacのレビュー記事。ディスプレイや周辺機器がすべて揃った完成されたパッケージの魅力と、抜群のコスパを解説します。"
-      ],
-      "published_at": "2026-11-07T13:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "13:00",
       "is_today": false
     },
     {
@@ -571,23 +775,6 @@
       "is_today": false
     },
     {
-      "id": "6fe92564386f",
-      "title": "MetaのQuest 2とQuest Pro、2027年春で新機能の開発終了へ。買ったゲームはどうなる？",
-      "url": "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/dd9438f1-ff03-411c-8232-3620b32498fb/original.png?w=1200",
-      "summary": "MetaのQuest 2とQuest Proが2027年春で新機能の開発を終了へ。購入したゲームの扱いや今後のサポート予定について詳しく解説します。",
-      "summary_bullets": [
-        "MetaのQuest 2とQuest Proが2027年春で新機能の開発を終了へ。購入したゲームの扱いや今後のサポート予定について詳しく解説します。"
-      ],
-      "published_at": "2026-11-07T12:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
       "id": "4061e53f5551",
       "title": "もう一度使いたい「auのケータイ」はどれ？　KDDI公式X反響　“INFOBAR”にG'zOne”――他にも名機たくさん",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news014.html",
@@ -602,40 +789,6 @@
       "published_at": "2026-11-07T11:35:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "11:35",
-      "is_today": false
-    },
-    {
-      "id": "b05ec64b184c",
-      "title": "手首も心も軽くなる。スマウォが主流のいま、毎日装着したくなる腕時計",
-      "url": "https://www.gizmodo.jp/article/light-on-the-wrist-light-on-the-mind_cheap-casio-2/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2026/02/09/6-1.png?w=1200",
-      "summary": "2026年2月26日の記事を編集して再掲載しています。筆者はゴツくて多少なら雑に扱えるほどタフな「G-SHOCK」を10年以上使っています。がしかし、冬は長袖を着用するため、袖口がG-SHOCKに干渉……。G-SHOCKを袖口に被そうにも、…",
-      "summary_bullets": [
-        "2026年2月26日の記事を編集して再掲載しています。筆者はゴツくて多少なら雑に扱えるほどタフな「G-SHOCK」を10年以上使っています。がしかし、冬は長袖を着用するため、袖口がG-SHOCKに干渉……。G-SHOCKを袖口に被そうにも、…"
-      ],
-      "published_at": "2026-11-07T11:35:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "11:35",
-      "is_today": false
-    },
-    {
-      "id": "ec843a9e9b73",
-      "title": "アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放",
-      "url": "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/a5496e6f-067e-42e0-ad99-e45fa3349d52/original.jpg?w=1200",
-      "summary": "AppleがSiri AIとサードパーティアプリの連携を全開発者に向けて開放。日本語対応のSiriがアプリ内操作を代行し、来春以降の実装に向けてプレビュー版の配信が開始されました。",
-      "summary_bullets": [
-        "AppleがSiri AIとサードパーティアプリの連携を全開発者に向けて開放。日本語対応のSiriがアプリ内操作を代行し、来春以降の実装に向けてプレビュー版の配信が開始されました。"
-      ],
-      "published_at": "2026-11-07T11:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "11:00",
       "is_today": false
     },
     {
@@ -721,193 +874,6 @@
       "published_at": "2026-11-07T09:00:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "09:00",
-      "is_today": false
-    },
-    {
-      "id": "dce57e9ac69e",
-      "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
-      "url": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/43d6cef7-29a9-432a-88f3-0a0a4673bab8/original.jpg?w=1200",
-      "summary": "新iPad miniのナノテクスチャーディスプレイを徹底検証。屋内や屋外の明るい場所での映り込みや反射を大幅に抑え、いつでもコンテンツに集中できる快適な視認性とその価値をご紹介します。",
-      "summary_bullets": [
-        "新iPad miniのナノテクスチャーディスプレイを徹底検証。屋内や屋外の明るい場所での映り込みや反射を大幅に抑え、いつでもコンテンツに集中できる快適な視認性とその価値をご紹介します。"
-      ],
-      "published_at": "2026-11-07T08:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "08:00",
-      "is_today": false
-    },
-    {
-      "id": "171805378f4e",
-      "title": "岡嶋和幸の「あとで買う」 2,017点目：ゴアテックス＆コンチネンタルのシューズ - デジカメ Watch",
-      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2154410.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/410/01.jpg",
-      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
-      "summary_bullets": [
-        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
-      ],
-      "published_at": "2026-11-07T07:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "b7c607767531",
-      "title": "世界初「STT-MRAMを搭載した16nm AI SoC」が誕生　SDV推進に向けた動きも加速",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/07/news007.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/07/cover_news007.jpg",
-      "summary": "2026年11月2～6日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "summary_bullets": [
-        "2026年11月2～6日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。"
-      ],
-      "published_at": "2026-11-07T07:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "c43877900bdf",
-      "title": "【今すぐ読みたい！人気記事】Apple WatchとPixel Watch、日本で使うと差が出るのはここ！ - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154526.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/526/1.jpg",
-      "summary": "街中で腕時計としてスマートウォッチを着けた人を見かけるのは、もはやめずらしい光景ではない。日常生活はもちろん、ビジネスシーンでもスマートウォッチは当たり前の風景になりつつあるといっていいだろう。",
-      "summary_bullets": [
-        "街中で腕時計としてスマートウォッチを着けた人を見かけるのは、もはやめずらしい光景ではない。日常生活はもちろん、ビジネスシーンでもスマートウォッチは当たり前の風景になりつつあるといっていいだろう。"
-      ],
-      "published_at": "2026-11-07T06:11:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "06:11",
-      "is_today": false
-    },
-    {
-      "id": "197baf473e2c",
-      "title": "【今すぐ読みたい！人気記事】Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154524.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/524/1.jpg",
-      "summary": "デジカメWatchにもこんな記事が掲載された「microSD Express」。任天堂の「Nintendo Switch 2」でこれが採用されることが発表され、さらに転売対策としてSwitch 2当選者限定でmicroSD Expressカードを任天堂が直販することを発表するなどしたことで、いろいろと話題になっているわけだが、この辺で一度規格と性能をまとめてご紹介したいと思う。",
-      "summary_bullets": [
-        "デジカメWatchにもこんな記事が掲載された「microSD Express」。任天堂の「Nintendo Switch 2」でこれが採用されることが発表され、さらに転売対策としてSwitch 2当選者限定でmicroSD Expressカードを任天堂が直販することを発表するなどしたことで、いろいろと話題になっているわけだが、この辺で一度規格と性能をま..."
-      ],
-      "published_at": "2026-11-07T06:03:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "06:03",
-      "is_today": false
-    },
-    {
-      "id": "cd1aade759e6",
-      "title": "「iPhone Duo」を売るだけで1台12万円の利益　香港の発売日に起きた“買い取り狂騒曲”、昼には相場が急落",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news002.jpg",
-      "summary": "Apple初の折りたたみスマホ「iPhone Duo」の発売日、香港では新品をすぐ売却する人が“スマホビル”に殺到した。512GBモデルは1台で約12万円の利益が出たが、昼には相場が急落した。現地の買い取り価格と、キャリア購入の実態をレポートする。",
-      "summary_bullets": [
-        "Apple初の折りたたみスマホ「iPhone Duo」の発売日、香港では新品をすぐ売却する人が“スマホビル”に殺到した。512GBモデルは1台で約12万円の利益が出たが、昼には相場が急落した。現地の買い取り価格と、キャリア購入の実態をレポートする。"
-      ],
-      "published_at": "2026-11-07T06:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "b941e7dea128",
-      "title": "初登場時の約3倍！　でも“通常価格”の120万円台に高騰した「GeForce RTX 5090」――それでもアキバで買い手が途絶えない理由",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/07/news011.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/07/cover_news011.jpg",
-      "summary": "長らく入手困難が続いていたGeForce RTX 5090搭載カードだが、ここにきて供給がじわじわと増えている。価格は上がり続けているものの、人気が衰える気配はない。",
-      "summary_bullets": [
-        "長らく入手困難が続いていたGeForce RTX 5090搭載カードだが、ここにきて供給がじわじわと増えている。価格は上がり続けているものの、人気が衰える気配はない。"
-      ],
-      "published_at": "2026-11-07T06:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "f3cfd13e00db",
-      "title": "KDDI上期決算はモバイル通信収入が335億円増　楽天ローミング縮小で「パケ止まり率」も3割改善",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news087.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news087.jpg",
-      "summary": "KDDIは11月6日、2027年3月期上期決算を発表した。7～9月のスマートフォン解約率は1.18％に下がり、auバリューリンクプランとコミコミプランバリューの契約者は合わせて400万人を超えた。モバイル通信収入は335億円増えた。",
-      "summary_bullets": [
-        "KDDIは11月6日、2027年3月期上期決算を発表した。7～9月のスマートフォン解約率は1.18％に下がり、auバリューリンクプランとコミコミプランバリューの契約者は合わせて400万人を超えた。モバイル通信収入は335億円増えた。"
-      ],
-      "published_at": "2026-11-07T00:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "11ff342df766",
-      "title": "ドコモの5G SA障害、原因は交換機メモリ異常とDB更新の並行作業",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154545.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/545/589.jpg",
-      "summary": "全国で最大約158.7万人の5G SA契約者に影響が及んだNTTドコモの通信障害。復旧までに約14時間を要した今回の事態で、システム内部では何が起きていたのか。同社は原因となったメモリ異常への暫定対処を完了し、恒久対策と工事体制の見直しを進めている。",
-      "summary_bullets": [
-        "全国で最大約158.7万人の5G SA契約者に影響が及んだNTTドコモの通信障害。復旧までに約14時間を要した今回の事態で、システム内部では何が起きていたのか。同社は原因となったメモリ異常への暫定対処を完了し、恒久対策と工事体制の見直しを進めている。"
-      ],
-      "published_at": "2026-11-06T23:24:30+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "23:24",
-      "is_today": false
-    },
-    {
-      "id": "2a39e2d38c60",
-      "title": "ボトルキャップ2個で完成するミニケース。100円玉なら17枚も入ります",
-      "url": "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2026/02/24/IMG_3508.jpg?w=1200",
-      "summary": "2026年2月25日の記事を編集して再掲載しています。飲み終わったペットボトルのキャップって、どうしていますか？ 今まで何も考えずに捨てていましたが、「cappy（キャッピー）」（税込1,650円）に出会ってから、ちょっとキャップを見る目が…",
-      "summary_bullets": [
-        "2026年2月25日の記事を編集して再掲載しています。飲み終わったペットボトルのキャップって、どうしていますか？ 今まで何も考えずに捨てていましたが、「cappy（キャッピー）」（税込1,650円）に出会ってから、ちょっとキャップを見る目が…"
-      ],
-      "published_at": "2026-11-06T23:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "f636439644d5",
-      "title": "ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154538.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/538/650.jpg",
-      "summary": "外部からの不正アクセスにより最大29万4839件の顧客情報が流出したNTTドコモ。複数のシステム間連携を悪用した手口により、実際には何が起きたのか。同社は現在、対策と原因究明を進めている。",
-      "summary_bullets": [
-        "外部からの不正アクセスにより最大29万4839件の顧客情報が流出したNTTドコモ。複数のシステム間連携を悪用した手口により、実際には何が起きたのか。同社は現在、対策と原因究明を進めている。"
-      ],
-      "published_at": "2026-11-06T22:17:29+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "22:17",
       "is_today": false
     }
   ]
