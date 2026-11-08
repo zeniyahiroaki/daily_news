@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-08T02:57:19.676677+09:00",
-  "generated_at_formatted": "2026/11/08 02:57",
+  "generated_at": "2026-11-08T10:08:36.370292+09:00",
+  "generated_at_formatted": "2026/11/08 10:08",
   "target_date": "2026-11-08",
   "yesterday_date": "2026-11-07",
-  "total_articles": 87,
-  "today_articles_count": 0,
+  "total_articles": 51,
+  "today_articles_count": 10,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 87
+      "count": 51
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 50
+      "count": 37
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 23
+      "count": 7
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 9
+      "count": 3
     },
     {
       "id": "music",
@@ -34,7 +34,7 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "appliance",
@@ -43,6 +43,176 @@
     }
   ],
   "articles": [
+    {
+      "id": "b585babfcf79",
+      "title": "最後の一片まできれいにスライス。料理効率がアップするキッチンガジェット",
+      "url": "https://www.gizmodo.jp/article/dreamfarm_nocutu_slicer/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/30/8490d6bf-9e19-418a-93b7-343fe61ed606/original.jpg?w=1200",
+      "summary": "我が家は野菜をよく食べるので、スライサーの出番も多め。でも、何度使っても指先を切りそうで怖いんですよね。結局、野菜が小さくなったら包丁に持ち替えるのがお決まりでした。そんな地味なストレスを減らしてくれたのが、Dreamfarm（ドリームファ…",
+      "summary_bullets": [
+        "我が家は野菜をよく食べるので、スライサーの出番も多め。でも、何度使っても指先を切りそうで怖いんですよね。結局、野菜が小さくなったら包丁に持ち替えるのがお決まりでした。そんな地味なストレスを減らしてくれたのが、Dreamfarm（ドリームファ…"
+      ],
+      "published_at": "2026-11-08T10:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "9107a1b56671",
+      "title": "ダンロップ、スーパーGTを戦う64号車「Modulo HRC PRELUDE-GT」が特別カラーで挑む第3戦もてぎで3戦連続ポール獲得＆決勝2位",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154609.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/609/004.jpg",
+      "summary": "スーパーGT第3戦「2026 AUTOBACS SUPER GT Round3 MOTEGI GT 250km RACE」が、11月7日に栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された。",
+      "summary_bullets": [
+        "スーパーGT第3戦「2026 AUTOBACS SUPER GT Round3 MOTEGI GT 250km RACE」が、11月7日に栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された。"
+      ],
+      "published_at": "2026-11-08T09:30:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "09:30",
+      "is_today": true
+    },
+    {
+      "id": "ca4a0c35f449",
+      "title": "折り方がZ型→G型に変わった3つ折りスマホ「HUAWEI Mate XT 2」は“iPhone Duoキラー”になるか　開けば10.2型、初の防水対応も実現",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news005.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/cover_news005.jpg",
+      "summary": "Appleの「iPhone Duo」発表の2日前、ファーウェイが中国で三つ折りスマホ「HUAWEI Mate XT 2」を発表した。折り方をZ型からG型に改め、三つ折りとして初めて防水・防塵（じん）に対応し、のぞき見を防ぐプライバシーディスプレイも備えた。その実機を現地で試した。",
+      "summary_bullets": [
+        "Appleの「iPhone Duo」発表の2日前、ファーウェイが中国で三つ折りスマホ「HUAWEI Mate XT 2」を発表した。折り方をZ型からG型に改め、三つ折りとして初めて防水・防塵（じん）に対応し、のぞき見を防ぐプライバシーディスプレイも備えた。その実機を現地で試した。"
+      ],
+      "published_at": "2026-11-08T08:22:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "08:22",
+      "is_today": true
+    },
+    {
+      "id": "a095b9095ff7",
+      "title": "CIO、ドン・キホーテ限定カラーのモバイルバッテリーと充電器を発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154391.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/391/18.jpg",
+      "summary": "CIOは、モバイルバッテリー「SMARTCOBY Pro SLIM SS」と充電器「NovaPort TRIOⅡ 67W 2C1A」のドン・キホーテ限定カラーモデルを、全国のドン・キホーテで順次発売した。",
+      "summary_bullets": [
+        "CIOは、モバイルバッテリー「SMARTCOBY Pro SLIM SS」と充電器「NovaPort TRIOⅡ 67W 2C1A」のドン・キホーテ限定カラーモデルを、全国のドン・キホーテで順次発売した。"
+      ],
+      "published_at": "2026-11-08T08:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "f90e46779bc5",
+      "title": "「今日出す書類、忘れた！」を防ぎたい。セリアのマグネットフレームで冷蔵庫を掲示板に",
+      "url": "https://www.gizmodo.jp/article/2611-seria-magnet-frame-sheet-review/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/7aa0dd40-6ea3-4b7a-944b-63d1b1dd3140/original.jpg?w=1200",
+      "summary": "セリアのマグネットフレームシートを活用して書類の提出忘れを防止する方法をレビューします。視界に入る場所に貼ることで、大切な書類をしっかりキープし日々のうっかりを防ぎます。",
+      "summary_bullets": [
+        "セリアのマグネットフレームシートを活用して書類の提出忘れを防止する方法をレビューします。視界に入る場所に貼ることで、大切な書類をしっかりキープし日々のうっかりを防ぎます。"
+      ],
+      "published_at": "2026-11-08T08:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "5ed38391106c",
+      "title": "トヨタ、「GR GT3コンセプト」ついに実戦投入 開発陣の「今スーパーGTで走らせる意義」とは？",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154613.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/613/012.jpg",
+      "summary": "ルーキーレーシング（トヨタ自動車）は11月7日、栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された、スーパーGT第3戦「2026 AUTOBACS SUPER GT Round3 MOTEGI GT 250km RACE」に、新型マシン「32号車 ENEOS X PRIME GR GT3 concept」で参戦した。",
+      "summary_bullets": [
+        "ルーキーレーシング（トヨタ自動車）は11月7日、栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された、スーパーGT第3戦「2026 AUTOBACS SUPER GT Round3 MOTEGI GT 250km RACE」に、新型マシン「32号車 ENEOS X PRIME GR GT3 concept」で参戦した。"
+      ],
+      "published_at": "2026-11-08T07:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "4edd523b8a90",
+      "title": "岡嶋和幸の「あとで買う」 2,018点目：温かさと操作性を両立したミトングローブ - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2154559.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/559/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-08T07:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "f7cfaa95c1e0",
+      "title": "雨でも平気な個室付き自転車。昼寝もできるように自作した強者現る",
+      "url": "https://www.gizmodo.jp/article/rainproof_bicycle_cabin/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/05/a63f3c95-aaf5-4b55-8723-93106d1fee3a/original.jpg?w=1200",
+      "summary": "自転車ごと囲っちゃえばいいじゃん。雨の日も自転車に乗りたい。でも服が濡れるのはイヤ。そんな悩みに、窓とドア付きの「個室」を自作した人がいます。ドアを開けて乗り込みます。自転車ですけどまずはどんな仕様になっているのか、こちらの動画をどうぞ！N…",
+      "summary_bullets": [
+        "自転車ごと囲っちゃえばいいじゃん。雨の日も自転車に乗りたい。でも服が濡れるのはイヤ。そんな悩みに、窓とドア付きの「個室」を自作した人がいます。ドアを開けて乗り込みます。自転車ですけどまずはどんな仕様になっているのか、こちらの動画をどうぞ！N…"
+      ],
+      "published_at": "2026-11-08T07:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "d2f5313258ae",
+      "title": "「ChatGPT Classic」デスクトップアプリ、2027年1月30日で提供終了／Bluetooth SIGが新機能「High Data Throughput」の採択を発表　通信速度が最大7.5Mbpsに",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/08/news002.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/08/cover_news002.jpg",
+      "summary": "うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、11月1日週を中心に公開された主なニュースを一気にチェックしましょう！",
+      "summary_bullets": [
+        "うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、11月1日週を中心に公開された主なニュースを一気にチェックしましょう！"
+      ],
+      "published_at": "2026-11-08T06:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "c65f18c5fc4d",
+      "title": "トヨタ、全社直轄組織「トヨタロボティクス」を立ち上げてモビリティカンパニーへのモデルチェンジ 外販も視野にロボティクスに取り組む",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154612.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/612/041.jpg",
+      "summary": "トヨタ自動車は11月5日、2027年1月付けの組織改正を発表し、技術・事業開発機能の実行力強化として全社直轄組織「トヨタロボティクス」を新設することを発表した。",
+      "summary_bullets": [
+        "トヨタ自動車は11月5日、2027年1月付けの組織改正を発表し、技術・事業開発機能の実行力強化として全社直轄組織「トヨタロボティクス」を新設することを発表した。"
+      ],
+      "published_at": "2026-11-08T05:35:29+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "05:35",
+      "is_today": true
+    },
     {
       "id": "1936b74d3a3b",
       "title": "航空会社がウソついてる？ 旅行客がAirTagを使って自分のロストバゲージを追跡",
@@ -738,788 +908,6 @@
       "published_at": "2026-11-06T22:17:29+09:00",
       "published_date": "2026-11-06",
       "published_time": "22:17",
-      "is_today": false
-    },
-    {
-      "id": "f9550f6b0aec",
-      "title": "KDDI、2027年3月期上期は増収増益　モバイルなど好調――下期は楽天ローミング収入増も",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154511.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/511/03.jpg",
-      "summary": "KDDIは6日、2027年3月期第2四半期の決算を発表した。売上高は前年同期比4.7％増の3兆528億1100万円、営業利益は同0.8％増の5592億9100万円、最終利益は同0.9％増の3632億7400万円で増収増益となった。",
-      "summary_bullets": [
-        "KDDIは6日、2027年3月期第2四半期の決算を発表した。売上高は前年同期比4.7％増の3兆528億1100万円、営業利益は同0.8％増の5592億9100万円、最終利益は同0.9％増の3632億7400万円で増収増益となった。"
-      ],
-      "published_at": "2026-11-06T22:05:56+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "22:05",
-      "is_today": false
-    },
-    {
-      "id": "f7ff32614cc6",
-      "title": "KDDIとnewmoが資本提携 2028年に大阪府堺市で自動運転タクシーの商用化へ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2154535.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/535/002.jpg",
-      "summary": "KDDIとnewmoは11月6日、自動運転タクシーの社会実装に向けた資本提携を締結したと発表した。さらに、KDDIスマートモビリティを加えた3社で、地域交通の課題解決に向けた業務提携も締結。newmoの自動運転技術とKDDIの通信・AI基盤などを組み合わせ、2028年に大阪府堺市で自動運転タクシーの商用化を目指す。当面は安全確保のためのセーフティードライバーが同乗する形での商用運行を想定している。",
-      "summary_bullets": [
-        "KDDIとnewmoは11月6日、自動運転タクシーの社会実装に向けた資本提携を締結したと発表した。さらに、KDDIスマートモビリティを加えた3社で、地域交通の課題解決に向けた業務提携も締結。newmoの自動運転技術とKDDIの通信・AI基盤などを組み合わせ、2028年に大阪府堺市で自動運転タクシーの商用化を目指す。当面は安全確保のためのセーフティードラ..."
-      ],
-      "published_at": "2026-11-06T22:00:31+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "22:00",
-      "is_today": false
-    },
-    {
-      "id": "69382edd78d0",
-      "title": "100kgの破片が落下する可能性も。NASA観測衛星「スウィフト」、地球のどこに落ちる？",
-      "url": "https://www.gizmodo.jp/article/nasa_swift_satellite_reentry/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/05/b7598fd2-3866-4029-bda8-9583a5184259/original.jpg?w=1200",
-      "summary": "100kgもの破片が落ちてくる可能性も。NASAの観測衛星「ニール・ゲーレルス・スウィフト」は、22年間にも及ぶ長い任務を終えて、米国時間2026年11月4日早朝に大気圏へ再突入しました。重さ約1.5トンの衛星は大気を通過する際、炎につつま…",
-      "summary_bullets": [
-        "100kgもの破片が落ちてくる可能性も。NASAの観測衛星「ニール・ゲーレルス・スウィフト」は、22年間にも及ぶ長い任務を終えて、米国時間2026年11月4日早朝に大気圏へ再突入しました。重さ約1.5トンの衛星は大気を通過する際、炎につつま…"
-      ],
-      "published_at": "2026-11-06T22:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "22:00",
-      "is_today": false
-    },
-    {
-      "id": "756f23e4e53d",
-      "title": "お手入れの手間も吸ってくれる。Ankerのロボット掃除機がサイクロン載せてきた！",
-      "url": "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/03/37caa362-5670-4d35-9ba8-bcefde957910/original.jpg?w=1200",
-      "summary": "Ankerのサイクロン式ロボット掃除機を徹底解説。高い吸引力とお手入れのしやすさを両立した最新モデルの魅力や初回セールの詳細を紹介します。",
-      "summary_bullets": [
-        "Ankerのサイクロン式ロボット掃除機を徹底解説。高い吸引力とお手入れのしやすさを両立した最新モデルの魅力や初回セールの詳細を紹介します。"
-      ],
-      "published_at": "2026-11-06T21:30:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "21:30",
-      "is_today": false
-    },
-    {
-      "id": "d997fa14e381",
-      "title": "三菱自動車、2026年度第2四半期決算は為替影響などによって増収・増益 営業利益77.6％増の306億円で当期純損失は30億円まで圧縮",
-      "url": "https://car.watch.impress.co.jp/docs/news/2154509.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/509/001.jpg",
-      "summary": "三菱自動車工業は11月6日、2026年度上期（2026年4月1日～9月30日）の決算内容を発表した。",
-      "summary_bullets": [
-        "三菱自動車工業は11月6日、2026年度上期（2026年4月1日～9月30日）の決算内容を発表した。"
-      ],
-      "published_at": "2026-11-06T21:03:02+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "21:03",
-      "is_today": false
-    },
-    {
-      "id": "463877ca763d",
-      "title": "合格です。MacBook PROLEDのタッチ操作をWindowsユーザーがチェック",
-      "url": "https://www.gizmodo.jp/article/2611-macbook-proled-touch-review/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/f549e56d-f009-4fd2-8045-acfbc952543d/original.jpg?w=1200",
-      "summary": "WindowsユーザーがMacBook PROLEDのタッチ操作を徹底レビュー。スマホ感覚で使える快適さや独自の操作感を分かりやすく解説します。",
-      "summary_bullets": [
-        "WindowsユーザーがMacBook PROLEDのタッチ操作を徹底レビュー。スマホ感覚で使える快適さや独自の操作感を分かりやすく解説します。"
-      ],
-      "published_at": "2026-11-06T21:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "21:00",
-      "is_today": false
-    },
-    {
-      "id": "b8595e5fa5ce",
-      "title": "iPhone Duoと新型iPad mini、実機で比較してみた。どっちを選ぶと幸せになれるだろう？",
-      "url": "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/07/7866de89-131b-452c-b2ea-e0dbea9e2c33/original.jpg?w=1200",
-      "summary": "iPhone Duoと新型iPad miniを実機で徹底比較。重さやディスプレイ、スピーカーの違いから、あなたに最適なモデル選びのヒントをご紹介します。",
-      "summary_bullets": [
-        "iPhone Duoと新型iPad miniを実機で徹底比較。重さやディスプレイ、スピーカーの違いから、あなたに最適なモデル選びのヒントをご紹介します。"
-      ],
-      "published_at": "2026-11-06T20:30:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "20:30",
-      "is_today": false
-    },
-    {
-      "id": "f8c85ded135f",
-      "title": "Google、動画生成AI「Gemini Omni 1.2 Flash」を一般提供 前モデルから30%値下げ、最大15秒に長尺化",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154512.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/512/0.jpg",
-      "summary": "Googleは、動画の生成・編集AIモデル「Gemini Omni 1.2 Flash」の一般提供を開始した。同モデルは現在、Gemini APIやGemini for businessを通じて開発者および企業向けに提供されるほか、Google Vids、Geminiアプリ（Google AI Ultra加入者）、Flowを介して個人向けにも展開される。",
-      "summary_bullets": [
-        "Googleは、動画の生成・編集AIモデル「Gemini Omni 1.2 Flash」の一般提供を開始した。同モデルは現在、Gemini APIやGemini for businessを通じて開発者および企業向けに提供されるほか、Google Vids、Geminiアプリ（Google AI Ultra加入者）、Flowを介して個人向けにも展開される。"
-      ],
-      "published_at": "2026-11-06T20:10:25+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "20:10",
-      "is_today": false
-    },
-    {
-      "id": "98f01fdea6a3",
-      "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154506.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/506/003.jpg",
-      "summary": "NTTドコモは6日、不正アクセスにより最大29万4839件の顧客情報が流出したと発表した。11月4日に大量アクセスのアラートを検知し、攻撃経路の特定を進めていた。同社は被害拡大を防ぐため、オンラインショップなどのサービスを緊急停止している。",
-      "summary_bullets": [
-        "NTTドコモは6日、不正アクセスにより最大29万4839件の顧客情報が流出したと発表した。11月4日に大量アクセスのアラートを検知し、攻撃経路の特定を進めていた。同社は被害拡大を防ぐため、オンラインショップなどのサービスを緊急停止している。"
-      ],
-      "published_at": "2026-11-06T19:37:49+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "19:37",
-      "is_today": false
-    },
-    {
-      "id": "979be5ffc69a",
-      "title": "ドコモ最大29万件の顧客情報流出で見舞金を検討、「ahamo」サイトも予防的に停止",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154503.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/503/04.jpg",
-      "summary": "NTTドコモは6日夜、記者説明会を開催し、4日に発生した不正アクセスの概要をあらためて発表した。あわせて、対象となるユーザーへの見舞金の支払いを検討していることも明らかにした。",
-      "summary_bullets": [
-        "NTTドコモは6日夜、記者説明会を開催し、4日に発生した不正アクセスの概要をあらためて発表した。あわせて、対象となるユーザーへの見舞金の支払いを検討していることも明らかにした。"
-      ],
-      "published_at": "2026-11-06T19:24:01+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "19:24",
-      "is_today": false
-    },
-    {
-      "id": "62a3a8c9e7e1",
-      "title": "ドコモ5G SA通信障害、最大約158万人に影響　音声通話やデータ通信など",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154504.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/504/009.jpg",
-      "summary": "NTTドコモの「5G SA（Standalone）」サービスにおいて通信障害が発生し、影響を受けたユーザー数が全国で最大約158.7万人にのぼることが発表された。",
-      "summary_bullets": [
-        "NTTドコモの「5G SA（Standalone）」サービスにおいて通信障害が発生し、影響を受けたユーザー数が全国で最大約158.7万人にのぼることが発表された。"
-      ],
-      "published_at": "2026-11-06T19:21:44+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "19:21",
-      "is_today": false
-    },
-    {
-      "id": "1121e817f05e",
-      "title": "NTTドコモが「不正アクセス事案」「5G SAの通信障害」について説明　不正アクセスでは「見舞金」の支払いも検討",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news085.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news085.jpg",
-      "summary": "NTTドコモが、11月5日に公表した不正アクセスに伴う個人情報流出事案と、同日に発生した5G SA契約者における通信障害について記者説明会を開催している。この記事では、その概要をお伝えする。【更新】",
-      "summary_bullets": [
-        "NTTドコモが、11月5日に公表した不正アクセスに伴う個人情報流出事案と、同日に発生した5G SA契約者における通信障害について記者説明会を開催している。この記事では、その概要をお伝えする。【更新】"
-      ],
-      "published_at": "2026-11-06T19:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "19:00",
-      "is_today": false
-    },
-    {
-      "id": "420681b6fafb",
-      "title": "IIJは法人向けに値上げ予定も、個人向け「IIJmio」は据え置き　ブロッキングには慎重な姿勢",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news084.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news084.jpg",
-      "summary": "IIJの2026年度上期は大幅な増収増益となり通期予想を上方修正した。法人向け通信は価格改定を予定するが、個人向け「IIJmio」の値上げや値下げは現時点で否定した。通信ブロッキングには慎重な姿勢を示した。",
-      "summary_bullets": [
-        "IIJの2026年度上期は大幅な増収増益となり通期予想を上方修正した。法人向け通信は価格改定を予定するが、個人向け「IIJmio」の値上げや値下げは現時点で否定した。通信ブロッキングには慎重な姿勢を示した。"
-      ],
-      "published_at": "2026-11-06T18:57:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "18:57",
-      "is_today": false
-    },
-    {
-      "id": "e46e7f1c7939",
-      "title": "警察庁、全国30の金融機関と不正口座情報共有へ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154487.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/487/00.jpg",
-      "summary": "警察庁は、特殊詐欺被害の拡大防止に向けて、全国30の金融機関と「情報共有型連携」の全国一元運用を9日に開始すると発表した。",
-      "summary_bullets": [
-        "警察庁は、特殊詐欺被害の拡大防止に向けて、全国30の金融機関と「情報共有型連携」の全国一元運用を9日に開始すると発表した。"
-      ],
-      "published_at": "2026-11-06T18:47:14+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "18:47",
-      "is_today": false
-    },
-    {
-      "id": "9a7dc930ed28",
-      "title": "KDDI松田社長、決算会見で2つの「お詫び」　メアド1223万件超漏えい、モンゴルの火災について何を語った？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/06/news083.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news083.jpg",
-      "summary": "KDDIの2027年3月期第2四半期決算は増収増益となった。一方、決算会見では子会社のモンゴルでの火災や、125万件超のメールアドレスなどが漏えいしたサイバー攻撃についても説明。松田社長は謝罪するとともに、再発防止に向けたセキュリティ対策の方針を語った。",
-      "summary_bullets": [
-        "KDDIの2027年3月期第2四半期決算は増収増益となった。一方、決算会見では子会社のモンゴルでの火災や、125万件超のメールアドレスなどが漏えいしたサイバー攻撃についても説明。松田社長は謝罪するとともに、再発防止に向けたセキュリティ対策の方針を語った。"
-      ],
-      "published_at": "2026-11-06T18:43:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "18:43",
-      "is_today": false
-    },
-    {
-      "id": "f1203c3f8536",
-      "title": "NTT-ATとオープン、AIとRPAを融合したハイブリッドオートメーションを実現へ TotalAgilityとWinActorの連携を開始",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154463.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/463/0300.jpg",
-      "summary": "NTTアドバンステクノロジとオープンは、オープンが提供するオーケストレーションプラットフォーム「TotalAgility」とNTT-ATが提供する自動化技術・RPAツール「WinActor」の連携を開始した。",
-      "summary_bullets": [
-        "NTTアドバンステクノロジとオープンは、オープンが提供するオーケストレーションプラットフォーム「TotalAgility」とNTT-ATが提供する自動化技術・RPAツール「WinActor」の連携を開始した。"
-      ],
-      "published_at": "2026-11-06T18:13:20+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "18:13",
-      "is_today": false
-    },
-    {
-      "id": "4ed17099ea3e",
-      "title": "楽天モバイルでMNPの障害発生、現在は復旧　6日午後",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154328.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/328/rakuten.jpg",
-      "summary": "楽天モバイルは、他社との電話番号乗り換え手続き（MNP）で発生していた障害について、6日16時32分ごろに復旧したと発表した。",
-      "summary_bullets": [
-        "楽天モバイルは、他社との電話番号乗り換え手続き（MNP）で発生していた障害について、6日16時32分ごろに復旧したと発表した。"
-      ],
-      "published_at": "2026-11-06T18:06:47+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "18:06",
-      "is_today": false
-    },
-    {
-      "id": "dcd6fca42a40",
-      "title": "野鳥撮影を変えた最新機材と、変わらない基本[Sponsored]",
-      "url": "https://dc.watch.impress.co.jp/docs/topic/special/2154422.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/422/20261106.jpg",
-      "summary": "デジカメ Watch Channelで、野鳥写真家の山田芳文氏と菅原貴徳氏による対談動画の後編「野鳥撮影を変えた最新機材と、変わらない基本。山田 芳文、菅原 貴徳が語る【ProGrade Digital写真家対談】」が公開された。",
-      "summary_bullets": [
-        "デジカメ Watch Channelで、野鳥写真家の山田芳文氏と菅原貴徳氏による対談動画の後編「野鳥撮影を変えた最新機材と、変わらない基本。山田 芳文、菅原 貴徳が語る【ProGrade Digital写真家対談】」が公開された。"
-      ],
-      "published_at": "2026-11-06T17:33:31+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:33",
-      "is_today": false
-    },
-    {
-      "id": "9e6e27be84ef",
-      "title": "KDDIとnewmoが資本業務提携、大阪府堺市で2028年に自動運転タクシー商用化を目指す",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154435.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/435/main.jpg",
-      "summary": "11月6日、KDDIとnewmoは自動運転タクシーの社会実装に向けた資本業務提携を締結した。",
-      "summary_bullets": [
-        "11月6日、KDDIとnewmoは自動運転タクシーの社会実装に向けた資本業務提携を締結した。"
-      ],
-      "published_at": "2026-11-06T17:27:06+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:27",
-      "is_today": false
-    },
-    {
-      "id": "19091941510e",
-      "title": "ホンダ、六本木ヒルズでモータースポーツファン感謝イベント「Honda Racing Season Finale 2026」開催",
-      "url": "https://car.watch.impress.co.jp/docs/news/2154404.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/404/01.jpg",
-      "summary": "ホンダ（Honda Racing）は11月6日、モータースポーツファン感謝イベント「Honda Racing Season Finale 2026」を12月12日～13日に六本木ヒルズアリーナ（東京都港区）で開催すると発表した。",
-      "summary_bullets": [
-        "ホンダ（Honda Racing）は11月6日、モータースポーツファン感謝イベント「Honda Racing Season Finale 2026」を12月12日～13日に六本木ヒルズアリーナ（東京都港区）で開催すると発表した。"
-      ],
-      "published_at": "2026-11-06T17:18:31+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:18",
-      "is_today": false
-    },
-    {
-      "id": "dedcb8bf182e",
-      "title": "カーメイト、超撥水サイドミラーフィルム「ゼロワイパー フィルムタイプ車種専用」に「RAV4」「レクサスNX/RX」「JPN TAXI」用を追加",
-      "url": "https://car.watch.impress.co.jp/docs/news/2154393.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/393/02.jpg",
-      "summary": "カーメイトは10月7日、サイドミラーに雨が付きにくくなる超撥水フィルム「ゼロワイパー フィルムタイプ 車種専用」に、トヨタ「RAV4」、レクサス「NX/RX」、トヨタ「JPN TAXI（ジャパンタクシー）」対応モデルを追加して発売した。価格はオープンプライス。",
-      "summary_bullets": [
-        "カーメイトは10月7日、サイドミラーに雨が付きにくくなる超撥水フィルム「ゼロワイパー フィルムタイプ 車種専用」に、トヨタ「RAV4」、レクサス「NX/RX」、トヨタ「JPN TAXI（ジャパンタクシー）」対応モデルを追加して発売した。価格はオープンプライス。"
-      ],
-      "published_at": "2026-11-06T17:15:09+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:15",
-      "is_today": false
-    },
-    {
-      "id": "f4716255f87b",
-      "title": "KDDIの通信品質、「横浜・福岡でパケ止まり約3割減」　楽天ローミング縮小で",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154433.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/433/26110601.jpg",
-      "summary": "KDDIは、10月以降、横浜市や福岡市の一部で混雑エリアのパケ止まり率が約3割、減ったことを6日の決算説明会で明らかにした。",
-      "summary_bullets": [
-        "KDDIは、10月以降、横浜市や福岡市の一部で混雑エリアのパケ止まり率が約3割、減ったことを6日の決算説明会で明らかにした。"
-      ],
-      "published_at": "2026-11-06T17:13:08+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:13",
-      "is_today": false
-    },
-    {
-      "id": "6f4a40c0811c",
-      "title": "自動運転タクシー、大阪・堺で2028年実現へ。newmoとKDDIが資本業務提携",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154416.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/416/00.jpg",
-      "summary": "newmoとKDDIは、自動運転タクシーの社会実装に向けた資本提携を締結したと11月6日に発表した。また、KDDIスマートモビリティを加えた3社は、地域の交通課題解決に向けたモビリティ関連事業の展開に関する業務提携を締結した。",
-      "summary_bullets": [
-        "newmoとKDDIは、自動運転タクシーの社会実装に向けた資本提携を締結したと11月6日に発表した。また、KDDIスマートモビリティを加えた3社は、地域の交通課題解決に向けたモビリティ関連事業の展開に関する業務提携を締結した。"
-      ],
-      "published_at": "2026-11-06T17:09:25+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:09",
-      "is_today": false
-    },
-    {
-      "id": "f798ca33768e",
-      "title": "楽天モバイル網から「KDDI網への流入トラフィックが大きく減少」と松田社長　ローミングの現状に言及",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news082.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news082.jpg",
-      "summary": "11月6日、KDDIが「2027年3月期第2四半期決算説明会」を開催。松田浩路社長が登壇した。松田氏が楽天モバイルとのローミング契約に言及した。",
-      "summary_bullets": [
-        "11月6日、KDDIが「2027年3月期第2四半期決算説明会」を開催。松田浩路社長が登壇した。松田氏が楽天モバイルとのローミング契約に言及した。"
-      ],
-      "published_at": "2026-11-06T17:07:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:07",
-      "is_today": false
-    },
-    {
-      "id": "648f2f0141d8",
-      "title": "LINEが「パスキー」へ対応　パスワード忘れやOSをまたぐ機種変更もログインが簡単に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news081.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/l_asa_LINE_01.jpg",
-      "summary": "LINEヤフーのコミュニケーションアプリ「LINE」が、生体認証などでログインできる認証方法「パスキー」への対応を順次開始。パスワードを忘れてた場合や、iPhoneとAndroidのOSをまたいだ機種変更でもより簡単にログインできる。",
-      "summary_bullets": [
-        "LINEヤフーのコミュニケーションアプリ「LINE」が、生体認証などでログインできる認証方法「パスキー」への対応を順次開始。パスワードを忘れてた場合や、iPhoneとAndroidのOSをまたいだ機種変更でもより簡単にログインできる。"
-      ],
-      "published_at": "2026-11-06T17:07:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:07",
-      "is_today": false
-    },
-    {
-      "id": "975f1dc2fd87",
-      "title": "本日のお買い得商品 ロールトップ式の「Endurance カメラバッグ Neo」がセール中",
-      "url": "https://dc.watch.impress.co.jp/docs/news/saleitem/2154285.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/285/01.jpg",
-      "summary": "ビーハーフの「Endurance カメラバッグ Neo」が、Amazon スマイルSALEで13%OFFのセール中となっている。11月6日（金）現在、参考価格が2万7,800円のところ、2万4,186円で購入可能だ。",
-      "summary_bullets": [
-        "ビーハーフの「Endurance カメラバッグ Neo」が、Amazon スマイルSALEで13%OFFのセール中となっている。11月6日（金）現在、参考価格が2万7,800円のところ、2万4,186円で購入可能だ。"
-      ],
-      "published_at": "2026-11-06T17:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "17:00",
-      "is_today": false
-    },
-    {
-      "id": "988ec3c1f266",
-      "title": "IIJが27年度第2四半期決算を発表、通期売上高予想を4280億円へ上方修正　モバイル総回線数は675万件に",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154403.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/403/133216.jpg",
-      "summary": "インターネットイニシアティブ（IIJ）は6日、2027年3月期第2四半期決算を発表した。大型案件の獲得やモバイル回線数の拡大に伴い上期売上高は2103億円を記録。これを受け通期の売上高予想を4280億円へと上方修正した。",
-      "summary_bullets": [
-        "インターネットイニシアティブ（IIJ）は6日、2027年3月期第2四半期決算を発表した。大型案件の獲得やモバイル回線数の拡大に伴い上期売上高は2103億円を記録。これを受け通期の売上高予想を4280億円へと上方修正した。"
-      ],
-      "published_at": "2026-11-06T16:54:05+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:54",
-      "is_today": false
-    },
-    {
-      "id": "ec357b134000",
-      "title": "総務省がドコモに行政指導、契約者の同意を得ないアマゾンへの違法な情報提供",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154415.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/415/Soumu_main.jpg",
-      "summary": "総務省は、ドコモMAXなどの料金プランを契約している人の電話番号と料金プランを、契約者の同意を得ることなくアマゾンジャパン（Amazon）に提供していたことについて、NTTドコモに対して再発防止策などの必要な措置の実施状況の報告を求める行政指導を行った。",
-      "summary_bullets": [
-        "総務省は、ドコモMAXなどの料金プランを契約している人の電話番号と料金プランを、契約者の同意を得ることなくアマゾンジャパン（Amazon）に提供していたことについて、NTTドコモに対して再発防止策などの必要な措置の実施状況の報告を求める行政指導を行った。"
-      ],
-      "published_at": "2026-11-06T16:51:17+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:51",
-      "is_today": false
-    },
-    {
-      "id": "a8088c2df60d",
-      "title": "OpenAI、サイバーセキュリティ特化AI「GPT-6 Cyber」を発表 脆弱性の発見・修復機能を強化",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154401.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/401/0.jpg",
-      "summary": "OpenAIは、脆弱性の発見および修復機能を強化したサイバーセキュリティ研究向けAIモデル「GPT-6 Cyber」を発表した。同モデルは現在、承認されたDaybreak Redのユーザーの一部にAPIとCodexを通じて提供されており、段階的にアクセス範囲を拡大していく予定としている。",
-      "summary_bullets": [
-        "OpenAIは、脆弱性の発見および修復機能を強化したサイバーセキュリティ研究向けAIモデル「GPT-6 Cyber」を発表した。同モデルは現在、承認されたDaybreak Redのユーザーの一部にAPIとCodexを通じて提供されており、段階的にアクセス範囲を拡大していく予定としている。"
-      ],
-      "published_at": "2026-11-06T16:46:55+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:46",
-      "is_today": false
-    },
-    {
-      "id": "bb0b2deb6880",
-      "title": "KDDI、上半期は増収増益　全事業領域で増収",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154400.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/400/04.jpg",
-      "summary": "KDDIは6日、2027年3月期第2四半期の決算を発表した。売上高は前年同期比4.7％増の3兆528億1100万円、営業利益は同0.8％増の5592億9100万円、最終利益は同0.9％増の3632億7400万円で増収増益となった。",
-      "summary_bullets": [
-        "KDDIは6日、2027年3月期第2四半期の決算を発表した。売上高は前年同期比4.7％増の3兆528億1100万円、営業利益は同0.8％増の5592億9100万円、最終利益は同0.9％増の3632億7400万円で増収増益となった。"
-      ],
-      "published_at": "2026-11-06T16:31:19+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:31",
-      "is_today": false
-    },
-    {
-      "id": "aedfd04f90b5",
-      "title": "セブンが「出来立て商品」に本気、なぜ？ 　阿久津社長が明かす“コンビニ需要の変化”への打ち手",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/06/news076.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news076.jpg",
-      "summary": "セブン‐イレブン・ジャパンが、出来立て商品「ライブミール」の拡大やサプライチェーン改革に力を入れている。従来の利便性や品質に加え、新たな体験価値や価格とのバランスが求められる中、コンビニの価値をどう変えていくのか。",
-      "summary_bullets": [
-        "セブン‐イレブン・ジャパンが、出来立て商品「ライブミール」の拡大やサプライチェーン改革に力を入れている。従来の利便性や品質に加え、新たな体験価値や価格とのバランスが求められる中、コンビニの価値をどう変えていくのか。"
-      ],
-      "published_at": "2026-11-06T16:30:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:30",
-      "is_today": false
-    },
-    {
-      "id": "85737fe89c6d",
-      "title": "KDDIとnewmo、自動運転タクシー商用化　2028年に大阪・堺市で　ドライバー不足に一手",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news078.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news078.jpg",
-      "summary": "newmoとKDDIは11月6日、自動運転タクシーの社会実装に向けた資本提携を締結した。KDDIスマートモビリティを加えた3社は業務提携も結び、2028年に大阪府堺市で自動運転タクシーの商用化を目指す。KDDIの通信やAI計算基盤とnewmoの運行技術を掛け合わせ、深刻化する地域交通の課題解決を狙う。",
-      "summary_bullets": [
-        "newmoとKDDIは11月6日、自動運転タクシーの社会実装に向けた資本提携を締結した。KDDIスマートモビリティを加えた3社は業務提携も結び、2028年に大阪府堺市で自動運転タクシーの商用化を目指す。KDDIの通信やAI計算基盤とnewmoの運行技術を掛け合わせ、深刻化する地域交通の課題解決を狙う。"
-      ],
-      "published_at": "2026-11-06T16:25:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:25",
-      "is_today": false
-    },
-    {
-      "id": "e683c5e8dd56",
-      "title": "16年ぶりに一新、ハウステンボスのイルミネーション 「ザ・スターライト・ミリオン」が初点灯　クリスマスイベントも",
-      "url": "https://dc.watch.impress.co.jp/docs/news/event/2154399.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/399/01.jpg",
-      "summary": "ハウステンボス株式会社は、長崎県佐世保市のハウステンボスで、新イルミネーション「ザ・スターライト・ミリオン」を11月6日（金）から開催している。夜景観光コンベンション・ビューローのアワードで13年連続1位を獲得してきたイルミネーションを、16年ぶりに一新した。",
-      "summary_bullets": [
-        "ハウステンボス株式会社は、長崎県佐世保市のハウステンボスで、新イルミネーション「ザ・スターライト・ミリオン」を11月6日（金）から開催している。夜景観光コンベンション・ビューローのアワードで13年連続1位を獲得してきたイルミネーションを、16年ぶりに一新した。"
-      ],
-      "published_at": "2026-11-06T16:13:40+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:13",
-      "is_today": false
-    },
-    {
-      "id": "41ba4b27cb3c",
-      "title": "【やじうまPC Watch】懐かしめ！「GeForce 8800 GTXを開封するデモ」がSteamで無料公開",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/380/1.jpg",
-      "summary": "NVIDIAがこれまで開発したGPUの中で、もっとも大きな転換点を迎えたのは「GeForce 8800」だ。もちろん初代の「NV1」は伝説として残されるだろうし、初めてハードウェアT&Lを取り入れた「GeForce 256」も革新的といえる。だが、バーテックスシェーダーとピクセルシェーダーを1つに統合しつつ、C言語でGPUをプログラミングできるCUDAを取り入れ、GPUの用途を大きく広げ、今日のAIに至るまでの布石となったGeForce 8800の功績は計り知れない。",
-      "summary_bullets": [
-        "NVIDIAがこれまで開発したGPUの中で、もっとも大きな転換点を迎えたのは「GeForce 8800」だ。もちろん初代の「NV1」は伝説として残されるだろうし、初めてハードウェアT&Lを取り入れた「GeForce 256」も革新的といえる。だが、バーテックスシェーダーとピクセルシェーダーを1つに統合しつつ、C言語でGPUをプログラミングできるCUDA..."
-      ],
-      "published_at": "2026-11-06T16:05:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:05",
-      "is_today": false
-    },
-    {
-      "id": "e2834bbb8997",
-      "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か　再開めど立たず",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002971/10011524/2048",
-      "summary": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
-      "summary_bullets": [
-        "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。"
-      ],
-      "published_at": "2026-11-06T16:02:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "16:02",
-      "is_today": false
-    },
-    {
-      "id": "71635c49b3d3",
-      "title": "ハンドル付きの小型ポータブル電源「Jackery 100D」　約855gに軽量化　USB Type-Cは最大140W出力",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2154386.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/386/01.jpg",
-      "summary": "株式会社Jackery Japanは、小型ポータブル電源「Jackery Explorer 100D」を11月5日（木）に発売した。通常価格は1万7,900円。11月30日（月）まで、公式サイトでは通常価格から30%OFFで販売する。",
-      "summary_bullets": [
-        "株式会社Jackery Japanは、小型ポータブル電源「Jackery Explorer 100D」を11月5日（木）に発売した。通常価格は1万7,900円。11月30日（月）まで、公式サイトでは通常価格から30%OFFで販売する。"
-      ],
-      "published_at": "2026-11-06T15:56:45+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:56",
-      "is_today": false
-    },
-    {
-      "id": "3d9c96351050",
-      "title": "auの「iPad mini（A20 Pro）」128GBモデルが2年間8万7800円　新規／機種変更で【スマホお得情報】",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news074.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/l_asa_sumaotoku_01.jpg",
-      "summary": "KDDIは、au Online Shopで「iPad mini（A20 Pro）」を安価で販売中。新規／機種変更で「スマホトクするプログラム＋」の適用で通常16万8800円のところ2年間8万7800円で購入できる。",
-      "summary_bullets": [
-        "KDDIは、au Online Shopで「iPad mini（A20 Pro）」を安価で販売中。新規／機種変更で「スマホトクするプログラム＋」の適用で通常16万8800円のところ2年間8万7800円で購入できる。"
-      ],
-      "published_at": "2026-11-06T15:46:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:46",
-      "is_today": false
-    },
-    {
-      "id": "0c8c6f5c86e8",
-      "title": "キャンペーン：年末年始も一部対象の「ジェットスター国内線セール」　国内16路線が片道3,690円から",
-      "url": "https://dc.watch.impress.co.jp/docs/news/campaign/2154369.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/369/01.png",
-      "summary": "ジェットスター・ジャパンは、国内線を対象としたセールを11月6日（金）12時00分に開始した。販売期間は11月9日（月）16時59分まで。国内16路線が片道3,690円からとなる。",
-      "summary_bullets": [
-        "ジェットスター・ジャパンは、国内線を対象としたセールを11月6日（金）12時00分に開始した。販売期間は11月9日（月）16時59分まで。国内16路線が片道3,690円からとなる。"
-      ],
-      "published_at": "2026-11-06T15:42:43+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:42",
-      "is_today": false
-    },
-    {
-      "id": "928d51b92a45",
-      "title": "手描きのモックアップから「Gemini」がコードを書いてアプリ化する機能",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154381.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/381/01.jpg",
-      "summary": "Google（グーグル）は、生成AI「Gemini」の新たな機能として、紙で書いたアプリのモックアップやゲームボードなどのアイデアをアップロードすると、「Gemini」がコーディングしてアプリ生成する機能を追加した。",
-      "summary_bullets": [
-        "Google（グーグル）は、生成AI「Gemini」の新たな機能として、紙で書いたアプリのモックアップやゲームボードなどのアイデアをアップロードすると、「Gemini」がコーディングしてアプリ生成する機能を追加した。"
-      ],
-      "published_at": "2026-11-06T15:38:52+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:38",
-      "is_today": false
-    },
-    {
-      "id": "21732bef906e",
-      "title": "Box、各業界に合ったAI活用を提案するソリューション「Box for Industries」発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154373.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/373/0201.jpg",
-      "summary": "Boxは、組織がコンテンツを安全に管理し、重要なワークフローを自動化するとともに事業全体でAIを活用できる業界特化型ソリューション群「Box for Industries」を発表した。Box for Industriesを構成する製品の中で、まず始めに「Box for Banking」「Box for Public Sector」「Box for Media & Entertainment」の提供を開始する。",
-      "summary_bullets": [
-        "Boxは、組織がコンテンツを安全に管理し、重要なワークフローを自動化するとともに事業全体でAIを活用できる業界特化型ソリューション群「Box for Industries」を発表した。Box for Industriesを構成する製品の中で、まず始めに「Box for Banking」「Box for Public Sector」「Box for Me..."
-      ],
-      "published_at": "2026-11-06T15:32:41+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:32",
-      "is_today": false
-    },
-    {
-      "id": "ec180b529207",
-      "title": "上下2画面を1台で。折りたたみ式デュアルモニターが日本エイサーから",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2154354.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/354/1.jpg",
-      "summary": "ノートPCにつなぐだけで、デスクの横幅を広げずに画面を2枚増やせる。日本エイサーは11月5日、2枚のフルHD液晶を上下に重ねた折りたたみ式デュアルモニターの15.6型モデル「PD163QTBbmiuux」、および23.8型モデル「PD243YEbmiuux」を発売した。価格はオープンプライスで、直販価格はPD163QTBbmiuuxが4万5,800円、PD243YEbmiuuxが5万9,800円。",
-      "summary_bullets": [
-        "ノートPCにつなぐだけで、デスクの横幅を広げずに画面を2枚増やせる。日本エイサーは11月5日、2枚のフルHD液晶を上下に重ねた折りたたみ式デュアルモニターの15.6型モデル「PD163QTBbmiuux」、および23.8型モデル「PD243YEbmiuux」を発売した。価格はオープンプライスで、直販価格はPD163QTBbmiuuxが4万5,800円、..."
-      ],
-      "published_at": "2026-11-06T15:27:48+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:27",
-      "is_today": false
-    },
-    {
-      "id": "5ba8bdd41ddf",
-      "title": "「そこだけ直して」で動画編集可。動画生成AI「Gemini Omni 1.2 Flash」登場",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2154370.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/370/01.png",
-      "summary": "生成した動画の気に入らない部分を、「背景を差し替えて」といった会話の指示だけで編集できる動画生成AIが登場した。Googleが11月6日(日本時間)に発表した「Gemini Omni 1.2 Flash」だ。生成できる動画の長さは従来の10秒から15秒に延び、API料金は前バージョンより30%下がった。「Google AI」プラン加入者にも順次提供が開始されたが、Geminiアプリでの15秒動画の生成はUltraプランに限られる。",
-      "summary_bullets": [
-        "生成した動画の気に入らない部分を、「背景を差し替えて」といった会話の指示だけで編集できる動画生成AIが登場した。Googleが11月6日(日本時間)に発表した「Gemini Omni 1.2 Flash」だ。生成できる動画の長さは従来の10秒から15秒に延び、API料金は前バージョンより30%下がった。「Google AI」プラン加入者にも順次提供が開..."
-      ],
-      "published_at": "2026-11-06T15:18:53+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:18",
-      "is_today": false
-    },
-    {
-      "id": "ee60042defd2",
-      "title": "ビクセンが「Seestar S30 Plus」を国内発売　ZWOのスマート天体望遠鏡　入手まで時間がかかると告知",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2154343.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/343/01.jpg",
-      "summary": "株式会社ビクセンは、ZWO社製のスマート天体望遠鏡「Seestar S30 Plus」を日本国内で取り扱うと発表した。発売時期は、決定次第あらためて案内するとしている。",
-      "summary_bullets": [
-        "株式会社ビクセンは、ZWO社製のスマート天体望遠鏡「Seestar S30 Plus」を日本国内で取り扱うと発表した。発売時期は、決定次第あらためて案内するとしている。"
-      ],
-      "published_at": "2026-11-06T15:15:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:15",
-      "is_today": false
-    },
-    {
-      "id": "2b8f2b9664f7",
-      "title": "耳をふさがないEDIFIER「Comfo Bass Pro」は朝から夜まで充電不要　1万円強でLDACとDolby Audio対応、在宅勤務の“つけっぱなし”にピッタリ",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news029.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/06/cover_news029.jpg",
-      "summary": "EDIFIERのイヤーカフ型イヤフォン「Comfo Bass Pro」は、イヤフォン単体で最大12時間の連続再生に対応する。在宅勤務の1日を通して使い、バッテリー持ちをはじめ、会議でのマイク品質や音漏れ、長時間装着の快適さを確かめた。",
-      "summary_bullets": [
-        "EDIFIERのイヤーカフ型イヤフォン「Comfo Bass Pro」は、イヤフォン単体で最大12時間の連続再生に対応する。在宅勤務の1日を通して使い、バッテリー持ちをはじめ、会議でのマイク品質や音漏れ、長時間装着の快適さを確かめた。"
-      ],
-      "published_at": "2026-11-06T15:10:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:10",
-      "is_today": false
-    },
-    {
-      "id": "9544eb2b6b70",
-      "title": "95mm径・効果1/4のH&Y「ゴールドプロミスト」が追加",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2154339.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/339/01.jpg",
-      "summary": "H&Y Filters Japan（株式会社レイクプラッツ）は、「EVOシリーズ ゴールドプロミストフィルター」に95mm径の効果1/4モデルを追加し、11月6日（金）に発売した。直販価格は1万9,880円。",
-      "summary_bullets": [
-        "H&Y Filters Japan（株式会社レイクプラッツ）は、「EVOシリーズ ゴールドプロミストフィルター」に95mm径の効果1/4モデルを追加し、11月6日（金）に発売した。直販価格は1万9,880円。"
-      ],
-      "published_at": "2026-11-06T15:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:00",
-      "is_today": false
-    },
-    {
-      "id": "768fd131e7a4",
-      "title": "Genspark、KDDI Biz Edgeと提携　スマホだけで仕事を終わらせる「Mobile Work AI」を掲げ、2027年1月から中小企業に販売",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news039.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news039.jpg",
-      "summary": "GensparkとKDDI Biz Edgeが戦略的パートナーシップを結んだ。KDDI Biz Edgeは2027年1月からGensparkを中堅・中小企業に販売し、スマートフォンだけで仕事を終わらせる「Mobile Work AI」を掲げる。",
-      "summary_bullets": [
-        "GensparkとKDDI Biz Edgeが戦略的パートナーシップを結んだ。KDDI Biz Edgeは2027年1月からGensparkを中堅・中小企業に販売し、スマートフォンだけで仕事を終わらせる「Mobile Work AI」を掲げる。"
-      ],
-      "published_at": "2026-11-06T15:00:00+09:00",
-      "published_date": "2026-11-06",
-      "published_time": "15:00",
       "is_today": false
     }
   ]
