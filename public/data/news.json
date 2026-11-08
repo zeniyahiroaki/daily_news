@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-08T20:43:14.577752+09:00",
-  "generated_at_formatted": "2026/11/08 20:43",
-  "target_date": "2026-11-08",
-  "yesterday_date": "2026-11-07",
-  "total_articles": 49,
-  "today_articles_count": 29,
+  "generated_at": "2026-11-09T03:14:27.018744+09:00",
+  "generated_at_formatted": "2026/11/09 03:14",
+  "target_date": "2026-11-09",
+  "yesterday_date": "2026-11-08",
+  "total_articles": 39,
+  "today_articles_count": 4,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 49
+      "count": 39
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 32
+      "count": 23
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 8
+      "count": 6
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 3
+      "count": 2
     },
     {
       "id": "music",
@@ -34,7 +34,7 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 5
+      "count": 7
     },
     {
       "id": "appliance",
@@ -43,6 +43,125 @@
     }
   ],
   "articles": [
+    {
+      "id": "095e58b551a1",
+      "title": "ホンダ、山本尚貴/牧野任祐組がSUPER GT王座奪還 「Honda HRC PRELUDE-GT」は参戦初年度でダブルタイトル",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154642.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/642/001.jpg",
+      "summary": "本田技研工業は11月8日、STANLEY TEAM KUNIMITSUの山本尚貴/牧野任祐組が、2026年SUPER GT GT500クラスのドライバーズチャンピオンを獲得したと発表した。同日にモビリティリゾートもてぎで開催された第8戦で、STANLEY HRC PRELUDE-GTがポール・トゥ・ウィンを達成。チームタイトルも獲得し、ホンダ勢として2020年以来6年ぶりに王座を奪還した。",
+      "summary_bullets": [
+        "本田技研工業は11月8日、STANLEY TEAM KUNIMITSUの山本尚貴/牧野任祐組が、2026年SUPER GT GT500クラスのドライバーズチャンピオンを獲得したと発表した。同日にモビリティリゾートもてぎで開催された第8戦で、STANLEY HRC PRELUDE-GTがポール・トゥ・ウィンを達成。チームタイトルも獲得し、ホンダ勢として2..."
+      ],
+      "published_at": "2026-11-09T00:00:06+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "d973a0de4d3f",
+      "title": "[本日の一品]隠しカメラを探すのは自分の目！　手のひらサイズの「宇宙人型 カメラ探知機」",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154450.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/450/1.jpg",
+      "summary": "筆者は家族でよく韓国ドラマを見る。なかでも、これでもかと事件が起こる「マクチャンドラマ」では、親子関係をひっくり返すDNA検査や、何かに気付いた主人公が猛スピードでクルマをUターンさせる場面がおなじみだ。そして、誰かが口にした秘密や決定的な場面を押さえるのが、盗聴マイクやピンホールカメラである。見ているこちらはカメラの隠し場所を知っているから、「そこや、そこ！」と言いたくなる。",
+      "summary_bullets": [
+        "筆者は家族でよく韓国ドラマを見る。なかでも、これでもかと事件が起こる「マクチャンドラマ」では、親子関係をひっくり返すDNA検査や、何かに気付いた主人公が猛スピードでクルマをUターンさせる場面がおなじみだ。そして、誰かが口にした秘密や決定的な場面を押さえるのが、盗聴マイクやピンホールカメラである。見ているこちらはカメラの隠し場所を知っているから、「そこや..."
+      ],
+      "published_at": "2026-11-09T00:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "fa7441929031",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]フロッピーディスク型SSDケースで物欲が大爆発！　必要ないけど超欲しいレトロガジェットを買いまくりッ!!!",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2153725.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/725/stptncs2026-11-09_a01.jpg",
+      "summary": "以前にフロッピーディスクのカタチをしたSSDケースを買った。ポータブルSSDケースで、M.2 2230/2242 NVMe SSD（B+M Key/M Key）用。HAGiBiSの「Floppy Disk Style SSD Enclosure」という製品だ。",
+      "summary_bullets": [
+        "以前にフロッピーディスクのカタチをしたSSDケースを買った。ポータブルSSDケースで、M.2 2230/2242 NVMe SSD（B+M Key/M Key）用。HAGiBiSの「Floppy Disk Style SSD Enclosure」という製品だ。"
+      ],
+      "published_at": "2026-11-09T00:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "5ee8360527a0",
+      "title": "【日下部保雄の悠悠閑閑】今年の10ベスト",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2154359.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/359/001.jpg",
+      "summary": "2026年も「カー・オブ・ザ・イヤー」、今年のクルマを選ぶ季節がやってきた。今年のノミネート車は国内メーカーとインポーターからエントリーされた33台。この中から各選考委員が10台を選び、「10ベストカー」として推薦する。",
+      "summary_bullets": [
+        "2026年も「カー・オブ・ザ・イヤー」、今年のクルマを選ぶ季節がやってきた。今年のノミネート車は国内メーカーとインポーターからエントリーされた33台。この中から各選考委員が10台を選び、「10ベストカー」として推薦する。"
+      ],
+      "published_at": "2026-11-09T00:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "c83dd4e40a25",
+      "title": "海岸に導入された「サメ監視用ドローン」に鳥がマジギレ、海に沈める",
+      "url": "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2024/07/18/shutterstock_1919524823.jpg?w=1200",
+      "summary": "ニューヨーク市警が海岸のサメ監視用に導入したドローンに対し、鳥たちが激怒して攻撃し海に沈める事態が発生。鳥のテリトリー問題とドローン警備の課題を解説します。",
+      "summary_bullets": [
+        "ニューヨーク市警が海岸のサメ監視用に導入したドローンに対し、鳥たちが激怒して攻撃し海に沈める事態が発生。鳥のテリトリー問題とドローン警備の課題を解説します。"
+      ],
+      "published_at": "2026-11-08T23:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "e666e0e14478",
+      "title": "アメリカの空、フロッピーディスクが守ってました。連邦航空局が数十年ぶりにシステム更新",
+      "url": "https://www.gizmodo.jp/article/2611-faa-floppy-disk-system-update/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/5b685960-d0e1-4395-8513-8dc38c213ba5/original.jpg?w=1200",
+      "summary": "フロッピーディスク、懐かしいですよね。えっ、知らない…？WordやExcelなどの「保存」ボタンのアイコンと説明したほうが早いかもしれません。四角くて平べったい、昔のストレージです。かつてPCでの仕事には欠かせなかったフロッピーですが、容量…",
+      "summary_bullets": [
+        "フロッピーディスク、懐かしいですよね。えっ、知らない…？WordやExcelなどの「保存」ボタンのアイコンと説明したほうが早いかもしれません。四角くて平べったい、昔のストレージです。かつてPCでの仕事には欠かせなかったフロッピーですが、容量…"
+      ],
+      "published_at": "2026-11-08T22:30:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "22:30",
+      "is_today": false
+    },
+    {
+      "id": "dcd39077fc32",
+      "title": "「貯金は無意味」発言から3日後、イーロン・マスクがAI代に音を上げる",
+      "url": "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/ba0d164f-5d57-412b-9743-66a05daca1b1/original.png?w=1200",
+      "summary": "「貯金は無意味」と語ったイーロン・マスクが、わずか3日後にAIの運用コストの高騰を理由に利用制限をかけたニュースを解説します。",
+      "summary_bullets": [
+        "「貯金は無意味」と語ったイーロン・マスクが、わずか3日後にAIの運用コストの高騰を理由に利用制限をかけたニュースを解説します。"
+      ],
+      "published_at": "2026-11-08T21:00:00+09:00",
+      "published_date": "2026-11-08",
+      "published_time": "21:00",
+      "is_today": false
+    },
     {
       "id": "050e0c6d143e",
       "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
@@ -58,7 +177,7 @@
       "published_at": "2026-11-08T20:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b12223a77b7e",
@@ -75,7 +194,7 @@
       "published_at": "2026-11-08T20:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "167c0020d4c8",
@@ -92,7 +211,7 @@
       "published_at": "2026-11-08T19:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dc2461e0e244",
@@ -109,7 +228,7 @@
       "published_at": "2026-11-08T18:22:37+09:00",
       "published_date": "2026-11-08",
       "published_time": "18:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e77e7b51c7ce",
@@ -126,7 +245,7 @@
       "published_at": "2026-11-08T18:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "52bb92144f36",
@@ -143,7 +262,7 @@
       "published_at": "2026-11-08T17:35:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7439f58387dc",
@@ -160,7 +279,7 @@
       "published_at": "2026-11-08T17:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "23f6cad8dcf4",
@@ -177,7 +296,7 @@
       "published_at": "2026-11-08T16:35:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "19901b4480ff",
@@ -194,7 +313,7 @@
       "published_at": "2026-11-08T15:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "00de48e5e6e1",
@@ -211,7 +330,7 @@
       "published_at": "2026-11-08T14:35:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "14:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "73d9f496eb7f",
@@ -228,7 +347,7 @@
       "published_at": "2026-11-08T13:32:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "13:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e056c12d429c",
@@ -245,7 +364,7 @@
       "published_at": "2026-11-08T13:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "091683345ce4",
@@ -262,7 +381,7 @@
       "published_at": "2026-11-08T12:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4dd833ab4cb6",
@@ -279,7 +398,7 @@
       "published_at": "2026-11-08T12:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "94f4cdaedac8",
@@ -296,7 +415,7 @@
       "published_at": "2026-11-08T11:35:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "11:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c5d84556c8be",
@@ -313,7 +432,7 @@
       "published_at": "2026-11-08T11:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c6b3e3ffe2e6",
@@ -330,7 +449,7 @@
       "published_at": "2026-11-08T10:40:15+09:00",
       "published_date": "2026-11-08",
       "published_time": "10:40",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "71023349b7de",
@@ -347,7 +466,7 @@
       "published_at": "2026-11-08T10:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "45f699541a20",
@@ -364,7 +483,7 @@
       "published_at": "2026-11-08T10:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b585babfcf79",
@@ -381,7 +500,7 @@
       "published_at": "2026-11-08T10:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9107a1b56671",
@@ -398,7 +517,7 @@
       "published_at": "2026-11-08T09:30:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "09:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ca4a0c35f449",
@@ -415,7 +534,7 @@
       "published_at": "2026-11-08T08:22:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "08:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a095b9095ff7",
@@ -432,7 +551,7 @@
       "published_at": "2026-11-08T08:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f90e46779bc5",
@@ -449,7 +568,7 @@
       "published_at": "2026-11-08T08:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5ed38391106c",
@@ -466,7 +585,7 @@
       "published_at": "2026-11-08T07:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4edd523b8a90",
@@ -483,7 +602,7 @@
       "published_at": "2026-11-08T07:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f7cfaa95c1e0",
@@ -500,7 +619,7 @@
       "published_at": "2026-11-08T07:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d2f5313258ae",
@@ -517,7 +636,7 @@
       "published_at": "2026-11-08T06:00:00+09:00",
       "published_date": "2026-11-08",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c65f18c5fc4d",
@@ -534,7 +653,7 @@
       "published_at": "2026-11-08T05:35:29+09:00",
       "published_date": "2026-11-08",
       "published_time": "05:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1936b74d3a3b",
@@ -551,57 +670,6 @@
       "published_at": "2026-11-07T23:00:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "8bf9eb208294",
-      "title": "地球温暖化で魚が北上？ 日本沿岸のDNA調査で126種が従来より北で見つかった",
-      "url": "https://www.gizmodo.jp/article/2611-global-warming-fish-distribution-dna/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/520dbd99-2c6d-4ff1-8350-a1922dc337e6/original.jpg?w=1200",
-      "summary": "日本沿岸の海水から環境DNAを調査した結果、126種の魚が従来の分布より北で検出されました。地球温暖化による魚の北上や生息域の変化について最新の研究データから分かりやすく解説します。",
-      "summary_bullets": [
-        "日本沿岸の海水から環境DNAを調査した結果、126種の魚が従来の分布より北で検出されました。地球温暖化による魚の北上や生息域の変化について最新の研究データから分かりやすく解説します。"
-      ],
-      "published_at": "2026-11-07T22:30:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "22:30",
-      "is_today": false
-    },
-    {
-      "id": "50a23c132085",
-      "title": "OpenAIの最新「バグ探しAI」が強力すぎる。Firefoxの未知の弱点81件を発見",
-      "url": "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/c4610ada-f206-4288-a3e2-b13fa1a5eac9/original.png?w=1200",
-      "summary": "OpenAIの最新AI「GPT-6 Cyber」がFirefoxの未知の脆弱性81件を発見。サイバーセキュリティの現状と悪用リスクを防ぐ限定提供の仕組みを解説します。",
-      "summary_bullets": [
-        "OpenAIの最新AI「GPT-6 Cyber」がFirefoxの未知の脆弱性81件を発見。サイバーセキュリティの現状と悪用リスクを防ぐ限定提供の仕組みを解説します。"
-      ],
-      "published_at": "2026-11-07T21:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "21:00",
-      "is_today": false
-    },
-    {
-      "id": "368732ff2f50",
-      "title": "回転しながら空中を飛び回る爆速ヘビ。スローで見たら割と理にかなってた",
-      "url": "https://www.gizmodo.jp/article/22041ecf-dda8-4027-b68e-4ae445679de3/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/04/c95e34e0-6aec-4d96-ba6c-c2c49a5b8a8d/original.jpg?w=1200",
-      "summary": "地球上には、まだ僕の知らないヘンテコな生物がいっぱいいるみたいです。たとえば体を大きく回しながら、猛スピードで転がって逃げる爆速ヘビ。東南アジアにすむ小型のハダカメヘビです。しかも、転がるときの最高速度は、普通にはって進むときと比べ、平均で…",
-      "summary_bullets": [
-        "地球上には、まだ僕の知らないヘンテコな生物がいっぱいいるみたいです。たとえば体を大きく回しながら、猛スピードで転がって逃げる爆速ヘビ。東南アジアにすむ小型のハダカメヘビです。しかも、転がるときの最高速度は、普通にはって進むときと比べ、平均で…"
-      ],
-      "published_at": "2026-11-07T19:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "19:00",
       "is_today": false
     },
     {
@@ -636,244 +704,6 @@
       "published_at": "2026-11-07T16:47:00+09:00",
       "published_date": "2026-11-07",
       "published_time": "16:47",
-      "is_today": false
-    },
-    {
-      "id": "8cabfd30ecb4",
-      "title": "移動で困ったことがあったら「人」じゃなく「スマホ」に聞く時代なのかも",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news017.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news017.jpg",
-      "summary": "Google マップアプリに「マップに相談（Ask Maps）」機能が追加されました。使ってみると、移動にまつわるあれこれに答えてくれて、結構便利です。",
-      "summary_bullets": [
-        "Google マップアプリに「マップに相談（Ask Maps）」機能が追加されました。使ってみると、移動にまつわるあれこれに答えてくれて、結構便利です。"
-      ],
-      "published_at": "2026-11-07T14:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "14:00",
-      "is_today": false
-    },
-    {
-      "id": "3444ccc115d5",
-      "title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154552.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/552/01.jpg",
-      "summary": "Amazonにて、Xiaomiのモニターがセール価格で販売されており、27型4K(3,840×2,160ドット)モニター「A27Ui」が、直近価格から2,034円引きの3万4,800円で購入できる。",
-      "summary_bullets": [
-        "Amazonにて、Xiaomiのモニターがセール価格で販売されており、27型4K(3,840×2,160ドット)モニター「A27Ui」が、直近価格から2,034円引きの3万4,800円で購入できる。"
-      ],
-      "published_at": "2026-11-07T13:22:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "13:22",
-      "is_today": false
-    },
-    {
-      "id": "1a1ce5819548",
-      "title": "ドコモが業績予想を上方修正　好調な「ドコモ MAX」と「料金値上げ」の勝算、残るネットワークの課題とは",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news016.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news016.jpg",
-      "summary": "ドコモは12月の料金値上げを見込み、通期業績予想を200億円上方修正した。値上げに反発はあるが、改定したahamoやドコモ mini2によってMNP獲得と顧客基盤の維持を図る。増収分を原資に年9000億円を投じるが、Sub6やSAを優先するあまり転用局の遅れは残る。",
-      "summary_bullets": [
-        "ドコモは12月の料金値上げを見込み、通期業績予想を200億円上方修正した。値上げに反発はあるが、改定したahamoやドコモ mini2によってMNP獲得と顧客基盤の維持を図る。増収分を原資に年9000億円を投じるが、Sub6やSAを優先するあまり転用局の遅れは残る。"
-      ],
-      "published_at": "2026-11-07T13:20:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "13:20",
-      "is_today": false
-    },
-    {
-      "id": "1499352a8c7d",
-      "title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154551.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/551/01.jpg",
-      "summary": "Amazonにて、レノボのChromebookがセール価格で販売されており「Lenovo 300e Yoga Chromebook(82W3000VJP)」が、直近価格から2万円引きの2万9,800円で購入できる。",
-      "summary_bullets": [
-        "Amazonにて、レノボのChromebookがセール価格で販売されており「Lenovo 300e Yoga Chromebook(82W3000VJP)」が、直近価格から2万円引きの2万9,800円で購入できる。"
-      ],
-      "published_at": "2026-11-07T12:46:17+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:46",
-      "is_today": false
-    },
-    {
-      "id": "1e59711c0c4a",
-      "title": "【本日みつけたお買い得品】ソニーのノイキャン付きワイヤレスイヤフォンが4,418円引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154560.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/560/01.jpg",
-      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。ソニーのゲーミングワイヤレスイヤフォン「INZONE Buds」は、直近価格から4,418円引きで、2万1,582円にて購入できる。",
-      "summary_bullets": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。ソニーのゲーミングワイヤレスイヤフォン「INZONE Buds」は、直近価格から4,418円引きで、2万1,582円にて購入できる。"
-      ],
-      "published_at": "2026-11-07T12:03:10+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:03",
-      "is_today": false
-    },
-    {
-      "id": "4efab78a8f26",
-      "title": "【本日みつけたお買い得品】薄型設計のAnker製タップ付きUSB充電器が5千円引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154562.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/562/01.jpg",
-      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。AnkerのUSB充電器「727 Charging Station(GaNPrime 100W)」は、直近価格から5,000円引きで、6,990円にて購入可能だ。",
-      "summary_bullets": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。AnkerのUSB充電器「727 Charging Station(GaNPrime 100W)」は、直近価格から5,000円引きで、6,990円にて購入可能だ。"
-      ],
-      "published_at": "2026-11-07T12:02:52+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:02",
-      "is_today": false
-    },
-    {
-      "id": "2badc2ec6d8f",
-      "title": "【本日みつけたお買い得品】何と約9万2千円引き！RTX 5070搭載ゲーミングノートが超お買い得に",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154556.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/556/01.jpg",
-      "summary": "Amazonにおいて、16型ゲーミングノートPCのAcer「Predator Helios Neo 16S AI」が直近価格から9万1,960円引きで、36万7,840円にて購入できる。",
-      "summary_bullets": [
-        "Amazonにおいて、16型ゲーミングノートPCのAcer「Predator Helios Neo 16S AI」が直近価格から9万1,960円引きで、36万7,840円にて購入できる。"
-      ],
-      "published_at": "2026-11-07T12:02:34+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:02",
-      "is_today": false
-    },
-    {
-      "id": "e8bccf5c6c84",
-      "title": "忘れられない1台～私の愛したデジタルカメラ～PENTAX K-50",
-      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2154444.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/444/01.jpg",
-      "summary": "忘れられない1台～私の愛したデジタルカメラ～PENTAX K-50",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-07T12:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "4061e53f5551",
-      "title": "もう一度使いたい「auのケータイ」はどれ？　KDDI公式X反響　“INFOBAR”にG'zOne”――他にも名機たくさん",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news014.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news014.jpg",
-      "summary": "KDDIは公式Xアカウントで復活してほしいauの推しケータイをファンに問いかけた。INFOBARなどのデザイン端末や耐久性に優れたモデルに復活を望む声が殺到した。ユーザーは思い出深い名機への感謝や基本機能に特化したガラホの供給を求めている。",
-      "summary_bullets": [
-        "KDDIは公式Xアカウントで復活してほしいauの推しケータイをファンに問いかけた。INFOBARなどのデザイン端末や耐久性に優れたモデルに復活を望む声が殺到した。ユーザーは思い出深い名機への感謝や基本機能に特化したガラホの供給を求めている。"
-      ],
-      "published_at": "2026-11-07T11:35:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "11:35",
-      "is_today": false
-    },
-    {
-      "id": "213f55928b83",
-      "title": "Vポイントのキャンペーンまとめ【11月7日最新版】　5万～10万ポイント還元のチャンス、対象鉄道の乗車で10倍",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news012.jpg",
-      "summary": "11月に利用できるVポイントのキャンペーンをまとめた。Vクーポンを初めて利用して買い物をすると、条件を満たしたユーザーに抽選で最大5万Vポイントを付与する。京王電鉄などの対象区間に登録済みのVisaカードのタッチ決済で乗車すると、乗車でたまるVポイントが通常の10倍になる。",
-      "summary_bullets": [
-        "11月に利用できるVポイントのキャンペーンをまとめた。Vクーポンを初めて利用して買い物をすると、条件を満たしたユーザーに抽選で最大5万Vポイントを付与する。京王電鉄などの対象区間に登録済みのVisaカードのタッチ決済で乗車すると、乗車でたまるVポイントが通常の10倍になる。"
-      ],
-      "published_at": "2026-11-07T10:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "beb5c9ace4ec",
-      "title": "財布代わりになる約120gの軽量スマホショルダー　iPhone Pro Maxサイズもすっきり収納",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/07/news009.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/07/l_asa_rakuten_01.jpg",
-      "summary": "楽天市場でスマホショルダーが販売されている。前面にはiPhone 14 Pro Max対応のオープンポケットを備え、小銭や紙幣が入るファスナーポケットと背面カードポケット3つを配置する。価格は2480円。",
-      "summary_bullets": [
-        "楽天市場でスマホショルダーが販売されている。前面にはiPhone 14 Pro Max対応のオープンポケットを備え、小銭や紙幣が入るファスナーポケットと背面カードポケット3つを配置する。価格は2480円。"
-      ],
-      "published_at": "2026-11-07T10:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "e3841e0f7906",
-      "title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154554.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/554/01.jpg",
-      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。",
-      "summary_bullets": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。"
-      ],
-      "published_at": "2026-11-07T09:39:41+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "09:39",
-      "is_today": false
-    },
-    {
-      "id": "f5283a1403d4",
-      "title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154549.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/549/01.jpg",
-      "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる。",
-      "summary_bullets": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ。GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる。"
-      ],
-      "published_at": "2026-11-07T09:21:37+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "09:21",
-      "is_today": false
-    },
-    {
-      "id": "ae4a075cf912",
-      "title": "「ANIMAX MUSIX 2026」、TIGETでチケット販売中　11月20日・21日に開催",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154546.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/546/01.jpg",
-      "summary": "電子チケット販売サービス「TIGET」を運営するグラブス（grabss）は、11月20日・21日に横浜アリーナで開催されるアニメ音楽イベント「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」のチケットをTIGETで販売している。",
-      "summary_bullets": [
-        "電子チケット販売サービス「TIGET」を運営するグラブス（grabss）は、11月20日・21日に横浜アリーナで開催されるアニメ音楽イベント「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」のチケットをTIGETで販売している。"
-      ],
-      "published_at": "2026-11-07T09:00:00+09:00",
-      "published_date": "2026-11-07",
-      "published_time": "09:00",
       "is_today": false
     }
   ]
