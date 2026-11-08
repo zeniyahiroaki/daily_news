@@ -84,47 +84,54 @@
     </div>
   </header>
 
+  <!-- Sticky Sub-header: Toolbar & Genre Tabs -->
+  <div class="sticky top-16 z-30 backdrop-blur-md bg-white/95 dark:bg-slate-900/95 border-b border-slate-200 dark:border-slate-800 shadow-sm transition-colors">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 space-y-3">
+      
+      <!-- Top Toolbar: Search + Date Filters + Stats -->
+      <div class="flex flex-wrap md:flex-nowrap items-center justify-between gap-3">
+        
+        <!-- Date toggle filter -->
+        <div class="order-1 flex items-center bg-slate-200/70 dark:bg-slate-800 p-1 rounded-xl text-xs font-medium w-fit">
+          <button id="filter-today" class="px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition">
+            本日出た記事 (<span id="today-count">0</span>)
+          </button>
+          <button id="filter-all-dates" class="px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition">
+            直近すべて (<span id="all-count">0</span>)
+          </button>
+        </div>
+
+        <!-- Quick Actions (Reset Read, etc.): モバイルでは右上に配置 -->
+        <div class="order-2 md:order-3 flex items-center space-x-2 text-xs text-slate-500 dark:text-slate-400">
+          <span id="read-stats">既読: 0件</span>
+          <span>•</span>
+          <button id="btn-clear-read" class="hover:text-blue-600 dark:hover:text-blue-400 underline">既読クリア</button>
+        </div>
+
+        <!-- Search Input: モバイルでは2行目全体、PCでは中央 -->
+        <div class="order-3 md:order-2 relative w-full md:flex-1 md:max-w-md">
+          <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
+            <i class="ph ph-magnifying-glass text-lg"></i>
+          </div>
+          <input type="text" id="search-input" placeholder="記事タイトルや概要を検索..." 
+                 class="block w-full pl-10 pr-9 py-2 text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+          <button id="search-clear" class="hidden absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-200">
+            <i class="ph ph-x-circle text-lg"></i>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Genre Tabs (Scrollable on Mobile) -->
+      <div class="flex items-center space-x-2 overflow-x-auto pb-1 scrollbar-none no-scrollbar" id="genre-tabs">
+        <!-- Tabs injected by JS -->
+      </div>
+
+    </div>
+  </div>
+
   <!-- Main Container -->
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-
-    <!-- Top Toolbar: Search + Date Filters + Stats -->
-    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
-      
-      <!-- Date toggle filter -->
-      <div class="flex items-center bg-slate-200/70 dark:bg-slate-800 p-1 rounded-xl text-xs font-medium w-fit">
-        <button id="filter-today" class="px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white font-semibold transition">
-          本日出た記事 (<span id="today-count">0</span>)
-        </button>
-        <button id="filter-all-dates" class="px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition">
-          直近すべて (<span id="all-count">0</span>)
-        </button>
-      </div>
-
-      <!-- Search Input -->
-      <div class="relative flex-1 max-w-md">
-        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
-          <i class="ph ph-magnifying-glass text-lg"></i>
-        </div>
-        <input type="text" id="search-input" placeholder="記事タイトルや概要を検索..." 
-               class="block w-full pl-10 pr-9 py-2 text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
-        <button id="search-clear" class="hidden absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-200">
-          <i class="ph ph-x-circle text-lg"></i>
-        </button>
-      </div>
-
-      <!-- Quick Actions (Reset Read, etc.) -->
-      <div class="flex items-center space-x-2 text-xs text-slate-500 dark:text-slate-400">
-        <span id="read-stats">既読: 0件</span>
-        <span>•</span>
-        <button id="btn-clear-read" class="hover:text-blue-600 dark:hover:text-blue-400 underline">既読クリア</button>
-      </div>
-
-    </div>
-
-    <!-- Genre Tabs (Scrollable on Mobile) -->
-    <div class="flex items-center space-x-2 overflow-x-auto pb-2 mb-6 scrollbar-none no-scrollbar" id="genre-tabs">
-      <!-- Tabs injected by JS -->
-    </div>
 
     <!-- Articles Grid -->
     <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
