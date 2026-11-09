@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-09T21:35:52.387085+09:00",
-  "generated_at_formatted": "2026/11/09 21:35",
-  "target_date": "2026-11-09",
-  "yesterday_date": "2026-11-08",
-  "total_articles": 139,
-  "today_articles_count": 133,
+  "generated_at": "2026-11-10T07:53:54.889723+09:00",
+  "generated_at_formatted": "2026/11/10 07:53",
+  "target_date": "2026-11-10",
+  "yesterday_date": "2026-11-09",
+  "total_articles": 150,
+  "today_articles_count": 17,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 139
+      "count": 150
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 65
+      "count": 71
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 34
+      "count": 37
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 12
+      "count": 13
     },
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 18
+      "count": 20
     },
     {
       "id": "appliance",
@@ -43,6 +43,346 @@
     }
   ],
   "articles": [
+    {
+      "id": "438a6256853a",
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003043/10011685/2048",
+      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+      "summary_bullets": [
+        "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。"
+      ],
+      "published_at": "2026-11-10T07:26:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:26",
+      "is_today": true
+    },
+    {
+      "id": "2535da7ecb28",
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003042/10011681/2048",
+      "summary": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
+      "summary_bullets": [
+        "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。"
+      ],
+      "published_at": "2026-11-10T07:03:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:03",
+      "is_today": true
+    },
+    {
+      "id": "e493234b1be8",
+      "title": "無限、シビックe：HEV用「パフォーマンスダンパー」追加設定 乗り心地とステアリングの初期応答が向上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154893.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/893/001.jpg",
+      "summary": "無限（M-TEC）は9月24日、本田技研工業の「シビックe：HEV」用の新製品となる「パフォーマンスダンパー」を追加設定して発売した。価格は13万2000円。",
+      "summary_bullets": [
+        "無限（M-TEC）は9月24日、本田技研工業の「シビックe：HEV」用の新製品となる「パフォーマンスダンパー」を追加設定して発売した。価格は13万2000円。"
+      ],
+      "published_at": "2026-11-10T07:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "e4eeb55d231e",
+      "title": "チェリー（奇瑞汽車）、オモダブランドの新型「OMODA X」公開 SUV・オフロード車・スポーツカーの要素を融合、日本進出計画も",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154566.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/566/025.jpg",
+      "summary": "中国の自動車メーカーであるチェリー（奇瑞汽車）は10月20日（現地時間）、ブランドイベント「OMODA X Night」を開催し、新型「OMODA X」のコンセプトや技術・製品戦略を発表した。OMODA XはSUVの実用性、オフロード車の冒険性、スポーツカーの高揚感を融合したモデルと位置付ける。チェリーグループ傘下のグローバルブランドとして展開するオモダ＆ジェイクー（Omoda & Jaecoo）としては、2027年までに日本、韓国、カナダを含む99市場への拡大を計画していることも明らかにした。",
+      "summary_bullets": [
+        "中国の自動車メーカーであるチェリー（奇瑞汽車）は10月20日（現地時間）、ブランドイベント「OMODA X Night」を開催し、新型「OMODA X」のコンセプトや技術・製品戦略を発表した。OMODA XはSUVの実用性、オフロード車の冒険性、スポーツカーの高揚感を融合したモデルと位置付ける。チェリーグループ傘下のグローバルブランドとして展開するオモ..."
+      ],
+      "published_at": "2026-11-10T07:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "3d96ff55ba8a",
+      "title": "：光の“あふれ”を表現するカメラアプリ「MUNELA」",
+      "url": "https://dc.watch.impress.co.jp/docs/review/2154857.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/857/01_l.jpg",
+      "summary": "「光があふれる、モノクロカメラ。」というテーマが興味深い、iPhone用のカメラアプリ「MUNELA」を試してみた。iOS 18以降に対応する490円の買い切りアプリとしてリリースされている。開発者は日本の写真家である小林慶太朗氏。",
+      "summary_bullets": [
+        "「光があふれる、モノクロカメラ。」というテーマが興味深い、iPhone用のカメラアプリ「MUNELA」を試してみた。iOS 18以降に対応する490円の買い切りアプリとしてリリースされている。開発者は日本の写真家である小林慶太朗氏。"
+      ],
+      "published_at": "2026-11-10T07:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "9ce78e9d8aff",
+      "title": "岡嶋和幸の「あとで買う」 2,020点目：街歩きや旅行のときにぴったりのスリングバッグ - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2154826.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/826/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-10T07:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "ac064e1d2efa",
+      "title": "NASA、月の住人を募集中。年収2,600万円",
+      "url": "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/09/1c258cbd-b7a6-48f2-bc20-061671c6e8fd/original.jpg?w=1200",
+      "summary": "NASAが月面基地で働く宇宙飛行士を募集中です。受付は11月7日（現地時間）にスタート。締め切りは米東部時間12月3日の23時59分です（日本時間だと12月4日の13時59分）。新しいクラスは、2027年後半に決まる予定です。うたい文句は、…",
+      "summary_bullets": [
+        "NASAが月面基地で働く宇宙飛行士を募集中です。受付は11月7日（現地時間）にスタート。締め切りは米東部時間12月3日の23時59分です（日本時間だと12月4日の13時59分）。新しいクラスは、2027年後半に決まる予定です。うたい文句は、…"
+      ],
+      "published_at": "2026-11-10T07:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "79124a62990a",
+      "title": "【福田昭のセミコン業界最前線】コアを足しても速くならない「呪い」の正体、1本の折れ線グラフで丸見えに",
+      "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2154960.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/960/photo000.jpg",
+      "summary": "【福田昭のセミコン業界最前線】コアを足しても速くならない「呪い」の正体、1本の折れ線グラフで丸見えに",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-10T06:19:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "06:19",
+      "is_today": true
+    },
+    {
+      "id": "9e1929d70392",
+      "title": "【大河原克行の「パソコン業界、東奔西走」】守るために攻める、レッツノートとタフブックが年100万台に挑む",
+      "url": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/953/3.jpg",
+      "summary": "【大河原克行の「パソコン業界、東奔西走」】守るために攻める、レッツノートとタフブックが年100万台に挑む",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-10T06:07:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "06:07",
+      "is_today": true
+    },
+    {
+      "id": "a97cfa9131b7",
+      "title": "【やじうまミニレビュー】120インチでも明るさ十分！5万円未満の「TCL PROJECTOR C2 GO」を試した",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154929.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/929/1.jpg",
+      "summary": "【やじうまミニレビュー】120インチでも明るさ十分！5万円未満の「TCL PROJECTOR C2 GO」を試した",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-10T06:03:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "06:03",
+      "is_today": true
+    },
+    {
+      "id": "f2c30d154064",
+      "title": "[電子書籍人気ランキング] 電子書籍人気ランキング（10月30日～11月5日）",
+      "url": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png",
+      "summary": "今週のコミックランキングトップは『SPY×FAMILY 18』、TV生放送特番のスタジオ観覧で…！2位は、盗まれた大の愛器の行方『BLUE GIANT MOMENTUM（９）』！3位『永年雇用は可能でしょうか（７）』は、人を弄び攻撃する魔法を使うダラス！書籍は2位に、二人の当主に愛される『鬼の花嫁 新婚編六～鬼と天狗の花嫁～』がランクインしました。",
+      "summary_bullets": [
+        "今週のコミックランキングトップは『SPY×FAMILY 18』、TV生放送特番のスタジオ観覧で…！2位は、盗まれた大の愛器の行方『BLUE GIANT MOMENTUM（９）』！3位『永年雇用は可能でしょうか（７）』は、人を弄び攻撃する魔法を使うダラス！書籍は2位に、二人の当主に愛される『鬼の花嫁 新婚編六～鬼と天狗の花嫁～』がランクインしました。"
+      ],
+      "published_at": "2026-11-10T06:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "2254f148b6e9",
+      "title": "ルノー「キャプチャーエスプリアルピーヌ」、新フルハイブリッド「E-TECH」の実力やいかに？",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2154910.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/910/001.jpg",
+      "summary": "ルノーのモデルは、その独特で美しいデザインや人の感覚に合った心地よいドライブフィールに、いつも心が弾むようなときめきを感じる。コンパクトSUVであるキャプチャーもその類に漏れない。",
+      "summary_bullets": [
+        "ルノーのモデルは、その独特で美しいデザインや人の感覚に合った心地よいドライブフィールに、いつも心が弾むようなときめきを感じる。コンパクトSUVであるキャプチャーもその類に漏れない。"
+      ],
+      "published_at": "2026-11-10T06:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "17ca3567a0fe",
+      "title": "[本日の一品]Apple Watchにも装着できる小型のAIボイスレコーダー「Memoket Gem」",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/974/P1584105.jpg",
+      "summary": "多くのメーカーが参入したことでAIボイスレコーダーもさまざまな種類のものが次々投入され群雄割拠の様相を呈していますが、ちょっと変わったコンセプトの製品として登場したのが「Memoket Gem」というものです。",
+      "summary_bullets": [
+        "多くのメーカーが参入したことでAIボイスレコーダーもさまざまな種類のものが次々投入され群雄割拠の様相を呈していますが、ちょっと変わったコンセプトの製品として登場したのが「Memoket Gem」というものです。"
+      ],
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "0797e4a98f01",
+      "title": "[みんなのケータイ]Apple Watch UltraのeSIMって、ショップに行かないと移行できないの？",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2154972.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/972/ip18pm01a.jpg",
+      "summary": "たいして運動をするわけではないけど、ちょっと楽しいのがスマートウォッチ。元々、機械式時計をはじめ、時計そのものが好きだったというのもあるけど、Apple WatchからGalaxy Watch、Pixel Watch、Xiaomi Watch、からだメイトWatchなど、いろんなスマートウォッチを取っかえ引っかえ身に着けて、試している。",
+      "summary_bullets": [
+        "たいして運動をするわけではないけど、ちょっと楽しいのがスマートウォッチ。元々、機械式時計をはじめ、時計そのものが好きだったというのもあるけど、Apple WatchからGalaxy Watch、Pixel Watch、Xiaomi Watch、からだメイトWatchなど、いろんなスマートウォッチを取っかえ引っかえ身に着けて、試している。"
+      ],
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "83642451ca38",
+      "title": "ソフトバンク、上期は営業利益・純利益ともに過去最高――通期予想を上方修正、純利益目標を「2年前倒し」達成へ",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154963.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/963/26.jpg",
+      "summary": "ソフトバンクは、2027年3月期第2四半期決算を発表した。売上高は前年同期比11.7％増の3兆7987億4700万円、営業利益は同2.1％増の6421億3400万円、親会社株主に帰属する最終利益は同4.5％増の3645億4700万円となった。本業の営業利益および最終利益が過去最高となり、上半期は増収増益で着地した。",
+      "summary_bullets": [
+        "ソフトバンクは、2027年3月期第2四半期決算を発表した。売上高は前年同期比11.7％増の3兆7987億4700万円、営業利益は同2.1％増の6421億3400万円、親会社株主に帰属する最終利益は同4.5％増の3645億4700万円となった。本業の営業利益および最終利益が過去最高となり、上半期は増収増益で着地した。"
+      ],
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "c3d57769465f",
+      "title": "[石川温の「スマホ業界 Watch」]第三者アプリストア解禁もメリット希薄――エピックゲームズCEOが「スマホ新法」と公取委に寄せる期待",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2154426.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/426/00.jpg",
+      "summary": "Epic Games Japanは、11月3日と4日、都内で開発者やクリエイターを集めたイベント「Unreal Fest Tokyo」を開催した。",
+      "summary_bullets": [
+        "Epic Games Japanは、11月3日と4日、都内で開発者やクリエイターを集めたイベント「Unreal Fest Tokyo」を開催した。"
+      ],
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "46805ab88c4c",
+      "title": "“Starlink依存”からの脱却へ　楽天が「Rakuten AST」で自前の衛星通信にこだわるワケ　三木谷氏らが力説",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/09/news089.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news089.jpg",
+      "summary": "楽天グループと米AST SpaceMobileは、市販スマートフォンで直接通信できる低軌道衛星通信網の構築に向け、新会社「Rakuten AST」の設立に合意した。総務省のJ-LEO事業に採択され、最大1480億円の交付を受ける。国内自律運用の通信基盤を整備し、災害時の通信確保や経済安全保障の強化を目指す。",
+      "summary_bullets": [
+        "楽天グループと米AST SpaceMobileは、市販スマートフォンで直接通信できる低軌道衛星通信網の構築に向け、新会社「Rakuten AST」の設立に合意した。総務省のJ-LEO事業に採択され、最大1480億円の交付を受ける。国内自律運用の通信基盤を整備し、災害時の通信確保や経済安全保障の強化を目指す。"
+      ],
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "published_date": "2026-11-10",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "1c5ae08191b7",
+      "title": "肉眼では見えないQRコード。A4用紙に2TBのデータを保存",
+      "url": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2026/04/03/2026-03-31_AQRCodeTooSmalltoSeeHintsataNew,Non-AnnoyingUsefortheFormat_01_Top_Worlds-smallest-qr-code_R.jpg?w=1200",
+      "summary": "A4用紙に2TBものデータを保存できる、肉眼で見えないほど極小なQRコードの研究について分かりやすく解説します。",
+      "summary_bullets": [
+        "A4用紙に2TBものデータを保存できる、肉眼で見えないほど極小なQRコードの研究について分かりやすく解説します。"
+      ],
+      "published_at": "2026-11-09T23:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "06139623a0dc",
+      "title": "脱GPUへ一手、Googleが独自AIチップ「TPU」に新モデル2種",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2154906.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/906/001.jpg",
+      "summary": "Googleのクラウドサービス事業部門となるGoogle Cloudは11月9日(米国時間)、AI演算装置であるTPU(Tensor Processing Unit)の最新製品「TPU 8tx」と「TPU 8i Max」を発表した。TPUは、同社が社内のAI環境(一般消費者向けのGeminiや法人向けGemini Enterpriseなど)やクラウドサービス事業の顧客向けに提供しているもの。",
+      "summary_bullets": [
+        "Googleのクラウドサービス事業部門となるGoogle Cloudは11月9日(米国時間)、AI演算装置であるTPU(Tensor Processing Unit)の最新製品「TPU 8tx」と「TPU 8i Max」を発表した。TPUは、同社が社内のAI環境(一般消費者向けのGeminiや法人向けGemini Enterpriseなど)やクラウドサ..."
+      ],
+      "published_at": "2026-11-09T22:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "22:00",
+      "is_today": false
+    },
+    {
+      "id": "c27f84755971",
+      "title": "「独裁者トランプ」に「チベット独立」。iPhoneの予測入力、約10万件の言葉を避けてる模様",
+      "url": "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/09/a7f285cc-71f4-4249-821a-f7404d5f90a2/original.jpg?w=1200",
+      "summary": "iPhoneの予測入力で約10万件の言葉が制限されていることが判明しました。政治的な表現などが候補に出ない理由と、キーボードの仕組みについて解説します。",
+      "summary_bullets": [
+        "iPhoneの予測入力で約10万件の言葉が制限されていることが判明しました。政治的な表現などが候補に出ない理由と、キーボードの仕組みについて解説します。"
+      ],
+      "published_at": "2026-11-09T22:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "22:00",
+      "is_today": false
+    },
     {
       "id": "8222c1020f09",
       "title": "まだ生きているのに『人類から忘れられた』生き物たち。「社会的絶滅」という危機",
@@ -58,7 +398,24 @@
       "published_at": "2026-11-09T21:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "21:30",
-      "is_today": true
+      "is_today": false
+    },
+    {
+      "id": "9a9a8572425b",
+      "title": "ソフトバンク、料金値上げでARPUが230円増　宮川潤一社長「やってよかった」　サイバー攻撃は「踏ん張りどき」",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/09/news083.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news083.jpg",
+      "summary": "ソフトバンクの宮川潤一社長は、6～7月の料金改定を「やってよかった」と振り返った。モバイルARPUは前年同期から230円増え、スマートフォンの解約率も下がった。ドコモが12月に実施するahamoの容量増には追随しない考えを示した。",
+      "summary_bullets": [
+        "ソフトバンクの宮川潤一社長は、6～7月の料金改定を「やってよかった」と振り返った。モバイルARPUは前年同期から230円増え、スマートフォンの解約率も下がった。ドコモが12月に実施するahamoの容量増には追随しない考えを示した。"
+      ],
+      "published_at": "2026-11-09T21:00:00+09:00",
+      "published_date": "2026-11-09",
+      "published_time": "21:00",
+      "is_today": false
     },
     {
       "id": "be7951cb40fa",
@@ -75,7 +432,7 @@
       "published_at": "2026-11-09T21:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "21:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "04527b92ea2d",
@@ -92,7 +449,7 @@
       "published_at": "2026-11-09T20:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "20:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4daf03abcfdf",
@@ -109,7 +466,7 @@
       "published_at": "2026-11-09T20:18:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "20:18",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ec981aee74f1",
@@ -126,7 +483,7 @@
       "published_at": "2026-11-09T20:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f870104aad5d",
@@ -143,7 +500,7 @@
       "published_at": "2026-11-09T19:55:22+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4262acbca3fa",
@@ -160,7 +517,7 @@
       "published_at": "2026-11-09T19:34:38+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:34",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7f787519062b",
@@ -177,7 +534,7 @@
       "published_at": "2026-11-09T19:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a29ab05fd715",
@@ -194,7 +551,7 @@
       "published_at": "2026-11-09T19:25:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:25",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "db72d23fbba0",
@@ -211,7 +568,7 @@
       "published_at": "2026-11-09T19:15:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ea95d7993964",
@@ -228,7 +585,7 @@
       "published_at": "2026-11-09T19:10:24+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7778f866577c",
@@ -245,7 +602,7 @@
       "published_at": "2026-11-09T19:10:02+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2ff55356d466",
@@ -262,7 +619,7 @@
       "published_at": "2026-11-09T19:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b6c2a740b97a",
@@ -279,7 +636,7 @@
       "published_at": "2026-11-09T18:48:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "66964e83e9af",
@@ -296,7 +653,7 @@
       "published_at": "2026-11-09T18:43:52+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:43",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e2282c29dd36",
@@ -313,7 +670,7 @@
       "published_at": "2026-11-09T18:42:38+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "17fd6c111636",
@@ -330,7 +687,7 @@
       "published_at": "2026-11-09T18:35:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7d4d0e562686",
@@ -347,7 +704,7 @@
       "published_at": "2026-11-09T18:33:14+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "84d61f813370",
@@ -364,7 +721,7 @@
       "published_at": "2026-11-09T18:20:34+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:20",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f8cc88aa591b",
@@ -381,7 +738,7 @@
       "published_at": "2026-11-09T18:19:51+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:19",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3ef5008405c3",
@@ -398,7 +755,7 @@
       "published_at": "2026-11-09T18:16:53+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fe5eb102f35b",
@@ -415,7 +772,7 @@
       "published_at": "2026-11-09T18:10:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dec121f379b0",
@@ -432,7 +789,7 @@
       "published_at": "2026-11-09T18:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "079564c1521b",
@@ -449,7 +806,7 @@
       "published_at": "2026-11-09T17:55:13+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2721522d4212",
@@ -466,7 +823,7 @@
       "published_at": "2026-11-09T17:45:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8bf458040af6",
@@ -483,7 +840,7 @@
       "published_at": "2026-11-09T17:31:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2ba33649258b",
@@ -500,7 +857,7 @@
       "published_at": "2026-11-09T17:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f936f191b0cd",
@@ -517,7 +874,7 @@
       "published_at": "2026-11-09T17:29:29+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:29",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dd174aae0b83",
@@ -534,7 +891,7 @@
       "published_at": "2026-11-09T17:21:45+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c7a5492de5f8",
@@ -551,7 +908,7 @@
       "published_at": "2026-11-09T17:21:40+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1d85d53b25e2",
@@ -568,7 +925,7 @@
       "published_at": "2026-11-09T17:20:02+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:20",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d4e0c511aa3d",
@@ -585,7 +942,7 @@
       "published_at": "2026-11-09T17:06:20+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:06",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bde32a660ead",
@@ -602,7 +959,7 @@
       "published_at": "2026-11-09T17:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "29bd493e24a0",
@@ -619,7 +976,7 @@
       "published_at": "2026-11-09T17:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9b14a5075977",
@@ -636,7 +993,7 @@
       "published_at": "2026-11-09T16:56:07+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:56",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5a06c1374c6a",
@@ -653,7 +1010,7 @@
       "published_at": "2026-11-09T16:52:49+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:52",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b034c6996be4",
@@ -670,7 +1027,7 @@
       "published_at": "2026-11-09T16:50:50+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:50",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "73a20886b9ca",
@@ -687,7 +1044,7 @@
       "published_at": "2026-11-09T16:48:28+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "86e8530a6dd1",
@@ -704,7 +1061,7 @@
       "published_at": "2026-11-09T16:42:59+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "05e2e0964bd8",
@@ -721,7 +1078,7 @@
       "published_at": "2026-11-09T16:31:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "459b289ca37c",
@@ -738,7 +1095,7 @@
       "published_at": "2026-11-09T16:27:40+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:27",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "42c1e1444b1f",
@@ -755,7 +1112,7 @@
       "published_at": "2026-11-09T16:21:09+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b69f5000a925",
@@ -772,7 +1129,7 @@
       "published_at": "2026-11-09T16:18:42+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:18",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ddf5538b6e49",
@@ -789,7 +1146,7 @@
       "published_at": "2026-11-09T16:14:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fd2f022b5d09",
@@ -806,7 +1163,7 @@
       "published_at": "2026-11-09T16:13:06+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:13",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e5c9bbd1a1d4",
@@ -823,7 +1180,7 @@
       "published_at": "2026-11-09T16:06:38+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:06",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b15dcc7d8950",
@@ -840,7 +1197,7 @@
       "published_at": "2026-11-09T16:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a2c834eef1fa",
@@ -857,7 +1214,7 @@
       "published_at": "2026-11-09T16:00:35+09:00",
       "published_date": "2026-11-09",
       "published_time": "16:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4516123dfa99",
@@ -874,7 +1231,7 @@
       "published_at": "2026-11-09T15:35:07+09:00",
       "published_date": "2026-11-09",
       "published_time": "15:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e077990eb2d4",
@@ -891,7 +1248,7 @@
       "published_at": "2026-11-09T15:35:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "15:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2b34a978fc93",
@@ -908,7 +1265,7 @@
       "published_at": "2026-11-09T15:07:05+09:00",
       "published_date": "2026-11-09",
       "published_time": "15:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "79f204b16c75",
@@ -925,7 +1282,7 @@
       "published_at": "2026-11-09T15:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c50690c37f12",
@@ -942,7 +1299,7 @@
       "published_at": "2026-11-09T14:48:25+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6a3b149d6879",
@@ -959,7 +1316,7 @@
       "published_at": "2026-11-09T14:46:40+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:46",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fb2be22a3733",
@@ -976,7 +1333,7 @@
       "published_at": "2026-11-09T14:45:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d0f12856007c",
@@ -993,7 +1350,7 @@
       "published_at": "2026-11-09T14:44:48+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:44",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "38830f1f8b4c",
@@ -1010,7 +1367,7 @@
       "published_at": "2026-11-09T14:35:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "91dfb175c2ef",
@@ -1027,7 +1384,7 @@
       "published_at": "2026-11-09T14:28:31+09:00",
       "published_date": "2026-11-09",
       "published_time": "14:28",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e18e0f563033",
@@ -1044,7 +1401,7 @@
       "published_at": "2026-11-09T13:58:58+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5e3af1f96546",
@@ -1061,7 +1418,7 @@
       "published_at": "2026-11-09T13:58:48+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2e019f8a2bff",
@@ -1078,7 +1435,7 @@
       "published_at": "2026-11-09T13:58:08+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4635380473aa",
@@ -1095,7 +1452,7 @@
       "published_at": "2026-11-09T13:47:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1b9dde8f54a0",
@@ -1112,7 +1469,7 @@
       "published_at": "2026-11-09T13:35:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b08541c7dd67",
@@ -1129,7 +1486,7 @@
       "published_at": "2026-11-09T13:32:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1d35a00db791",
@@ -1146,7 +1503,7 @@
       "published_at": "2026-11-09T13:24:47+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5e4fb27ef4a5",
@@ -1163,7 +1520,7 @@
       "published_at": "2026-11-09T13:23:55+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:23",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "856405ab6410",
@@ -1180,7 +1537,7 @@
       "published_at": "2026-11-09T13:15:21+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4ed803d6cf15",
@@ -1197,7 +1554,7 @@
       "published_at": "2026-11-09T13:12:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:12",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "46762bb3edc1",
@@ -1214,7 +1571,7 @@
       "published_at": "2026-11-09T13:08:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "560d0dc2271b",
@@ -1231,7 +1588,7 @@
       "published_at": "2026-11-09T13:04:28+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8ba2638f4497",
@@ -1248,7 +1605,7 @@
       "published_at": "2026-11-09T13:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "af7f6a38ad20",
@@ -1265,7 +1622,7 @@
       "published_at": "2026-11-09T12:54:09+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:54",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "78df903759ac",
@@ -1282,7 +1639,7 @@
       "published_at": "2026-11-09T12:44:06+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:44",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "856c41c55adf",
@@ -1299,7 +1656,7 @@
       "published_at": "2026-11-09T12:43:10+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:43",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2740e3660a84",
@@ -1316,7 +1673,7 @@
       "published_at": "2026-11-09T12:37:39+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:37",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fdaa8d8075a3",
@@ -1333,7 +1690,7 @@
       "published_at": "2026-11-09T12:36:49+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:36",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "771349fa2cec",
@@ -1350,7 +1707,7 @@
       "published_at": "2026-11-09T12:30:53+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "24bc2368f640",
@@ -1367,7 +1724,7 @@
       "published_at": "2026-11-09T12:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0acfeaef9f23",
@@ -1384,7 +1741,7 @@
       "published_at": "2026-11-09T12:19:01+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:19",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2a5d9d2083ef",
@@ -1401,7 +1758,7 @@
       "published_at": "2026-11-09T12:18:54+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:18",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fd714e6815d0",
@@ -1418,7 +1775,7 @@
       "published_at": "2026-11-09T12:15:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5052889cb0ca",
@@ -1435,7 +1792,7 @@
       "published_at": "2026-11-09T12:10:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4d51cdfc2165",
@@ -1452,7 +1809,7 @@
       "published_at": "2026-11-09T12:06:41+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:06",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dbbf335fac0f",
@@ -1469,7 +1826,7 @@
       "published_at": "2026-11-09T12:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "14682cbeae96",
@@ -1486,7 +1843,7 @@
       "published_at": "2026-11-09T12:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dbdd7914c367",
@@ -1503,7 +1860,7 @@
       "published_at": "2026-11-09T12:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5eaaf5a07b65",
@@ -1520,7 +1877,7 @@
       "published_at": "2026-11-09T11:58:31+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e63259ed81fc",
@@ -1537,7 +1894,7 @@
       "published_at": "2026-11-09T11:58:20+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "75a9a8f8085d",
@@ -1554,7 +1911,7 @@
       "published_at": "2026-11-09T11:42:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c4633d43a9c8",
@@ -1571,7 +1928,7 @@
       "published_at": "2026-11-09T11:35:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "345d271734ea",
@@ -1588,7 +1945,7 @@
       "published_at": "2026-11-09T11:33:01+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3c03f491ffbd",
@@ -1605,7 +1962,7 @@
       "published_at": "2026-11-09T11:15:11+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4c2ca4c18272",
@@ -1622,7 +1979,7 @@
       "published_at": "2026-11-09T11:05:21+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:05",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6948ab801ba0",
@@ -1639,7 +1996,7 @@
       "published_at": "2026-11-09T11:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ee1f3ad2a204",
@@ -1656,7 +2013,7 @@
       "published_at": "2026-11-09T11:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "89f02fb29811",
@@ -1673,7 +2030,7 @@
       "published_at": "2026-11-09T10:55:13+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8357ce753c51",
@@ -1690,7 +2047,7 @@
       "published_at": "2026-11-09T10:55:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cf5c0583679b",
@@ -1707,7 +2064,7 @@
       "published_at": "2026-11-09T10:32:42+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "642451a7ba5e",
@@ -1724,7 +2081,7 @@
       "published_at": "2026-11-09T10:26:23+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:26",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "46b3db8cb868",
@@ -1741,7 +2098,7 @@
       "published_at": "2026-11-09T10:07:23+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fd97d9968527",
@@ -1758,7 +2115,7 @@
       "published_at": "2026-11-09T10:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "adc5169fb2a8",
@@ -1775,7 +2132,7 @@
       "published_at": "2026-11-09T10:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e224898472f6",
@@ -1792,7 +2149,7 @@
       "published_at": "2026-11-09T10:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aac0f0785dca",
@@ -1809,7 +2166,7 @@
       "published_at": "2026-11-09T09:53:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "67188346182f",
@@ -1826,7 +2183,7 @@
       "published_at": "2026-11-09T09:48:19+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1e0ef1504a1d",
@@ -1843,7 +2200,7 @@
       "published_at": "2026-11-09T09:47:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "55ace25514ba",
@@ -1860,7 +2217,7 @@
       "published_at": "2026-11-09T09:42:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1ecfb49332aa",
@@ -1877,7 +2234,7 @@
       "published_at": "2026-11-09T09:37:33+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:37",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bbc6595c8b5b",
@@ -1894,7 +2251,7 @@
       "published_at": "2026-11-09T09:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7316c6dba64c",
@@ -1911,24 +2268,7 @@
       "published_at": "2026-11-09T09:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "09:00",
-      "is_today": true
-    },
-    {
-      "id": "a7eaeb2d00ed",
-      "title": "発売間近？ Samsungがスポーツタイプのイヤホンを準備中",
-      "url": "https://www.gizmodo.jp/article/2611-samsung-galaxy-t1-sports-earphones/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/06/060d0fd2-2a61-4a40-8a60-c99781529a37/original.jpg?w=1200",
-      "summary": "Samsungの新型スポーツイヤホンGalaxy T1がFCCの認可を取得し発売間近と話題に",
-      "summary_bullets": [
-        "Samsungの新型スポーツイヤホンGalaxy T1がFCCの認可を取得し発売間近と話題に"
-      ],
-      "published_at": "2026-11-09T09:00:00+09:00",
-      "published_date": "2026-11-09",
-      "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2855973b7d1c",
@@ -1945,7 +2285,7 @@
       "published_at": "2026-11-09T08:04:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "08:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8216479674c0",
@@ -1962,7 +2302,7 @@
       "published_at": "2026-11-09T08:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8e43ed7bcb1e",
@@ -1979,24 +2319,7 @@
       "published_at": "2026-11-09T08:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "08:00",
-      "is_today": true
-    },
-    {
-      "id": "bd1378529d74",
-      "title": "新しいMacBook Proの光るリンゴを消す方法",
-      "url": "https://www.gizmodo.jp/article/2611-macbook-pro-turn-off-illuminated-apple-logo/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/07/d32f471c-19aa-48b8-8a7a-91d4cb1d3f3c/original.jpg?w=1200",
-      "summary": "切り替えボタンとかできてほしい。タッチができるようになった新しいMacBook Proは、背面のリンゴが光ります。懐かしいですねぇ、およそ10年ぶりに光るロゴが帰ってきました。光るロゴでドヤりたい人もいる一方で、悪目立ちしたくない人もいるこ…",
-      "summary_bullets": [
-        "切り替えボタンとかできてほしい。タッチができるようになった新しいMacBook Proは、背面のリンゴが光ります。懐かしいですねぇ、およそ10年ぶりに光るロゴが帰ってきました。光るロゴでドヤりたい人もいる一方で、悪目立ちしたくない人もいるこ…"
-      ],
-      "published_at": "2026-11-09T08:00:00+09:00",
-      "published_date": "2026-11-09",
-      "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e2b90c925644",
@@ -2013,24 +2336,7 @@
       "published_at": "2026-11-09T07:44:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "07:44",
-      "is_today": true
-    },
-    {
-      "id": "869bd4d7ab2f",
-      "title": "アップルの嘘つき！ 新型iPad mini、バッテリー14時間持つらしいじゃん！",
-      "url": "https://www.gizmodo.jp/article/2611-new-ipad-mini-battery-life/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/07/673bf3a1-8e99-44b2-ae68-b87a7e61d46e/original.jpg?w=1200",
-      "summary": "新型iPad miniのバッテリー持ちが公称値を大きく上回る14時間を記録。購入を悩んでいる人の背中を押す最新テスト結果と買い替えの理由を解説します。",
-      "summary_bullets": [
-        "新型iPad miniのバッテリー持ちが公称値を大きく上回る14時間を記録。購入を悩んでいる人の背中を押す最新テスト結果と買い替えの理由を解説します。"
-      ],
-      "published_at": "2026-11-09T07:30:00+09:00",
-      "published_date": "2026-11-09",
-      "published_time": "07:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0d15f46743c2",
@@ -2047,7 +2353,7 @@
       "published_at": "2026-11-09T07:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "23025b1cd896",
@@ -2064,7 +2370,7 @@
       "published_at": "2026-11-09T07:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d351ec932d7a",
@@ -2081,7 +2387,7 @@
       "published_at": "2026-11-09T07:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "80a366c1e425",
@@ -2098,7 +2404,7 @@
       "published_at": "2026-11-09T06:14:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "06:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5b2923981836",
@@ -2115,24 +2421,7 @@
       "published_at": "2026-11-09T06:09:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "06:09",
-      "is_today": true
-    },
-    {
-      "id": "889a841d6b90",
-      "title": "【やじうまミニレビュー】禁断のAMD B850拡張カード「ESP4B-850」がキタッ！M.2やSATA、USBを一挙増設！",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154424.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2154/424/top.jpg",
-      "summary": "【やじうまミニレビュー】禁断のAMD B850拡張カード「ESP4B-850」がキタッ！M.2やSATA、USBを一挙増設！",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-09T06:04:00+09:00",
-      "published_date": "2026-11-09",
-      "published_time": "06:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c267ab9dfe5e",
@@ -2149,7 +2438,7 @@
       "published_at": "2026-11-09T06:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "695eed29e43e",
@@ -2166,7 +2455,7 @@
       "published_at": "2026-11-09T06:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fc222faf94fc",
@@ -2183,7 +2472,7 @@
       "published_at": "2026-11-09T06:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "df537bbee85f",
@@ -2200,7 +2489,7 @@
       "published_at": "2026-11-09T05:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "05:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "80d7390a58ab",
@@ -2217,7 +2506,7 @@
       "published_at": "2026-11-09T05:30:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "05:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "095e58b551a1",
@@ -2234,7 +2523,7 @@
       "published_at": "2026-11-09T00:00:06+09:00",
       "published_date": "2026-11-09",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d973a0de4d3f",
@@ -2251,7 +2540,7 @@
       "published_at": "2026-11-09T00:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fa7441929031",
@@ -2268,7 +2557,7 @@
       "published_at": "2026-11-09T00:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5ee8360527a0",
@@ -2285,7 +2574,7 @@
       "published_at": "2026-11-09T00:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "792772337db7",
@@ -2302,108 +2591,6 @@
       "published_at": "2026-11-09T00:00:00+09:00",
       "published_date": "2026-11-09",
       "published_time": "00:00",
-      "is_today": true
-    },
-    {
-      "id": "dc2461e0e244",
-      "title": "WEC最終戦間もなくスタート、小林可夢偉と平川亮がWECダブルタイトルへ向け決勝前会見 F1参戦平川は「クルマの限界を探って走るという意味では同じ」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2154629.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/629/004.jpg",
-      "summary": "WEC（世界耐久選手権）第8戦モンツァ6時間レースの決勝が11月8日（現地時間）、イタリアで開催される。シーズン最終戦となるモンツァ6時間に挑むトヨタレーシングは、7号車 TR010ハイブリッド（マイク・コンウェイ/ニック・デ・フリース/小林可夢偉）、8号車 TR010ハイブリッド（セバスチャン・ブエミ/ブレンドン・ハートレー/平川亮）は、予選で7号車が10位、8号車が16位と厳しい結果になり、日本時間で11月8日19時（現地時間11時）から始まる決勝レースに臨む。決勝前には、小林可夢偉選手兼チーム代表、平川亮選手のリモート会見が行なわれた。",
-      "summary_bullets": [
-        "WEC（世界耐久選手権）第8戦モンツァ6時間レースの決勝が11月8日（現地時間）、イタリアで開催される。シーズン最終戦となるモンツァ6時間に挑むトヨタレーシングは、7号車 TR010ハイブリッド（マイク・コンウェイ/ニック・デ・フリース/小林可夢偉）、8号車 TR010ハイブリッド（セバスチャン・ブエミ/ブレンドン・ハートレー/平川亮）は、予選で7号車..."
-      ],
-      "published_at": "2026-11-08T18:22:37+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "18:22",
-      "is_today": false
-    },
-    {
-      "id": "73d9f496eb7f",
-      "title": "ドコモがahamoサイトの緊急メンテナンスを完了　「サイトの安全性が確認できた」ため",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news006.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/l_st52693_ahamo-01.jpg",
-      "summary": "NTTドコモが11月8日、ahamoサイトで実施していた緊急メンテナンスが完了したことを案内した。予防的措置として11月6日17時26分頃からからサービスを一時停止していた。サイトの安全性が確認できたことから、サービスを再開した。",
-      "summary_bullets": [
-        "NTTドコモが11月8日、ahamoサイトで実施していた緊急メンテナンスが完了したことを案内した。予防的措置として11月6日17時26分頃からからサービスを一時停止していた。サイトの安全性が確認できたことから、サービスを再開した。"
-      ],
-      "published_at": "2026-11-08T13:32:00+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "13:32",
-      "is_today": false
-    },
-    {
-      "id": "091683345ce4",
-      "title": "忘れられない1台～私の愛したデジタルカメラ～ニコン COOLPIX 5400",
-      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2154461.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/461/01.jpg",
-      "summary": "忘れられない1台～私の愛したデジタルカメラ～ニコン COOLPIX 5400",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-08T12:00:00+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "c6b3e3ffe2e6",
-      "title": "DRX-1、PMC1、α-Drumが集結。「電子ドラムが刻んだ技術と文化」から見えた3社の開発秘話と50年の系譜",
-      "url": "https://www.dtmstation.com/archives/81451.html",
-      "media": "DTMステーション",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/11/DSC_3027-1.jpg",
-      "summary": "2026年6月14日（日）、東京・西早稲田のArtware hub KAKEHASHI MEMORIALにて、「電子ドラムが刻んだ技術と文化〜50年の軌跡と未来〜」と題したイベントが開催されました。これは公益財団法人かけ […]",
-      "summary_bullets": [
-        "2026年6月14日（日）、東京・西早稲田のArtware hub KAKEHASHI MEMORIALにて、「電子ドラムが刻んだ技術と文化〜50年の軌跡と未来〜」と題したイベントが開催されました。これは公益財団法人かけ […]"
-      ],
-      "published_at": "2026-11-08T10:40:15+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "10:40",
-      "is_today": false
-    },
-    {
-      "id": "71023349b7de",
-      "title": "【ワークマン】2900円の「マルチ収納2WAYバッグ」　トート＆リュックになり、ヘルメットも収納できる",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news003.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/l_asa_100item_01.jpg",
-      "summary": "ワークマンで「マルチ収納2WAYバッグ」が販売されている。持ち手の長さ調節と収納可能な肩ベルトで、トートとリュックの使い分けが可能。ヘルメットやボールを固定できる伸縮／脱着可能な「外付け収納袋」を備える。",
-      "summary_bullets": [
-        "ワークマンで「マルチ収納2WAYバッグ」が販売されている。持ち手の長さ調節と収納可能な肩ベルトで、トートとリュックの使い分けが可能。ヘルメットやボールを固定できる伸縮／脱着可能な「外付け収納袋」を備える。"
-      ],
-      "published_at": "2026-11-08T10:00:00+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "45f699541a20",
-      "title": "ウエルシアのお得情報まとめ【11月8日最新版】　ブラックフライデーで最大20％還元、最大1万円・2万～3万ポイント還元も",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/08/news004.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/08/cover_news004.jpg",
-      "summary": "ウエルシアで11月に利用できるキャンペーンをまとめた。ブラックフライデーキャンペーンでは、対象商品の購入で最大20％分のWAON POINTを付与する。アプリで毎日引ける「ヘアカラーまつりくじ」では、1等の当選者に3万WAON POINTを付与する。",
-      "summary_bullets": [
-        "ウエルシアで11月に利用できるキャンペーンをまとめた。ブラックフライデーキャンペーンでは、対象商品の購入で最大20％分のWAON POINTを付与する。アプリで毎日引ける「ヘアカラーまつりくじ」では、1等の当選者に3万WAON POINTを付与する。"
-      ],
-      "published_at": "2026-11-08T10:00:00+09:00",
-      "published_date": "2026-11-08",
-      "published_time": "10:00",
       "is_today": false
     }
   ]
