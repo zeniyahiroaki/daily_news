@@ -130,6 +130,7 @@ function initEventListeners() {
       btnAll.className = inactiveClass;
       renderGenreTabs();
       renderArticles();
+      scrollToTop();
     });
 
     btnAll.addEventListener('click', () => {
@@ -138,6 +139,7 @@ function initEventListeners() {
       btnToday.className = inactiveClass;
       renderGenreTabs();
       renderArticles();
+      scrollToTop();
     });
   }
 
@@ -219,6 +221,12 @@ async function loadNewsData() {
   }
 }
 
+function scrollToTop() {
+  window.scrollTo(0, 0);
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+}
+
 // 6. ジャンルタブの描画
 function renderGenreTabs() {
   const tabsContainer = document.getElementById('genre-tabs');
@@ -252,6 +260,7 @@ function renderGenreTabs() {
       state.currentGenre = genre.id;
       renderGenreTabs();
       renderArticles();
+      scrollToTop();
     });
 
     tabsContainer.appendChild(btn);

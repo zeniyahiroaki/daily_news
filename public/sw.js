@@ -1,5 +1,5 @@
 // Daily News PWA Service Worker
-const CACHE_NAME = 'daily-news-v4';
+const CACHE_NAME = 'daily-news-v5';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -37,12 +37,12 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
-// ネットワークファースト（データファイル news.json）、キャッシュファースト（静的アセット）
+// ネットワークファースト（常に最新を取得、オフライン時はキャッシュフォールバック）
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // news.json は常に最新を取得（オフライン時はキャッシュフォールバック）
-  if (url.pathname.endsWith('news.json')) {
+  // 同一オリジンのHTML、JS、CSS、JSONなどのアセットはネットワーク優先で最新を取得
+  if (event.request.method === 'GET' && url.origin === location.origin) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
@@ -57,15 +57,14 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 静的ファイル
+  // 外部アセット（画像やフォントなど）はキャッシュ優先
   event.respondWith(
     caches.match(event.request).then((cached) => {
       return (
         cached ||
         fetch(event.request).then((response) => {
-          // 外部画像等はキャッシュしないか、必要に応じてキャッシュ
           return response;
-        })
+        }).catch(() => cached)
       );
     })
   );
