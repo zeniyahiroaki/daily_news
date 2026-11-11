@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-11T20:42:30.227621+09:00",
-  "generated_at_formatted": "2026/11/11 20:42",
-  "target_date": "2026-11-11",
-  "yesterday_date": "2026-11-10",
-  "total_articles": 187,
-  "today_articles_count": 140,
+  "generated_at": "2026-11-12T05:02:00.247028+09:00",
+  "generated_at_formatted": "2026/11/12 05:02",
+  "target_date": "2026-11-12",
+  "yesterday_date": "2026-11-11",
+  "total_articles": 166,
+  "today_articles_count": 4,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 187
+      "count": 166
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 82
+      "count": 73
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 44
+      "count": 40
     },
     {
       "id": "camera",
@@ -29,20 +29,224 @@
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 13
+      "count": 7
     }
   ],
   "articles": [
+    {
+      "id": "9e2b15b0789a",
+      "title": "[石川温の「スマホ業界 Watch」]有機ELで薄型化した新「iPad mini」を試す、iPhone Duo併用での本音",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2155700.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/700/01.jpg",
+      "summary": "2026年11月6日に発売されたばかりのiPad miniを数時間、試用する機会を得た。これまでマイナーアップデートばかりであったiPad miniであるが、今回はハードウェアを一新し、完成度がさらに高まった。携帯性の良さ、パワフルな使い勝手と申し分のない一台に仕上がっている。",
+      "summary_bullets": [
+        "2026年11月6日に発売されたばかりのiPad miniを数時間、試用する機会を得た。これまでマイナーアップデートばかりであったiPad miniであるが、今回はハードウェアを一新し、完成度がさらに高まった。携帯性の良さ、パワフルな使い勝手と申し分のない一台に仕上がっている。"
+      ],
+      "published_at": "2026-11-12T00:27:26+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "00:27",
+      "is_today": true
+    },
+    {
+      "id": "a1ab89b0602c",
+      "title": "[本日の一品]iPhone DuoをモバイルPC代わりに使うためのSpigen MagSafeスマホリング",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155670.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/670/00.jpg",
+      "summary": "iPhone Duoの購入に合わせ、SpigenのMagSafeスマホリングを購入しました。普段はスマートフォンにケースやアクセサリをつけず、いわゆる裸運用をしている筆者ですが、iPhone Duoに関しては少し異なる使い方をしたいと考えています。",
+      "summary_bullets": [
+        "iPhone Duoの購入に合わせ、SpigenのMagSafeスマホリングを購入しました。普段はスマートフォンにケースやアクセサリをつけず、いわゆる裸運用をしている筆者ですが、iPhone Duoに関しては少し異なる使い方をしたいと考えています。"
+      ],
+      "published_at": "2026-11-12T00:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "8faa843d8938",
+      "title": "[石野純也の「スマホとお金」]既存プランの値上げはARPUにどう影響した?　大手3キャリアの上期決算から分かること",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/value/2155623.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/623/7.jpg",
+      "summary": "NTTドコモ、KDDI、ソフトバンクの大手3キャリアが、上期の決算を発表しました。3社に共通しているのが、1ユーザーからの平均収入であるARPU（Average Revenue Per User）が上がっていること。中でも、KDDIやソフトバンクは増加ぶんが垂直離陸と呼べそうなほど増えています。",
+      "summary_bullets": [
+        "NTTドコモ、KDDI、ソフトバンクの大手3キャリアが、上期の決算を発表しました。3社に共通しているのが、1ユーザーからの平均収入であるARPU（Average Revenue Per User）が上がっていること。中でも、KDDIやソフトバンクは増加ぶんが垂直離陸と呼べそうなほど増えています。"
+      ],
+      "published_at": "2026-11-12T00:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "7e1fd098bcef",
+      "title": "【まるも亜希子の「寄り道日和」】世界とつながる「RITSUMEIKAN GLOBAL WEEK 2026」に参加してきました",
+      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2155026.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/026/01.jpg",
+      "summary": "学生時代の経験や人とのつながりって、その時には大切さに気づかないけれど、本当にかけがえのないものだなぁと、卒業からン十年経ってようやくわかってきた気がします。私はとにかくクラスやゼミでも「レアキャラ」と呼ばれてたくらい（笑）、勉強以外のことばっかりやって飛び回っていた学生時代だったのですが、それでもあんまり先生たちにガミガミ怒られなかったのは、机に向かっているだけではそうした経験や人脈は生まれないと、あえて泳がせてくれていたのかもしれないですね。",
+      "summary_bullets": [
+        "学生時代の経験や人とのつながりって、その時には大切さに気づかないけれど、本当にかけがえのないものだなぁと、卒業からン十年経ってようやくわかってきた気がします。私はとにかくクラスやゼミでも「レアキャラ」と呼ばれてたくらい（笑）、勉強以外のことばっかりやって飛び回っていた学生時代だったのですが、それでもあんまり先生たちにガミガミ怒られなかったのは、机に向か..."
+      ],
+      "published_at": "2026-11-12T00:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "e383dda8870e",
+      "title": "可愛いからと送ったニコニコ絵文字。Andoridユーザーには、煽り倒しているように映っていた",
+      "url": "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2025/03/05/Gizpicture.007.png?w=1200",
+      "summary": "2025年3月27日の記事を編集して再掲載しています。iPhoneとAndroidを隔てる悲しき壁。絵文字って、開いたスマホによって見た目が微妙に違うんです。スマホの環境に合わせて表示されるので、iPhoneの画面で見えている絵文字、And…",
+      "summary_bullets": [
+        "2025年3月27日の記事を編集して再掲載しています。iPhoneとAndroidを隔てる悲しき壁。絵文字って、開いたスマホによって見た目が微妙に違うんです。スマホの環境に合わせて表示されるので、iPhoneの画面で見えている絵文字、And…"
+      ],
+      "published_at": "2026-11-11T23:00:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "b235e6032586",
+      "title": "日本海溝の深海生物に「謎のカプセル」が付着。“未知の生物”の産卵かも",
+      "url": "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/09/9414ae13-1a80-4ff8-95fd-44bb578ec84c/original.jpg?w=1200",
+      "summary": "日本海溝の深海調査で新種のウミグモから謎のカプセルが発見されました。DNA解析により未知の生物による産卵の可能性が浮上した興味深い研究成果を分かりやすく解説します。",
+      "summary_bullets": [
+        "日本海溝の深海調査で新種のウミグモから謎のカプセルが発見されました。DNA解析により未知の生物による産卵の可能性が浮上した興味深い研究成果を分かりやすく解説します。"
+      ],
+      "published_at": "2026-11-11T22:00:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "22:00",
+      "is_today": false
+    },
+    {
+      "id": "3cdbbe351a5d",
+      "title": "AdobeアプリをChatGPTやClaudeから動かせることが意味するもの",
+      "url": "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/c1612fd4-30dd-4fda-a585-efb0f0bd8a4f/original.jpg?w=1200",
+      "summary": "Adobe MAXで披露されたChatGPTやClaudeなど外部AIとAdobeアプリのMCP連携について解説します",
+      "summary_bullets": [
+        "Adobe MAXで披露されたChatGPTやClaudeなど外部AIとAdobeアプリのMCP連携について解説します"
+      ],
+      "published_at": "2026-11-11T21:45:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "21:45",
+      "is_today": false
+    },
+    {
+      "id": "6d9eceee419a",
+      "title": "爆発したのに何度も復活。113日ごとに超新星のように光る星、いったい何が起きている？",
+      "url": "https://www.gizmodo.jp/article/2611-at-2016blu-supernova-impostor/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/b65ae0f1-de77-43ec-97dc-825c4eeeeb71/original.png?w=1200",
+      "summary": "113日ごとに超新星爆発のように明るさを繰り返す不思議な星AT 2016blu。NASAが発表した、その周期的な発光現象の謎と周囲の天体に関する最新の観測成果を分かりやすく解説します。",
+      "summary_bullets": [
+        "113日ごとに超新星爆発のように明るさを繰り返す不思議な星AT 2016blu。NASAが発表した、その周期的な発光現象の謎と周囲の天体に関する最新の観測成果を分かりやすく解説します。"
+      ],
+      "published_at": "2026-11-11T21:30:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "21:30",
+      "is_today": false
+    },
+    {
+      "id": "d5141461c49f",
+      "title": "スズキの軽EV「e SKY」が2027年次RJCカーオブザイヤー受賞",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155684.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/684/04.jpg",
+      "summary": "日本自動車研究者ジャーナリスト会議（RJC）は11月11日、2027年次RJCカーオブザイヤーの最終選考会を行ない、RJCカーオブザイヤー（国産車）に、スズキの軽乗用バッテリEV「e SKY」が受賞したと発表した。",
+      "summary_bullets": [
+        "日本自動車研究者ジャーナリスト会議（RJC）は11月11日、2027年次RJCカーオブザイヤーの最終選考会を行ない、RJCカーオブザイヤー（国産車）に、スズキの軽乗用バッテリEV「e SKY」が受賞したと発表した。"
+      ],
+      "published_at": "2026-11-11T21:26:44+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "21:26",
+      "is_today": false
+    },
+    {
+      "id": "44632e805d15",
+      "title": "AIエージェント、手首にも登場。Metaの「Muse」がApple Watchに対応です",
+      "url": "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/d2fa7589-20f4-461e-8502-8a9da41188b0/original.jpg?w=1200",
+      "summary": "MetaのAIエージェントMuseがApple WatchとWear OSに対応しました。手首からワンタップで起動し、音声やテキストでタスクの指示や確認が可能になります。日本での利用方法やアップデート条件を解説します。",
+      "summary_bullets": [
+        "MetaのAIエージェントMuseがApple WatchとWear OSに対応しました。手首からワンタップで起動し、音声やテキストでタスクの指示や確認が可能になります。日本での利用方法やアップデート条件を解説します。"
+      ],
+      "published_at": "2026-11-11T21:00:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "21:00",
+      "is_today": false
+    },
+    {
+      "id": "fde2072e52b3",
+      "title": "令和7年度補正「CEV補助金」11月下旬〜12月上旬目処に終了見込み 次世代自動車振興センターが最新状況を公表",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155675.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/675/01.jpg",
+      "summary": "次世代自動車振興センターは11月11日、令和7年度補正予算で実施しているCEV補助金（クリーンエネルギー自動車導入促進補助金）の申請受付について、その終了見込み時期を「11月下旬〜12月上旬目処」と公表、年を越した2027年を待たずに年内に終了する見込みとなった。",
+      "summary_bullets": [
+        "次世代自動車振興センターは11月11日、令和7年度補正予算で実施しているCEV補助金（クリーンエネルギー自動車導入促進補助金）の申請受付について、その終了見込み時期を「11月下旬〜12月上旬目処」と公表、年を越した2027年を待たずに年内に終了する見込みとなった。"
+      ],
+      "published_at": "2026-11-11T20:59:34+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "20:59",
+      "is_today": false
+    },
+    {
+      "id": "e7762d1c928b",
+      "title": "JR東日本「スマホをかざさず改札を通過」体験に、シャープ「AQUOS R10」を採用",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news094.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news094.jpg",
+      "summary": "シャープの「AQUOS R10」が、JR東日本が2027年4月から都内14駅で実施するUWB「ウォークスルー改札」の体験導入に採用された。改札機に端末をかざすことなくモバイルSuicaで通過できる新たな乗車体験の実現を目指す。シャープは接近や通過を検知する専用アプリを開発し、搭載端末を納入してUWBの利用拡大を図る。",
+      "summary_bullets": [
+        "シャープの「AQUOS R10」が、JR東日本が2027年4月から都内14駅で実施するUWB「ウォークスルー改札」の体験導入に採用された。改札機に端末をかざすことなくモバイルSuicaで通過できる新たな乗車体験の実現を目指す。シャープは接近や通過を検知する専用アプリを開発し、搭載端末を納入してUWBの利用拡大を図る。"
+      ],
+      "published_at": "2026-11-11T20:38:00+09:00",
+      "published_date": "2026-11-11",
+      "published_time": "20:38",
+      "is_today": false
+    },
     {
       "id": "f0b5ab3f6da9",
       "title": "ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証",
@@ -58,7 +262,7 @@
       "published_at": "2026-11-11T20:29:35+09:00",
       "published_date": "2026-11-11",
       "published_time": "20:29",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ee11a16fc9b8",
@@ -75,7 +279,7 @@
       "published_at": "2026-11-11T20:22:51+09:00",
       "published_date": "2026-11-11",
       "published_time": "20:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5beae5e9ad27",
@@ -92,7 +296,7 @@
       "published_at": "2026-11-11T20:05:29+09:00",
       "published_date": "2026-11-11",
       "published_time": "20:05",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6ad9b00050ae",
@@ -109,7 +313,7 @@
       "published_at": "2026-11-11T20:05:01+09:00",
       "published_date": "2026-11-11",
       "published_time": "20:05",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "72efbb90fca3",
@@ -126,7 +330,7 @@
       "published_at": "2026-11-11T20:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e50ce97e7095",
@@ -143,7 +347,7 @@
       "published_at": "2026-11-11T19:35:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8f3eb140badb",
@@ -160,7 +364,7 @@
       "published_at": "2026-11-11T19:33:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3917c90f8dc0",
@@ -177,7 +381,7 @@
       "published_at": "2026-11-11T19:30:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e7f2363526ab",
@@ -194,7 +398,7 @@
       "published_at": "2026-11-11T19:25:33+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:25",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8c572ad96099",
@@ -211,7 +415,7 @@
       "published_at": "2026-11-11T19:10:03+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ff974171321b",
@@ -228,7 +432,7 @@
       "published_at": "2026-11-11T19:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8dba7f495801",
@@ -245,7 +449,7 @@
       "published_at": "2026-11-11T18:51:42+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:51",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0afa28d7c62d",
@@ -262,7 +466,7 @@
       "published_at": "2026-11-11T18:35:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "edb24d2c69f0",
@@ -279,7 +483,7 @@
       "published_at": "2026-11-11T18:29:46+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:29",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5431d61bb167",
@@ -296,7 +500,7 @@
       "published_at": "2026-11-11T18:29:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:29",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c3cc3bc5de6c",
@@ -313,7 +517,7 @@
       "published_at": "2026-11-11T18:25:21+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:25",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e28629b7da0d",
@@ -330,7 +534,7 @@
       "published_at": "2026-11-11T18:07:30+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c7243056e4cd",
@@ -347,7 +551,7 @@
       "published_at": "2026-11-11T18:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6346e8388d25",
@@ -364,7 +568,7 @@
       "published_at": "2026-11-11T17:53:27+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "22c5dfbd227e",
@@ -381,7 +585,7 @@
       "published_at": "2026-11-11T17:43:11+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:43",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "858cf7f2ba06",
@@ -398,7 +602,7 @@
       "published_at": "2026-11-11T17:35:20+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7f6f5807c6e9",
@@ -415,7 +619,7 @@
       "published_at": "2026-11-11T17:35:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fbff84517ae4",
@@ -432,7 +636,7 @@
       "published_at": "2026-11-11T17:22:15+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ec57b7ef55f2",
@@ -449,7 +653,7 @@
       "published_at": "2026-11-11T17:21:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e2871e0fab91",
@@ -466,7 +670,7 @@
       "published_at": "2026-11-11T17:19:27+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:19",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1034976d8761",
@@ -483,7 +687,7 @@
       "published_at": "2026-11-11T17:19:15+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:19",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e53adee042ee",
@@ -500,7 +704,7 @@
       "published_at": "2026-11-11T17:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "76107ea720be",
@@ -517,7 +721,7 @@
       "published_at": "2026-11-11T16:52:57+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:52",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6d2cc4ed8257",
@@ -534,7 +738,7 @@
       "published_at": "2026-11-11T16:48:31+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ad9f7e58aa07",
@@ -551,7 +755,7 @@
       "published_at": "2026-11-11T16:35:38+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5da5f0ca636f",
@@ -568,7 +772,7 @@
       "published_at": "2026-11-11T16:21:29+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1add056544d9",
@@ -585,7 +789,7 @@
       "published_at": "2026-11-11T16:14:17+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2345c4776f69",
@@ -602,7 +806,7 @@
       "published_at": "2026-11-11T16:03:07+09:00",
       "published_date": "2026-11-11",
       "published_time": "16:03",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8eb99a0a86c9",
@@ -619,7 +823,7 @@
       "published_at": "2026-11-11T15:44:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:44",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8573f851960e",
@@ -636,7 +840,7 @@
       "published_at": "2026-11-11T15:40:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:40",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e58890dd3b5c",
@@ -653,7 +857,7 @@
       "published_at": "2026-11-11T15:35:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1754999d186b",
@@ -670,7 +874,7 @@
       "published_at": "2026-11-11T15:23:01+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:23",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b650bbbd3cdb",
@@ -687,7 +891,7 @@
       "published_at": "2026-11-11T15:17:27+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:17",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8822443de02d",
@@ -704,7 +908,7 @@
       "published_at": "2026-11-11T15:17:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:17",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aeedc7199990",
@@ -721,7 +925,7 @@
       "published_at": "2026-11-11T15:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aa4d20d9033d",
@@ -738,7 +942,7 @@
       "published_at": "2026-11-11T15:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "55acc39fc32f",
@@ -755,7 +959,7 @@
       "published_at": "2026-11-11T15:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cf5431991b73",
@@ -772,7 +976,7 @@
       "published_at": "2026-11-11T14:59:37+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:59",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c0d0144f07f2",
@@ -789,7 +993,7 @@
       "published_at": "2026-11-11T14:47:44+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ae3688bb6dd4",
@@ -806,7 +1010,7 @@
       "published_at": "2026-11-11T14:37:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:37",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "72232a67f25c",
@@ -823,7 +1027,7 @@
       "published_at": "2026-11-11T14:32:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3983dd3a7123",
@@ -840,7 +1044,7 @@
       "published_at": "2026-11-11T14:31:25+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2832b5ccd7a5",
@@ -857,7 +1061,7 @@
       "published_at": "2026-11-11T14:31:04+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ff97650dd5fb",
@@ -874,7 +1078,7 @@
       "published_at": "2026-11-11T14:28:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:28",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0677ab9b7614",
@@ -891,7 +1095,7 @@
       "published_at": "2026-11-11T14:24:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "10efce625453",
@@ -908,7 +1112,7 @@
       "published_at": "2026-11-11T14:19:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:19",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "360d0466ee92",
@@ -925,7 +1129,7 @@
       "published_at": "2026-11-11T14:18:37+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:18",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "644486a0efad",
@@ -942,7 +1146,7 @@
       "published_at": "2026-11-11T14:17:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:17",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c3e4292813b2",
@@ -959,7 +1163,7 @@
       "published_at": "2026-11-11T14:16:44+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "91db0836f21a",
@@ -976,7 +1180,7 @@
       "published_at": "2026-11-11T14:15:37+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1c25e50dc05d",
@@ -993,7 +1197,7 @@
       "published_at": "2026-11-11T14:13:47+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:13",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0cc18e47685e",
@@ -1010,7 +1214,7 @@
       "published_at": "2026-11-11T14:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "21829f4cbd93",
@@ -1027,7 +1231,7 @@
       "published_at": "2026-11-11T14:02:29+09:00",
       "published_date": "2026-11-11",
       "published_time": "14:02",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b18a40565d5c",
@@ -1044,7 +1248,7 @@
       "published_at": "2026-11-11T13:55:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1a12a15102f0",
@@ -1061,7 +1265,7 @@
       "published_at": "2026-11-11T13:45:20+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f5a8509a8690",
@@ -1078,7 +1282,7 @@
       "published_at": "2026-11-11T13:33:58+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "55593d29f9fa",
@@ -1095,7 +1299,7 @@
       "published_at": "2026-11-11T13:31:38+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0b4bbdf02f30",
@@ -1112,7 +1316,7 @@
       "published_at": "2026-11-11T13:24:15+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a0df0e6869f8",
@@ -1129,7 +1333,7 @@
       "published_at": "2026-11-11T13:20:32+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:20",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ffd26e4b395b",
@@ -1146,7 +1350,7 @@
       "published_at": "2026-11-11T13:18:01+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:18",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5384d57034a1",
@@ -1163,7 +1367,7 @@
       "published_at": "2026-11-11T13:04:59+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b3064d947575",
@@ -1180,7 +1384,7 @@
       "published_at": "2026-11-11T13:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "26eee883a524",
@@ -1197,7 +1401,7 @@
       "published_at": "2026-11-11T13:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ea2024dd39ea",
@@ -1214,7 +1418,7 @@
       "published_at": "2026-11-11T12:45:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b6ef5167a729",
@@ -1231,7 +1435,7 @@
       "published_at": "2026-11-11T12:45:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2a6f70749502",
@@ -1248,7 +1452,7 @@
       "published_at": "2026-11-11T12:33:42+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7568b304fe35",
@@ -1265,7 +1469,7 @@
       "published_at": "2026-11-11T12:30:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "673b932ea445",
@@ -1282,7 +1486,7 @@
       "published_at": "2026-11-11T12:24:39+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0bab1090f6a4",
@@ -1299,7 +1503,7 @@
       "published_at": "2026-11-11T12:22:21+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "630a133ba719",
@@ -1316,7 +1520,7 @@
       "published_at": "2026-11-11T12:15:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6625a01edc88",
@@ -1333,7 +1537,7 @@
       "published_at": "2026-11-11T12:14:25+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c03530f49ed6",
@@ -1350,7 +1554,7 @@
       "published_at": "2026-11-11T12:05:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:05",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8d0c322be397",
@@ -1367,7 +1571,7 @@
       "published_at": "2026-11-11T12:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "377f64a8429b",
@@ -1384,7 +1588,7 @@
       "published_at": "2026-11-11T12:03:22+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:03",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9e9798d46658",
@@ -1401,7 +1605,7 @@
       "published_at": "2026-11-11T12:01:56+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a1dcc5742636",
@@ -1418,7 +1622,7 @@
       "published_at": "2026-11-11T12:01:56+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4658bcdd0ebf",
@@ -1435,7 +1639,7 @@
       "published_at": "2026-11-11T12:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e2a6eaa95f0d",
@@ -1452,7 +1656,7 @@
       "published_at": "2026-11-11T12:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "23ea00a839ec",
@@ -1469,7 +1673,7 @@
       "published_at": "2026-11-11T12:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c99f5e38ea2b",
@@ -1486,7 +1690,7 @@
       "published_at": "2026-11-11T11:55:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a5ce9ad2da45",
@@ -1503,7 +1707,7 @@
       "published_at": "2026-11-11T11:49:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:49",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0dc1e063633c",
@@ -1520,7 +1724,7 @@
       "published_at": "2026-11-11T11:45:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b423edbba1fa",
@@ -1537,7 +1741,7 @@
       "published_at": "2026-11-11T11:39:49+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:39",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f697c9bdd87c",
@@ -1554,7 +1758,7 @@
       "published_at": "2026-11-11T11:35:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5fce7f0e456e",
@@ -1571,7 +1775,7 @@
       "published_at": "2026-11-11T11:32:34+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e5fa57cb6d30",
@@ -1588,7 +1792,7 @@
       "published_at": "2026-11-11T11:27:24+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:27",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e6548b8ff838",
@@ -1605,7 +1809,7 @@
       "published_at": "2026-11-11T11:24:57+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fcb97d276b70",
@@ -1622,7 +1826,7 @@
       "published_at": "2026-11-11T11:24:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:24",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bea2b4f0c222",
@@ -1639,7 +1843,7 @@
       "published_at": "2026-11-11T11:13:07+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:13",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0c11faa4eaa9",
@@ -1656,7 +1860,7 @@
       "published_at": "2026-11-11T11:04:55+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9da9f86671d4",
@@ -1673,24 +1877,7 @@
       "published_at": "2026-11-11T11:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:00",
-      "is_today": true
-    },
-    {
-      "id": "d64c0d6a11fe",
-      "title": "このキーボード、遺跡から発掘されたん？",
-      "url": "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/09/cb7d547d-2ea9-4857-8343-ed2cca00cc1c/original.jpg?w=1200",
-      "summary": "古代遺跡のようなサビ加工と最新の磁気スイッチを融合したKeychronの新作キーボード「Q19 HE 8K」の魅力を紹介します。",
-      "summary_bullets": [
-        "古代遺跡のようなサビ加工と最新の磁気スイッチを融合したKeychronの新作キーボード「Q19 HE 8K」の魅力を紹介します。"
-      ],
-      "published_at": "2026-11-11T11:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "710fbd5d5ff0",
@@ -1707,7 +1894,7 @@
       "published_at": "2026-11-11T10:56:23+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:56",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f844d4b3a926",
@@ -1724,7 +1911,7 @@
       "published_at": "2026-11-11T10:54:38+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:54",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b72f8707501e",
@@ -1741,7 +1928,7 @@
       "published_at": "2026-11-11T10:45:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2f6c4713a078",
@@ -1758,24 +1945,7 @@
       "published_at": "2026-11-11T10:39:42+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:39",
-      "is_today": true
-    },
-    {
-      "id": "3c7d47d34f68",
-      "title": "Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？",
-      "url": "https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/2cc529fe-2e68-4b98-b3a5-195cd6c08bb7/original.jpg?w=1200",
-      "summary": "Anthropicの新モデルClaude Fable 5.2とMythos 5.2の性能やOS自作、ブラックホールの謎解明などの成果と新たな懸念を解説します。",
-      "summary_bullets": [
-        "Anthropicの新モデルClaude Fable 5.2とMythos 5.2の性能やOS自作、ブラックホールの謎解明などの成果と新たな懸念を解説します。"
-      ],
-      "published_at": "2026-11-11T10:30:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f1f7f03d4392",
@@ -1792,7 +1962,7 @@
       "published_at": "2026-11-11T10:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7d9438074908",
@@ -1809,24 +1979,7 @@
       "published_at": "2026-11-11T10:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "10:00",
-      "is_today": true
-    },
-    {
-      "id": "caae4bda6814",
-      "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
-      "url": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/22d4b19f-4ad9-4e4c-9adc-b1da30d5e977/original.jpg?w=1200",
-      "summary": "見た目は赤いペロペロキャンディ。でも舐めると、唾液から飲んだ薬の成分がわかっちゃう。作ったのは、アメリカの南カリフォルニア大学（USC）の研究チーム。名前は「Lollylab（ロリーラボ）」。ペロペロキャンディ（lollipop）に、小さな…",
-      "summary_bullets": [
-        "見た目は赤いペロペロキャンディ。でも舐めると、唾液から飲んだ薬の成分がわかっちゃう。作ったのは、アメリカの南カリフォルニア大学（USC）の研究チーム。名前は「Lollylab（ロリーラボ）」。ペロペロキャンディ（lollipop）に、小さな…"
-      ],
-      "published_at": "2026-11-11T10:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5e8c84f5c23a",
@@ -1843,7 +1996,7 @@
       "published_at": "2026-11-11T09:56:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:56",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6efef1827087",
@@ -1860,7 +2013,7 @@
       "published_at": "2026-11-11T09:53:16+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a689608f3e7e",
@@ -1877,7 +2030,7 @@
       "published_at": "2026-11-11T09:53:02+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "efa8afe40d24",
@@ -1894,24 +2047,7 @@
       "published_at": "2026-11-11T09:52:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:52",
-      "is_today": true
-    },
-    {
-      "id": "291227960340",
-      "title": "ノートPCとスマホの充電をまとめたい人に適した「UGREEN Nexode 65W 急速充電器」がセールで28％オフの3150円に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news054.jpg",
-      "summary": "Amazon.co.jpのスマイル Saleで、「UGREEN Nexode 65W 急速充電器」が参考価格の4380円から28％オフとなる3150円で販売中。3ポート搭載でノートPCやスマホを3台同時に急速充電できる。",
-      "summary_bullets": [
-        "Amazon.co.jpのスマイル Saleで、「UGREEN Nexode 65W 急速充電器」が参考価格の4380円から28％オフとなる3150円で販売中。3ポート搭載でノートPCやスマホを3台同時に急速充電できる。"
-      ],
-      "published_at": "2026-11-11T09:47:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "436a66e651fa",
@@ -1928,7 +2064,7 @@
       "published_at": "2026-11-11T09:42:22+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "86d37ba6c89e",
@@ -1945,7 +2081,7 @@
       "published_at": "2026-11-11T09:33:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f8371def1e43",
@@ -1962,7 +2098,7 @@
       "published_at": "2026-11-11T09:27:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:27",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4dd335e7c798",
@@ -1979,7 +2115,7 @@
       "published_at": "2026-11-11T09:26:16+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:26",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bee9ac4d75e2",
@@ -1996,7 +2132,7 @@
       "published_at": "2026-11-11T09:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5cbb2bc8895e",
@@ -2013,7 +2149,7 @@
       "published_at": "2026-11-11T09:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4e95e36876f3",
@@ -2030,7 +2166,7 @@
       "published_at": "2026-11-11T08:58:24+09:00",
       "published_date": "2026-11-11",
       "published_time": "08:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "89cfc1e6cb10",
@@ -2047,7 +2183,7 @@
       "published_at": "2026-11-11T08:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "08:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4853cfa8d4f8",
@@ -2064,7 +2200,7 @@
       "published_at": "2026-11-11T08:02:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "08:02",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c8f834f3a565",
@@ -2081,7 +2217,7 @@
       "published_at": "2026-11-11T08:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7e39b9e266c6",
@@ -2098,24 +2234,7 @@
       "published_at": "2026-11-11T08:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "08:00",
-      "is_today": true
-    },
-    {
-      "id": "a6aa11135da2",
-      "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
-      "url": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/e91e7c10-fd6b-4030-8c93-42e78f32ca7e/original.jpg?w=1200",
-      "summary": "テック系マーケット調査＆分析ファームCounterpoint Researchが、グローバルスマホ売上に関する最新レポートを公開。スマホの売上自体は非常に高い結果となりました。売上増も出荷台数は減少レポートによれば、世界のスマートフォンの売…",
-      "summary_bullets": [
-        "テック系マーケット調査＆分析ファームCounterpoint Researchが、グローバルスマホ売上に関する最新レポートを公開。スマホの売上自体は非常に高い結果となりました。売上増も出荷台数は減少レポートによれば、世界のスマートフォンの売…"
-      ],
-      "published_at": "2026-11-11T08:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b52b58cfd8ac",
@@ -2132,7 +2251,7 @@
       "published_at": "2026-11-11T07:04:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3cac10345a0d",
@@ -2149,7 +2268,7 @@
       "published_at": "2026-11-11T07:03:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:03",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "79dfe7be5252",
@@ -2166,7 +2285,7 @@
       "published_at": "2026-11-11T07:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fc1a289d4e13",
@@ -2183,7 +2302,7 @@
       "published_at": "2026-11-11T07:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cd6671d1d557",
@@ -2200,7 +2319,7 @@
       "published_at": "2026-11-11T07:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bb90aa7bcab0",
@@ -2217,7 +2336,7 @@
       "published_at": "2026-11-11T07:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "13a5142acc5e",
@@ -2234,24 +2353,7 @@
       "published_at": "2026-11-11T07:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "07:00",
-      "is_today": true
-    },
-    {
-      "id": "4e039ad9f517",
-      "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
-      "url": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/e21f4243-cc6c-4bdc-99c1-58517ab65ef1/original.jpg?w=1200",
-      "summary": "80年代のレトロな楽器やオーディオをモチーフにしたカシオの新作デジタルウオッチ「LF-40W」の魅力を紹介します。軽くてお手ごろな価格ながら、遊び心あるデザインと充実した機能を備えた注目モデルです。",
-      "summary_bullets": [
-        "80年代のレトロな楽器やオーディオをモチーフにしたカシオの新作デジタルウオッチ「LF-40W」の魅力を紹介します。軽くてお手ごろな価格ながら、遊び心あるデザインと充実した機能を備えた注目モデルです。"
-      ],
-      "published_at": "2026-11-11T07:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "260a9573c72c",
@@ -2268,7 +2370,7 @@
       "published_at": "2026-11-11T06:34:50+09:00",
       "published_date": "2026-11-11",
       "published_time": "06:34",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "25d64753a4eb",
@@ -2285,7 +2387,7 @@
       "published_at": "2026-11-11T06:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c652899a2554",
@@ -2302,7 +2404,7 @@
       "published_at": "2026-11-11T05:30:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "05:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2e89a465ff41",
@@ -2319,7 +2421,7 @@
       "published_at": "2026-11-11T05:30:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "05:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "40e91642a05f",
@@ -2336,7 +2438,7 @@
       "published_at": "2026-11-11T05:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "05:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "da29211741f9",
@@ -2353,7 +2455,7 @@
       "published_at": "2026-11-11T02:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "02:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2b370da1cf1e",
@@ -2370,7 +2472,7 @@
       "published_at": "2026-11-11T01:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "01:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6a6a78aa1d4e",
@@ -2387,7 +2489,7 @@
       "published_at": "2026-11-11T00:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "82ff1b3ce364",
@@ -2404,7 +2506,7 @@
       "published_at": "2026-11-11T00:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "80f68c5f3751",
@@ -2421,7 +2523,7 @@
       "published_at": "2026-11-11T00:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "68a085ff54da",
@@ -2761,465 +2863,6 @@
       "published_at": "2026-11-10T17:35:49+09:00",
       "published_date": "2026-11-10",
       "published_time": "17:35",
-      "is_today": false
-    },
-    {
-      "id": "532bb985e923",
-      "title": "キント、Vintage Club by KINTOの特選旧車レンタカーに 「スバル初代レガシィツーリングワゴン」追加",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155202.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/202/001.jpg",
-      "summary": "KINTO（キント）は11月10日、新車サブスクリプションサービスで2024年5月から連携してきたスバルとの協業を旧車領域にまで拡大させ、旧車コミュニティ「Vintage Club by KINTO」の特選旧車レンタカーにスバル「レガシィツーリングワゴン」を追加すると発表した。貸し出し開始は12月21日からで、利用料金は2万6000円/6時間～。",
-      "summary_bullets": [
-        "KINTO（キント）は11月10日、新車サブスクリプションサービスで2024年5月から連携してきたスバルとの協業を旧車領域にまで拡大させ、旧車コミュニティ「Vintage Club by KINTO」の特選旧車レンタカーにスバル「レガシィツーリングワゴン」を追加すると発表した。貸し出し開始は12月21日からで、利用料金は2万6000円/6時間～。"
-      ],
-      "published_at": "2026-11-10T16:58:35+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "16:58",
-      "is_today": false
-    },
-    {
-      "id": "4ec2d17b6b22",
-      "title": "LINEヤフー、「Agent i」iOSアプリ提供開始",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155207.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/207/00.jpg",
-      "summary": "LINEヤフーは、AIエージェント「Agent i」のiOS版アプリをリリースした。Android版は順次提供予定。",
-      "summary_bullets": [
-        "LINEヤフーは、AIエージェント「Agent i」のiOS版アプリをリリースした。Android版は順次提供予定。"
-      ],
-      "published_at": "2026-11-10T16:53:01+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "16:53",
-      "is_today": false
-    },
-    {
-      "id": "8bed5b1b24ea",
-      "title": "スバル、2027年3月期第2四半期決算の営業利益12.9％増で1160億円 通期営業利益予想1500億円を維持",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155176.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/176/007.jpg",
-      "summary": "スバルは11月10日、2027年3月期第2四半期（2026年4月1日～9月30日）の決算を発表した。売上収益は2兆5134億円（前年同期比5.4％増）、営業利益は1160億円（同12.9％増）、税引前中間利益は1390億円（同7.3％増）、親会社の所有者に帰属する中間利益は1021億円（同12.9％増）となり、増収増益となった。",
-      "summary_bullets": [
-        "スバルは11月10日、2027年3月期第2四半期（2026年4月1日～9月30日）の決算を発表した。売上収益は2兆5134億円（前年同期比5.4％増）、営業利益は1160億円（同12.9％増）、税引前中間利益は1390億円（同7.3％増）、親会社の所有者に帰属する中間利益は1021億円（同12.9％増）となり、増収増益となった。"
-      ],
-      "published_at": "2026-11-10T16:17:10+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "16:17",
-      "is_today": false
-    },
-    {
-      "id": "507619a05d98",
-      "title": "レクサス改良「LX」、新車装着タイヤにダンロップのSUV用タイヤ「グラントレック」採用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155172.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/172/001.jpg",
-      "summary": "ダンロップ（住友ゴム工業）は10月28日、年次改良されたレクサス「LX」の新車装着用タイヤとして、SUV向けタイヤ「グラントレック（GRANDTREK） H/T31」「グラントレック H/T31T」の納入開始を発表した。",
-      "summary_bullets": [
-        "ダンロップ（住友ゴム工業）は10月28日、年次改良されたレクサス「LX」の新車装着用タイヤとして、SUV向けタイヤ「グラントレック（GRANDTREK） H/T31」「グラントレック H/T31T」の納入開始を発表した。"
-      ],
-      "published_at": "2026-11-10T16:10:38+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "16:10",
-      "is_today": false
-    },
-    {
-      "id": "aa8f66f98531",
-      "title": "Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news077.jpg",
-      "summary": "JR東日本が開始したコード決済「teppay」は、モバイルSuicaの高額決済補完や経済圏拡大を狙うサービスだ。開発期間の短縮を目的にJCBの金融モジュールを採用したが、社内連携や手数料面で課題も残る。起動速度や独自ポイント、本人確認書類の限定などは、PASMO連携や運用効率を優先した結果といえる。",
-      "summary_bullets": [
-        "JR東日本が開始したコード決済「teppay」は、モバイルSuicaの高額決済補完や経済圏拡大を狙うサービスだ。開発期間の短縮を目的にJCBの金融モジュールを採用したが、社内連携や手数料面で課題も残る。起動速度や独自ポイント、本人確認書類の限定などは、PASMO連携や運用効率を優先した結果といえる。"
-      ],
-      "published_at": "2026-11-10T16:02:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "16:02",
-      "is_today": false
-    },
-    {
-      "id": "d9ecea683f98",
-      "title": "8日間でOSを完成させる高い能力を持つClaude Fable 5.2とMythos 5.2をリリース",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155175.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/175/0300.jpg",
-      "summary": "Anthropicは、コーディング、推論、視覚などの分野で改良が加えられたClaude Fable 5.2とClaude Mythos 5.2をリリースした。FableとMythosは同じモデルを基盤にしているが、Fableは不正使用を防ぐための強力なサイバーセキュリティと生物学的保護機能を備えているため、誰でも利用することができる。",
-      "summary_bullets": [
-        "Anthropicは、コーディング、推論、視覚などの分野で改良が加えられたClaude Fable 5.2とClaude Mythos 5.2をリリースした。FableとMythosは同じモデルを基盤にしているが、Fableは不正使用を防ぐための強力なサイバーセキュリティと生物学的保護機能を備えているため、誰でも利用することができる。"
-      ],
-      "published_at": "2026-11-10T15:42:32+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "15:42",
-      "is_today": false
-    },
-    {
-      "id": "d8b92294d5ac",
-      "title": "ドコモ、「d払い」アプリ「送る・受け取る」機能をリニューアル",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155180.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/180/01_thumb.jpg",
-      "summary": "NTTドコモは6日、「d払い」アプリの「送る・受け取る」機能のリニューアルを4日に行い、d払い残高の送金・受け取りの履歴を相手ごとに確認できるようになったと案内した。",
-      "summary_bullets": [
-        "NTTドコモは6日、「d払い」アプリの「送る・受け取る」機能のリニューアルを4日に行い、d払い残高の送金・受け取りの履歴を相手ごとに確認できるようになったと案内した。"
-      ],
-      "published_at": "2026-11-10T15:37:05+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "15:37",
-      "is_today": false
-    },
-    {
-      "id": "d05a2267de3e",
-      "title": "オンラインカジノ利用やd払いアカウント売買は禁止――ドコモが呼びかけ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155166.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/166/01_thumb.jpg",
-      "summary": "NTTドコモは10日、オンラインカジノの利用や「d払い残高」のアカウント売買、譲り渡し、譲り受けなどは絶対に行わないよう、注意を呼びかけた。",
-      "summary_bullets": [
-        "NTTドコモは10日、オンラインカジノの利用や「d払い残高」のアカウント売買、譲り渡し、譲り受けなどは絶対に行わないよう、注意を呼びかけた。"
-      ],
-      "published_at": "2026-11-10T15:20:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "15:20",
-      "is_today": false
-    },
-    {
-      "id": "1db7c152c0cd",
-      "title": "「ピレリで冬のドライブを楽しもう！冬の購入キャンペーン」実施中 ガソリンギフト券4万円分が25人に当たる",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155134.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/134/100.jpg",
-      "summary": "ピレリジャパンは、10月20日～12月27日の間に対象商品を購入した人の中から抽選で25人に、ガソリンギフト券4万円分をプレゼントする「ピレリで冬のドライブを楽しもう！冬の購入キャンペーン」」を実施している。応募締め切りは2027年1月8日。",
-      "summary_bullets": [
-        "ピレリジャパンは、10月20日～12月27日の間に対象商品を購入した人の中から抽選で25人に、ガソリンギフト券4万円分をプレゼントする「ピレリで冬のドライブを楽しもう！冬の購入キャンペーン」」を実施している。応募締め切りは2027年1月8日。"
-      ],
-      "published_at": "2026-11-10T14:10:55+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "14:10",
-      "is_today": false
-    },
-    {
-      "id": "e57051a16b66",
-      "title": "氷砕けるスリムなミキサー　スムージーもさらさらジュースも",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2155044.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2155/044/001.jpg",
-      "summary": "電響社は、同社のオリジナルブランド「macaful(マカフル)」から、コンパクトで使いやすい「デイリーブレンドミキサー MKM-2C」を11月下旬に発売する。価格はオープンで、市場想定価格は5,478円。",
-      "summary_bullets": [
-        "電響社は、同社のオリジナルブランド「macaful(マカフル)」から、コンパクトで使いやすい「デイリーブレンドミキサー MKM-2C」を11月下旬に発売する。価格はオープンで、市場想定価格は5,478円。"
-      ],
-      "published_at": "2026-11-10T14:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "14:04",
-      "is_today": false
-    },
-    {
-      "id": "f3f5c41dc74c",
-      "title": "iPhone向けに「iOS 27.2.1」登場、Bluetoothでプロセスメモリ破壊される脆弱性など修正",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155140.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/140/00.jpg",
-      "summary": "アップルは、iPhoneやiPad向けに「iOS 27.2.1」「iPadOS 27.2.1」の提供を開始した。",
-      "summary_bullets": [
-        "アップルは、iPhoneやiPad向けに「iOS 27.2.1」「iPadOS 27.2.1」の提供を開始した。"
-      ],
-      "published_at": "2026-11-10T13:50:15+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:50",
-      "is_today": false
-    },
-    {
-      "id": "d93373f463cf",
-      "title": "世界最大の楽器見本市「Music China 2026」に行ってきた。NAMMの倍以上の巨大展示会で見た、中国発の楽器・DTM機材の今",
-      "url": "https://www.dtmstation.com/archives/81650.html",
-      "media": "DTMステーション",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/11/top.jpg",
-      "summary": "10月28日〜31日の4日間、中国・上海の上海新国際博覧中心（SNIEC）で、楽器の国際見本市「Music China 2026」が開催されました。23回目となる今年は31の国と地域から1,500以上の出展者が集まり、1 […]",
-      "summary_bullets": [
-        "10月28日〜31日の4日間、中国・上海の上海新国際博覧中心（SNIEC）で、楽器の国際見本市「Music China 2026」が開催されました。23回目となる今年は31の国と地域から1,500以上の出展者が集まり、1 […]"
-      ],
-      "published_at": "2026-11-10T13:42:45+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:42",
-      "is_today": false
-    },
-    {
-      "id": "1304cb1323ce",
-      "title": "生成AI利用の既婚女性、46％が夫よりAIに“心の距離”が近い",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155139.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/139/0200.jpg",
-      "summary": "エヌエヌ生命は、11月22日の「いい夫婦の日」にあわせ、全国の既婚女性800名を対象に、生成AIの利用実態と向き合い方に関する意識調査を実施し、その結果を公開した。",
-      "summary_bullets": [
-        "エヌエヌ生命は、11月22日の「いい夫婦の日」にあわせ、全国の既婚女性800名を対象に、生成AIの利用実態と向き合い方に関する意識調査を実施し、その結果を公開した。"
-      ],
-      "published_at": "2026-11-10T13:40:57+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:40",
-      "is_today": false
-    },
-    {
-      "id": "bd2d0d505d38",
-      "title": "KDDI、量子技術で基地局の電波干渉を抑制　上り低速化を8割削減",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155132.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/132/00.jpg",
-      "summary": "KDDIとKDDI総合研究所は、商用ネットワークにおける基地局間の電波干渉を抑える最適な設定を量子技術で算出し、10月2日から一部の基地局へ適用したと発表した。東京都中野区、北区、荒川区の一部エリアにある683局の基地局が対象。",
-      "summary_bullets": [
-        "KDDIとKDDI総合研究所は、商用ネットワークにおける基地局間の電波干渉を抑える最適な設定を量子技術で算出し、10月2日から一部の基地局へ適用したと発表した。東京都中野区、北区、荒川区の一部エリアにある683局の基地局が対象。"
-      ],
-      "published_at": "2026-11-10T13:36:11+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:36",
-      "is_today": false
-    },
-    {
-      "id": "5734fc589729",
-      "title": "外国人材の朝礼理解度が4倍に　三菱電機が提案する建設現場向け翻訳ツール2種",
-      "url": "https://built.itmedia.co.jp/bt/articles/2611/10/news084.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/bt/articles/2611/10/l_is20261110mitubishi01.jpg",
-      "summary": "現在の建設現場では、外国人材が働くことが日常風景となっている。しかし、現場のコミュニケーションに支障が生じれば、作業の遅れはもちろん、安全上の重大なリスクが生じてしまう。三菱電機は、建設現場の朝礼や細かな打ち合わせに特化した2種類の翻訳ツールを提供している。",
-      "summary_bullets": [
-        "現在の建設現場では、外国人材が働くことが日常風景となっている。しかし、現場のコミュニケーションに支障が生じれば、作業の遅れはもちろん、安全上の重大なリスクが生じてしまう。三菱電機は、建設現場の朝礼や細かな打ち合わせに特化した2種類の翻訳ツールを提供している。"
-      ],
-      "published_at": "2026-11-10T13:33:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:33",
-      "is_today": false
-    },
-    {
-      "id": "43627fe4ab0b",
-      "title": "ワイモバイルの国際ローミング、11月18日から月2GB無料に",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155071.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/071/ym.jpg",
-      "summary": "11月18日、ワイモバイルユーザー向けの国際ローミングサービスで、月2GBまで無料で通信できるようになる。",
-      "summary_bullets": [
-        "11月18日、ワイモバイルユーザー向けの国際ローミングサービスで、月2GBまで無料で通信できるようになる。"
-      ],
-      "published_at": "2026-11-10T13:26:05+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:26",
-      "is_today": false
-    },
-    {
-      "id": "61e0104493d6",
-      "title": "楽天モバイル、楽天ID未連携での利用を継続　12月以降の機能制限も撤回",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155121.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/121/rktn.jpg",
-      "summary": "楽天モバイルは6日、楽天IDと連携していないユーザーに対し、12月1日以降の一部機能の制限が実施されないことを明らかにした。今後も従来通りサービスを利用できる。自動解約や電話番号の失効も発生しない。",
-      "summary_bullets": [
-        "楽天モバイルは6日、楽天IDと連携していないユーザーに対し、12月1日以降の一部機能の制限が実施されないことを明らかにした。今後も従来通りサービスを利用できる。自動解約や電話番号の失効も発生しない。"
-      ],
-      "published_at": "2026-11-10T13:18:17+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:18",
-      "is_today": false
-    },
-    {
-      "id": "1aa60e5d39b7",
-      "title": "ソラコム、IoT・フィジカルAIの脆弱性診断から対策実装まで支援",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155127.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/127/00.jpg",
-      "summary": "ソラコムは、IoTやフィジカルAIをはじめ、ネットワークにつながるシステムを対象とした「IoT・フィジカルAIシステム セキュリティ診断・堅牢化サービス」を11月10日より提供開始する。",
-      "summary_bullets": [
-        "ソラコムは、IoTやフィジカルAIをはじめ、ネットワークにつながるシステムを対象とした「IoT・フィジカルAIシステム セキュリティ診断・堅牢化サービス」を11月10日より提供開始する。"
-      ],
-      "published_at": "2026-11-10T13:18:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:18",
-      "is_today": false
-    },
-    {
-      "id": "7765cca709fc",
-      "title": "小泉成器、手のひらサイズのボディシェーバー　USB-C充電",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2154853.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2154/853/00-top.jpg",
-      "summary": "小泉成器は、お風呂でも使える充電式コードレスの「ボディシェーバー KLC-0630」を11月5日に発売した。直販価格は4,180円。",
-      "summary_bullets": [
-        "小泉成器は、お風呂でも使える充電式コードレスの「ボディシェーバー KLC-0630」を11月5日に発売した。直販価格は4,180円。"
-      ],
-      "published_at": "2026-11-10T13:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:04",
-      "is_today": false
-    },
-    {
-      "id": "14e3671c70b7",
-      "title": "NVIDIA、日本のエージェント型AI開発に利用できる合成ペルソナデータを公開",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154908.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/908/0400.jpg",
-      "summary": "NVIDIAは、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」「Nemotron PII Japan」をHugging Faceで公開した。",
-      "summary_bullets": [
-        "NVIDIAは、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」「Nemotron PII Japan」をHugging Faceで公開した。"
-      ],
-      "published_at": "2026-11-10T13:00:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "13:00",
-      "is_today": false
-    },
-    {
-      "id": "aeac2632c700",
-      "title": "AMD、Ryzen AI HaloがWindows 11環境「Project Zenith」をサポート Ryzen AI Halo上でWindowsを使いすぐにコーディングを開始可能に",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155099.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/099/0100.jpg",
-      "summary": "AMDは、AI開発者向けミニワークステーション「Ryzen AI Halo」が、Microsoftの開発者に向け最適化されたWindows 11環境「Project Zenith」をサポートすると発表した。これにより、開発者向けに設計されたRyzen AI Halo上で、Windowsを使いすぐにコーディングを始めることができる。",
-      "summary_bullets": [
-        "AMDは、AI開発者向けミニワークステーション「Ryzen AI Halo」が、Microsoftの開発者に向け最適化されたWindows 11環境「Project Zenith」をサポートすると発表した。これにより、開発者向けに設計されたRyzen AI Halo上で、Windowsを使いすぐにコーディングを始めることができる。"
-      ],
-      "published_at": "2026-11-10T12:35:42+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "12:35",
-      "is_today": false
-    },
-    {
-      "id": "4c3199103543",
-      "title": "アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155059.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/059/00.jpg",
-      "summary": "アドビとウォルト・ディズニー・カンパニーは11月10日、クリエイティビティカンファレンス「Adobe MAX 2026」において、複数年にわたる戦略的提携を発表した。",
-      "summary_bullets": [
-        "アドビとウォルト・ディズニー・カンパニーは11月10日、クリエイティビティカンファレンス「Adobe MAX 2026」において、複数年にわたる戦略的提携を発表した。"
-      ],
-      "published_at": "2026-11-10T12:13:13+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "12:13",
-      "is_today": false
-    },
-    {
-      "id": "9c95469181ec",
-      "title": "ミニサイズで容量96WhのJackeryポータブル電源　ハンドルで持ちやすい",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2154687.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2154/687/00-top.jpg",
-      "summary": "Jackery Japanは、ハンドル付きの小型ポータブル電源「Jackery Explorer 100D」を、11月5日にJackery公式オンラインストアなどで発売した。価格は17,900円。本体カラーはサンドゴールドを先行発売し、ブラックは順次販売を開始する予定だ。",
-      "summary_bullets": [
-        "Jackery Japanは、ハンドル付きの小型ポータブル電源「Jackery Explorer 100D」を、11月5日にJackery公式オンラインストアなどで発売した。価格は17,900円。本体カラーはサンドゴールドを先行発売し、ブラックは順次販売を開始する予定だ。"
-      ],
-      "published_at": "2026-11-10T12:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "12:04",
-      "is_today": false
-    },
-    {
-      "id": "7bde752ad821",
-      "title": "横浜花博の開幕前にトゥンクトゥンクと最新技術を楽しく学ぶ　RFIDを体験してきた",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2154356.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2154/356/001.jpg",
-      "summary": "2027年3月19日～9月26日に横浜・上瀬谷で開催される「GREEN×EXPO 2027(2027年国際園芸博覧会)」。大阪・関西万博では未来社会のデザインをテーマに開催されたが、GREEN×EXPO 2027は自然や花がテーマとなっている。その開幕を前に新たな参加型プログラム「Green Tech Journey(グリーンテックジャーニー)」が発表された。2027年1月から開始予定。",
-      "summary_bullets": [
-        "2027年3月19日～9月26日に横浜・上瀬谷で開催される「GREEN×EXPO 2027(2027年国際園芸博覧会)」。大阪・関西万博では未来社会のデザインをテーマに開催されたが、GREEN×EXPO 2027は自然や花がテーマとなっている。その開幕を前に新たな参加型プログラム「Green Tech Journey(グリーンテックジャーニー)」が発表..."
-      ],
-      "published_at": "2026-11-10T11:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "11:04",
-      "is_today": false
-    },
-    {
-      "id": "f2a7a98cf277",
-      "title": "PC操作AI「ChatSense」、人の介入を検知して誤入力を防止する新機能発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155008.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/008/00.jpg",
-      "summary": "ナレッジセンスは11月9日、法人向けChatGPTサービス「ChatSense」において、人の操作を検知して画面を確認し直す機能を提供予定と発表した。",
-      "summary_bullets": [
-        "ナレッジセンスは11月9日、法人向けChatGPTサービス「ChatSense」において、人の操作を検知して画面を確認し直す機能を提供予定と発表した。"
-      ],
-      "published_at": "2026-11-10T10:22:11+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "10:22",
-      "is_today": false
-    },
-    {
-      "id": "194b84142c17",
-      "title": "レトロなカセットテープ型のメジャー　テクノ風など第2弾",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2154891.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2154/891/00-top.jpg",
-      "summary": "サンスター文具は、カセットテープのデザインをモチーフにした「カセットテープメジャー」の第2弾を、11月上旬に発売した。価格は825円。",
-      "summary_bullets": [
-        "サンスター文具は、カセットテープのデザインをモチーフにした「カセットテープメジャー」の第2弾を、11月上旬に発売した。価格は825円。"
-      ],
-      "published_at": "2026-11-10T10:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "10:04",
-      "is_today": false
-    },
-    {
-      "id": "3711a5f08e43",
-      "title": "山崎実業、レンジ対応の冷凍おかず容器　お弁当作り時短に",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2154876.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2154/876/00-top.jpg",
-      "summary": "山崎実業は、作り置きのおかずを小分けにして冷凍保存できる「冷凍おかず容器 タワー 電子レンジ対応」を発売した。直販価格は2,420円。",
-      "summary_bullets": [
-        "山崎実業は、作り置きのおかずを小分けにして冷凍保存できる「冷凍おかず容器 タワー 電子レンジ対応」を発売した。直販価格は2,420円。"
-      ],
-      "published_at": "2026-11-10T09:04:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "09:04",
       "is_today": false
     }
   ]
