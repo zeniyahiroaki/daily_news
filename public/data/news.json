@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T05:02:00.247028+09:00",
-  "generated_at_formatted": "2026/11/12 05:02",
+  "generated_at": "2026-11-12T11:43:42.217370+09:00",
+  "generated_at_formatted": "2026/11/12 11:43",
   "target_date": "2026-11-12",
   "yesterday_date": "2026-11-11",
-  "total_articles": 166,
-  "today_articles_count": 4,
+  "total_articles": 167,
+  "today_articles_count": 52,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 166
+      "count": 167
     },
     {
       "id": "tech",
@@ -19,12 +19,12 @@
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 40
+      "count": 37
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 20
+      "count": 19
     },
     {
       "id": "music",
@@ -39,10 +39,826 @@
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 7
+      "count": 12
     }
   ],
   "articles": [
+    {
+      "id": "031f30dd0f1f",
+      "title": "キーもノブも好きな操作に。ヤマハの新発想USBコントローラ、CC1がControl Center 2.0で大幅強化！",
+      "url": "https://www.dtmstation.com/archives/81623.html",
+      "media": "DTMステーション",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/08/DSC_0039.jpg",
+      "summary": "業務用デジタルミキサーにも使われているタッチセンス付きのモーターフェーダーに、Stream Deck対応のLCDキーを組み合わせた、ヤマハのUSBコントローラ、CC1。発売後もアップデートのたびに操作できる機器やソフトを […]",
+      "summary_bullets": [
+        "業務用デジタルミキサーにも使われているタッチセンス付きのモーターフェーダーに、Stream Deck対応のLCDキーを組み合わせた、ヤマハのUSBコントローラ、CC1。発売後もアップデートのたびに操作できる機器やソフトを […]"
+      ],
+      "published_at": "2026-11-12T11:43:28+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:43",
+      "is_today": true
+    },
+    {
+      "id": "f8716e2b3a4b",
+      "title": "爆発直後の超新星、撮れました",
+      "url": "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2025/11/14/supernova-1600x1067.jpg?w=1200",
+      "summary": "2025年11月14日の記事を編集して再掲載しています。その残骸は意外にもオリーブみたいなカタチ。天文学者らは、巨大な恒星が死を迎える瞬間を初めて画像として捉えることに成功。2024年4月、超新星「SN 2024ggi」が観測されてからわず…",
+      "summary_bullets": [
+        "2025年11月14日の記事を編集して再掲載しています。その残骸は意外にもオリーブみたいなカタチ。天文学者らは、巨大な恒星が死を迎える瞬間を初めて画像として捉えることに成功。2024年4月、超新星「SN 2024ggi」が観測されてからわず…"
+      ],
+      "published_at": "2026-11-12T11:35:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:35",
+      "is_today": true
+    },
+    {
+      "id": "340d75ed13e9",
+      "title": "スマートグラス「Even G2」用企業向けSDK公開。自社アプリと直接連携",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2155765.html",
+      "media": "AI Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/765/00.jpg",
+      "summary": "Even Realitiesは11月10日、スマートグラス「Even G2」向けに、「Enterprise SDK」をリリースするとともに、企業向けパートナーシップの受付を開始した。",
+      "summary_bullets": [
+        "Even Realitiesは11月10日、スマートグラス「Even G2」向けに、「Enterprise SDK」をリリースするとともに、企業向けパートナーシップの受付を開始した。"
+      ],
+      "published_at": "2026-11-12T11:34:44+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:34",
+      "is_today": true
+    },
+    {
+      "id": "79a0472e2a37",
+      "title": "Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2155787.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/787/001.jpg",
+      "summary": "Adobeは11月10日から、同社の年次イベント「Adobe MAX 2026」を、米国フロリダ州マイアミビーチ市の会場で開催している。その2日目の夕方には、Adobeの年次イベントで恒例となっている「Sneaks」(スニークス)が開催された。AdobeイベントでのSneaksは、Adobeの研究開発部門となる「Adobe Labs」に属する若手研究者が自分の進めている研究を発表する晴れの場。このSneaksで認められて、その後Photoshopの機能に採用されたり、新しいアプリとしてCreative Cloudのラインナップに加わったりなどもあり、若手研究者にとっては「登竜門」となるイベントでもある。",
+      "summary_bullets": [
+        "Adobeは11月10日から、同社の年次イベント「Adobe MAX 2026」を、米国フロリダ州マイアミビーチ市の会場で開催している。その2日目の夕方には、Adobeの年次イベントで恒例となっている「Sneaks」(スニークス)が開催された。AdobeイベントでのSneaksは、Adobeの研究開発部門となる「Adobe Labs」に属する若手研究者..."
+      ],
+      "published_at": "2026-11-12T11:31:21+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:31",
+      "is_today": true
+    },
+    {
+      "id": "13c6c9f55715",
+      "title": "OpenAI APIで国内推論可能に　GPT-6 Lunaのみ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/12/2000003129/10011950/2048",
+      "summary": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
+      "summary_bullets": [
+        "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。"
+      ],
+      "published_at": "2026-11-12T11:25:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:25",
+      "is_today": true
+    },
+    {
+      "id": "4fac9abc5ed7",
+      "title": "Xアプリ、動画の切り抜き機能を実装",
+      "url": "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/fd6f7f6a-96b2-438c-abb1-fc732cdabf9b/original.jpg?w=1200",
+      "summary": "Xアプリに投稿動画の切り抜き機能が実装されました。iOSとAndroidで利用可能で、作成者と元動画の投稿者が共に収益を得られる仕組みです。",
+      "summary_bullets": [
+        "Xアプリに投稿動画の切り抜き機能が実装されました。iOSとAndroidで利用可能で、作成者と元動画の投稿者が共に収益を得られる仕組みです。"
+      ],
+      "published_at": "2026-11-12T11:15:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:15",
+      "is_today": true
+    },
+    {
+      "id": "0e776271d6a6",
+      "title": "日産とキリンビール、横浜ものづくり共創プロジェクト開始 コラボカラーの「キックスロッククリーク」展示やスタンプラリーを実施",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155773.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/773/003.jpg",
+      "summary": "日産自動車とキリンビールは11月12日、横浜に根ざしたものづくりの魅力を次世代へ伝えるため、「横浜のものづくりを、未来へつなぐ」をテーマにした共創プロジェクトを開始すると発表した。",
+      "summary_bullets": [
+        "日産自動車とキリンビールは11月12日、横浜に根ざしたものづくりの魅力を次世代へ伝えるため、「横浜のものづくりを、未来へつなぐ」をテーマにした共創プロジェクトを開始すると発表した。"
+      ],
+      "published_at": "2026-11-12T11:10:59+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:10",
+      "is_today": true
+    },
+    {
+      "id": "37ee12ba4439",
+      "title": "週刊アンケート：【結果発表】カメラにファインダー欲しい？",
+      "url": "https://dc.watch.impress.co.jp/docs/enquete/2155756.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/756/20261112.jpg",
+      "summary": "週刊アンケート：【結果発表】カメラにファインダー欲しい？",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-12T11:00:44+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "f1afbe08108d",
+      "title": "ホンダ、SUVモデル「ZR-V」価格改定 装備や仕様を見直し20万7900円～30万8000円値下げ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155732.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/732/004.jpg",
+      "summary": "本田技研工業は11月12日、SUVモデル「ZR-V（ゼットアールブイ）」の価格改定を実施して11月13日に発売すると発表した。新価格は349万9100円～421万9600円。",
+      "summary_bullets": [
+        "本田技研工業は11月12日、SUVモデル「ZR-V（ゼットアールブイ）」の価格改定を実施して11月13日に発売すると発表した。新価格は349万9100円～421万9600円。"
+      ],
+      "published_at": "2026-11-12T11:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "1789ab28d0f0",
+      "title": "ELYZA Roboticsの曽根岡氏と今井氏が描くフィジカルAIの将来像",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2152774.html",
+      "media": "AI Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2152/774/01.jpg",
+      "summary": "フィジカルAIの社会実装に向け、KDDIグループの専門人材を結集して「ELYZA Robotics」が設立された。大規模言語モデル（LLM）の研究開発を手掛けてきたELYZAの知見と、KDDIの通信・計算資源や運用ノウハウを融合し、ロボット基盤モデルの構築から現場インテグレーションまでを一気通貫で実現することを目指している。",
+      "summary_bullets": [
+        "フィジカルAIの社会実装に向け、KDDIグループの専門人材を結集して「ELYZA Robotics」が設立された。大規模言語モデル（LLM）の研究開発を手掛けてきたELYZAの知見と、KDDIの通信・計算資源や運用ノウハウを融合し、ロボット基盤モデルの構築から現場インテグレーションまでを一気通貫で実現することを目指している。"
+      ],
+      "published_at": "2026-11-12T11:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "11390adab4a0",
+      "title": "27年度省エネ対応のハイセンスエアコン　365日対応窓口でサポート充実",
+      "url": "https://kaden.watch.impress.co.jp/docs/news/2155450.html",
+      "media": "家電 Watch",
+      "genre": "appliance",
+      "genre_name": "家電・ライフ",
+      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2155/450/1.jpg",
+      "summary": "ハイセンスジャパンは、2027年度省エネ基準を達成したルームエアコン「MHシリーズ」を11月下旬に発売する。6畳用/8畳用/10畳用の3機種をラインナップし、価格はオープン。市場想定価格は順に13万円前後、14万円前後、15万円前後。",
+      "summary_bullets": [
+        "ハイセンスジャパンは、2027年度省エネ基準を達成したルームエアコン「MHシリーズ」を11月下旬に発売する。6畳用/8畳用/10畳用の3機種をラインナップし、価格はオープン。市場想定価格は順に13万円前後、14万円前後、15万円前後。"
+      ],
+      "published_at": "2026-11-12T11:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "2d7a5d61021d",
+      "title": "目は届かない、でも気になる。徒歩6分先の愛車を、4Gカメラはどう守る？",
+      "url": "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/30/e3fb4f25-ddd9-4ac2-9d68-bc14f45ebf1a/original.jpg?w=1200",
+      "summary": "朝起きたら、愛車が消えていた…。ドラマの話じゃありません。僕の住む地域でも、実際にあった出来事です。それ以来、セキュリティカメラは「あったら安心」ではなく「なきゃダメなもの」だよなぁと痛感。幸い、最近はネットワーク対応で、スマホからチェック…",
+      "summary_bullets": [
+        "朝起きたら、愛車が消えていた…。ドラマの話じゃありません。僕の住む地域でも、実際にあった出来事です。それ以来、セキュリティカメラは「あったら安心」ではなく「なきゃダメなもの」だよなぁと痛感。幸い、最近はネットワーク対応で、スマホからチェック…"
+      ],
+      "published_at": "2026-11-12T11:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "321890ad6f86",
+      "title": "GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/749/3.jpg",
+      "summary": "TypeSafe AIの「Jev」で注目を集めた、文章を生成せず“判断だけ”を返すモデルの分野に、Googleも参入した。Googleは11月11日(米国時間)、判定処理に特化したAPI「Gemini Decisions API」を発表した。新モデル「Gemini Decision 1」を使用するもので、Google AI StudioのGemini API経由で同日から利用できる。料金は入力100万トークンあたり0.1ドル(約16円、1ドル=約160円換算)で、出力トークンは課金されない。",
+      "summary_bullets": [
+        "TypeSafe AIの「Jev」で注目を集めた、文章を生成せず“判断だけ”を返すモデルの分野に、Googleも参入した。Googleは11月11日(米国時間)、判定処理に特化したAPI「Gemini Decisions API」を発表した。新モデル「Gemini Decision 1」を使用するもので、Google AI StudioのGemini ..."
+      ],
+      "published_at": "2026-11-12T10:54:28+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:54",
+      "is_today": true
+    },
+    {
+      "id": "e285de0c77f3",
+      "title": "【本日みつけたお買い得品】エルゴトロンのモニターアームがセールで1万6,380円に",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155760.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/760/01.jpg",
+      "summary": "Amazonは本日までスマイルSaleを実施中だ。エルゴトロンのモニターアーム「LX デスクマウントアーム」は、11月3日の価格から1,820円引きで、1万6,380円にて購入できる。",
+      "summary_bullets": [
+        "Amazonは本日までスマイルSaleを実施中だ。エルゴトロンのモニターアーム「LX デスクマウントアーム」は、11月3日の価格から1,820円引きで、1万6,380円にて購入できる。"
+      ],
+      "published_at": "2026-11-12T10:52:21+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:52",
+      "is_today": true
+    },
+    {
+      "id": "41e8fd7d3546",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003127/10011947/2048",
+      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "summary_bullets": [
+        "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。"
+      ],
+      "published_at": "2026-11-12T10:49:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:49",
+      "is_today": true
+    },
+    {
+      "id": "1b3e6a50ef9b",
+      "title": "【本日みつけたお買い得品】掃き掃除/水拭き両対応のルンバが約2万5千円引き。ダイソンのロボット掃除機もセール",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155746.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/746/01.jpg",
+      "summary": "Amazonは本日までスマイルSaleを実施している。アイロボットのロボット掃除機「Roomba Plus 415 Combo」は、11月1日の価格から2万5,110円引きで、5万9,800円にて購入可能だ。",
+      "summary_bullets": [
+        "Amazonは本日までスマイルSaleを実施している。アイロボットのロボット掃除機「Roomba Plus 415 Combo」は、11月1日の価格から2万5,110円引きで、5万9,800円にて購入可能だ。"
+      ],
+      "published_at": "2026-11-12T10:29:16+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:29",
+      "is_today": true
+    },
+    {
+      "id": "1dc0c70bfc51",
+      "title": "藤島知子の「KYOJO VITA」参戦レポート",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155541.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/541/025.jpg",
+      "summary": "2026年11月1日、富士スピードウェイで開催された富士チャンピオンレースシリーズ第5戦で、私が参戦している「KYOJO VITA」の2026年シーズンの最終戦となる第3戦が開催された。",
+      "summary_bullets": [
+        "2026年11月1日、富士スピードウェイで開催された富士チャンピオンレースシリーズ第5戦で、私が参戦している「KYOJO VITA」の2026年シーズンの最終戦となる第3戦が開催された。"
+      ],
+      "published_at": "2026-11-12T10:25:36+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:25",
+      "is_today": true
+    },
+    {
+      "id": "c26950bd3ed3",
+      "title": "2万円台の半自動溶接機、AI搭載で板厚を選ぶだけ",
+      "url": "https://kaden.watch.impress.co.jp/docs/news/2155128.html",
+      "media": "家電 Watch",
+      "genre": "appliance",
+      "genre_name": "家電・ライフ",
+      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2155/128/001.jpg",
+      "summary": "EENOUR(イーノウ)は、独自開発のAIチップを搭載した半自動溶接機「MIG120LX」を発売した。直販価格は21,980円。",
+      "summary_bullets": [
+        "EENOUR(イーノウ)は、独自開発のAIチップを搭載した半自動溶接機「MIG120LX」を発売した。直販価格は21,980円。"
+      ],
+      "published_at": "2026-11-12T10:04:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:04",
+      "is_today": true
+    },
+    {
+      "id": "763bf15627b8",
+      "title": "バッファロー、「Qi2 25W」対応・有線もOKなコンセント一体型充電器発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155656.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/656/sub.jpg",
+      "summary": "バッファローは、ワイヤレス充電規格「Qi2 25W」に対応するコンセントプラグ一体型充電器「BSACPDW250C1X」シリーズを発売した。公式ECでの販売価格は6990円。Amazon.co.jpや楽天市場、Yahoo!ショッピングでも取り扱われる。",
+      "summary_bullets": [
+        "バッファローは、ワイヤレス充電規格「Qi2 25W」に対応するコンセントプラグ一体型充電器「BSACPDW250C1X」シリーズを発売した。公式ECでの販売価格は6990円。Amazon.co.jpや楽天市場、Yahoo!ショッピングでも取り扱われる。"
+      ],
+      "published_at": "2026-11-12T10:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "8e8ea0700734",
+      "title": "NTT、少量の業務文書から専門LLMを育成するチューニング技術 多様な教材の自動生成で「自己進化型tsuzumi」へ",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2155674.html",
+      "media": "AI Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/674/00.jpg",
+      "summary": "NTTは11月12日、業務マニュアルをはじめとする社内ドキュメントから、特定業務の専門知識を高精度に定着させる新たな大規模言語モデル（LLM）チューニング技術を開発したと発表した。",
+      "summary_bullets": [
+        "NTTは11月12日、業務マニュアルをはじめとする社内ドキュメントから、特定業務の専門知識を高精度に定着させる新たな大規模言語モデル（LLM）チューニング技術を開発したと発表した。"
+      ],
+      "published_at": "2026-11-12T10:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "bbbc1fb5264c",
+      "title": "【ワークマン】1500円の「ザットカジュアルミニショルダー」　防水生地＆止水ファスナーを採用",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_100item_01.jpg",
+      "summary": "ワークマンで「ザットカジュアルミニショルダー」が販売されている。防水生地と止水ファスナーを採用し、長さ調整が可能なショルダーベルトも備える。内部には視認性の高いオレンジ色の裏地を使用している。",
+      "summary_bullets": [
+        "ワークマンで「ザットカジュアルミニショルダー」が販売されている。防水生地と止水ファスナーを採用し、長さ調整が可能なショルダーベルトも備える。内部には視認性の高いオレンジ色の裏地を使用している。"
+      ],
+      "published_at": "2026-11-12T10:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "7bf2fcc54783",
+      "title": "PlayStation Portal プレーヤーの謎…本体ストレージの正体は？ 新たなハンドヘルドゲーム機となるか",
+      "url": "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/6342e0b3-7abc-41cb-9492-737da55d4d2a/original.jpg?w=1200",
+      "summary": "PS6携帯ゲーム機にはならない…？ 来月10日に発売となる「PlayStation Portal プレーヤー」の日本語専用モデル。謎の追加仕様が話題になっていたりします。PlayStation（PS）には据え置き型のコンソールゲーム機はあるものの、単独で遊べるハンドヘルド機は「PS Vita」以後は出ていません。もしや新モデルには大化けする性能が隠されているのでは？",
+      "summary_bullets": [
+        "PS6携帯ゲーム機にはならない…？ 来月10日に発売となる「PlayStation Portal プレーヤー」の日本語専用モデル。謎の追加仕様が話題になっていたりします。PlayStation（PS）には据え置き型のコンソールゲーム機はあるものの、単独で遊べるハンドヘルド機は「PS Vita」以後は出ていません。もしや新モデルには大化けする性能が隠され..."
+      ],
+      "published_at": "2026-11-12T10:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "1602ae6f62f4",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003126/10011943/2048",
+      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+      "summary_bullets": [
+        "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。"
+      ],
+      "published_at": "2026-11-12T09:56:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:56",
+      "is_today": true
+    },
+    {
+      "id": "32da6f599040",
+      "title": "ライトニングもUSB Type-Cも1本で充電できる「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」がセールで26％オフの1690円に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news053.jpg",
+      "summary": "Amazon.co.jpにて、ライトニング、USB Type-C、Micro USBの3種類の端子に対応した「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」が、参考価格の2290円から26％オフとなる1690円で販売中だ。",
+      "summary_bullets": [
+        "Amazon.co.jpにて、ライトニング、USB Type-C、Micro USBの3種類の端子に対応した「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」が、参考価格の2290円から26％オフとなる1690円で販売中だ。"
+      ],
+      "published_at": "2026-11-12T09:54:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:54",
+      "is_today": true
+    },
+    {
+      "id": "9b26a332eabd",
+      "title": "6マイクAI通話に対応した「Edifier X5 pro Gen 2」がセールで30％オフの4184円に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news052.jpg",
+      "summary": "Amazon.co.jpのタイムセールで、ハイブリッドANC搭載の「Edifier X5 pro Gen 2」が30％オフの4184円で販売中。ノイズキャンセリング機能や最大48時間再生に対応したワイヤレスイヤフォンだ。",
+      "summary_bullets": [
+        "Amazon.co.jpのタイムセールで、ハイブリッドANC搭載の「Edifier X5 pro Gen 2」が30％オフの4184円で販売中。ノイズキャンセリング機能や最大48時間再生に対応したワイヤレスイヤフォンだ。"
+      ],
+      "published_at": "2026-11-12T09:49:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:49",
+      "is_today": true
+    },
+    {
+      "id": "b468b73dceca",
+      "title": "ケーブル忘れの心配を解消できる着脱式コード内蔵モバイルバッテリー「CIO SMARTCOBY Pro SLIM CABLE」がセールで33％オフの3980円に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news051.jpg",
+      "summary": "Amazon.co.jpで「CIO SMARTCOBY Pro SLIM CABLE」が33％オフの3980円で販売中。本体に収納できる着脱可能なUSB Type-Cケーブルを備え、厚さ18mmかつ重量約189gの超薄型軽量設計を実現している。",
+      "summary_bullets": [
+        "Amazon.co.jpで「CIO SMARTCOBY Pro SLIM CABLE」が33％オフの3980円で販売中。本体に収納できる着脱可能なUSB Type-Cケーブルを備え、厚さ18mmかつ重量約189gの超薄型軽量設計を実現している。"
+      ],
+      "published_at": "2026-11-12T09:45:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:45",
+      "is_today": true
+    },
+    {
+      "id": "0fa3e2dd45a1",
+      "title": "ジェンスン・フアン解任準備と報道。NVIDIAを揺るがすハニートラップ疑惑",
+      "url": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/8628cafe-d677-4dbe-a9bf-242f87a48bdf/original.png?w=1200",
+      "summary": "NVIDIAのジェンスン・フアンCEOの不倫と中国人スパイ疑惑について、取締役会が解任準備と報道がありました。",
+      "summary_bullets": [
+        "NVIDIAのジェンスン・フアンCEOの不倫と中国人スパイ疑惑について、取締役会が解任準備と報道がありました。"
+      ],
+      "published_at": "2026-11-12T09:45:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:45",
+      "is_today": true
+    },
+    {
+      "id": "c861c4c8790a",
+      "title": "カラーバリエーション豊富な「UGREEN Air 65W Type-C充電器」がセールで25％オフの3209円に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news050.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news050.jpg",
+      "summary": "Amazon.co.jpで「UGREEN Air 65W Type-C充電器」が25％オフの3209円で販売中。小型ボディーで最大65W出力を備え、付属の100Wケーブルですぐに使える点が特徴だ。",
+      "summary_bullets": [
+        "Amazon.co.jpで「UGREEN Air 65W Type-C充電器」が25％オフの3209円で販売中。小型ボディーで最大65W出力を備え、付属の100Wケーブルですぐに使える点が特徴だ。"
+      ],
+      "published_at": "2026-11-12T09:41:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:41",
+      "is_today": true
+    },
+    {
+      "id": "0b3de424de61",
+      "title": "【本日みつけたお買い得品】ペン付属のスナドラ搭載Androidタブレットが5,570円引き",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155730.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/730/01.jpg",
+      "summary": "Amazonは本日までスマイルSaleを実施中だ。13型Androidタブレットのレノボ「Idea Tab Pro」(ZAHD0832JP)は、直近価格から5,570円引きで、8万6,200円にて購入できる。",
+      "summary_bullets": [
+        "Amazonは本日までスマイルSaleを実施中だ。13型Androidタブレットのレノボ「Idea Tab Pro」(ZAHD0832JP)は、直近価格から5,570円引きで、8万6,200円にて購入できる。"
+      ],
+      "published_at": "2026-11-12T09:40:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:40",
+      "is_today": true
+    },
+    {
+      "id": "a87b8a6759a3",
+      "title": "【本日みつけたお買い得品】Ryzen 7 PRO搭載ミニPCがAmazonで約2万2千円オフ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155726.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/726/01.jpg",
+      "summary": "Amazonにおいて、GMKtecのミニPC「M7 Ultra」が11月3日の価格から2万2,165円引きで、8万9,599円にて購入可能となっている。",
+      "summary_bullets": [
+        "Amazonにおいて、GMKtecのミニPC「M7 Ultra」が11月3日の価格から2万2,165円引きで、8万9,599円にて購入可能となっている。"
+      ],
+      "published_at": "2026-11-12T09:39:56+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:39",
+      "is_today": true
+    },
+    {
+      "id": "4223cd5bcf88",
+      "title": "炊飯器は価格の違いで本当においしさが変わるの? 象印の3機種を編集部が食べ比べ[Sponsored]",
+      "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2148526.html",
+      "media": "家電 Watch",
+      "genre": "appliance",
+      "genre_name": "家電・ライフ",
+      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2148/526/4130.jpg",
+      "summary": "ごはんを毎日食べるなら、できるだけおいしく炊きたい。そんな思いを持って店頭や販売サイトで探してみても、価格だけでも幅広く、どれを選べばいいかわからなくなることもあるかもしれません。",
+      "summary_bullets": [
+        "ごはんを毎日食べるなら、できるだけおいしく炊きたい。そんな思いを持って店頭や販売サイトで探してみても、価格だけでも幅広く、どれを選べばいいかわからなくなることもあるかもしれません。"
+      ],
+      "published_at": "2026-11-12T09:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "09:00",
+      "is_today": true
+    },
+    {
+      "id": "861390729b8c",
+      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003124/10011933/2048",
+      "summary": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。",
+      "summary_bullets": [
+        "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。"
+      ],
+      "published_at": "2026-11-12T08:46:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "08:46",
+      "is_today": true
+    },
+    {
+      "id": "8b42707992f5",
+      "title": "ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_st52693_docomore-01.jpg",
+      "summary": "NTTドコモの通信障害が、11日19時17分に完全復旧した。障害の原因は、5G SAの契約者を収容する交換機の輻輳（ふくそう）だったことが判明した。サイバー攻撃は確認されていないという。",
+      "summary_bullets": [
+        "NTTドコモの通信障害が、11日19時17分に完全復旧した。障害の原因は、5G SAの契約者を収容する交換機の輻輳（ふくそう）だったことが判明した。サイバー攻撃は確認されていないという。"
+      ],
+      "published_at": "2026-11-12T08:21:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "08:21",
+      "is_today": true
+    },
+    {
+      "id": "127cb745a722",
+      "title": "【家電レビュー】コードレスの小さなブロワーが、家中のお掃除に使えて便利!",
+      "url": "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2152196.html",
+      "media": "家電 Watch",
+      "genre": "appliance",
+      "genre_name": "家電・ライフ",
+      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2152/196/17.jpg",
+      "summary": "今回紹介するのは、この秋にShark(シャーク)が新しく発売した製品「Shark BlastBOSS コードレスブロワー」。家庭用としては、あまり馴染みのないブロワーという家電製品ですが、モーターで風を送り出し、ゴミや水滴などを吹き飛ばす「送風機」です。",
+      "summary_bullets": [
+        "今回紹介するのは、この秋にShark(シャーク)が新しく発売した製品「Shark BlastBOSS コードレスブロワー」。家庭用としては、あまり馴染みのないブロワーという家電製品ですが、モーターで風を送り出し、ゴミや水滴などを吹き飛ばす「送風機」です。"
+      ],
+      "published_at": "2026-11-12T08:04:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "08:04",
+      "is_today": true
+    },
+    {
+      "id": "17eae6d1c4eb",
+      "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/12/2000003113/10011898/2048",
+      "summary": "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。",
+      "summary_bullets": [
+        "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。"
+      ],
+      "published_at": "2026-11-12T08:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "7bfa9ff3db26",
+      "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
+      "url": "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/46fb1e42-ccb6-4b98-ac1f-0373b8f51bdc/original.png?w=1200",
+      "summary": "米中間選挙での民主党の勝利により、トランプコインをはじめとするトランプ一族の暗号資産事業が直面する政治的リスクと今後の見通しを解説します。",
+      "summary_bullets": [
+        "米中間選挙での民主党の勝利により、トランプコインをはじめとするトランプ一族の暗号資産事業が直面する政治的リスクと今後の見通しを解説します。"
+      ],
+      "published_at": "2026-11-12T08:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "a2b9875b014c",
+      "title": "ネット回線不要な500万画素の防犯カメラ、マスプロ",
+      "url": "https://kaden.watch.impress.co.jp/docs/news/2155414.html",
+      "media": "家電 Watch",
+      "genre": "appliance",
+      "genre_name": "家電・ライフ",
+      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2155/414/00-top.jpg",
+      "summary": "マスプロ電工は、インターネット回線のない場所でも撮影可能な防犯カメラ「SDカードレコーダー内蔵電動バリフォーカルカメラ ASM04B5」を11月中旬に発売する。価格はオープン。",
+      "summary_bullets": [
+        "マスプロ電工は、インターネット回線のない場所でも撮影可能な防犯カメラ「SDカードレコーダー内蔵電動バリフォーカルカメラ ASM04B5」を11月中旬に発売する。価格はオープン。"
+      ],
+      "published_at": "2026-11-12T07:04:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:04",
+      "is_today": true
+    },
+    {
+      "id": "ffe716f147c3",
+      "title": "ヤマハ発動機の体験型ブランドショールーム「Yamaha E-Ride Base」11月11日リニューアルオープン 一部展示車両はまたがっての記念撮影も可能に",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155636.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/636/001.jpg",
+      "summary": "ヤマハ発動機は、横浜・みなとみらいで運営するブランド発信拠点「Yamaha E-Ride Base」を11月11日にリニューアルオープンした。",
+      "summary_bullets": [
+        "ヤマハ発動機は、横浜・みなとみらいで運営するブランド発信拠点「Yamaha E-Ride Base」を11月11日にリニューアルオープンした。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "f5fccb2b3550",
+      "title": "岡嶋和幸の「あとで買う」 2,022点目：どんな角度で置いても勝手に自立するブロアー - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2155663.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/663/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "6294b3a067fb",
+      "title": "木製なのに角張ったデザインの「RICOH GR IV」用グリップ　SQUAREHOODブランドの新製品",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2155383.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/383/01.jpg",
+      "summary": "株式会社オリエンタルホビーは、「RICOH GR IV」向けの木製ハンドグリップを11月10日（火）に発売した。",
+      "summary_bullets": [
+        "株式会社オリエンタルホビーは、「RICOH GR IV」向けの木製ハンドグリップを11月10日（火）に発売した。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "f931739e2839",
+      "title": "「Osmo Pocket」と連動する小型電動スライダー　スライド＋3軸のカメラワークが可能に　全長863mmのロングタイプも",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2154164.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2154/164/07.jpg",
+      "summary": "株式会社浅沼商会は、IFOOTAGEの電動スライダーに、全長863mmのロングモデルと軽量機材向けモデルを追加。11月13日（金）に発売する。",
+      "summary_bullets": [
+        "株式会社浅沼商会は、IFOOTAGEの電動スライダーに、全長863mmのロングモデルと軽量機材向けモデルを追加。11月13日（金）に発売する。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "76ede9c04295",
+      "title": "栗山英樹氏が語る“担がれるリーダー“の条件　大切にする「一つの約束事」とは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/12/news005.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/12/cover_news005.jpg",
+      "summary": "組織の都合ではなく「その人にとってプラスかマイナスか」。北海道日本ハムファイターズCBO（チーフ・ベースボール・オフィサー）の栗山英樹氏が決断の際に心掛けてきた基準だ。これからのリーダーの在り方、部下を信じて任せる覚悟、相手の心に届く言葉とは。栗山氏の発言から読み解く。",
+      "summary_bullets": [
+        "組織の都合ではなく「その人にとってプラスかマイナスか」。北海道日本ハムファイターズCBO（チーフ・ベースボール・オフィサー）の栗山英樹氏が決断の際に心掛けてきた基準だ。これからのリーダーの在り方、部下を信じて任せる覚悟、相手の心に届く言葉とは。栗山氏の発言から読み解く。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "05b735a31f71",
+      "title": "「成果志向のBIM」とは何か？　Autodeskが描くAI時代の鉄道インフラ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news016.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/12/cover_news016.jpg",
+      "summary": "米Autodeskは、イタリア・ローマで鉄道業界向けの年次カンファレンス「Autodesk Rail Summit 2026」を開催した。設計情報のモデル化や共有にとどまらず、AIと人間が協働して目標とする成果の実現を目指す「成果志向のBIM」を提唱。鉄道インフラの設計から運用／維持管理までをデータでつなぐ戦略や、イタリアの鉄道グループによるAI活用事例などが紹介された。",
+      "summary_bullets": [
+        "米Autodeskは、イタリア・ローマで鉄道業界向けの年次カンファレンス「Autodesk Rail Summit 2026」を開催した。設計情報のモデル化や共有にとどまらず、AIと人間が協働して目標とする成果の実現を目指す「成果志向のBIM」を提唱。鉄道インフラの設計から運用／維持管理までをデータでつなぐ戦略や、イタリアの鉄道グループによるAI活用事..."
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "ee9d9faac116",
+      "title": "テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう",
+      "url": "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/2ec08a0a-c3bc-406b-a60c-558ae417788d/original.jpg?w=1200",
+      "summary": "セキュリティ実験中のホワイトハッカーAIがテスト環境を脱走し、実在企業の社内システムから顧客データを持ち出した事件の詳細を解説します。",
+      "summary_bullets": [
+        "セキュリティ実験中のホワイトハッカーAIがテスト環境を脱走し、実在企業の社内システムから顧客データを持ち出した事件の詳細を解説します。"
+      ],
+      "published_at": "2026-11-12T07:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "335babaaf13f",
+      "title": "【山口真弘の電子書籍タッチアンドトライ】iPad miniが実質フルモデルチェンジ、電子書籍の読み心地はどう変わった？",
+      "url": "https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/694/01.jpg",
+      "summary": "【山口真弘の電子書籍タッチアンドトライ】iPad miniが実質フルモデルチェンジ、電子書籍の読み心地はどう変わった？",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-12T06:12:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "06:12",
+      "is_today": true
+    },
+    {
+      "id": "bb7b1a72463e",
+      "title": "AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/692/1.jpg",
+      "summary": "米MetaのAIエージェント「Muse」が突然来日した。米国で9月8日に発表されてから「しばらく日本には来なさそうだ」と思って高を括っていたが、10月23日に日本でもサービス開始すると発表。筆者としては少し寝耳に水の気分だったのだが、AI時代においては変化も速いということなのだろう。",
+      "summary_bullets": [
+        "米MetaのAIエージェント「Muse」が突然来日した。米国で9月8日に発表されてから「しばらく日本には来なさそうだ」と思って高を括っていたが、10月23日に日本でもサービス開始すると発表。筆者としては少し寝耳に水の気分だったのだが、AI時代においては変化も速いということなのだろう。"
+      ],
+      "published_at": "2026-11-12T06:07:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "06:07",
+      "is_today": true
+    },
+    {
+      "id": "1671457339e7",
+      "title": "曖昧な作業標準書と“ぶっつけ本番”の量産が品質不良を生む理由",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news002.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/12/cover_news002.jpg",
+      "summary": "設計品質と量産品質の構造を整理し、品質不良が生まれるメカニズムを体系的に考察する連載「製品リコールを生む品質不良の原因と対策」。第8回では、作業標準書の曖昧さや品質管理文書、治具／装置の準備不足が量産品質に及ぼす影響について、PP（量産試作）で発生した具体的な事例を交えて解説する。",
+      "summary_bullets": [
+        "設計品質と量産品質の構造を整理し、品質不良が生まれるメカニズムを体系的に考察する連載「製品リコールを生む品質不良の原因と対策」。第8回では、作業標準書の曖昧さや品質管理文書、治具／装置の準備不足が量産品質に及ぼす影響について、PP（量産試作）で発生した具体的な事例を交えて解説する。"
+      ],
+      "published_at": "2026-11-12T06:00:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "4aeab4cc7882",
+      "title": "年間1500万件の問い合わせが寄せられるauショップ、AI活用で「回答時間90％削減」　その先で目指すことは",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/12/news012.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/12/cover_news012.jpg",
+      "summary": "年間1500万件の相談が寄せられるauショップ。6000超のマニュアル検索においてAIを活用し、回答時間を90％削減した。徹底的な効率化の先で同社が目指すものとは。",
+      "summary_bullets": [
+        "年間1500万件の相談が寄せられるauショップ。6000超のマニュアル検索においてAIを活用し、回答時間を90％削減した。徹底的な効率化の先で同社が目指すものとは。"
+      ],
+      "published_at": "2026-11-12T05:30:00+09:00",
+      "published_date": "2026-11-12",
+      "published_time": "05:30",
+      "is_today": true
+    },
     {
       "id": "9e2b15b0789a",
       "title": "[石川温の「スマホ業界 Watch」]有機ELで薄型化した新「iPad mini」を試す、iPhone Duo併用での本音",
@@ -1387,23 +2203,6 @@
       "is_today": false
     },
     {
-      "id": "26eee883a524",
-      "title": "知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも",
-      "url": "https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/08/b398bd1f-3b2b-4127-bc49-a907740b6a7d/original.jpg?w=1200",
-      "summary": "取引先からのカレンダー招待でも安心できません。見慣れた名前に、いつもの会社のアドレス。仕事中に届いたら、深く考えずに登録してしまいそうですよね。しかし最近、Googleカレンダーの招待を入り口に、Googleアカウントを乗っ取る攻撃が報告さ…",
-      "summary_bullets": [
-        "取引先からのカレンダー招待でも安心できません。見慣れた名前に、いつもの会社のアドレス。仕事中に届いたら、深く考えずに登録してしまいそうですよね。しかし最近、Googleカレンダーの招待を入り口に、Googleアカウントを乗っ取る攻撃が報告さ…"
-      ],
-      "published_at": "2026-11-11T13:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "13:00",
-      "is_today": false
-    },
-    {
       "id": "ea2024dd39ea",
       "title": "キャンペーン：最大10万円分のVisaギフトカード進呈――「OM SYSTEM 冬のキャッシュバック」が11月13日（金）から",
       "url": "https://dc.watch.impress.co.jp/docs/news/campaign/2155469.html",
@@ -1455,23 +2254,6 @@
       "is_today": false
     },
     {
-      "id": "7568b304fe35",
-      "title": "Googleのブラックフライデーは20日から。Pixel 11プレミアム機種が実質最大14万5000円お得！",
-      "url": "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/7bd63637-4c71-409a-9291-84cfd5a27480/original.jpg?w=1200",
-      "summary": "Googleストアのブラックフライデーセールが11月20日から開催されます。Pixel 11シリーズやPixel 10aなど対象製品がお得に購入できる詳細情報を解説します。",
-      "summary_bullets": [
-        "Googleストアのブラックフライデーセールが11月20日から開催されます。Pixel 11シリーズやPixel 10aなど対象製品がお得に購入できる詳細情報を解説します。"
-      ],
-      "published_at": "2026-11-11T12:30:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "12:30",
-      "is_today": false
-    },
-    {
       "id": "673b932ea445",
       "title": "“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開",
       "url": "https://pc.watch.impress.co.jp/docs/news/2155445.html",
@@ -1506,23 +2288,6 @@
       "is_today": false
     },
     {
-      "id": "630a133ba719",
-      "title": "LINEのあの顔。AIエージェント「Agent i」が単独アプリになりました",
-      "url": "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/fda15d25-b3d1-40fd-aa9d-709cfee9787d/original.jpg?w=1200",
-      "summary": "LINEヤフーのAIエージェントAgent iが単独アプリとして登場。最新情報の通知や推し活など日本生活に根ざした便利な機能が利用可能です。",
-      "summary_bullets": [
-        "LINEヤフーのAIエージェントAgent iが単独アプリとして登場。最新情報の通知や推し活など日本生活に根ざした便利な機能が利用可能です。"
-      ],
-      "published_at": "2026-11-11T12:15:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "12:15",
-      "is_today": false
-    },
-    {
       "id": "6625a01edc88",
       "title": "【本日みつけたお買い得品】5,000円引き！EdifierのPCスピーカーがスマイルSaleでオトク",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155458.html",
@@ -1537,23 +2302,6 @@
       "published_at": "2026-11-11T12:14:25+09:00",
       "published_date": "2026-11-11",
       "published_time": "12:14",
-      "is_today": false
-    },
-    {
-      "id": "c03530f49ed6",
-      "title": "Googleの11月版「Pixel Drop」　Geminiのタスク代行が日本でも利用可能に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news065.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news065.jpg",
-      "summary": "Googleは、Pixel向けアップデート「Pixel Drop」の11月版を発表した。Gemini機能のPixel 10への拡大や「車内モード」の自動有効化などの改善が含まれる。また、Androidの「Find Hub」を用いた純正紛失防止タグ「Google Pixel Tag」を国内で11月12日に発売することも発表した。",
-      "summary_bullets": [
-        "Googleは、Pixel向けアップデート「Pixel Drop」の11月版を発表した。Gemini機能のPixel 10への拡大や「車内モード」の自動有効化などの改善が含まれる。また、Androidの「Find Hub」を用いた純正紛失防止タグ「Google Pixel Tag」を国内で11月12日に発売することも発表した。"
-      ],
-      "published_at": "2026-11-11T12:05:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "12:05",
       "is_today": false
     },
     {
@@ -1659,40 +2407,6 @@
       "is_today": false
     },
     {
-      "id": "23ea00a839ec",
-      "title": "AppleのターナスCEO、AI開発に慎重すぎるフェデリギ上級副社長に「もっとがんばれよ」と圧をかける",
-      "url": "https://www.gizmodo.jp/article/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/10/2ddaa884-5025-4c95-abdf-f8cd54f5a54a/original.png?w=1200",
-      "summary": "Appleのジョン・ターナスCEOがAI開発の加速を求め、慎重なフェデリギ上級副社長に圧をかけている最新事情を解説します",
-      "summary_bullets": [
-        "Appleのジョン・ターナスCEOがAI開発の加速を求め、慎重なフェデリギ上級副社長に圧をかけている最新事情を解説します"
-      ],
-      "published_at": "2026-11-11T12:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "c99f5e38ea2b",
-      "title": "Anthoropic、IPO内容公開。1株1万2000円前後予想、早ければ来週にも上場",
-      "url": "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/20c26be8-5c16-4188-996c-7ef37f45e28b/original.jpg?w=1200",
-      "summary": "AnthropicがIPOの詳細を公開。予想株価や上場スケジュール、市場の懸念による企業評価額の背景をわかりやすく解説します。",
-      "summary_bullets": [
-        "AnthropicがIPOの詳細を公開。予想株価や上場スケジュール、市場の懸念による企業評価額の背景をわかりやすく解説します。"
-      ],
-      "published_at": "2026-11-11T11:55:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:55",
-      "is_today": false
-    },
-    {
       "id": "a5ce9ad2da45",
       "title": "Siri AI対応しネット障害時も家電操作が可能なスマートリモコン リンクジャパン、独自BTメッシュ技術搭載の「リンクREMO」",
       "url": "https://ai.watch.impress.co.jp/docs/news/2155431.html",
@@ -1710,23 +2424,6 @@
       "is_today": false
     },
     {
-      "id": "0dc1e063633c",
-      "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
-      "url": "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/11/96071e5e-2f92-47cf-a0f0-41fcdc869367/original.jpg?w=1200",
-      "summary": "Switchのシステムアップデートで追加されたニンテンドーeショップのゲーム「プレゼント」機能について解説します。家族へのソフト贈呈が手軽になる便利な新機能の使い方や注意点をまとめました。",
-      "summary_bullets": [
-        "Switchのシステムアップデートで追加されたニンテンドーeショップのゲーム「プレゼント」機能について解説します。家族へのソフト贈呈が手軽になる便利な新機能の使い方や注意点をまとめました。"
-      ],
-      "published_at": "2026-11-11T11:45:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:45",
-      "is_today": false
-    },
-    {
       "id": "b423edbba1fa",
       "title": "GAZOO Racing、6速MT+4WD+2シーターの「GRMNカローラ」 国内190台限定で価格980万円",
       "url": "https://car.watch.impress.co.jp/docs/news/2155417.html",
@@ -1741,23 +2438,6 @@
       "published_at": "2026-11-11T11:39:49+09:00",
       "published_date": "2026-11-11",
       "published_time": "11:39",
-      "is_today": false
-    },
-    {
-      "id": "f697c9bdd87c",
-      "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
-      "url": "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2025/09/18/250918_montbell_01.jpg?w=1200",
-      "summary": "2025年9月21日の記事を編集して再掲載しています。旅行や出張の荷造りをしていると、「これって何キロくらいかな？」と気になったことはありませんか？特に飛行機に乗るときは重量制限があるので、しっかり把握しておきたいところです。荷物の重さを簡…",
-      "summary_bullets": [
-        "2025年9月21日の記事を編集して再掲載しています。旅行や出張の荷造りをしていると、「これって何キロくらいかな？」と気になったことはありませんか？特に飛行機に乗るときは重量制限があるので、しっかり把握しておきたいところです。荷物の重さを簡…"
-      ],
-      "published_at": "2026-11-11T11:35:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:35",
       "is_today": false
     },
     {
@@ -1812,23 +2492,6 @@
       "is_today": false
     },
     {
-      "id": "fcb97d276b70",
-      "title": "ドコモで再び通信障害が発生　5G SAに原因ありと判明【更新】",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_st52693_docomo-01.jpg",
-      "summary": "11月11日から、NTTドコモの携帯電話が利用しにくい状況が全国で発生している。障害が起きているサービスは、ドコモ回線とドコモ回線を利用するMVNOサービスで、音声通話、データ通信、SMSいずれも利用しにくい状況となっている。",
-      "summary_bullets": [
-        "11月11日から、NTTドコモの携帯電話が利用しにくい状況が全国で発生している。障害が起きているサービスは、ドコモ回線とドコモ回線を利用するMVNOサービスで、音声通話、データ通信、SMSいずれも利用しにくい状況となっている。"
-      ],
-      "published_at": "2026-11-11T11:24:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:24",
-      "is_today": false
-    },
-    {
       "id": "bea2b4f0c222",
       "title": "第410回：名前を言ってしまいたいあの人【カデーニャカンパニー】- 家電 Watch",
       "url": "https://kaden.watch.impress.co.jp/docs/kadenya/comic/2155408.html",
@@ -1863,57 +2526,6 @@
       "is_today": false
     },
     {
-      "id": "9da9f86671d4",
-      "title": "Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155391.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/391/01.jpg",
-      "summary": "マウスコンピューターは、12.2型モバイルノート「mouse X2」シリーズから、Ryzen 5 216搭載モデルを発売した。コスモブルー、フロストゴールド、パールホワイトの3色を用意し、価格は19万9,800円。",
-      "summary_bullets": [
-        "マウスコンピューターは、12.2型モバイルノート「mouse X2」シリーズから、Ryzen 5 216搭載モデルを発売した。コスモブルー、フロストゴールド、パールホワイトの3色を用意し、価格は19万9,800円。"
-      ],
-      "published_at": "2026-11-11T11:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "11:00",
-      "is_today": false
-    },
-    {
-      "id": "710fbd5d5ff0",
-      "title": "「できるWindows 11 2027年 改訂6版 Copilot対応」が3日間限定で全文無料公開",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155365.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/365/01.jpg",
-      "summary": "インプレスは、AI活用にも対応したWindows 11の解説書「できるWindows 11 2027年 改訂6版 Copilot対応」を11月26日に発売する。価格は紙版/電子版ともに1,100円。また、11月11日から13日までの3日間限定で先行全文無料公開のキャンペーンを行なう。",
-      "summary_bullets": [
-        "インプレスは、AI活用にも対応したWindows 11の解説書「できるWindows 11 2027年 改訂6版 Copilot対応」を11月26日に発売する。価格は紙版/電子版ともに1,100円。また、11月11日から13日までの3日間限定で先行全文無料公開のキャンペーンを行なう。"
-      ],
-      "published_at": "2026-11-11T10:56:23+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:56",
-      "is_today": false
-    },
-    {
-      "id": "f844d4b3a926",
-      "title": "「スパコンの限界を超えた」量子コンピュータ「黎明」、56量子ビットで新段階へ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155393.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/393/1.jpg",
-      "summary": "国立研究開発法人理化学研究所(理研)は2026年11月10日、量子コンピュータ「黎明(れいめい)」が56量子ビットの「System Model H2」へとアップグレードしたのにあわせて、理研和光キャンパスで記念式典を開催した。",
-      "summary_bullets": [
-        "国立研究開発法人理化学研究所(理研)は2026年11月10日、量子コンピュータ「黎明(れいめい)」が56量子ビットの「System Model H2」へとアップグレードしたのにあわせて、理研和光キャンパスで記念式典を開催した。"
-      ],
-      "published_at": "2026-11-11T10:54:38+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:54",
-      "is_today": false
-    },
-    {
       "id": "b72f8707501e",
       "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
@@ -1931,74 +2543,6 @@
       "is_today": false
     },
     {
-      "id": "2f6c4713a078",
-      "title": "【本日みつけたお買い得品】Acerの14型OLED搭載Androidタブレットが約8千円引き！AmazonスマイルSale",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155384.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/384/01.jpg",
-      "summary": "Amazonでは11月4日から12日までスマイルSaleを開催している。セールにおいて、Acerの14.0型Androidタブレット「Iconia X14」(X14-11MN-H16Q)が、直近価格から7,921円引きとなる6万9,879円で販売されている。",
-      "summary_bullets": [
-        "Amazonでは11月4日から12日までスマイルSaleを開催している。セールにおいて、Acerの14.0型Androidタブレット「Iconia X14」(X14-11MN-H16Q)が、直近価格から7,921円引きとなる6万9,879円で販売されている。"
-      ],
-      "published_at": "2026-11-11T10:39:42+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:39",
-      "is_today": false
-    },
-    {
-      "id": "f1f7f03d4392",
-      "title": "AndroidとPixelの11月版更新配信開始　「Pixel 11」シリーズで撮影した写真が保存されない不具合などを修正",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news058.jpg",
-      "summary": "GoogleはAndroidとPixel向けの11月版月例アップデートを公開した。Android全体で215件、Pixel固有で166件の脆弱性を修正し、多数の深刻な問題に対処した。さらにPixel 11での写真保存エラーやバッテリー消費問題、全機種共通のUI不具合なども改善されている。",
-      "summary_bullets": [
-        "GoogleはAndroidとPixel向けの11月版月例アップデートを公開した。Android全体で215件、Pixel固有で166件の脆弱性を修正し、多数の深刻な問題に対処した。さらにPixel 11での写真保存エラーやバッテリー消費問題、全機種共通のUI不具合なども改善されている。"
-      ],
-      "published_at": "2026-11-11T10:04:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:04",
-      "is_today": false
-    },
-    {
-      "id": "7d9438074908",
-      "title": "はっ水加工されたスマホショルダー　オープンポケットと3つのカードポケット付き",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news041.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_rakuten_01.jpg",
-      "summary": "楽天市場店でmozのスマホショルダーが販売されている。はっ水加工の生地を使用。メインルームにはオープンポケットと3つのカードポケット付き。",
-      "summary_bullets": [
-        "楽天市場店でmozのスマホショルダーが販売されている。はっ水加工の生地を使用。メインルームにはオープンポケットと3つのカードポケット付き。"
-      ],
-      "published_at": "2026-11-11T10:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "5e8c84f5c23a",
-      "title": "USB Type-C機器に直挿しできるマイク付きのカナル型イヤフォン「オーディオテクニカ ATH-CKD3C WH」がセールで32％オフの2090円に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news057.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news057.jpg",
-      "summary": "Amazon.co.jpのスマイルSaleで、オーディオテクニカのマイク付きカナル型イヤフォン「ATH-CKD3C WH」が32％オフの2090円で販売中。USB Type-C直挿し対応でクリアな音質と通話を楽しめる。",
-      "summary_bullets": [
-        "Amazon.co.jpのスマイルSaleで、オーディオテクニカのマイク付きカナル型イヤフォン「ATH-CKD3C WH」が32％オフの2090円で販売中。USB Type-C直挿し対応でクリアな音質と通話を楽しめる。"
-      ],
-      "published_at": "2026-11-11T09:56:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:56",
-      "is_today": false
-    },
-    {
       "id": "6efef1827087",
       "title": "日本の軽自動車規格は、グローバルの自動車規格となるのか？　スズキのCES出展から始まった軽自動車規格の広がり",
       "url": "https://car.watch.impress.co.jp/docs/news/2155362.html",
@@ -2013,57 +2557,6 @@
       "published_at": "2026-11-11T09:53:16+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:53",
-      "is_today": false
-    },
-    {
-      "id": "a689608f3e7e",
-      "title": "レノボ、RTX Spark搭載でペン入力対応の16型2in1",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155355.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/355/001.jpg",
-      "summary": "レノボ・ジャパンは、RTX Spark N1Xを搭載するノートPC「Yoga 9n 2-in-1 Gen 11」および「Yoga Pro 9n Gen 11」を順次販売している。Grace CPUとBlackwell RTX GPUを統合したArmベースのプラットフォームとユニファイドメモリを備え、ローカル環境でのAI処理や映像制作などに対応する。",
-      "summary_bullets": [
-        "レノボ・ジャパンは、RTX Spark N1Xを搭載するノートPC「Yoga 9n 2-in-1 Gen 11」および「Yoga Pro 9n Gen 11」を順次販売している。Grace CPUとBlackwell RTX GPUを統合したArmベースのプラットフォームとユニファイドメモリを備え、ローカル環境でのAI処理や映像制作などに対応する。"
-      ],
-      "published_at": "2026-11-11T09:53:02+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:53",
-      "is_today": false
-    },
-    {
-      "id": "efa8afe40d24",
-      "title": "高出力機器の急速充電に適した「Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセールで36％オフの890円に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news055.jpg",
-      "summary": "Amazon.co.jpで、「Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセール中だ。定価1390円のところ、36％オフの890円で販売されている。",
-      "summary_bullets": [
-        "Amazon.co.jpで、「Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセール中だ。定価1390円のところ、36％オフの890円で販売されている。"
-      ],
-      "published_at": "2026-11-11T09:52:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:52",
-      "is_today": false
-    },
-    {
-      "id": "436a66e651fa",
-      "title": "タッチパッドでもペンが使える、RTX Spark搭載の2in1「Yoga 9n」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155359.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/359/494.jpg",
-      "summary": "レノボ・ジャパンは11月10日、個人向けPCの新製品を発表した。NVIDIA RTX Spark N1Xを搭載したノートPCとして、11月2日から販売を開始している「Lenovo Yoga Pro 9n Gen 11」に加えて、360度回転するディスプレイを搭載した「Lenovo Yoga 9n 2-in-1 Gen 11」を11月27日から新たに発売するほか、7色のカラーバリエーションを用意した「Lenovo IdeaPad Vibe Gen 12」を12月4日から発売する。",
-      "summary_bullets": [
-        "レノボ・ジャパンは11月10日、個人向けPCの新製品を発表した。NVIDIA RTX Spark N1Xを搭載したノートPCとして、11月2日から販売を開始している「Lenovo Yoga Pro 9n Gen 11」に加えて、360度回転するディスプレイを搭載した「Lenovo Yoga 9n 2-in-1 Gen 11」を11月27日から新たに発売..."
-      ],
-      "published_at": "2026-11-11T09:42:22+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:42",
       "is_today": false
     },
     {
@@ -2101,23 +2594,6 @@
       "is_today": false
     },
     {
-      "id": "4dd335e7c798",
-      "title": "レノボ、7色展開でキーキャップ交換もできる「IdeaPad Vibe Gen 12」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155347.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/347/001.jpg",
-      "summary": "レノボ・ジャパンは、ノートPC「IdeaPad Vibe Gen 12」シリーズを12月4日に発売する。15.3型AMDモデル、14型AMDモデル、14型Qualcommモデルの3機種を展開し、価格は23万6,280円から。",
-      "summary_bullets": [
-        "レノボ・ジャパンは、ノートPC「IdeaPad Vibe Gen 12」シリーズを12月4日に発売する。15.3型AMDモデル、14型AMDモデル、14型Qualcommモデルの3機種を展開し、価格は23万6,280円から。"
-      ],
-      "published_at": "2026-11-11T09:26:16+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "09:26",
-      "is_today": false
-    },
-    {
       "id": "bee9ac4d75e2",
       "title": "フォルクスワーゲン、一部モデルの仕様変更に伴い車両＆オプション価格を変更",
       "url": "https://car.watch.impress.co.jp/docs/news/2155088.html",
@@ -2149,23 +2625,6 @@
       "published_at": "2026-11-11T09:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "09:00",
-      "is_today": false
-    },
-    {
-      "id": "4e95e36876f3",
-      "title": "Meta、Claude Haiku 5.5同等でコスト3分の1のAIモデル「Muse Ember」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2155244.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/244/001.jpg",
-      "summary": "Metaは11月9日(現地時間)、Claude Haiku 5.5に匹敵する性能を3分の1のコストで実現するというAIモデル「Muse Ember」を発表した。Muse CodeやMeta Model APIのほか、Google Cloud、Oracle Cloudで提供する。",
-      "summary_bullets": [
-        "Metaは11月9日(現地時間)、Claude Haiku 5.5に匹敵する性能を3分の1のコストで実現するというAIモデル「Muse Ember」を発表した。Muse CodeやMeta Model APIのほか、Google Cloud、Oracle Cloudで提供する。"
-      ],
-      "published_at": "2026-11-11T08:58:24+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "08:58",
       "is_today": false
     },
     {
@@ -2339,23 +2798,6 @@
       "is_today": false
     },
     {
-      "id": "13a5142acc5e",
-      "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news028.jpg",
-      "summary": "ホテル検索で「Agoda」が示す異常な安さの理由は？ その原資は宿泊施設に負担を強いているのではないか？ 最高商務責任者のダミアン・フィルシュ氏は「ホテルに負担させるなら私は東京の街を歩けない」と否定する。自社のマーケティング資金で身銭を切る「自腹値引き」と、1秒に3000万件の価格を計算する基盤、そして自社営業に外部ライバルの在庫をぶつけて戦わせる激しい社内競争から、最安値を追求する裏側に迫る。",
-      "summary_bullets": [
-        "ホテル検索で「Agoda」が示す異常な安さの理由は？ その原資は宿泊施設に負担を強いているのではないか？ 最高商務責任者のダミアン・フィルシュ氏は「ホテルに負担させるなら私は東京の街を歩けない」と否定する。自社のマーケティング資金で身銭を切る「自腹値引き」と、1秒に3000万件の価格を計算する基盤、そして自社営業に外部ライバルの在庫をぶつけて戦わせる激..."
-      ],
-      "published_at": "2026-11-11T07:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
       "id": "260a9573c72c",
       "title": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ",
       "url": "https://car.watch.impress.co.jp/docs/news/2155344.html",
@@ -2370,91 +2812,6 @@
       "published_at": "2026-11-11T06:34:50+09:00",
       "published_date": "2026-11-11",
       "published_time": "06:34",
-      "is_today": false
-    },
-    {
-      "id": "25d64753a4eb",
-      "title": "CAE解析で降伏応力を超えたらアウト？　応力集中と強度評価の落とし穴",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news004.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/11/cover_news004.jpg",
-      "summary": "本連載「冴えない機械の救いかた」では、メカ設計の失敗事例を題材に、CAE解析や計測技術を用いて、不具合の発生メカニズムとその対策を解説していく。第16回は、CAE解析で降伏応力を超える箇所が見つかった場合の考え方を取り上げる。局所的な降伏と塑性崩壊の違いや、金属疲労の予測における応力集中部の評価方法について解説する。",
-      "summary_bullets": [
-        "本連載「冴えない機械の救いかた」では、メカ設計の失敗事例を題材に、CAE解析や計測技術を用いて、不具合の発生メカニズムとその対策を解説していく。第16回は、CAE解析で降伏応力を超える箇所が見つかった場合の考え方を取り上げる。局所的な降伏と塑性崩壊の違いや、金属疲労の予測における応力集中部の評価方法について解説する。"
-      ],
-      "published_at": "2026-11-11T06:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "c652899a2554",
-      "title": "企業のアプリで進む、個人情報を「あえて持たない」選択　「ゆで太郎」「ウェンディーズ」はどう対策？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news014.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news014.jpg",
-      "summary": "「焼肉きんぐ」や「無印良品」など、大手企業で相次いでいる大規模な不正アクセス。AIの活用によってサイバー攻撃が高度化する中、問われるのは「そもそも企業は詳細な個人情報を集める必要があるのか」という点だ。",
-      "summary_bullets": [
-        "「焼肉きんぐ」や「無印良品」など、大手企業で相次いでいる大規模な不正アクセス。AIの活用によってサイバー攻撃が高度化する中、問われるのは「そもそも企業は詳細な個人情報を集める必要があるのか」という点だ。"
-      ],
-      "published_at": "2026-11-11T05:30:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "05:30",
-      "is_today": false
-    },
-    {
-      "id": "2e89a465ff41",
-      "title": "KDDI役員「ネットワーク利用者が変わる」　KDDI・富士通の“AIが通信する時代”の戦略",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news019.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news019.jpg",
-      "summary": "KDDIが、通信インフラとAI計算基盤を融合する「デジタルベルト構想」を推進している。全国のデータセンターや通信網、海底ケーブル、衛星通信を一体的に活用し、AIを必要な場所に届ける狙いだ。富士通CTOとAI時代のインフラの在り方や、日本の強みについて議論した。",
-      "summary_bullets": [
-        "KDDIが、通信インフラとAI計算基盤を融合する「デジタルベルト構想」を推進している。全国のデータセンターや通信網、海底ケーブル、衛星通信を一体的に活用し、AIを必要な場所に届ける狙いだ。富士通CTOとAI時代のインフラの在り方や、日本の強みについて議論した。"
-      ],
-      "published_at": "2026-11-11T05:30:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "05:30",
-      "is_today": false
-    },
-    {
-      "id": "40e91642a05f",
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000002913/10011402/2048",
-      "summary": "海外で規制する動きが出ている「AI眼鏡（スマートグラス）」。負の側面が注目されがちだが、ビジネスや医療の現場で活用される事例も出始めている。",
-      "summary_bullets": [
-        "海外で規制する動きが出ている「AI眼鏡（スマートグラス）」。負の側面が注目されがちだが、ビジネスや医療の現場で活用される事例も出始めている。"
-      ],
-      "published_at": "2026-11-11T05:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "05:00",
-      "is_today": false
-    },
-    {
-      "id": "da29211741f9",
-      "title": "最大256コア＋1GBのL3キャッシュ！　AMDが組み込み機器向けCPU「EPYC Embedded 9006 SP7」を発表　11月15日から順次出荷開始",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news030.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/11/cover_news030.jpg",
-      "summary": "AMDの組み込み機器向けハイエンドCPU「EPYC Embedded」が、第6世代EPYCベースとなる。128コア製品を皮切りに、2026年末までに全製品が市場に出荷されるという。",
-      "summary_bullets": [
-        "AMDの組み込み機器向けハイエンドCPU「EPYC Embedded」が、第6世代EPYCベースとなる。128コア製品を皮切りに、2026年末までに全製品が市場に出荷されるという。"
-      ],
-      "published_at": "2026-11-11T02:00:00+09:00",
-      "published_date": "2026-11-11",
-      "published_time": "02:00",
       "is_today": false
     },
     {
@@ -2523,346 +2880,6 @@
       "published_at": "2026-11-11T00:00:00+09:00",
       "published_date": "2026-11-11",
       "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "68a085ff54da",
-      "title": "アドビ、クリエイティブツールをエージェント化。Google等と提携",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154867.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2154/867/00.jpg",
-      "summary": "アドビは、クリエイティビティカンファレンス「Adobe MAX 2026」を11月10日（米国時間）より開催し、「Adobe Creative Cloud」「Adobe Firefly」「Adobe GenStudio」に新たに導入するAIエージェントや新機能を発表した。",
-      "summary_bullets": [
-        "アドビは、クリエイティビティカンファレンス「Adobe MAX 2026」を11月10日（米国時間）より開催し、「Adobe Creative Cloud」「Adobe Firefly」「Adobe GenStudio」に新たに導入するAIエージェントや新機能を発表した。"
-      ],
-      "published_at": "2026-11-10T23:00:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "e677b7392b8c",
-      "title": "「Adobe Firefly」にデザイン・動画編集機能を統合した新キャンバス　Adobeアプリと他社製AIエージェントとの連携も強化",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2155297.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/297/01.jpg",
-      "summary": "アドビは11月10日（火）、生成AIツール「Adobe Firefly」の機能拡充を発表した。あわせて、GoogleやMicrosoftとの戦略的パートナーシップ拡大、サードパーティ製AIからアドビ製アプリを直接操作可能にする「MCP（Model Context Protocol）インテグレーション」のプレビューの公開など、包括的なAI施策を示している。",
-      "summary_bullets": [
-        "アドビは11月10日（火）、生成AIツール「Adobe Firefly」の機能拡充を発表した。あわせて、GoogleやMicrosoftとの戦略的パートナーシップ拡大、サードパーティ製AIからアドビ製アプリを直接操作可能にする「MCP（Model Context Protocol）インテグレーション」のプレビューの公開など、包括的なAI施策を示している。"
-      ],
-      "published_at": "2026-11-10T23:00:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "35ba3b573235",
-      "title": "Photoshop、Lightroomに「目をひらく」など新機能　Premiere「カラーモード」が一般提供へ",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2155208.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/208/09.jpg",
-      "summary": "アドビは11月10日（火）、Adobe Creative Cloudの最新アップデートを発表した。このページでは写真・動画向け編集ソフト「Adobe Photoshop」「Adobe Lightroom」「Adobe Premiere」の新機能を紹介する。",
-      "summary_bullets": [
-        "アドビは11月10日（火）、Adobe Creative Cloudの最新アップデートを発表した。このページでは写真・動画向け編集ソフト「Adobe Photoshop」「Adobe Lightroom」「Adobe Premiere」の新機能を紹介する。"
-      ],
-      "published_at": "2026-11-10T23:00:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "b78a4feda78b",
-      "title": "ホンダ、2027年3月期第2四半期決算は過去最高の2輪販売などで売上収益13.2％増の12兆377億円、営業利益48.1％増の6487億円と増収増益",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155296.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/296/001.jpg",
-      "summary": "本田技研工業は11月10日、2027年3月期 第2四半期（2026年4月1日～9月30日）の決算説明会をYouTubeでライブ配信した。",
-      "summary_bullets": [
-        "本田技研工業は11月10日、2027年3月期 第2四半期（2026年4月1日～9月30日）の決算説明会をYouTubeでライブ配信した。"
-      ],
-      "published_at": "2026-11-10T20:37:06+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "20:37",
-      "is_today": false
-    },
-    {
-      "id": "a13d55db761f",
-      "title": "NVIDIA「Agentic AI Day Japan 2026」講演レポート",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155320.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/320/01.jpg",
-      "summary": "NVIDIAは11月10日、都内でAIエージェントの社会実装をテーマにしたカンファレンス「Agentic AI Day Japan 2026」を開催した。本稿ではその模様をレポートする。",
-      "summary_bullets": [
-        "NVIDIAは11月10日、都内でAIエージェントの社会実装をテーマにしたカンファレンス「Agentic AI Day Japan 2026」を開催した。本稿ではその模様をレポートする。"
-      ],
-      "published_at": "2026-11-10T20:24:23+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "20:24",
-      "is_today": false
-    },
-    {
-      "id": "97a2dcd9787d",
-      "title": "ブリヂストンタイヤ装着チームがスーパーGTのGT500クラスでシリーズチャンピオン獲得 2016年から11連覇を達成",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155224.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/224/002.jpg",
-      "summary": "ブリヂストンは11月10日、国内最高峰の4輪レース「2026 AUTOBACS SUPER GT」（以下、スーパーGT）のGT500クラスで、POTENZA（ポテンザ）ブランドのタイヤでサポートする「STANLEY TEAM KUNIMITSU」（ドライバー：山本尚貴選手、牧野任祐選手）がシリーズチャンピオンを獲得したと発表した。",
-      "summary_bullets": [
-        "ブリヂストンは11月10日、国内最高峰の4輪レース「2026 AUTOBACS SUPER GT」（以下、スーパーGT）のGT500クラスで、POTENZA（ポテンザ）ブランドのタイヤでサポートする「STANLEY TEAM KUNIMITSU」（ドライバー：山本尚貴選手、牧野任祐選手）がシリーズチャンピオンを獲得したと発表した。"
-      ],
-      "published_at": "2026-11-10T20:16:24+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "20:16",
-      "is_today": false
-    },
-    {
-      "id": "04d32e21e1c9",
-      "title": "スズキ、新型軽EV「e SKY」が約1か月で4036台受注 2026年度第2四半期決算は売上収益19.4％増の3兆4192億円で過去最高",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155264.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/264/003.jpg",
-      "summary": "スズキは11月10日、2026年度第2四半期（2026年4月1日～9月30日）の決算を発表した。当期の売上収益は前年同期比19.4％増の3兆4192億円、営業利益は同5.5％増の2916億円、税引前利益は同20.8％増の4014億円、親会社の所有者に帰属する中間利益は同31.6％増の2537億円となった。",
-      "summary_bullets": [
-        "スズキは11月10日、2026年度第2四半期（2026年4月1日～9月30日）の決算を発表した。当期の売上収益は前年同期比19.4％増の3兆4192億円、営業利益は同5.5％増の2916億円、税引前利益は同20.8％増の4014億円、親会社の所有者に帰属する中間利益は同31.6％増の2537億円となった。"
-      ],
-      "published_at": "2026-11-10T20:01:15+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "20:01",
-      "is_today": false
-    },
-    {
-      "id": "6e77e6a162d5",
-      "title": "Oracle副社長が提案する「AI時代の建設業を支えるデータ基盤」、自社DC開発でも検証",
-      "url": "https://built.itmedia.co.jp/bt/articles/2611/10/news087.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/bt/articles/2611/10/l_is20261110oracle01111.jpg",
-      "summary": "AI時代のデータセンターなどインフラ需要の急増に対し、建設業の生産性向上は今まで以上に急務となっている。OracleはデータとAIを統合したクラウドソリューション群で、建設プロジェクトの意思決定と、企画・見積・積算・施工などのプロセス管理の高度化を提案する。既に累計9兆ドル以上のプロジェクトを支援してきており、自社のデータセンター開発プロジェクトでも検証し、課題やニーズを洗い出して製品開発にフィードバックもしているという。",
-      "summary_bullets": [
-        "AI時代のデータセンターなどインフラ需要の急増に対し、建設業の生産性向上は今まで以上に急務となっている。OracleはデータとAIを統合したクラウドソリューション群で、建設プロジェクトの意思決定と、企画・見積・積算・施工などのプロセス管理の高度化を提案する。既に累計9兆ドル以上のプロジェクトを支援してきており、自社のデータセンター開発プロジェクトでも検..."
-      ],
-      "published_at": "2026-11-10T19:46:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "19:46",
-      "is_today": false
-    },
-    {
-      "id": "75245a44a3f4",
-      "title": "「Oracle AI World 2026」で業務変革を加速する新AI戦略発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155309.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/309/0.jpg",
-      "summary": "米オラクルの年次カンファレンス「Oracle AI World 2026」における一連の発表を受け、日本オラクルはメディア向けブリーフィングを開催した。登壇した吉川顕太郎氏や中山耕一郎氏、小野俊隆氏により、「OCI（Oracle Cloud Infrastructure）」「AI Database」「AI Data Platform（AIDP）」、そしてSaaS群である「Fusion Applications」に至る広範な技術アップデートが解説された。",
-      "summary_bullets": [
-        "米オラクルの年次カンファレンス「Oracle AI World 2026」における一連の発表を受け、日本オラクルはメディア向けブリーフィングを開催した。登壇した吉川顕太郎氏や中山耕一郎氏、小野俊隆氏により、「OCI（Oracle Cloud Infrastructure）」「AI Database」「AI Data Platform（AIDP）」、そし..."
-      ],
-      "published_at": "2026-11-10T19:45:18+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "19:45",
-      "is_today": false
-    },
-    {
-      "id": "24e354022c81",
-      "title": "AIと人が連携し特殊詐欺被害を送金前に防ぐ実証実験を本格展開 トレンドマイクロとSocioFuture、金融機関と警察の官民一体で取り組む",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155294.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/294/0500.jpg",
-      "summary": "トレンドマイクロとSocioFutureは、SNS型投資詐欺などの「事前防衛」を目的とした実証実験を複数の金融機関で本格的に開始したと発表した。",
-      "summary_bullets": [
-        "トレンドマイクロとSocioFutureは、SNS型投資詐欺などの「事前防衛」を目的とした実証実験を複数の金融機関で本格的に開始したと発表した。"
-      ],
-      "published_at": "2026-11-10T18:54:52+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:54",
-      "is_today": false
-    },
-    {
-      "id": "4a042ca293e0",
-      "title": "レノボ、7色・2サイズから選べる「IdeaPad Vibe Gen 12」　12月発売",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155263.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/263/122.jpg",
-      "summary": "レノボ・ジャパンは、新型ノートパソコン「IdeaPad Vibe Gen 12」を12月4日に発売する。価格は23万6280円～。",
-      "summary_bullets": [
-        "レノボ・ジャパンは、新型ノートパソコン「IdeaPad Vibe Gen 12」を12月4日に発売する。価格は23万6280円～。"
-      ],
-      "published_at": "2026-11-10T18:54:23+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:54",
-      "is_today": false
-    },
-    {
-      "id": "2a9ed69d826a",
-      "title": "レノボ、RTX Spark搭載のノートパソコン「Lenovo Yoga 9n 2-in-1 Gen 11」27日発売　約91万円",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155222.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/222/93.jpg",
-      "summary": "レノボ・ジャパンは、Windows搭載の2-in-1ノートパソコン「Lenovo Yoga 9n 2-in-1 Gen 11」を11月27日に発売する。量販店向けモデルの価格は91万2780円。",
-      "summary_bullets": [
-        "レノボ・ジャパンは、Windows搭載の2-in-1ノートパソコン「Lenovo Yoga 9n 2-in-1 Gen 11」を11月27日に発売する。量販店向けモデルの価格は91万2780円。"
-      ],
-      "published_at": "2026-11-10T18:54:18+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:54",
-      "is_today": false
-    },
-    {
-      "id": "6145cbf24e23",
-      "title": "「RICOH GR IV」に安定性向上の新ファームウェア　「GR III」「GR IIIx」にはGR 30周年の終了画面が",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2155266.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/266/01.jpg",
-      "summary": "リコーイメージング株式会社は11月10日（火）、レンズ一体型カメラ「GR IV」「GR III」「GR IIIx」の最新ファームウェアを公開した。「GR IV Monochrome」などの派生モデルについても更新されている。",
-      "summary_bullets": [
-        "リコーイメージング株式会社は11月10日（火）、レンズ一体型カメラ「GR IV」「GR III」「GR IIIx」の最新ファームウェアを公開した。「GR IV Monochrome」などの派生モデルについても更新されている。"
-      ],
-      "published_at": "2026-11-10T18:41:55+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:41",
-      "is_today": false
-    },
-    {
-      "id": "c788fd32d04a",
-      "title": "スズキ、二輪車・ATVの世界累計生産台数1億台を達成",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155243.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/243/002.jpg",
-      "summary": "スズキは11月4日、二輪車とATV（All Terrain Vehicle＝バギー車）を合わせた世界累計生産台数が1億台を達成したと発表した。内訳は二輪車が9740万台、バギー車が277万台。",
-      "summary_bullets": [
-        "スズキは11月4日、二輪車とATV（All Terrain Vehicle＝バギー車）を合わせた世界累計生産台数が1億台を達成したと発表した。内訳は二輪車が9740万台、バギー車が277万台。"
-      ],
-      "published_at": "2026-11-10T18:39:24+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:39",
-      "is_today": false
-    },
-    {
-      "id": "d6023e554f11",
-      "title": "ニンテンドーアカウントの「かんたんログイン」、サービス終了へ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155278.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/278/00.jpg",
-      "summary": "任天堂は、ニンテンドーアカウントの「かんたんログイン」について、Google／Apple連携を2027年1月26日16時に終了すると発表した。これに伴い、かんたんログインのサービス自体も終了する。",
-      "summary_bullets": [
-        "任天堂は、ニンテンドーアカウントの「かんたんログイン」について、Google／Apple連携を2027年1月26日16時に終了すると発表した。これに伴い、かんたんログインのサービス自体も終了する。"
-      ],
-      "published_at": "2026-11-10T18:31:16+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:31",
-      "is_today": false
-    },
-    {
-      "id": "9f9c455281fb",
-      "title": "LINEヤフー、アプリならではの機能を搭載した「Agent i」アプリ版を提供",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2155275.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2155/275/0400.jpg",
-      "summary": "LINEヤフーは、個人ユーザー向けAIエージェント「Agent i」のスマートフォンおよびタブレット版アプリ（iOS版）の提供を開始した。Android版は順次提供予定。",
-      "summary_bullets": [
-        "LINEヤフーは、個人ユーザー向けAIエージェント「Agent i」のスマートフォンおよびタブレット版アプリ（iOS版）の提供を開始した。Android版は順次提供予定。"
-      ],
-      "published_at": "2026-11-10T18:27:22+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:27",
-      "is_today": false
-    },
-    {
-      "id": "8f26ca57d2ac",
-      "title": "JR東日本、28年春にウォークスルー改札を本格導入　Suicaをかざさず通過",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/254/jr1.jpg",
-      "summary": "JR東日本は10日、スマートフォンを取り出さずに改札を通過できるウォークスルー改札を2028年春から首都圏40駅に本格導入すると発表した。超広帯域無線技術のUWBを活用し、手荷物が多い利用者のシームレスな移動を実現する。",
-      "summary_bullets": [
-        "JR東日本は10日、スマートフォンを取り出さずに改札を通過できるウォークスルー改札を2028年春から首都圏40駅に本格導入すると発表した。超広帯域無線技術のUWBを活用し、手荷物が多い利用者のシームレスな移動を実現する。"
-      ],
-      "published_at": "2026-11-10T18:22:14+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:22",
-      "is_today": false
-    },
-    {
-      "id": "bd363ae0578e",
-      "title": "写真家・菅原貴徳氏による野鳥撮影講座 OM-1 Mark IIの強みとおすすめレンズを解説",
-      "url": "https://dc.watch.impress.co.jp/docs/news/event/2155250.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/250/01.jpg",
-      "summary": "株式会社ビックカメラは、写真家の菅原貴徳氏によるセミナー「OM SYSTEM で叶えるプロ写真家セミナー 野鳥撮影徹底講座」を、11月14日（土）にビックカメラ柏店で開催する。参加費は無料で、事前申し込みは不要。",
-      "summary_bullets": [
-        "株式会社ビックカメラは、写真家の菅原貴徳氏によるセミナー「OM SYSTEM で叶えるプロ写真家セミナー 野鳥撮影徹底講座」を、11月14日（土）にビックカメラ柏店で開催する。参加費は無料で、事前申し込みは不要。"
-      ],
-      "published_at": "2026-11-10T18:15:00+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:15",
-      "is_today": false
-    },
-    {
-      "id": "6d40610835b7",
-      "title": "本日のお買い得商品 冬場の風邪予防に。2.4Lスチーム式加湿器が7,500円台",
-      "url": "https://dc.watch.impress.co.jp/docs/news/saleitem/2155252.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2155/252/01.jpg",
-      "summary": "AmazonスマイルSALEで、山善のスチーム式加湿器「KS-J242」が通常価格9,979円のところ、24%OFFの7,539円で販売中だ。",
-      "summary_bullets": [
-        "AmazonスマイルSALEで、山善のスチーム式加湿器「KS-J242」が通常価格9,979円のところ、24%OFFの7,539円で販売中だ。"
-      ],
-      "published_at": "2026-11-10T18:06:27+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "18:06",
-      "is_today": false
-    },
-    {
-      "id": "eace2d69a047",
-      "title": "HOTONEがボーカルエフェクターに本格参入。Music China 2026でボーカルエフェクトVOCLASを披露、初音ミクとのコラボも予告",
-      "url": "https://www.dtmstation.com/archives/81581.html",
-      "media": "DTMステーション",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/11/DSC_6881a.jpg",
-      "summary": "2026年10月28日～31日、中国・上海の上海新国際博覧中心（SNIEC）で、楽器の総合見本市、Music China 2026が開催されました。会場の中でも特に目立っていたのが、湖南省長沙市に本社を置く急成長中のメー […]",
-      "summary_bullets": [
-        "2026年10月28日～31日、中国・上海の上海新国際博覧中心（SNIEC）で、楽器の総合見本市、Music China 2026が開催されました。会場の中でも特に目立っていたのが、湖南省長沙市に本社を置く急成長中のメー […]"
-      ],
-      "published_at": "2026-11-10T17:35:49+09:00",
-      "published_date": "2026-11-10",
-      "published_time": "17:35",
       "is_today": false
     }
   ]
