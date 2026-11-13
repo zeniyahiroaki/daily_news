@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T20:11:11.622670+09:00",
-  "generated_at_formatted": "2026/11/13 20:11",
+  "generated_at": "2026-11-13T20:54:49.699725+09:00",
+  "generated_at_formatted": "2026/11/13 20:54",
   "target_date": "2026-11-13",
   "yesterday_date": "2026-11-12",
   "total_articles": 202,
-  "today_articles_count": 141,
+  "today_articles_count": 142,
   "genres": [
     {
       "id": "all",
@@ -43,6 +43,74 @@
     }
   ],
   "articles": [
+    {
+      "id": "3a8933ef65bd",
+      "title": "楽天グループ、第3四半期の連結売上高が過去最高　EBITDAは1235億円で成長加速",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/437/005.jpg",
+      "summary": "楽天グループは13日、2026年度第3四半期決算を発表した。連結売上収益が第3四半期として過去最高を更新し、EBITDAも第3四半期として過去最高の1235億円に達した。携帯電話事業の赤字縮小やフィンテックの好調に加え、AI導入によるコスト削減が進み、収益構造が大きく改善した。",
+      "summary_bullets": [
+        "楽天グループは13日、2026年度第3四半期決算を発表した。連結売上収益が第3四半期として過去最高を更新し、EBITDAも第3四半期として過去最高の1235億円に達した。携帯電話事業の赤字縮小やフィンテックの好調に加え、AI導入によるコスト削減が進み、収益構造が大きく改善した。"
+      ],
+      "published_at": "2026-11-13T20:49:15+09:00",
+      "published_date": "2026-11-13",
+      "published_time": "20:49",
+      "is_today": true
+    },
+    {
+      "id": "e6df074e643a",
+      "title": "【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFF！",
+      "url": "https://computermusic.jp/2026/11/world-6-instruments/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/12/shot_EW7I_01.jpg",
+      "summary": "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ET... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ET... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO W..."
+      ],
+      "published_at": "2026-11-13T20:46:02+09:00",
+      "published_date": "2026-11-13",
+      "published_time": "20:46",
+      "is_today": true
+    },
+    {
+      "id": "79441121cb25",
+      "title": "【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFF！",
+      "url": "https://computermusic.jp/2026/11/trio11-be/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/04/Trio11Be_34_G-e1618579998344.jpeg",
+      "summary": "究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFFとなっています。 Focal Professional... The post 【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFFとなっています。 Focal Professional... The post 【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィール..."
+      ],
+      "published_at": "2026-11-13T20:31:42+09:00",
+      "published_date": "2026-11-13",
+      "published_time": "20:31",
+      "is_today": true
+    },
+    {
+      "id": "512479e8e7e0",
+      "title": "【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFF！",
+      "url": "https://computermusic.jp/2026/11/sdx-the-progressive-foundry/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/02/the-progressive-foundry.png",
+      "summary": "SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFFとなっています。 Toontrakではブラックフライ... The post 【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFFとなっています。 Toontrakではブラックフライ... The post 【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX –..."
+      ],
+      "published_at": "2026-11-13T20:16:41+09:00",
+      "published_date": "2026-11-13",
+      "published_time": "20:16",
+      "is_today": true
+    },
     {
       "id": "33f7ffaca67c",
       "title": "【ブラックフライデーセール】オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ULTIMATE」が54%OFF！",
@@ -1183,23 +1251,6 @@
       "is_today": true
     },
     {
-      "id": "2f669de486ef",
-      "title": "【13日の金曜日ラッキーセール】94音源を揃えた究極のキーボードコレクション、UVI「KEY SUITE BUNDLE EDITION」が50％OFF！",
-      "url": "https://computermusic.jp/2026/11/uvi-key-suite-bundle-edition-sale/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/04/PP_KEYSUITE_BUNDLE_EDITION_PATCHWORK-e1587604570482.jpg",
-      "summary": "94音源を揃えた究極のキーボードコレクション、UVI「KEY SUITE BUNDLE EDITION」が50％OFFとなっています。 UVIでは、13日の金曜日ラッキーセールを開催中です。人気製品が半額となっているので... The post 【13日の金曜日ラッキーセール】94音源を揃えた究極のキーボードコレクション、UVI「KEY SUITE BUNDLE EDITION」が50％OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "94音源を揃えた究極のキーボードコレクション、UVI「KEY SUITE BUNDLE EDITION」が50％OFFとなっています。 UVIでは、13日の金曜日ラッキーセールを開催中です。人気製品が半額となっているので... The post 【13日の金曜日ラッキーセール】94音源を揃えた究極のキーボードコレクション、UVI「KEY SUITE B..."
-      ],
-      "published_at": "2026-11-13T12:46:54+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "12:46",
-      "is_today": true
-    },
-    {
       "id": "ed102bed77b6",
       "title": "フィジカルAIロボット、2035年に世界出荷321万台へ。矢野経済研究所が予測",
       "url": "https://ai.watch.impress.co.jp/docs/news/2156193.html",
@@ -1319,23 +1370,6 @@
       "is_today": true
     },
     {
-      "id": "f3342ff3757b",
-      "title": "【ブラックフライデーセール】バルカン半島のブラス音楽をはじめとする音楽特有の、紛れもないエネルギー、個性、そして表現のニュアンスを余すところなく再現した、実際に演奏可能なテナー・トロンボーン・サウンド、Have Audio「Balkan Trombone」リリース！！",
-      "url": "https://computermusic.jp/2026/11/balkan-trombone/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/balkan-trombone.webp",
-      "summary": "バルカン半島のブラス音楽をはじめとする音楽特有のエネルギー、個性、そして表現のニュアンスを余すところなく再現したテナー・トロンボーン音源、Have Audio「Balkan Trombone」リリースです。 Have A... The post 【ブラックフライデーセール】バルカン半島のブラス音楽をはじめとする音楽特有の、紛れもないエネルギー、個性、そして表現のニュアンスを余すところなく再現した、実際に演奏可能なテナー・トロンボーン・サウンド、Have Audio「Balkan Trombone」リリース！！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "バルカン半島のブラス音楽をはじめとする音楽特有のエネルギー、個性、そして表現のニュアンスを余すところなく再現したテナー・トロンボーン音源、Have Audio「Balkan Trombone」リリースです。 Have A... The post 【ブラックフライデーセール】バルカン半島のブラス音楽をはじめとする音楽特有の、紛れもないエネルギー、個性、そ..."
-      ],
-      "published_at": "2026-11-13T12:31:02+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "12:31",
-      "is_today": true
-    },
-    {
       "id": "9b20bf8e8c92",
       "title": "【本日みつけたお買い得品】約1万5千円引き！3台同時に使える15.6型モバイルモニターがAmazonセール中",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156208.html",
@@ -1384,23 +1418,6 @@
       "published_at": "2026-11-13T12:25:00+09:00",
       "published_date": "2026-11-13",
       "published_time": "12:25",
-      "is_today": true
-    },
-    {
-      "id": "e2057544efa6",
-      "title": "【ブラックフライデーセール】距離感をシミュレーションするプラグイン、Sound Particles「Air」が64%OFF！",
-      "url": "https://computermusic.jp/2026/11/sound-particles-air/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/07/air-banner-PluginBoutique-e1603933889265.jpg",
-      "summary": "距離感をシミュレーションするプラグイン、Sound Particles「Air」が64%OFF となっています。 Sound Particlesではブラックフライデーセールを開催中です。合わせてチェックしてみてください。... The post 【ブラックフライデーセール】距離感をシミュレーションするプラグイン、Sound Particles「Air」が64%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "距離感をシミュレーションするプラグイン、Sound Particles「Air」が64%OFF となっています。 Sound Particlesではブラックフライデーセールを開催中です。合わせてチェックしてみてください。... The post 【ブラックフライデーセール】距離感をシミュレーションするプラグイン、Sound Particles「Air」..."
-      ],
-      "published_at": "2026-11-13T12:16:36+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "12:16",
       "is_today": true
     },
     {
@@ -2931,23 +2948,6 @@
       "published_at": "2026-11-12T16:22:17+09:00",
       "published_date": "2026-11-12",
       "published_time": "16:22",
-      "is_today": false
-    },
-    {
-      "id": "2d90d5cefa44",
-      "title": "Geminiアプリ、Apple CarPlayに対応",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155902.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/902/01-1.png",
-      "summary": "米グーグルは11日、iOS版「Gemini」アプリがApple CarPlayに対応したと発表した。車のディスプレイから「Gemini Live」との会話を行える。10月に展開されたAndroid AutoやGoogle搭載車に続く対応となる。",
-      "summary_bullets": [
-        "米グーグルは11日、iOS版「Gemini」アプリがApple CarPlayに対応したと発表した。車のディスプレイから「Gemini Live」との会話を行える。10月に展開されたAndroid AutoやGoogle搭載車に続く対応となる。"
-      ],
-      "published_at": "2026-11-12T16:19:46+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "16:19",
       "is_today": false
     },
     {
