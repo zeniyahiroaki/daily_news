@@ -1,5 +1,5 @@
 // Daily News PWA Service Worker
-const CACHE_NAME = 'daily-news-v5';
+const CACHE_NAME = 'daily-news-v6';
 const STATIC_ASSETS = [
   './',
   './index.html',

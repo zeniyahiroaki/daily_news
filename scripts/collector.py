@@ -3,7 +3,7 @@
 
 """
 Daily News Collector
-12のメディアサイトから最新ニュースを取得・整理し、当日の記事一覧JSONを生成します。
+15のメディアサイトから最新ニュースを取得・整理し、当日の記事一覧JSONを生成します。
 """
 
 import os
@@ -131,6 +131,33 @@ SOURCES = [
         "genre": "music",
         "genre_name": "音楽・DJ",
         "default_thumb": "https://realsound.jp/wp-content/themes/realsound/images/ogp.png"
+    },
+    {
+        "id": "cmj",
+        "name": "Computer Music Japan",
+        "type": "rss",
+        "url": "https://computermusic.jp/feed/",
+        "genre": "music",
+        "genre_name": "音楽・DJ",
+        "default_thumb": "https://computermusic.jp/favicon.ico"
+    },
+    {
+        "id": "icon-jp",
+        "name": "ICON",
+        "type": "rss",
+        "url": "https://icon.jp/feed",
+        "genre": "music",
+        "genre_name": "音楽・DJ",
+        "default_thumb": "https://icon.jp/favicon.ico"
+    },
+    {
+        "id": "sleepfreaks",
+        "name": "Sleepfreaks",
+        "type": "rss",
+        "url": "https://sleepfreaks-dtm.com/feed",
+        "genre": "music",
+        "genre_name": "音楽・DJ",
+        "default_thumb": "https://sleepfreaks-dtm.com/favicon.ico"
     }
 ]
 
