@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-14T05:21:55.719975+09:00",
-  "generated_at_formatted": "2026/11/14 05:21",
+  "generated_at": "2026-11-14T10:59:10.044044+09:00",
+  "generated_at_formatted": "2026/11/14 10:59",
   "target_date": "2026-11-14",
   "yesterday_date": "2026-11-13",
-  "total_articles": 166,
-  "today_articles_count": 0,
+  "total_articles": 156,
+  "today_articles_count": 22,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 166
+      "count": 156
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 75
+      "count": 73
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 39
+      "count": 33
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 13
+      "count": 14
     },
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 16
+      "count": 14
     },
     {
       "id": "appliance",
@@ -43,6 +43,380 @@
     }
   ],
   "articles": [
+    {
+      "id": "6d2c1a4c0f8b",
+      "title": "【ブラックフライデーセール】10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFF！",
+      "url": "https://computermusic.jp/2026/11/accordions-2-collection/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/12/EA-Accordions-Basses_GUI.webp",
+      "summary": "10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFFとなっています。 Best Serviceではサイバーシーズ... The post 【ブラックフライデーセール】10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFFとなっています。 Best Serviceではサイバーシーズ... The post 【ブラックフライデーセール】10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCOR..."
+      ],
+      "published_at": "2026-11-14T10:46:50+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:46",
+      "is_today": true
+    },
+    {
+      "id": "ae4e9c594570",
+      "title": "【ブラックフライデーセール】自動トランジェント検出/分離と16種類のエフェクトを搭載した、Wavesfactory「Quantum」が53％OFF！",
+      "url": "https://computermusic.jp/2026/11/quantum/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/09/quantum_main_pluginboutique.webp",
+      "summary": "自動トランジェント検出/分離と16種類のエフェクトを搭載した、Wavesfactory「Quantum」リが53％OFFとなっています。 Wavesfactoryでは、ブラックフライデーセールを開催中です。合わせてチェッ... The post 【ブラックフライデーセール】自動トランジェント検出/分離と16種類のエフェクトを搭載した、Wavesfactory「Quantum」が53％OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "自動トランジェント検出/分離と16種類のエフェクトを搭載した、Wavesfactory「Quantum」リが53％OFFとなっています。 Wavesfactoryでは、ブラックフライデーセールを開催中です。合わせてチェッ... The post 【ブラックフライデーセール】自動トランジェント検出/分離と16種類のエフェクトを搭載した、Wavesfact..."
+      ],
+      "published_at": "2026-11-14T10:31:31+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:31",
+      "is_today": true
+    },
+    {
+      "id": "f47b7cf815ce",
+      "title": "【ブラックフライデーセール】最高の演奏性と表現力を誇るソロ・ストリングス音源、BEST SERVICE「CHRIS HEIN SOLO STRINGS COMPLETE」50%OFF！",
+      "url": "https://computermusic.jp/2026/11/chris-hein-solo-strings-complete/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/03/00007354.webp",
+      "summary": "最高の演奏性と表現力を誇るソロ・ストリングス音源、BEST SERVICE「CHRIS HEIN SOLO STRINGS COMPLETE」50%OFFとなっています。 Best Serviceではサイバーシーズンセー... The post 【ブラックフライデーセール】最高の演奏性と表現力を誇るソロ・ストリングス音源、BEST SERVICE「CHRIS HEIN SOLO STRINGS COMPLETE」50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "最高の演奏性と表現力を誇るソロ・ストリングス音源、BEST SERVICE「CHRIS HEIN SOLO STRINGS COMPLETE」50%OFFとなっています。 Best Serviceではサイバーシーズンセー... The post 【ブラックフライデーセール】最高の演奏性と表現力を誇るソロ・ストリングス音源、BEST SERVICE「CH..."
+      ],
+      "published_at": "2026-11-14T10:16:05+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:16",
+      "is_today": true
+    },
+    {
+      "id": "78c61b284c25",
+      "title": "【ブラックフライデーセール】数々のヒット曲を彩った、真のマスターピース・サウンドを収録したPCMシンセサイザー、KORG「TRITON / TRITON Extreme」が40%OFF！",
+      "url": "https://computermusic.jp/2026/11/korg-triton-triton-extreme/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/09/TRITON_pluginboutique_1.jpeg",
+      "summary": "数々のヒット曲を彩った、真のマスターピース・サウンドを収録したPCMシンセサイザー、KORG「TRITON / TRITON Extreme」が40%OFFとなっています。 KORGでは、ブラックフライデーセールを開催中... The post 【ブラックフライデーセール】数々のヒット曲を彩った、真のマスターピース・サウンドを収録したPCMシンセサイザー、KORG「TRITON / TRITON Extreme」が40%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "数々のヒット曲を彩った、真のマスターピース・サウンドを収録したPCMシンセサイザー、KORG「TRITON / TRITON Extreme」が40%OFFとなっています。 KORGでは、ブラックフライデーセールを開催中... The post 【ブラックフライデーセール】数々のヒット曲を彩った、真のマスターピース・サウンドを収録したPCMシンセサイザ..."
+      ],
+      "published_at": "2026-11-14T10:01:32+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:01",
+      "is_today": true
+    },
+    {
+      "id": "6eeb7d28b1c6",
+      "title": "【ダイソー】110円の「スタンド（便器型）」　日常生活がちょっと楽しく、実用性も十分",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/l_asa_100item_01.jpg",
+      "summary": "ダイソーで「スタンド（便器型）」が販売されている。4～7型サイズの端末の横置きに対応し、4段階の角度調節にも対応する。価格は110円。",
+      "summary_bullets": [
+        "ダイソーで「スタンド（便器型）」が販売されている。4～7型サイズの端末の横置きに対応し、4段階の角度調節にも対応する。価格は110円。"
+      ],
+      "published_at": "2026-11-14T10:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "cf2c3eec7748",
+      "title": "Xfer Records、FM-1をSerum直系のウェーブテーブル・シンセに変貌させるファームウェア、「Shrub」をリリース…… ソフト・シンセとして機能するエディター・プラグインも公開",
+      "url": "https://icon.jp/archives/28415",
+      "media": "ICON",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28415.jpg",
+      "summary": "Xfer Recordsが、Serumを元に開発されたFM-1用のファームウェア、「Shrub（シュラブ）」を公開。ソフトウェア・シンセサイザーとして機能するエディター／ライブラリアン・プラグインもリリースされました。 […]",
+      "summary_bullets": [
+        "Xfer Recordsが、Serumを元に開発されたFM-1用のファームウェア、「Shrub（シュラブ）」を公開。ソフトウェア・シンセサイザーとして機能するエディター／ライブラリアン・プラグインもリリースされました。 […]"
+      ],
+      "published_at": "2026-11-14T10:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "901d9bad1e82",
+      "title": "【ブラックフライデーセール】ケルト音楽の深淵に届くシネマティック音源、 BEST SERVICE「CELTIC ERA 2」が40%OFF！",
+      "url": "https://computermusic.jp/2026/11/celtic-era-2-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2022/10/CELTIC-ERA-2.jpeg",
+      "summary": "ケルト音楽の深淵に届くシネマティック音源、BEST SERVICE「CELTIC ERA 2」が40%OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。合わせてチェックしてみてくださ... The post 【ブラックフライデーセール】ケルト音楽の深淵に届くシネマティック音源、 BEST SERVICE「CELTIC ERA 2」が40%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "ケルト音楽の深淵に届くシネマティック音源、BEST SERVICE「CELTIC ERA 2」が40%OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。合わせてチェックしてみてくださ... The post 【ブラックフライデーセール】ケルト音楽の深淵に届くシネマティック音源、 BEST SERVICE「CELTI..."
+      ],
+      "published_at": "2026-11-14T09:46:41+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:46",
+      "is_today": true
+    },
+    {
+      "id": "2a816df60adb",
+      "title": "【ブラックフライデーセール】5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が81%OFF！",
+      "url": "https://computermusic.jp/2026/11/l4-ultramaximizer-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/09/L4_WAVES-2.webp",
+      "summary": "5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が81%OFFとなっています。 いよいよWavesのブラックフライデーセールが開始。ほぼ全てのシングルプラグ... The post 【ブラックフライデーセール】5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が81%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が81%OFFとなっています。 いよいよWavesのブラックフライデーセールが開始。ほぼ全てのシングルプラグ... The post 【ブラックフライデーセール】5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4..."
+      ],
+      "published_at": "2026-11-14T09:31:11+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:31",
+      "is_today": true
+    },
+    {
+      "id": "4a4a6c410b95",
+      "title": "【ブラックフライデーセール】新時代のダイナミクスコントロールを提供するコンプレッサー・プラグイン、THREE-BODY TECH「CENOZOIX COMPRESSOR」が50%OFF！",
+      "url": "https://computermusic.jp/2026/11/cenozoix-compressor-sale/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/02/shot_TBTCNZX_01-e1708603681405.jpg",
+      "summary": "新時代のダイナミクスコントロールを提供するコンプレッサー・プラグイン、THREE-BODY TECH「CENOZOIX COMPRESSOR」が50%OFFとなっています。 Three-Body Techではブラックフラ... The post 【ブラックフライデーセール】新時代のダイナミクスコントロールを提供するコンプレッサー・プラグイン、THREE-BODY TECH「CENOZOIX COMPRESSOR」が50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "新時代のダイナミクスコントロールを提供するコンプレッサー・プラグイン、THREE-BODY TECH「CENOZOIX COMPRESSOR」が50%OFFとなっています。 Three-Body Techではブラックフラ... The post 【ブラックフライデーセール】新時代のダイナミクスコントロールを提供するコンプレッサー・プラグイン、THREE..."
+      ],
+      "published_at": "2026-11-14T09:16:03+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:16",
+      "is_today": true
+    },
+    {
+      "id": "11b755c66d64",
+      "title": "【本日みつけたお買い得品】1万円台で27型IPS＋120Hz！ASUSのアイケアモニターが値下げ中",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156469.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/469/01.jpg",
+      "summary": "Amazonにて、ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている。27型の「VY279HGR」は直近価格から2,820円引きとなる1万3,980円で購入可能だ。",
+      "summary_bullets": [
+        "Amazonにて、ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている。27型の「VY279HGR」は直近価格から2,820円引きとなる1万3,980円で購入可能だ。"
+      ],
+      "published_at": "2026-11-14T09:14:19+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:14",
+      "is_today": true
+    },
+    {
+      "id": "136a2457add2",
+      "title": "【本日みつけたお買い得品】REGZAの27型WQHDアイケアモニターが1万870円引き、Amazonでセール",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156468.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/468/01.jpg",
+      "summary": "Amazonにて、REGZAのモニターがセール価格で販売されており、27型のWQHD(2,560×1,440ドット)対応モニター「RM-27N4SE」が、直近価格から1万870円引きの2万5,980円で購入できる。",
+      "summary_bullets": [
+        "Amazonにて、REGZAのモニターがセール価格で販売されており、27型のWQHD(2,560×1,440ドット)対応モニター「RM-27N4SE」が、直近価格から1万870円引きの2万5,980円で購入できる。"
+      ],
+      "published_at": "2026-11-14T09:06:26+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:06",
+      "is_today": true
+    },
+    {
+      "id": "69677f987b09",
+      "title": "【ブラックフライデーセール】地球上最大かつ最多受賞のバーチャル・インストゥルメントのサブスクリプション、EastWest「ComposerCloud Plus(1年間サブスクリプション)」が35%OFF！",
+      "url": "https://computermusic.jp/2026/11/eastwest-composercloud-plus/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/bfab73553e92349226f409504a740f93.jpg",
+      "summary": "地球上最大かつ最多受賞のバーチャル・インストゥルメントのサブスクリプション、EastWest「ComposerCloud Plus(1年間サブスクリプション)」が35%OFFとなっています。 EastWest Sound... The post 【ブラックフライデーセール】地球上最大かつ最多受賞のバーチャル・インストゥルメントのサブスクリプション、EastWest「ComposerCloud Plus(1年間サブスクリプション)」が35%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "地球上最大かつ最多受賞のバーチャル・インストゥルメントのサブスクリプション、EastWest「ComposerCloud Plus(1年間サブスクリプション)」が35%OFFとなっています。 EastWest Sound... The post 【ブラックフライデーセール】地球上最大かつ最多受賞のバーチャル・インストゥルメントのサブスクリプション、Ea..."
+      ],
+      "published_at": "2026-11-14T09:01:50+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:01",
+      "is_today": true
+    },
+    {
+      "id": "0c47473b012e",
+      "title": "ローミング縮小でも楽天モバイルからユーザーが流出しない理由　一方で浮上する「副回線化とARPU低下」の懸念",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news014.jpg",
+      "summary": "KDDIとのローミング縮小後も楽天モバイルの解約率は低下し、経済圏の結び付きから大規模な流出は起きていない。一方でKDDIは混雑エリアの通信品質を改善しつつpovoの副回線需要を取り込み、想定外のローミング収入も得た。楽天モバイルは副回線化によるARPU低下を防ぐため、JTOWERとの連携などで自社網の品質強化を急ぐ構えだ。",
+      "summary_bullets": [
+        "KDDIとのローミング縮小後も楽天モバイルの解約率は低下し、経済圏の結び付きから大規模な流出は起きていない。一方でKDDIは混雑エリアの通信品質を改善しつつpovoの副回線需要を取り込み、想定外のローミング収入も得た。楽天モバイルは副回線化によるARPU低下を防ぐため、JTOWERとの連携などで自社網の品質強化を急ぐ構えだ。"
+      ],
+      "published_at": "2026-11-14T09:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "09:00",
+      "is_today": true
+    },
+    {
+      "id": "e3a4a20415c1",
+      "title": "【本日みつけたお買い得品】540Hzが4万円引き！ASUSのゲーミングモニターがAmazonでセール",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156467.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/467/01.jpg",
+      "summary": "Amazonにて、ASUSのゲーミングモニターがセール価格で販売されており、24.1型の540Hz対応モニター「PG248QP」が、直近価格から4万1,836円引きの9万9,800円で購入できる。",
+      "summary_bullets": [
+        "Amazonにて、ASUSのゲーミングモニターがセール価格で販売されており、24.1型の540Hz対応モニター「PG248QP」が、直近価格から4万1,836円引きの9万9,800円で購入できる。"
+      ],
+      "published_at": "2026-11-14T08:54:17+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "08:54",
+      "is_today": true
+    },
+    {
+      "id": "56ff00896a65",
+      "title": "電池残量はマウスを見れば分かる、液晶付きの静音マウスが登場",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156461.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/461/01.jpg",
+      "summary": "マウスの電池があとどれだけ残っているかを、マウス本体の画面で確かめられる製品が登場した。サンワサプライが11月11日に発売した、液晶画面付きワイヤレスマウス「MA-WBIRS550」シリーズだ。本体色はブラック、ブラック+ブルー、ブラック+イエローの3色展開で、直販価格は4,780円。",
+      "summary_bullets": [
+        "マウスの電池があとどれだけ残っているかを、マウス本体の画面で確かめられる製品が登場した。サンワサプライが11月11日に発売した、液晶画面付きワイヤレスマウス「MA-WBIRS550」シリーズだ。本体色はブラック、ブラック+ブルー、ブラック+イエローの3色展開で、直販価格は4,780円。"
+      ],
+      "published_at": "2026-11-14T08:18:44+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "08:18",
+      "is_today": true
+    },
+    {
+      "id": "c60780484adb",
+      "title": "岡嶋和幸の「あとで買う」 2,024点目：車のトランクルームでの三脚収納にぴったり - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2156405.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/405/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-14T07:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "1171a49b883f",
+      "title": "トヨタとWaymoの無人運転ロボタクシー、あの開発中止車の電子プラットフォームを「bZ4X」に搭載か？",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156466.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/466/001.jpg",
+      "summary": "Waymoとトヨタ自動車が10月30日に発表した自動運転レベル4の自動運転車両における協業は、Waymoが自動運転技術の第6世代「Waymo Driver」を提供し、トヨタがベース車両となるバッテリEV「bZ4X」にその技術を搭載するというものだ。第6世代Waymo Driverの搭載や車両の製造は、トヨタ自動車 高岡工場（愛知県豊田市）で行ない、2027年に無人自動運転タクシーを運行開始する。",
+      "summary_bullets": [
+        "Waymoとトヨタ自動車が10月30日に発表した自動運転レベル4の自動運転車両における協業は、Waymoが自動運転技術の第6世代「Waymo Driver」を提供し、トヨタがベース車両となるバッテリEV「bZ4X」にその技術を搭載するというものだ。第6世代Waymo Driverの搭載や車両の製造は、トヨタ自動車 高岡工場（愛知県豊田市）で行ない、20..."
+      ],
+      "published_at": "2026-11-14T06:19:04+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:19",
+      "is_today": true
+    },
+    {
+      "id": "8252e5902a2c",
+      "title": "【今すぐ読みたい！人気記事】眠っているPC、まだ捨てないで！最軽量級OS「Lubuntu」で古いPCを完全再生 - PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2156463.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/463/1.png",
+      "summary": "Ubuntuは間違いなく優れたLinuxディストリビューションだが、常に最良の選択かと問われればそんなことはない。操作感がとっつきにくいとか、ハードウェアの負荷が高いとか、独自のパッケージシステム(snap)が気に入らないとか、“Ubuntuを選択しない理由”はいろいろある。",
+      "summary_bullets": [
+        "Ubuntuは間違いなく優れたLinuxディストリビューションだが、常に最良の選択かと問われればそんなことはない。操作感がとっつきにくいとか、ハードウェアの負荷が高いとか、独自のパッケージシステム(snap)が気に入らないとか、“Ubuntuを選択しない理由”はいろいろある。"
+      ],
+      "published_at": "2026-11-14T06:11:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:11",
+      "is_today": true
+    },
+    {
+      "id": "919ecfbff0b1",
+      "title": "【今すぐ読みたい！人気記事】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末 - PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2156462.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/462/1.jpg",
+      "summary": "筆者は最近まで、有機ELテレビをPC用モニターとして使い続けてきた。購入したのはLGの48型有機ELテレビ「OLED 48CXPJA」。2021年3月14日に13万6,800円で購入し、2026年3月22日まで約5年間使用した。そして2026年3月22日、液晶モニターにリプレースした。理由は後で詳しく述べるが、焼き付きと思われる色ムラが発生し、色確認などの作業に支障が出るレベルになったためだ。",
+      "summary_bullets": [
+        "筆者は最近まで、有機ELテレビをPC用モニターとして使い続けてきた。購入したのはLGの48型有機ELテレビ「OLED 48CXPJA」。2021年3月14日に13万6,800円で購入し、2026年3月22日まで約5年間使用した。そして2026年3月22日、液晶モニターにリプレースした。理由は後で詳しく述べるが、焼き付きと思われる色ムラが発生し、色確認な..."
+      ],
+      "published_at": "2026-11-14T06:05:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:05",
+      "is_today": true
+    },
+    {
+      "id": "a1541ecceb64",
+      "title": "議事録も資料も会議が終わる前にできている、Claude Meetings",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156234.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/234/1.jpg",
+      "summary": "Anthropicは11月12日(米国時間)、AIの「Claude」をWeb会議に参加させ、議事録の作成や質問への回答を任せられる新機能「Claude Meetings」を発表した。TeamプランおよびEnterpriseプラン向けにベータ版として順次提供を開始しており、対応するサービスは現時点でGoogle Meetのみ。ほかのサービスにも近日中に対応する予定。",
+      "summary_bullets": [
+        "Anthropicは11月12日(米国時間)、AIの「Claude」をWeb会議に参加させ、議事録の作成や質問への回答を任せられる新機能「Claude Meetings」を発表した。TeamプランおよびEnterpriseプラン向けにベータ版として順次提供を開始しており、対応するサービスは現時点でGoogle Meetのみ。ほかのサービスにも近日中に対..."
+      ],
+      "published_at": "2026-11-14T06:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "63f59f34d8c7",
+      "title": "「GeForce RTX 5090」搭載グラボに50万円超の“幅”　そのワケは？",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/14/news013.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/14/cover_news013.jpg",
+      "summary": "昨今話題のNVIDIAだが、コンシューマー向けの最上位GPU「GeForce RTX 5090」を搭載するグラフィックスカードの価格が秋葉原では話題になっている。",
+      "summary_bullets": [
+        "昨今話題のNVIDIAだが、コンシューマー向けの最上位GPU「GeForce RTX 5090」を搭載するグラフィックスカードの価格が秋葉原では話題になっている。"
+      ],
+      "published_at": "2026-11-14T06:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "3da486231d5b",
+      "title": "“折りたたみGalaxy”のヘビーユーザーが「iPhone Duo」を使って感じたこと",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news001.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news001.jpg",
+      "summary": "2019年の初代Galaxy Fold以来、折りたたみスマートフォンを使い続けてきた筆者が「iPhone Duo」を発売日に購入した。1週間使って感じた横ワイド画面の快適さや分割画面の使い勝手、重さや価格など気になる点を率直に紹介する。",
+      "summary_bullets": [
+        "2019年の初代Galaxy Fold以来、折りたたみスマートフォンを使い続けてきた筆者が「iPhone Duo」を発売日に購入した。1週間使って感じた横ワイド画面の快適さや分割画面の使い勝手、重さや価格など気になる点を率直に紹介する。"
+      ],
+      "published_at": "2026-11-14T06:00:00+09:00",
+      "published_date": "2026-11-14",
+      "published_time": "06:00",
+      "is_today": true
+    },
     {
       "id": "0b281f762ddd",
       "title": "マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
@@ -283,70 +657,19 @@
     },
     {
       "id": "e6df074e643a",
-      "title": "【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFF！",
+      "title": "【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが最大60%OFF！",
       "url": "https://computermusic.jp/2026/11/world-6-instruments/",
       "media": "Computer Music Japan",
       "genre": "music",
       "genre_name": "音楽・DJ",
       "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/12/shot_EW7I_01.jpg",
-      "summary": "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ET... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFF！ first appeared on Computer Music Japan .",
+      "summary": "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが最大60%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが最大60%OFF！ first appeared on Computer Music Japan .",
       "summary_bullets": [
-        "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが50%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ET... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO W..."
+        "4地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO WORLD 7」シリーズが最大60%OFFとなっています。 ETHNO WORLD 7シリーズには、3つの製品がラインナップされています。 ... The post 【ブラックフライデーセール】地球上の民族音楽を凝縮した民族楽器音源、BEST SERVICE「ETHNO W..."
       ],
       "published_at": "2026-11-13T20:46:02+09:00",
       "published_date": "2026-11-13",
       "published_time": "20:46",
-      "is_today": false
-    },
-    {
-      "id": "79441121cb25",
-      "title": "【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFF！",
-      "url": "https://computermusic.jp/2026/11/trio11-be/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/04/Trio11Be_34_G-e1618579998344.jpeg",
-      "summary": "究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFFとなっています。 Focal Professional... The post 【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィールド・モニター、Focal Professional「Trio11 Be」が20%OFFとなっています。 Focal Professional... The post 【ブラックフライデーセール】究極のオールラウンダー・リファレンス SMシリーズを総括するニア／ミッドフィール..."
-      ],
-      "published_at": "2026-11-13T20:31:42+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "20:31",
-      "is_today": false
-    },
-    {
-      "id": "512479e8e7e0",
-      "title": "【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFF！",
-      "url": "https://computermusic.jp/2026/11/sdx-the-progressive-foundry/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/02/the-progressive-foundry.png",
-      "summary": "SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFFとなっています。 Toontrakではブラックフライ... The post 【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX – THE PROGRESSIVE FOUNDRY」が40%OFFとなっています。 Toontrakではブラックフライ... The post 【ブラックフライデーセール】SDXシリーズ史上最大の収録内容を誇るメタル系拡張ドラム音源、Toontrack「SDX –..."
-      ],
-      "published_at": "2026-11-13T20:16:41+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "20:16",
-      "is_today": false
-    },
-    {
-      "id": "33f7ffaca67c",
-      "title": "【ブラックフライデーセール】オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ULTIMATE」が54%OFF！",
-      "url": "https://computermusic.jp/2026/11/audioscore-ultimate/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/11/audioscore-ultimate.jpg",
-      "summary": "オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ULTIMATE」が54%OFFとなっています。 AudioScore ULTIMATE MP3 ＆ CDを書き起こす MP3やCDトラック... The post 【ブラックフライデーセール】オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ULTIMATE」が54%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ULTIMATE」が54%OFFとなっています。 AudioScore ULTIMATE MP3 ＆ CDを書き起こす MP3やCDトラック... The post 【ブラックフライデーセール】オーディオ、CDトラックを書き起こす、NEURATRON「AudioScore ..."
-      ],
-      "published_at": "2026-11-13T20:01:37+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "20:01",
       "is_today": false
     },
     {
@@ -401,23 +724,6 @@
       "is_today": false
     },
     {
-      "id": "1f033b51476b",
-      "title": "【ブラックフライデーセール】最先端の検出システムで歯擦音と音色をインテリジェントに分離しディエッサーの可能性を再定義する、Wavesfactory「Re-Esser」が53%OFF！",
-      "url": "https://computermusic.jp/2026/11/re-esser/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/10/Re-Esser-pluginboutique.webp",
-      "summary": "最先端の検出システムで歯擦音と音色をインテリジェントに分離しディエッサーの可能性を再定義する、Wavesfactory「Re-Esser」が53%OFFとなっています。 Wavesfactoryでは、ブラックフライデーセ... The post 【ブラックフライデーセール】最先端の検出システムで歯擦音と音色をインテリジェントに分離しディエッサーの可能性を再定義する、Wavesfactory「Re-Esser」が53%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "最先端の検出システムで歯擦音と音色をインテリジェントに分離しディエッサーの可能性を再定義する、Wavesfactory「Re-Esser」が53%OFFとなっています。 Wavesfactoryでは、ブラックフライデーセ... The post 【ブラックフライデーセール】最先端の検出システムで歯擦音と音色をインテリジェントに分離しディエッサーの可能性..."
-      ],
-      "published_at": "2026-11-13T19:46:22+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:46",
-      "is_today": false
-    },
-    {
       "id": "1b7df51f50f3",
       "title": "ベルキン、iPhone 18 Pro向けレザー調シリコンケース発売　360度回転するキックスタンド付き",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
@@ -435,40 +741,6 @@
       "is_today": false
     },
     {
-      "id": "16fc14184350",
-      "title": "【ブラックフライデーセール】サウンド、機能性ともに最高峰に君臨する金管＆木管音源、BEST SERVICE「CHRIS HEIN HORNS PRO COMPLETE」が50%OFF！",
-      "url": "https://computermusic.jp/2026/11/chris-hein-horns-pro-complete/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/12/hein-chris-complete.webp",
-      "summary": "サウンド、機能性ともに最高峰に君臨する金管＆木管音源、BEST SERVICE「CHRIS HEIN HORNS PRO COMPLETE」が50%OFFとなっています。 Best Serviceではサイバーシーズンセー... The post 【ブラックフライデーセール】サウンド、機能性ともに最高峰に君臨する金管＆木管音源、BEST SERVICE「CHRIS HEIN HORNS PRO COMPLETE」が50%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "サウンド、機能性ともに最高峰に君臨する金管＆木管音源、BEST SERVICE「CHRIS HEIN HORNS PRO COMPLETE」が50%OFFとなっています。 Best Serviceではサイバーシーズンセー... The post 【ブラックフライデーセール】サウンド、機能性ともに最高峰に君臨する金管＆木管音源、BEST SERVICE「..."
-      ],
-      "published_at": "2026-11-13T19:31:53+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:31",
-      "is_today": false
-    },
-    {
-      "id": "c5a25e25ab50",
-      "title": "【ブラックフライデーセール】いつでも、どこでも、正確なモニタリングを。Focal Professional「Lensys Professional」が31%OFF！",
-      "url": "https://computermusic.jp/2026/11/lensys-professional-2/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/10/Lensys_Pro_34_Pack_S.webp",
-      "summary": "いつでも、どこでも、正確なモニタリングを。Focal Professional「Lensys Professional」が31%OFFとなっています。 Focal Professionalでは、ブラックフライデーセールを... The post 【ブラックフライデーセール】いつでも、どこでも、正確なモニタリングを。Focal Professional「Lensys Professional」が31%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "いつでも、どこでも、正確なモニタリングを。Focal Professional「Lensys Professional」が31%OFFとなっています。 Focal Professionalでは、ブラックフライデーセールを... The post 【ブラックフライデーセール】いつでも、どこでも、正確なモニタリングを。Focal Professional「..."
-      ],
-      "published_at": "2026-11-13T19:24:51+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:24",
-      "is_today": false
-    },
-    {
       "id": "4e287a79f7ca",
       "title": "NTT西日本、フィジカルAI分野での人材育成を京都大学と推進",
       "url": "https://ai.watch.impress.co.jp/docs/news/2156428.html",
@@ -483,23 +755,6 @@
       "published_at": "2026-11-13T19:21:56+09:00",
       "published_date": "2026-11-13",
       "published_time": "19:21",
-      "is_today": false
-    },
-    {
-      "id": "ec5e6e27bd65",
-      "title": "【ブラックフライデーセール】究極の32バンド・パラメトリックEQ、Three-Body Tech「Kirchhoff-EQ」が60%OFF！",
-      "url": "https://computermusic.jp/2026/11/kirchhoff-eq-sale/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/11/focus0-e1635988950586.jpeg",
-      "summary": "究極の32バンド・パラメトリックEQ、Three-Body Tech「Kirchhoff-EQ」が60%OFFとなっています。 Three-Body Techではブラックフライデーセールを開催中です。合わせてチェックして... The post 【ブラックフライデーセール】究極の32バンド・パラメトリックEQ、Three-Body Tech「Kirchhoff-EQ」が60%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "究極の32バンド・パラメトリックEQ、Three-Body Tech「Kirchhoff-EQ」が60%OFFとなっています。 Three-Body Techではブラックフライデーセールを開催中です。合わせてチェックして... The post 【ブラックフライデーセール】究極の32バンド・パラメトリックEQ、Three-Body Tech「Kirch..."
-      ],
-      "published_at": "2026-11-13T19:16:05+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:16",
       "is_today": false
     },
     {
@@ -840,23 +1095,6 @@
       "published_at": "2026-11-13T17:12:44+09:00",
       "published_date": "2026-11-13",
       "published_time": "17:12",
-      "is_today": false
-    },
-    {
-      "id": "b02d70250207",
-      "title": "【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」（箱破損品)が6,270円オフ！",
-      "url": "https://computermusic.jp/2026/11/motu-m2/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2022/01/m2_dramatic_iso_1200-e1641454564314.png",
-      "summary": "クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」(箱破損品)が6,270円オフとなっています。 数量限定の早い者勝ちです。 その他、M4、M6、848や10Preなどもデモ使... The post 【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」（箱破損品)が6,270円オフ！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」(箱破損品)が6,270円オフとなっています。 数量限定の早い者勝ちです。 その他、M4、M6、848や10Preなどもデモ使... The post 【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、M..."
-      ],
-      "published_at": "2026-11-13T17:00:24+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:00",
       "is_today": false
     },
     {
@@ -2271,91 +2509,6 @@
       "is_today": false
     },
     {
-      "id": "6e9545d37b36",
-      "title": "【やじうまミニレビュー】4年前の愛機と比べて驚いた、12.2型「mouse X2」の速さ",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2156077.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/077/01.jpg",
-      "summary": "【やじうまミニレビュー】4年前の愛機と比べて驚いた、12.2型「mouse X2」の速さ",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-13T06:33:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:33",
-      "is_today": false
-    },
-    {
-      "id": "d1c7262574a2",
-      "title": "【トピック】【結果発表】RTX Spark買った？",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/enquete/2156081.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/081/warashi_result.jpg",
-      "summary": "10月30日から11月6日にかけて実施した「 RTX Spark買った？ 」のアンケート結果です。",
-      "summary_bullets": [
-        "10月30日から11月6日にかけて実施した「 RTX Spark買った？ 」のアンケート結果です。"
-      ],
-      "published_at": "2026-11-13T06:20:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:20",
-      "is_today": false
-    },
-    {
-      "id": "4a2cca226e95",
-      "title": "VGN、ラピトリ対応や大容量バッテリ+ディスプレイ搭載などゲーミングキーボード3機種",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2156026.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/026/01.jpg",
-      "summary": "ゲートは、ラピッドトリガー対応で68%レイアウトの「VGN NEON 68」、3モード接続対応で75%レイアウトの「VGN N75 V2」、10,000mAhバッテリ搭載で98%レイアウトの「VGN V98 Pro V4」からなる、VGN製ゲーミングキーボード3機種6モデルを11月18日に発売する。",
-      "summary_bullets": [
-        "ゲートは、ラピッドトリガー対応で68%レイアウトの「VGN NEON 68」、3モード接続対応で75%レイアウトの「VGN N75 V2」、10,000mAhバッテリ搭載で98%レイアウトの「VGN V98 Pro V4」からなる、VGN製ゲーミングキーボード3機種6モデルを11月18日に発売する。"
-      ],
-      "published_at": "2026-11-13T06:16:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:16",
-      "is_today": false
-    },
-    {
-      "id": "ac1caa4593e1",
-      "title": "【Hothotレビュー】メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた",
-      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2155/899/1.jpg",
-      "summary": "【Hothotレビュー】メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-13T06:04:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:04",
-      "is_today": false
-    },
-    {
-      "id": "925171dfe522",
-      "title": "ガチくんに! 第439回切り抜き「アルジュンでVxbaoがCCへ/ゲーセンにサイバー攻撃など」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2156086.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/086/01.jpg",
-      "summary": "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。",
-      "summary_bullets": [
-        "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。"
-      ],
-      "published_at": "2026-11-13T06:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
       "id": "1f1ad6ae89e7",
       "title": "カメラバカにつける薬 in デジカメ Watch：NIKKOR Z DX MC 35mm f/1.7をいまさら試す！",
       "url": "https://dc.watch.impress.co.jp/docs/comic/clinic/2155983.html",
@@ -2417,23 +2570,6 @@
       "summary": "イオンの首都圏スーパー連合体「USMH」が中間決算で赤字を計上した。「イオン系大手の苦戦」として話題になったが、今後食品小売はどうなるのか？",
       "summary_bullets": [
         "イオンの首都圏スーパー連合体「USMH」が中間決算で赤字を計上した。「イオン系大手の苦戦」として話題になったが、今後食品小売はどうなるのか？"
-      ],
-      "published_at": "2026-11-13T06:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "06:00",
-      "is_today": false
-    },
-    {
-      "id": "d08465fdbb29",
-      "title": "Xperia 1 VIIIが「Android 17」に対応、ぶっちゃけどう便利に？　ソニーが明かした「細やかな配慮」",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news050.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news050.jpg",
-      "summary": "ソニーは11月10日、公式noteでスマートフォン「Xperia」シリーズ向けOS「Android 17」のアップデート内容を公開した。マーケティング担当の有滝氏が、Xperia 1 VIIIにおけるiPhoneとの写真共有機能や、対応全機種での指紋認証の操作選択、AIカメラアシスタントのカスタムルック登録枠拡大など、日常の利便性を高める3つの新機能を解説している。",
-      "summary_bullets": [
-        "ソニーは11月10日、公式noteでスマートフォン「Xperia」シリーズ向けOS「Android 17」のアップデート内容を公開した。マーケティング担当の有滝氏が、Xperia 1 VIIIにおけるiPhoneとの写真共有機能や、対応全機種での指紋認証の操作選択、AIカメラアシスタントのカスタムルック登録枠拡大など、日常の利便性を高める3つの新機能を..."
       ],
       "published_at": "2026-11-13T06:00:00+09:00",
       "published_date": "2026-11-13",
@@ -2509,23 +2645,6 @@
       "is_today": false
     },
     {
-      "id": "3182f7bdfce8",
-      "title": "NVIDIAのジェンスン・フアンCEOが辞任　暫定CEOにクレスCFO",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news053.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/13/cover_news053.jpg",
-      "summary": "NVIDIAのジェンスン・フアン氏が社長兼CEOを即日辞任した。暫定CEOにはCFOのコレット・クレス氏が就く。",
-      "summary_bullets": [
-        "NVIDIAのジェンスン・フアン氏が社長兼CEOを即日辞任した。暫定CEOにはCFOのコレット・クレス氏が就く。"
-      ],
-      "published_at": "2026-11-13T00:17:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "00:17",
-      "is_today": false
-    },
-    {
       "id": "83c3f1fde5bd",
       "title": "[てっぱんアプリ！] 他のスマホやパソコンとすぐにファイル交換できるWebアプリ「AirLocal」",
       "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
@@ -2574,295 +2693,6 @@
       "published_at": "2026-11-13T00:00:00+09:00",
       "published_date": "2026-11-13",
       "published_time": "00:00",
-      "is_today": false
-    },
-    {
-      "id": "9375e243ec05",
-      "title": "NVIDIAジェンスン・フアン氏がCEO辞任",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2156075.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/075/1.jpg",
-      "summary": "NVIDIAの取締役会は11月12日(現地時間)、ジェンスン・フアン氏が社長兼最高経営責任者(CEO)および取締役を即日辞任したと発表した。",
-      "summary_bullets": [
-        "NVIDIAの取締役会は11月12日(現地時間)、ジェンスン・フアン氏が社長兼最高経営責任者(CEO)および取締役を即日辞任したと発表した。"
-      ],
-      "published_at": "2026-11-12T23:42:47+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "23:42",
-      "is_today": false
-    },
-    {
-      "id": "a2fe60c4f2b3",
-      "title": "NVIDIA、フアンCEOの辞任を発表　CFOのクレス氏が暫定CEOに",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003160/10012039/2048",
-      "summary": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。",
-      "summary_bullets": [
-        "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。"
-      ],
-      "published_at": "2026-11-12T23:38:00+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "23:38",
-      "is_today": false
-    },
-    {
-      "id": "73d7d2c92894",
-      "title": "AMD＆Snapdragon搭載でCopilot+ PC対応　14／15.3型ノート「IdeaPad Vibe Gen 12」の注目ポイント",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news074.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/12/cover_news074.jpg",
-      "summary": "レノボ・ジャパンが11月10日に発表した個人向けノートPC「Lenovo IdeaPad Vibe」。7色展開というカラーバリエーションに目を奪われがちだが、その実態はどうなのか――発表会で展示された実機を見ながら紹介する。",
-      "summary_bullets": [
-        "レノボ・ジャパンが11月10日に発表した個人向けノートPC「Lenovo IdeaPad Vibe」。7色展開というカラーバリエーションに目を奪われがちだが、その実態はどうなのか――発表会で展示された実機を見ながら紹介する。"
-      ],
-      "published_at": "2026-11-12T20:45:00+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "20:45",
-      "is_today": false
-    },
-    {
-      "id": "b8239d51f232",
-      "title": "AIボイスレコーダー「Soundcore Work」が機能拡充――話し言葉を文章化する「Typeless」機能や「Notta」連携モデルを発表",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/055/cont1190.jpg",
-      "summary": "アンカー・ジャパンは12日、同社のAIボイスレコーダー「Soundcore Work」の最新情報を発表した。",
-      "summary_bullets": [
-        "アンカー・ジャパンは12日、同社のAIボイスレコーダー「Soundcore Work」の最新情報を発表した。"
-      ],
-      "published_at": "2026-11-12T20:44:44+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "20:44",
-      "is_today": false
-    },
-    {
-      "id": "b56c43afc8e6",
-      "title": "一足先に「Xiaomi 18 Pro／Pro Max」を触ってきた",
-      "url": "https://k-tai.watch.impress.co.jp/docs/review/2156053.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/053/112536.jpg",
-      "summary": "シャオミは17日の発表にさきがけて、メディア・インフルエンサー向けに「Xiaomi 18 Pro Series体験会」を開催した。そこで一足先に「Xiaomi 18 Pro」「Xiaomi 18 Pro Max」を触ることができたのでその様子をお届けする。",
-      "summary_bullets": [
-        "シャオミは17日の発表にさきがけて、メディア・インフルエンサー向けに「Xiaomi 18 Pro Series体験会」を開催した。そこで一足先に「Xiaomi 18 Pro」「Xiaomi 18 Pro Max」を触ることができたのでその様子をお届けする。"
-      ],
-      "published_at": "2026-11-12T20:43:41+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "20:43",
-      "is_today": false
-    },
-    {
-      "id": "2ff86118e479",
-      "title": "アンカー、ワイヤレスヘッドホン「Anker Space 2 Pro」発売――独自AIチップでノイキャン性能が約1.5倍に向上",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156051.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/051/cont2260.jpg",
-      "summary": "アンカー・ジャパンは12日、ワイヤレスヘッドホン「Anker Space 2 Pro」を発売した。価格は3万2990円。",
-      "summary_bullets": [
-        "アンカー・ジャパンは12日、ワイヤレスヘッドホン「Anker Space 2 Pro」を発売した。価格は3万2990円。"
-      ],
-      "published_at": "2026-11-12T20:16:12+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "20:16",
-      "is_today": false
-    },
-    {
-      "id": "0ca7ab4a0e08",
-      "title": "IK Multimedia、AIで最大5声のハーモニーを生成する“ボーカル・ワークステーション”、「ReSing Choir」を発表",
-      "url": "https://icon.jp/archives/28382",
-      "media": "ICON",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28382.jpg",
-      "summary": "IK Multimediaが新製品、「ReSing Choir（リシング・クワイア）」を発表。1本のボーカル・トラックから、最大5声のハーモニーをAIボイス・モデルで生成する、これまでに無かった“ボーカル・ワークステーシ […]",
-      "summary_bullets": [
-        "IK Multimediaが新製品、「ReSing Choir（リシング・クワイア）」を発表。1本のボーカル・トラックから、最大5声のハーモニーをAIボイス・モデルで生成する、これまでに無かった“ボーカル・ワークステーシ […]"
-      ],
-      "published_at": "2026-11-12T20:00:00+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "20:00",
-      "is_today": false
-    },
-    {
-      "id": "ab41120457ea",
-      "title": "アンカーから睡眠特化型スマートスピーカー「Anker SleepLab」が来春発売、ミリ波レーダーで睡眠計測する上位モデルも",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156045.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/045/cont1850.jpg",
-      "summary": "アンカー・ジャパンは12日、睡眠特化型スマートスピーカー「Anker SleepLab」を発表した。「Anker SleepLab」と「Anker SleepLab Pro」をラインアップする。",
-      "summary_bullets": [
-        "アンカー・ジャパンは12日、睡眠特化型スマートスピーカー「Anker SleepLab」を発表した。「Anker SleepLab」と「Anker SleepLab Pro」をラインアップする。"
-      ],
-      "published_at": "2026-11-12T19:56:31+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:56",
-      "is_today": false
-    },
-    {
-      "id": "d87cf8e7dfe7",
-      "title": "アンカー、睡眠用イヤホン「Anker Sleep Earbuds 4」を発表",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156041.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/041/cont1790.jpg",
-      "summary": "アンカー・ジャパンは12日、睡眠特化型フルワイヤレスイヤホン「Anker Sleep Earbuds 4」シリーズを発表した。「Anker Sleep Earbuds 4」と「Anker Sleep Earbuds 4 Pro」をラインアップする。",
-      "summary_bullets": [
-        "アンカー・ジャパンは12日、睡眠特化型フルワイヤレスイヤホン「Anker Sleep Earbuds 4」シリーズを発表した。「Anker Sleep Earbuds 4」と「Anker Sleep Earbuds 4 Pro」をラインアップする。"
-      ],
-      "published_at": "2026-11-12T19:56:07+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:56",
-      "is_today": false
-    },
-    {
-      "id": "12be52c14720",
-      "title": "「500円分ポイントが必ずもらえる！」カストロールキャンペーン デジタルポイントとプレゼントがもらえるチャンス",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156039.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/039/001.jpg",
-      "summary": "BPカストロールは、2026年11月13日～2027年1月5日の間に対象商品を購入した人を対象に景品をプレゼントする「500 円分ポイントが必ずもらえる！ カストロールエッジ レシート応募キャンペーン」を実施する。応募締め切りは2027年1月12日。",
-      "summary_bullets": [
-        "BPカストロールは、2026年11月13日～2027年1月5日の間に対象商品を購入した人を対象に景品をプレゼントする「500 円分ポイントが必ずもらえる！ カストロールエッジ レシート応募キャンペーン」を実施する。応募締め切りは2027年1月12日。"
-      ],
-      "published_at": "2026-11-12T19:42:54+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:42",
-      "is_today": false
-    },
-    {
-      "id": "4ec05f723023",
-      "title": "カーメイト、「INNO ルーフバスケット」をもっと便利に使うためのオプション3種「INT501用クロスバー」「スラントバー」「マルチストッパーTスロット用」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156004.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/004/001.jpg",
-      "summary": "カーメイトは8月28日、カーキャリアブランド「INNO（イノー）」から「INNO ルーフバスケット（INT501）」用オプションとして、「INT501用クロスバー（IOP503）」「スラントバー（IOP504）」を発売した。価格はオープンプライス。",
-      "summary_bullets": [
-        "カーメイトは8月28日、カーキャリアブランド「INNO（イノー）」から「INNO ルーフバスケット（INT501）」用オプションとして、「INT501用クロスバー（IOP503）」「スラントバー（IOP504）」を発売した。価格はオープンプライス。"
-      ],
-      "published_at": "2026-11-12T19:35:20+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:35",
-      "is_today": false
-    },
-    {
-      "id": "c3a58890ea0a",
-      "title": "面倒なピッチ補正をAIエージェントで自動化【PitchNet】",
-      "url": "https://sleepfreaks-dtm.com/ai-agent/ai-pitchnet/",
-      "media": "Sleepfreaks",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://sleepfreaks-dtm.com/favicon.ico",
-      "summary": "今回は、ボーカルとガイドメロディのMIDIをAIエージェントに渡して、ピッチ補正を任せてみました。 外れていない音や歌い回しは残すこと、補正後にガイドと突き合わせて確認することまで指示できます。 一度うまくいった作業は「 […]",
-      "summary_bullets": [
-        "今回は、ボーカルとガイドメロディのMIDIをAIエージェントに渡して、ピッチ補正を任せてみました。 外れていない音や歌い回しは残すこと、補正後にガイドと突き合わせて確認することまで指示できます。 一度うまくいった作業は「 […]"
-      ],
-      "published_at": "2026-11-12T19:09:13+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:09",
-      "is_today": false
-    },
-    {
-      "id": "fedb7552befc",
-      "title": "アンカー、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズ発表――AI文字起こし対応「Pro」も来春登場",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156017.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/017/cont145.jpg",
-      "summary": "アンカー・ジャパンは12日、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズを発表した。",
-      "summary_bullets": [
-        "アンカー・ジャパンは12日、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズを発表した。"
-      ],
-      "published_at": "2026-11-12T19:02:11+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "19:02",
-      "is_today": false
-    },
-    {
-      "id": "8fab877f540b",
-      "title": "AIと人が連携し電話応対業務を効率化する「AI Voice サービス」",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156030.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/030/0.jpg",
-      "summary": "アルティウスリンクは11月11日、人と自然に会話し、電話応対業務を完結するAIオペレーターの導入から、企業の業務に合わせた育成・運用までを一体で提供するサービス「AI Voice サービス」の提供を開始した。",
-      "summary_bullets": [
-        "アルティウスリンクは11月11日、人と自然に会話し、電話応対業務を完結するAIオペレーターの導入から、企業の業務に合わせた育成・運用までを一体で提供するサービス「AI Voice サービス」の提供を開始した。"
-      ],
-      "published_at": "2026-11-12T18:58:16+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "18:58",
-      "is_today": false
-    },
-    {
-      "id": "9cae93d18303",
-      "title": "AI搭載の家庭用3Dプリンター「MakeBuddy Smart5」 高品質な3Dプリントと家族で楽しむ創作・学びの体験を提供",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156013.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/013/0500.jpg",
-      "summary": "QIDI Techは、AI技術を搭載した家庭用3Dプリンター「MakeBuddy Smart5」を発売した。価格は54,999円。",
-      "summary_bullets": [
-        "QIDI Techは、AI技術を搭載した家庭用3Dプリンター「MakeBuddy Smart5」を発売した。価格は54,999円。"
-      ],
-      "published_at": "2026-11-12T18:26:29+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "18:26",
-      "is_today": false
-    },
-    {
-      "id": "9465f6befeb4",
-      "title": "SOMPOとNTT、介護のフィジカルAI実装で協定。清掃や配膳など想定",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156005.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/005/00.jpg",
-      "summary": "SOMPOホールディングスとNTTは、介護分野におけるフィジカルAIの社会実装を推進するパートナーシップ協定を11月11日に締結した。",
-      "summary_bullets": [
-        "SOMPOホールディングスとNTTは、介護分野におけるフィジカルAIの社会実装を推進するパートナーシップ協定を11月11日に締結した。"
-      ],
-      "published_at": "2026-11-12T18:13:44+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "18:13",
-      "is_today": false
-    },
-    {
-      "id": "44fa774effe0",
-      "title": "ホンダ、コンパクトSUV「ヴェゼル」に「S＋シフト」搭載グレード「e:HEV RS」「e:HEV TRAILSPORT」今冬登場",
-      "url": "https://car.watch.impress.co.jp/docs/news/2155987.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/987/100.jpg",
-      "summary": "本田技研工業は、10月にマイチェンを実施したコンパクトSUV「VEZEL（ヴェゼル）」の新グレード「e:HEV RS」「e:HEV TRAILSPORT」を今冬に追加するとWebサイトで明らかにした。すでに先行予約も受け付けている。",
-      "summary_bullets": [
-        "本田技研工業は、10月にマイチェンを実施したコンパクトSUV「VEZEL（ヴェゼル）」の新グレード「e:HEV RS」「e:HEV TRAILSPORT」を今冬に追加するとWebサイトで明らかにした。すでに先行予約も受け付けている。"
-      ],
-      "published_at": "2026-11-12T17:45:41+09:00",
-      "published_date": "2026-11-12",
-      "published_time": "17:45",
       "is_today": false
     }
   ]
