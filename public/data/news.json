@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-15T20:47:56.134163+09:00",
-  "generated_at_formatted": "2026/11/15 20:47",
-  "target_date": "2026-11-15",
-  "yesterday_date": "2026-11-14",
-  "total_articles": 60,
-  "today_articles_count": 33,
+  "generated_at": "2026-11-16T04:16:49.472011+09:00",
+  "generated_at_formatted": "2026/11/16 04:16",
+  "target_date": "2026-11-16",
+  "yesterday_date": "2026-11-15",
+  "total_articles": 49,
+  "today_articles_count": 5,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 60
+      "count": 49
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 31
+      "count": 24
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 2
+      "count": 5
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 4
+      "count": 2
     },
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 14
+      "count": 12
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 9
+      "count": 6
     },
     {
       "id": "appliance",
@@ -43,6 +43,176 @@
     }
   ],
   "articles": [
+    {
+      "id": "a166d363e593",
+      "title": "[みんなのケータイ]石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/538/01.jpg",
+      "summary": "個人情報を盗まれてしまいました。と言っても、最近、社会問題となっているAIを悪用した不正アクセスの被害に遭ったわけではありません。いや、ある企業から「あなたの個人情報が漏洩した恐れがあります」というメールは届いたので、実際には被害に遭っているかも……。もはや「一切被害に遭っていません」と言い切れる人のほうが少ないかもしれませんね。",
+      "summary_bullets": [
+        "個人情報を盗まれてしまいました。と言っても、最近、社会問題となっているAIを悪用した不正アクセスの被害に遭ったわけではありません。いや、ある企業から「あなたの個人情報が漏洩した恐れがあります」というメールは届いたので、実際には被害に遭っているかも……。もはや「一切被害に遭っていません」と言い切れる人のほうが少ないかもしれませんね。"
+      ],
+      "published_at": "2026-11-16T00:00:00+09:00",
+      "published_date": "2026-11-16",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "99128511f087",
+      "title": "[本日の一品]台北から連れ帰った、丸目のLEDスタンド「MINI ROBOT」",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2156438.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/438/cont0.jpg",
+      "summary": "筆者は台湾が大好きで、よく出かける。自然も素晴らしいが、ガジェット好きの筆者は、台湾に行くと必ず「賽先生科學工廠」に足を運ぶ。科学の仕掛けを使った雑貨や玩具が並んでいて、ちょっとのぞくだけのつもりが、ついつい長居していろいろ買ってしまう。",
+      "summary_bullets": [
+        "筆者は台湾が大好きで、よく出かける。自然も素晴らしいが、ガジェット好きの筆者は、台湾に行くと必ず「賽先生科學工廠」に足を運ぶ。科学の仕掛けを使った雑貨や玩具が並んでいて、ちょっとのぞくだけのつもりが、ついつい長居していろいろ買ってしまう。"
+      ],
+      "published_at": "2026-11-16T00:00:00+09:00",
+      "published_date": "2026-11-16",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "d16d6993b078",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]スマホを遠隔タッチ操作できる大画面5インチワイヤレスモニター、MAGEX「M5 PRO」がコスパ抜群でサイコー♪",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2156436.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/436/cont0.jpg",
+      "summary": "本連載バックナンバーで書いたが、以前に「スマートフォンの画面表示をミラーリング表示できるワイヤレスモニター」を使って以来、そのテのワイヤレスモニターにハマり中。そして最近買って最も気に入った製品が↓コレ、MAGEX「M5 PRO」だゼっ!!!",
+      "summary_bullets": [
+        "本連載バックナンバーで書いたが、以前に「スマートフォンの画面表示をミラーリング表示できるワイヤレスモニター」を使って以来、そのテのワイヤレスモニターにハマり中。そして最近買って最も気に入った製品が↓コレ、MAGEX「M5 PRO」だゼっ!!!"
+      ],
+      "published_at": "2026-11-16T00:00:00+09:00",
+      "published_date": "2026-11-16",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "69227b242310",
+      "title": "36万円のiPhone Duoと5万9800円のNothing Phone (4b)　価格が語る秋のスマホ事情[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/congress/2155298.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/298/a000.jpg",
+      "summary": "通信業界を中心に活躍するライター4人と編集長の関口による「スマホ会議（仮）」。今回は発売となったiPhone DuoやXperia 10 VIII、Nothing Phone (4b)について話し合っていきます。",
+      "summary_bullets": [
+        "通信業界を中心に活躍するライター4人と編集長の関口による「スマホ会議（仮）」。今回は発売となったiPhone DuoやXperia 10 VIII、Nothing Phone (4b)について話し合っていきます。"
+      ],
+      "published_at": "2026-11-16T00:00:00+09:00",
+      "published_date": "2026-11-16",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "df20dbd99402",
+      "title": "【日下部保雄の悠悠閑閑】相棒",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2156175.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/175/001.jpg",
+      "summary": "ムクがわが家に来たのは2019年の11月。足下をチョロチョロ動き回る生後3か月ほどの黒いヌイグルミのような姿に即「ムク！」と呼んだ。それ以来、先輩ネコに恐れ入ることもなく短い脚をクルクル動かして元気いっぱい走り回ることになった。スコティッシュフォールドとマンチカンの混血らしいが、気が強く、大きな声で呼ぶのできっとご近所に迷惑だったと思う。",
+      "summary_bullets": [
+        "ムクがわが家に来たのは2019年の11月。足下をチョロチョロ動き回る生後3か月ほどの黒いヌイグルミのような姿に即「ムク！」と呼んだ。それ以来、先輩ネコに恐れ入ることもなく短い脚をクルクル動かして元気いっぱい走り回ることになった。スコティッシュフォールドとマンチカンの混血らしいが、気が強く、大きな声で呼ぶのできっとご近所に迷惑だったと思う。"
+      ],
+      "published_at": "2026-11-16T00:00:00+09:00",
+      "published_date": "2026-11-16",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "7b30a8ab462e",
+      "title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体",
+      "url": "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2026/03/04/RheEnergiseDemonstratorProject_Turbineandpumpfilms0-36screenshot.png?w=1200",
+      "summary": "山がないから無理……を覆す？ 水より密度の高い流体で、揚水発電が進化するかも。",
+      "summary_bullets": [
+        "山がないから無理……を覆す？ 水より密度の高い流体で、揚水発電が進化するかも。"
+      ],
+      "published_at": "2026-11-15T23:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "ecdf72898b6f",
+      "title": "NASAが1977年に打ち上げたボイジャー1号、まもなく地球から「1光日」の彼方へ",
+      "url": "https://www.gizmodo.jp/article/voyager-1-light-day-distance/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/2a4a95c3-75ba-491a-986d-481e3f88618c/original.png?w=1200",
+      "summary": "NASAが1977年に打ち上げたボイジャー1号が、11月18日に地球から1光日の距離へ到達します。地球から送った電波が届くまでに丸1日。ボイジャー1号がすぐに返信しても、こちらが受け取れるのは送信から約2日後です。",
+      "summary_bullets": [
+        "NASAが1977年に打ち上げたボイジャー1号が、11月18日に地球から1光日の距離へ到達します。地球から送った電波が届くまでに丸1日。ボイジャー1号がすぐに返信しても、こちらが受け取れるのは送信から約2日後です。"
+      ],
+      "published_at": "2026-11-15T22:30:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "22:30",
+      "is_today": false
+    },
+    {
+      "id": "c02ae9efc338",
+      "title": "【ブラックフライデーセール】2ミックスからボーカルや任意のインストゥルメン トの抜き出しを可能にする音声分離ツール、HIT’N’MIX「RipX DAW」シリーズが50%OFF！",
+      "url": "https://computermusic.jp/2026/11/ripx-daw/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/11/RipXDAWPROScreenShot_NoBorder-1024x603-1-e1701241979487.png",
+      "summary": "2ミックスからボーカルや任意のインストゥルメン トの抜き出しを可能にする音声分離ツール、HIT’N’MIX「RipX DAW」シリーズが50%OFFとなっています。 RipX DAW AIによるル... The post 【ブラックフライデーセール】2ミックスからボーカルや任意のインストゥルメン トの抜き出しを可能にする音声分離ツール、HIT’N’MIX「RipX DAW」シリーズが50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "2ミックスからボーカルや任意のインストゥルメン トの抜き出しを可能にする音声分離ツール、HIT’N’MIX「RipX DAW」シリーズが50%OFFとなっています。 RipX DAW AIによるル... The post 【ブラックフライデーセール】2ミックスからボーカルや任意のインストゥルメン トの抜き出しを可能にする音声分離ツール、HIT’N’MI..."
+      ],
+      "published_at": "2026-11-15T22:16:35+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "22:16",
+      "is_today": false
+    },
+    {
+      "id": "262978544bd7",
+      "title": "【ブラックフライデーセール】合計37種類のビンテージスタイル・プラグインを収録した総合制作ツールキット、Nomad Factory「Integral Studio Pack 4」が90%OFF！",
+      "url": "https://computermusic.jp/2026/11/integral-studio-pack-4-sale/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/integralStudioPack4.webp",
+      "summary": "合計37種類のビンテージスタイル・プラグインを収録した総合制作ツールキット、Nomad Factory「Integral Studio Pack 4」が90%OFFとなっています。 Nomad Factoryでは、ブラッ... The post 【ブラックフライデーセール】合計37種類のビンテージスタイル・プラグインを収録した総合制作ツールキット、Nomad Factory「Integral Studio Pack 4」が90%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "合計37種類のビンテージスタイル・プラグインを収録した総合制作ツールキット、Nomad Factory「Integral Studio Pack 4」が90%OFFとなっています。 Nomad Factoryでは、ブラッ... The post 【ブラックフライデーセール】合計37種類のビンテージスタイル・プラグインを収録した総合制作ツールキット、No..."
+      ],
+      "published_at": "2026-11-15T22:06:41+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "22:06",
+      "is_today": false
+    },
+    {
+      "id": "7fdd4eabd49d",
+      "title": "睡眠テックの到達点か？ Ankerの「SleepLab Pro」は、ただ側に“置くだけ”で睡眠データを計測",
+      "url": "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/a9955b8e-3ef4-4437-a5d9-3780802a592d/original.jpg?w=1200",
+      "summary": "AnkerのSleepLab Proはミリ波レーダーで非接触かつ装着不要の睡眠データ計測を実現するスマートスピーカーです。光目覚ましや環境音楽機能も搭載し寝室環境の質を高めます。",
+      "summary_bullets": [
+        "AnkerのSleepLab Proはミリ波レーダーで非接触かつ装着不要の睡眠データ計測を実現するスマートスピーカーです。光目覚ましや環境音楽機能も搭載し寝室環境の質を高めます。"
+      ],
+      "published_at": "2026-11-15T21:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "21:00",
+      "is_today": false
+    },
     {
       "id": "a1e636b8b20e",
       "title": "大富豪は罪を問われない。のか。エヌビディア元CEOとマスクを分けたもの",
@@ -58,7 +228,24 @@
       "published_at": "2026-11-15T20:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
+    },
+    {
+      "id": "0e14b68990a2",
+      "title": "The Drum Broker、E-mu SP-1200とAKAI MPC2000XLのUSBメモリを限定再販…… 中身は128GBに増量",
+      "url": "https://icon.jp/archives/28441",
+      "media": "ICON",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28441.jpg",
+      "summary": "The Drum Brokerが、SP-1200とMPC2000XLのUSBメモリを再販売しています。 E-mu SP-1200のミニチュアUSBメモリ ヒップホップ系のサンプルパックで知られるThe Drum Brok […]",
+      "summary_bullets": [
+        "The Drum Brokerが、SP-1200とMPC2000XLのUSBメモリを再販売しています。 E-mu SP-1200のミニチュアUSBメモリ ヒップホップ系のサンプルパックで知られるThe Drum Brok […]"
+      ],
+      "published_at": "2026-11-15T20:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "20:00",
+      "is_today": false
     },
     {
       "id": "6326d52cd210",
@@ -75,7 +262,7 @@
       "published_at": "2026-11-15T19:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e19d35c5ecaa",
@@ -92,7 +279,7 @@
       "published_at": "2026-11-15T18:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0fd41f6012d0",
@@ -109,7 +296,7 @@
       "published_at": "2026-11-15T17:35:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3cc7f2af00a6",
@@ -126,7 +313,7 @@
       "published_at": "2026-11-15T17:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ffca33c71812",
@@ -143,7 +330,7 @@
       "published_at": "2026-11-15T16:35:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "44ef2f43a11d",
@@ -160,7 +347,7 @@
       "published_at": "2026-11-15T16:01:47+09:00",
       "published_date": "2026-11-15",
       "published_time": "16:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e2f3b120644e",
@@ -177,7 +364,7 @@
       "published_at": "2026-11-15T15:01:09+09:00",
       "published_date": "2026-11-15",
       "published_time": "15:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6801c69d88a3",
@@ -194,7 +381,7 @@
       "published_at": "2026-11-15T15:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "46d0232219d0",
@@ -211,7 +398,7 @@
       "published_at": "2026-11-15T14:31:05+09:00",
       "published_date": "2026-11-15",
       "published_time": "14:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b470a316774c",
@@ -228,7 +415,7 @@
       "published_at": "2026-11-15T14:01:50+09:00",
       "published_date": "2026-11-15",
       "published_time": "14:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cdfb2fa98a51",
@@ -245,7 +432,7 @@
       "published_at": "2026-11-15T13:31:31+09:00",
       "published_date": "2026-11-15",
       "published_time": "13:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2e0124cd77c2",
@@ -262,7 +449,7 @@
       "published_at": "2026-11-15T13:01:13+09:00",
       "published_date": "2026-11-15",
       "published_time": "13:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "348b3f08dd9f",
@@ -279,7 +466,7 @@
       "published_at": "2026-11-15T13:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8d929ec055ce",
@@ -296,7 +483,7 @@
       "published_at": "2026-11-15T12:45:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "12:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "75cb98d1d2a7",
@@ -313,7 +500,7 @@
       "published_at": "2026-11-15T12:31:16+09:00",
       "published_date": "2026-11-15",
       "published_time": "12:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e235cdc8f775",
@@ -330,7 +517,7 @@
       "published_at": "2026-11-15T12:01:23+09:00",
       "published_date": "2026-11-15",
       "published_time": "12:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aad6a7975056",
@@ -347,7 +534,7 @@
       "published_at": "2026-11-15T12:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9048c229f19d",
@@ -364,7 +551,7 @@
       "published_at": "2026-11-15T12:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "88e2759681a9",
@@ -381,24 +568,7 @@
       "published_at": "2026-11-15T11:35:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "11:35",
-      "is_today": true
-    },
-    {
-      "id": "3549a0c222ce",
-      "title": "【ブラックフライデーセール】ボーカル・ダブリング処理に特化した、二つの新しいToolboxレンジ・プラグイン、Sonnox「VoxDoubler」が74%OFF！",
-      "url": "https://computermusic.jp/2026/11/sonnox-voxdoubler/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/08/VoxDoubler.webp",
-      "summary": "ボーカル・ダブリング処理に特化した、二つの新しいToolboxレンジ・プラグイン、Sonnox「VoxDoubler」が74%OFFとなっています。 Sonnoxのすべての製品がお得に導入できるブラックフライデー。年に一... The post 【ブラックフライデーセール】ボーカル・ダブリング処理に特化した、二つの新しいToolboxレンジ・プラグイン、Sonnox「VoxDoubler」が74%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "ボーカル・ダブリング処理に特化した、二つの新しいToolboxレンジ・プラグイン、Sonnox「VoxDoubler」が74%OFFとなっています。 Sonnoxのすべての製品がお得に導入できるブラックフライデー。年に一... The post 【ブラックフライデーセール】ボーカル・ダブリング処理に特化した、二つの新しいToolboxレンジ・プラグイン..."
-      ],
-      "published_at": "2026-11-15T11:31:19+09:00",
-      "published_date": "2026-11-15",
-      "published_time": "11:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b904615006bd",
@@ -415,24 +585,7 @@
       "published_at": "2026-11-15T11:30:16+09:00",
       "published_date": "2026-11-15",
       "published_time": "11:30",
-      "is_today": true
-    },
-    {
-      "id": "2e85abfcdf0e",
-      "title": "【ブラックフライデーセール】OTO Biscuitをエミュレートしたマルチエフェクトプラグイン、Softube「OTO Biscuit 8-bit Effects」が81%OFF！",
-      "url": "https://computermusic.jp/2026/11/oto-biscuit-8-bit-effects/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/11/oto-biscuit-PluginBoutique-e1617314983859.jpeg",
-      "summary": "OTO Biscuitをエミュレートしたマルチエフェクトプラグイン、Softube「OTO Biscuit 8-bit Effects」が81%OFFとなっています。 Softubeではブラックフライデーセールを開催中で... The post 【ブラックフライデーセール】OTO Biscuitをエミュレートしたマルチエフェクトプラグイン、Softube「OTO Biscuit 8-bit Effects」が81%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "OTO Biscuitをエミュレートしたマルチエフェクトプラグイン、Softube「OTO Biscuit 8-bit Effects」が81%OFFとなっています。 Softubeではブラックフライデーセールを開催中で... The post 【ブラックフライデーセール】OTO Biscuitをエミュレートしたマルチエフェクトプラグイン、Softub..."
-      ],
-      "published_at": "2026-11-15T11:01:53+09:00",
-      "published_date": "2026-11-15",
-      "published_time": "11:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4cd4ee450edb",
@@ -449,7 +602,7 @@
       "published_at": "2026-11-15T11:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5fbaecf94ab0",
@@ -466,7 +619,7 @@
       "published_at": "2026-11-15T10:05:42+09:00",
       "published_date": "2026-11-15",
       "published_time": "10:05",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3573629d452a",
@@ -483,7 +636,7 @@
       "published_at": "2026-11-15T10:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5f66009ab5d2",
@@ -500,7 +653,7 @@
       "published_at": "2026-11-15T10:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "86895dcd27eb",
@@ -517,7 +670,7 @@
       "published_at": "2026-11-15T10:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "14b4d247c19f",
@@ -534,7 +687,7 @@
       "published_at": "2026-11-15T08:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "015131b9de77",
@@ -551,7 +704,7 @@
       "published_at": "2026-11-15T08:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "70d9354b48a8",
@@ -568,7 +721,7 @@
       "published_at": "2026-11-15T07:15:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "07:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a3953164776f",
@@ -585,7 +738,7 @@
       "published_at": "2026-11-15T07:00:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "48749fb802d9",
@@ -602,7 +755,7 @@
       "published_at": "2026-11-15T05:08:00+09:00",
       "published_date": "2026-11-15",
       "published_time": "05:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aa288db8dfed",
@@ -690,40 +843,6 @@
       "is_today": false
     },
     {
-      "id": "e7dd8275cc63",
-      "title": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める",
-      "url": "https://www.gizmodo.jp/article/2611-inzai-big-hop-datacenter-plan/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/12/6601d70f-0897-48f7-941f-c0e2a6a7e76a/original.png?w=1200",
-      "summary": "千葉県印西市の駅前ショッピングモールにおけるデータセンター計画の概要と、テナントや住民の間で高まる不安、市の対応について解説します。",
-      "summary_bullets": [
-        "千葉県印西市の駅前ショッピングモールにおけるデータセンター計画の概要と、テナントや住民の間で高まる不安、市の対応について解説します。"
-      ],
-      "published_at": "2026-11-14T18:30:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "18:30",
-      "is_today": false
-    },
-    {
-      "id": "0109777e8968",
-      "title": "信じがたいけどほんと。常識がひっくり返る宇宙の話",
-      "url": "https://www.gizmodo.jp/article/2611-mind-blowing-space-facts/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/00e4fae1-e35a-4073-99de-2a168cd342c4/original.jpg?w=1200",
-      "summary": "土星の衛星衝突、火星の古代海洋の痕跡、地球「第2の月」など、スケールの大きな宇宙の話題を3つご紹介。",
-      "summary_bullets": [
-        "土星の衛星衝突、火星の古代海洋の痕跡、地球「第2の月」など、スケールの大きな宇宙の話題を3つご紹介。"
-      ],
-      "published_at": "2026-11-14T18:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "18:00",
-      "is_today": false
-    },
-    {
       "id": "993da0a31e55",
       "title": "【S耐FINAL大感謝祭】スズキはAWIN製パーツを装着する「スイフト」「ジムニーシエラ」展示中 風洞実験を経て開発したルーフラック!?",
       "url": "https://car.watch.impress.co.jp/docs/news/2156494.html",
@@ -741,23 +860,6 @@
       "is_today": false
     },
     {
-      "id": "8a63774f4806",
-      "title": "フォークソングがダンスミュージックに!? SpotifyがAIリミックスのサービスを開始か",
-      "url": "https://www.gizmodo.jp/article/spotify_ai_remix/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/12/0dc2cba1-7538-4a89-9bc9-69c4a6aedded/original.jpg?w=1200",
-      "summary": "Spotifyが2027年にAIリミックス機能の提供を計画。ファンによる楽曲の再解釈が可能になる一方、アーティストの権利や世界観への影響に関する期待と懸念を解説します。",
-      "summary_bullets": [
-        "Spotifyが2027年にAIリミックス機能の提供を計画。ファンによる楽曲の再解釈が可能になる一方、アーティストの権利や世界観への影響に関する期待と懸念を解説します。"
-      ],
-      "published_at": "2026-11-14T17:35:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "17:35",
-      "is_today": false
-    },
-    {
       "id": "5c4e2930108b",
       "title": "【S耐FINAL大感謝祭】スバル、6速MT仕様の「WRX STI Sport R」公開 MT復活を求める声が寄せられ企画が実現",
       "url": "https://car.watch.impress.co.jp/docs/news/2156490.html",
@@ -772,295 +874,6 @@
       "published_at": "2026-11-14T16:47:38+09:00",
       "published_date": "2026-11-14",
       "published_time": "16:47",
-      "is_today": false
-    },
-    {
-      "id": "310e8bbdf089",
-      "title": "忘れられない1台～私の愛したデジタルカメラ～パナソニック LUMIX DMC-FT1",
-      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2156425.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/425/01.jpg",
-      "summary": "忘れられない1台～私の愛したデジタルカメラ～パナソニック LUMIX DMC-FT1",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-14T15:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "15:00",
-      "is_today": false
-    },
-    {
-      "id": "8d16d8603124",
-      "title": "モバイルセグメントは損失をさらに縮小し、純増基調を維持――楽天グループが2026年度第3四半期決算を発表",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news016.jpg",
-      "summary": "楽天グループが11月13日に2026年度第3四半期の決算説明会を開催した。ローミングサービスの終了を迎えた楽天モバイルについては、その影響を思ったよりも受けていないようだ。",
-      "summary_bullets": [
-        "楽天グループが11月13日に2026年度第3四半期の決算説明会を開催した。ローミングサービスの終了を迎えた楽天モバイルについては、その影響を思ったよりも受けていないようだ。"
-      ],
-      "published_at": "2026-11-14T15:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "15:00",
-      "is_today": false
-    },
-    {
-      "id": "e8e9fe80e32b",
-      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％　思ったよりも少ない？　多い？",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news015.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news015.jpg",
-      "summary": "NTTドコモの「5G SA」で通信障害が発生しました。影響を受けたのは「最大で約158万7000回線」と、MVNOを含むドコモの5G回線の3～4％くらいでした。これは、多いのか、それとも少ないのか……？",
-      "summary_bullets": [
-        "NTTドコモの「5G SA」で通信障害が発生しました。影響を受けたのは「最大で約158万7000回線」と、MVNOを含むドコモの5G回線の3～4％くらいでした。これは、多いのか、それとも少ないのか……？"
-      ],
-      "published_at": "2026-11-14T13:15:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "13:15",
-      "is_today": false
-    },
-    {
-      "id": "c383331197aa",
-      "title": "Splice Create レビュー｜膨大なサンプルとAIエージェントで、思いついたアイデアをすぐ曲にできるDAW",
-      "url": "https://sleepfreaks-dtm.com/dtm-materials/splice-create/",
-      "media": "Sleepfreaks",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://sleepfreaks-dtm.com/wordpress/wp-content/uploads/2026/11/10a014b55a2694535bd19f634f82bbc2.jpg?type=original",
-      "summary": "Spliceのサンプルを曲に重ねながら探せる、AI搭載の新しいDAW サンプルサービスでおなじみのSpliceから、DAW「Splice Create」が登場しました。 Spliceのサンプルを曲の中で直接探して試せるう […]",
-      "summary_bullets": [
-        "Spliceのサンプルを曲に重ねながら探せる、AI搭載の新しいDAW サンプルサービスでおなじみのSpliceから、DAW「Splice Create」が登場しました。 Spliceのサンプルを曲の中で直接探して試せるう […]"
-      ],
-      "published_at": "2026-11-14T12:51:59+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:51",
-      "is_today": false
-    },
-    {
-      "id": "59cb1bda07d6",
-      "title": "Ableton Live 13発表。待望のARA 2対応でVOCALOID／Synthesizer Vと連携、新機能をさっそく試してみた",
-      "url": "https://www.dtmstation.com/archives/81700.html",
-      "media": "DTMステーション",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://www.dtmstation.com/wp-content/uploads/2026/11/Snap1-1.png",
-      "summary": "SNSなどで話題になっているので、すでにご存じの方も多いと思いますが、Abletonが11月10日、DAW「Ableton Live」の次期メジャーバージョンとなる「Live 13」を発表しました。正式リリースは2027 […]",
-      "summary_bullets": [
-        "SNSなどで話題になっているので、すでにご存じの方も多いと思いますが、Abletonが11月10日、DAW「Ableton Live」の次期メジャーバージョンとなる「Live 13」を発表しました。正式リリースは2027 […]"
-      ],
-      "published_at": "2026-11-14T12:40:34+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:40",
-      "is_today": false
-    },
-    {
-      "id": "979501aa9ca6",
-      "title": "アストンマーティン、映画「スター・ウォーズ」50周年記念企画への参画を表明",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156475.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/475/001.jpg",
-      "summary": "アストンマーティンは11月12日（現地時間）、映画「スター・ウォーズ」の50周年を記念し、ディズニーおよびルーカスフィルムが展開するグローバル企画に参加すると発表した。",
-      "summary_bullets": [
-        "アストンマーティンは11月12日（現地時間）、映画「スター・ウォーズ」の50周年を記念し、ディズニーおよびルーカスフィルムが展開するグローバル企画に参加すると発表した。"
-      ],
-      "published_at": "2026-11-14T12:34:13+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:34",
-      "is_today": false
-    },
-    {
-      "id": "13dfade28a35",
-      "title": "スバル、6速MT「TY85」搭載の水平対向2.4リッターターボモデル「WRX STI Sport R」 価格は548万円",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156444.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/444/001.jpg",
-      "summary": "スバルは11月14日、6速MTを搭載した「WRX STI Sport R」を発表した。価格は548万円。11月19日から注文が開始される。",
-      "summary_bullets": [
-        "スバルは11月14日、6速MTを搭載した「WRX STI Sport R」を発表した。価格は548万円。11月19日から注文が開始される。"
-      ],
-      "published_at": "2026-11-14T12:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "6e196edcdde7",
-      "title": "スバル「WRX」の6速MT搭載モデルが復活!! 走りは？ シフトフィールは？ さっそく試乗してきた",
-      "url": "https://car.watch.impress.co.jp/docs/news/impression/2154965.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2154/965/001.jpg",
-      "summary": "10月22日にSNS上で発信されたティザーCMを見て、「ついに来たか！」と目を輝かせた方も多いことだろう。そう、スバル「WRX」にとうとう、マニュアルトランスミッション搭載モデルが加わったのだ。",
-      "summary_bullets": [
-        "10月22日にSNS上で発信されたティザーCMを見て、「ついに来たか！」と目を輝かせた方も多いことだろう。そう、スバル「WRX」にとうとう、マニュアルトランスミッション搭載モデルが加わったのだ。"
-      ],
-      "published_at": "2026-11-14T12:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "6653b9783029",
-      "title": "デジカメ動画Watch：冬のイルミネーションを「Osmo Pocket 4P」で撮る 六本木ヒルズけやき坂で試す“手持ち望遠夜景”",
-      "url": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2156400.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/400/001.jpg",
-      "summary": "これからの季節、動画で撮影したい被写体といえばイルミネーションが挙がるだろう。イルミネーションの動画撮影も写真同様のテクニックで見栄えのする作品になる。",
-      "summary_bullets": [
-        "これからの季節、動画で撮影したい被写体といえばイルミネーションが挙がるだろう。イルミネーションの動画撮影も写真同様のテクニックで見栄えのする作品になる。"
-      ],
-      "published_at": "2026-11-14T12:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "20a5a0f5b9a5",
-      "title": "難関のWi-Fi配線もクリア！　デルの「親子パソコン組立教室 2026」で子どもたちが最新PC作りに挑戦",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/14/news002.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/14/cover_news002.jpg",
-      "summary": "デル・テクノロジーズが、宮崎カスタマーセンターで「親子で体験!! Dell親子パソコン組立教室 2026」を開催した。全国から集まった6組の親子が、14型ノートPC「Dell 14」の組み立てに挑戦した様子をレポートする。",
-      "summary_bullets": [
-        "デル・テクノロジーズが、宮崎カスタマーセンターで「親子で体験!! Dell親子パソコン組立教室 2026」を開催した。全国から集まった6組の親子が、14型ノートPC「Dell 14」の組み立てに挑戦した様子をレポートする。"
-      ],
-      "published_at": "2026-11-14T12:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "0e792e435d01",
-      "title": "日本自動車会議所、富士スピードウェイホテルで「モータースポーツシゴトEXPO」　ホンダやトヨタ、スバルなど19社の展示に100人の学生が参加",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156472.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/472/001.jpg",
-      "summary": "日本自動車会議所は11月14日、富士スピードウェイホテルや富士スピードウェイで「モータースポーツシゴトEXPO」を開催した。モータースポーツシゴトEXPOは、モータースポーツにかかわる人材を増やしていく取り組みになり、学生に向けて自動車会社やモータースポーツ関連企業19社の普段の仕事を見てもらう場を設けている。",
-      "summary_bullets": [
-        "日本自動車会議所は11月14日、富士スピードウェイホテルや富士スピードウェイで「モータースポーツシゴトEXPO」を開催した。モータースポーツシゴトEXPOは、モータースポーツにかかわる人材を増やしていく取り組みになり、学生に向けて自動車会社やモータースポーツ関連企業19社の普段の仕事を見てもらう場を設けている。"
-      ],
-      "published_at": "2026-11-14T11:36:25+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "11:36",
-      "is_today": false
-    },
-    {
-      "id": "6eeb7d28b1c6",
-      "title": "【ダイソー】110円の「スタンド（便器型）」　日常生活がちょっと楽しく、実用性も十分",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/l_asa_100item_01.jpg",
-      "summary": "ダイソーで「スタンド（便器型）」が販売されている。4～7型サイズの端末の横置きに対応し、4段階の角度調節にも対応する。価格は110円。",
-      "summary_bullets": [
-        "ダイソーで「スタンド（便器型）」が販売されている。4～7型サイズの端末の横置きに対応し、4段階の角度調節にも対応する。価格は110円。"
-      ],
-      "published_at": "2026-11-14T10:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "cf2c3eec7748",
-      "title": "Xfer Records、FM-1をSerum直系のウェーブテーブル・シンセに変貌させるファームウェア、「Shrub」をリリース…… ソフト・シンセとして機能するエディター・プラグインも公開",
-      "url": "https://icon.jp/archives/28415",
-      "media": "ICON",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28415.jpg",
-      "summary": "Xfer Recordsが、Serumを元に開発されたFM-1用のファームウェア、「Shrub（シュラブ）」を公開。ソフトウェア・シンセサイザーとして機能するエディター／ライブラリアン・プラグインもリリースされました。 […]",
-      "summary_bullets": [
-        "Xfer Recordsが、Serumを元に開発されたFM-1用のファームウェア、「Shrub（シュラブ）」を公開。ソフトウェア・シンセサイザーとして機能するエディター／ライブラリアン・プラグインもリリースされました。 […]"
-      ],
-      "published_at": "2026-11-14T10:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "11b755c66d64",
-      "title": "【本日みつけたお買い得品】1万円台で27型IPS＋120Hz！ASUSのアイケアモニターが値下げ中",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156469.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/469/01.jpg",
-      "summary": "Amazonにて、ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている。27型の「VY279HGR」は直近価格から2,820円引きとなる1万3,980円で購入可能だ。",
-      "summary_bullets": [
-        "Amazonにて、ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている。27型の「VY279HGR」は直近価格から2,820円引きとなる1万3,980円で購入可能だ。"
-      ],
-      "published_at": "2026-11-14T09:14:19+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "09:14",
-      "is_today": false
-    },
-    {
-      "id": "136a2457add2",
-      "title": "【本日みつけたお買い得品】REGZAの27型WQHDアイケアモニターが1万870円引き、Amazonでセール",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156468.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/468/01.jpg",
-      "summary": "Amazonにて、REGZAのモニターがセール価格で販売されており、27型のWQHD(2,560×1,440ドット)対応モニター「RM-27N4SE」が、直近価格から1万870円引きの2万5,980円で購入できる。",
-      "summary_bullets": [
-        "Amazonにて、REGZAのモニターがセール価格で販売されており、27型のWQHD(2,560×1,440ドット)対応モニター「RM-27N4SE」が、直近価格から1万870円引きの2万5,980円で購入できる。"
-      ],
-      "published_at": "2026-11-14T09:06:26+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "09:06",
-      "is_today": false
-    },
-    {
-      "id": "0c47473b012e",
-      "title": "ローミング縮小でも楽天モバイルからユーザーが流出しない理由　一方で浮上する「副回線化とARPU低下」の懸念",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news014.jpg",
-      "summary": "KDDIとのローミング縮小後も楽天モバイルの解約率は低下し、経済圏の結び付きから大規模な流出は起きていない。一方でKDDIは混雑エリアの通信品質を改善しつつpovoの副回線需要を取り込み、想定外のローミング収入も得た。楽天モバイルは副回線化によるARPU低下を防ぐため、JTOWERとの連携などで自社網の品質強化を急ぐ構えだ。",
-      "summary_bullets": [
-        "KDDIとのローミング縮小後も楽天モバイルの解約率は低下し、経済圏の結び付きから大規模な流出は起きていない。一方でKDDIは混雑エリアの通信品質を改善しつつpovoの副回線需要を取り込み、想定外のローミング収入も得た。楽天モバイルは副回線化によるARPU低下を防ぐため、JTOWERとの連携などで自社網の品質強化を急ぐ構えだ。"
-      ],
-      "published_at": "2026-11-14T09:00:00+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "09:00",
-      "is_today": false
-    },
-    {
-      "id": "e3a4a20415c1",
-      "title": "【本日みつけたお買い得品】540Hzが4万円引き！ASUSのゲーミングモニターがAmazonでセール",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156467.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2156/467/01.jpg",
-      "summary": "Amazonにて、ASUSのゲーミングモニターがセール価格で販売されており、24.1型の540Hz対応モニター「PG248QP」が、直近価格から4万1,836円引きの9万9,800円で購入できる。",
-      "summary_bullets": [
-        "Amazonにて、ASUSのゲーミングモニターがセール価格で販売されており、24.1型の540Hz対応モニター「PG248QP」が、直近価格から4万1,836円引きの9万9,800円で購入できる。"
-      ],
-      "published_at": "2026-11-14T08:54:17+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "08:54",
       "is_today": false
     }
   ]
