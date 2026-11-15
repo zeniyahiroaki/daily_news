@@ -1,48 +1,235 @@
 {
-  "generated_at": "2026-11-15T03:39:42.029251+09:00",
-  "generated_at_formatted": "2026/11/15 03:39",
+  "generated_at": "2026-11-15T10:32:05.867853+09:00",
+  "generated_at_formatted": "2026/11/15 10:32",
   "target_date": "2026-11-15",
   "yesterday_date": "2026-11-14",
-  "total_articles": 93,
-  "today_articles_count": 0,
+  "total_articles": 63,
+  "today_articles_count": 11,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 93
+      "count": 63
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 43
+      "count": 35
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 15
+      "count": 2
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 8
+      "count": 4
     },
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 15
+      "count": 13
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 11
+      "count": 9
     },
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 1
+      "count": 0
     }
   ],
   "articles": [
+    {
+      "id": "fa556ec8b073",
+      "title": "【ブラックフライデーセール】アップロード後にストリーミングプラットフォームがトラックの音量をどのように調整するかを予測するラウドネス正規化分析プラグイン、MeterPlugs「Loudness Penalty 2」が30%OFF！",
+      "url": "https://computermusic.jp/2026/11/meterplugs-loudness-penalty-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/06/loudness-penalty-2-0-raw-2.jpg",
+      "summary": "アップロード後にストリーミングプラットフォームがトラックの音量をどのように調整するかを予測するラウドネス正規化分析プラグイン、MeterPlugs「Loudness Penalty 2」が30%OFFとなっています。 M... The post 【ブラックフライデーセール】アップロード後にストリーミングプラットフォームがトラックの音量をどのように調整するかを予測するラウドネス正規化分析プラグイン、MeterPlugs「Loudness Penalty 2」が30%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "アップロード後にストリーミングプラットフォームがトラックの音量をどのように調整するかを予測するラウドネス正規化分析プラグイン、MeterPlugs「Loudness Penalty 2」が30%OFFとなっています。 M... The post 【ブラックフライデーセール】アップロード後にストリーミングプラットフォームがトラックの音量をどのように調整す..."
+      ],
+      "published_at": "2026-11-15T10:31:31+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "10:31",
+      "is_today": true
+    },
+    {
+      "id": "d3cb5756418e",
+      "title": "【ブラックフライデーセール】最先端のスマート機能を搭載した世界最高峰の頭脳とサウンドを持つDAW、LUNA Studioが50%OFF！",
+      "url": "https://computermusic.jp/2026/11/luna-studio-uad/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/09/unnamed.jpg",
+      "summary": "最先端のスマート機能を搭載した世界最高峰の頭脳とサウンドを持つDAW、LUNA Studioが50%OFFとなっています。 LUNA Studioには、あなたの創造力をサポートする多彩なスマート機能と、著名アーティストや... The post 【ブラックフライデーセール】最先端のスマート機能を搭載した世界最高峰の頭脳とサウンドを持つDAW、LUNA Studioが50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "最先端のスマート機能を搭載した世界最高峰の頭脳とサウンドを持つDAW、LUNA Studioが50%OFFとなっています。 LUNA Studioには、あなたの創造力をサポートする多彩なスマート機能と、著名アーティストや... The post 【ブラックフライデーセール】最先端のスマート機能を搭載した世界最高峰の頭脳とサウンドを持つDAW、LUNA ..."
+      ],
+      "published_at": "2026-11-15T10:16:47+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "10:16",
+      "is_today": true
+    },
+    {
+      "id": "5fbaecf94ab0",
+      "title": "【S耐FINAL大感謝祭】マツダのモータースポーツを通じたカーボンニュートラルの取り組みを体験 CO2を含んだロードスターミニカーが作れる",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156518.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/518/010.jpg",
+      "summary": "スーパー耐久のST-Qクラスは「走る実験室」と呼ばれており、自動車メーカーが開発車両を実際に走らせ、その耐久性を確かめたり、技術を熟成させたりするためのクラスとなっている。",
+      "summary_bullets": [
+        "スーパー耐久のST-Qクラスは「走る実験室」と呼ばれており、自動車メーカーが開発車両を実際に走らせ、その耐久性を確かめたり、技術を熟成させたりするためのクラスとなっている。"
+      ],
+      "published_at": "2026-11-15T10:05:42+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "10:05",
+      "is_today": true
+    },
+    {
+      "id": "ed82aaaa1ddc",
+      "title": "【ブラックフライデーセール】重低音キックを自在に設計するハイブリッド・シンセサイザー、D16 Group「PunchBox 2」50%OFF！",
+      "url": "https://computermusic.jp/2026/11/punchbox-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/06/D16PNCB2_001.jpg",
+      "summary": "重低音キックを自在に設計するハイブリッド・シンセサイザー、D16 Group「PunchBox 2」が50%OFFとなっています。 D16 Groupでは ブラックフライデーセールを開催中です。合わせてチェックしてみてく... The post 【ブラックフライデーセール】重低音キックを自在に設計するハイブリッド・シンセサイザー、D16 Group「PunchBox 2」50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "重低音キックを自在に設計するハイブリッド・シンセサイザー、D16 Group「PunchBox 2」が50%OFFとなっています。 D16 Groupでは ブラックフライデーセールを開催中です。合わせてチェックしてみてく... The post 【ブラックフライデーセール】重低音キックを自在に設計するハイブリッド・シンセサイザー、D16 Group「P..."
+      ],
+      "published_at": "2026-11-15T10:01:12+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "10:01",
+      "is_today": true
+    },
+    {
+      "id": "86895dcd27eb",
+      "title": "NASA「アルテミス2号」が空に開けた穴によりGPSに誤差が発生",
+      "url": "https://www.gizmodo.jp/article/2611-artemis-2-gps-ionosphere-disturbance/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/12/05417558-b253-44fd-b32a-bc6956104caf/original.jpg?w=1200",
+      "summary": "NASAのアルテミス2号打ち上げが電離層に穴を開けGPSに誤差を生じさせた研究結果を解説します。",
+      "summary_bullets": [
+        "NASAのアルテミス2号打ち上げが電離層に穴を開けGPSに誤差を生じさせた研究結果を解説します。"
+      ],
+      "published_at": "2026-11-15T10:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "32250956a92d",
+      "title": "【ブラックフライデーセール】大地を揺るがす大迫力のシネマティックサウンドを収録した、KEEPFOREST「EVOLUTION: DEVASTATOR BREAKOUT PRO」が45%OFF！",
+      "url": "https://computermusic.jp/2026/11/evolution-devastator-breakout-pro/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/12/KPFR031_01.jpg",
+      "summary": "大地を揺るがす大迫力のシネマティックサウンドを収録した、KEEPFOREST「EVOLUTION: DEVASTATOR BREAKOUT PRO」が45%OFFとなっています。 Keepforestではブラックフライデ... The post 【ブラックフライデーセール】大地を揺るがす大迫力のシネマティックサウンドを収録した、KEEPFOREST「EVOLUTION: DEVASTATOR BREAKOUT PRO」が45%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "大地を揺るがす大迫力のシネマティックサウンドを収録した、KEEPFOREST「EVOLUTION: DEVASTATOR BREAKOUT PRO」が45%OFFとなっています。 Keepforestではブラックフライデ... The post 【ブラックフライデーセール】大地を揺るがす大迫力のシネマティックサウンドを収録した、KEEPFOREST「E..."
+      ],
+      "published_at": "2026-11-15T09:44:54+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "09:44",
+      "is_today": true
+    },
+    {
+      "id": "14b4d247c19f",
+      "title": "「HomePod mini 2」と「HomePod」どっちを買う？　新旧モデルを比較して分かった選び方",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/15/news006.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/15/cover_news006.jpg",
+      "summary": "Appleが10月30日に発売した「HomePod mini 2」は、S10チップを搭載し、Wi-Fi 6Eや4スピーカーのサラウンドにも対応した。大型の「HomePod」や終売した第1世代miniと比較し、用途別の選び方を整理する。",
+      "summary_bullets": [
+        "Appleが10月30日に発売した「HomePod mini 2」は、S10チップを搭載し、Wi-Fi 6Eや4スピーカーのサラウンドにも対応した。大型の「HomePod」や終売した第1世代miniと比較し、用途別の選び方を整理する。"
+      ],
+      "published_at": "2026-11-15T08:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "015131b9de77",
+      "title": "サブスクの「解約忘れで課金」に待った。EUが新ルールを提案",
+      "url": "https://www.gizmodo.jp/article/2611-eu-subscription-cancellation-rule/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/3c9ddfac-2681-46ed-9184-f9e1f4ed523b/original.jpg?w=1200",
+      "summary": "サブスクの解約忘れによる無意識の課金を防ぐため、EUが提案した新しい消費者保護ルール「デジタル公正法」。日本も導入してほしい。",
+      "summary_bullets": [
+        "サブスクの解約忘れによる無意識の課金を防ぐため、EUが提案した新しい消費者保護ルール「デジタル公正法」。日本も導入してほしい。"
+      ],
+      "published_at": "2026-11-15T08:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "70d9354b48a8",
+      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+      "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/15/2000003207/10012162/2048",
+      "summary": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
+      "summary_bullets": [
+        "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。"
+      ],
+      "published_at": "2026-11-15T07:15:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "07:15",
+      "is_today": true
+    },
+    {
+      "id": "a3953164776f",
+      "title": "岡嶋和幸の「あとで買う」 2,025点目：座席に機材などを載せるときの汚れ防止に便利 - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2156516.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/516/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-15T07:00:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "48749fb802d9",
+      "title": "スーパー耐久、GRカートを使用したモータースポーツ入門「ファーストS耐」開催 「モータースポーツを日常に」と桑山晴美副理事長",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155988.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2155/988/001.jpg",
+      "summary": "11月14日、スーパー耐久最終戦を開催中の富士スピードウェイカートコースにおいて「FIRST S耐 カートCup in Fuji」（以下、ファーストS耐）が開催された。これは、スーパー耐久の入門カテゴリとしては限定された市販車を使用した「S耐チャレンジ」があるが、さらに間口を広く取って将来のモータースポーツ発展・産業拡大に寄与していこうというものだ。",
+      "summary_bullets": [
+        "11月14日、スーパー耐久最終戦を開催中の富士スピードウェイカートコースにおいて「FIRST S耐 カートCup in Fuji」（以下、ファーストS耐）が開催された。これは、スーパー耐久の入門カテゴリとしては限定された市販車を使用した「S耐チャレンジ」があるが、さらに間口を広く取って将来のモータースポーツ発展・産業拡大に寄与していこうというものだ。"
+      ],
+      "published_at": "2026-11-15T05:08:00+09:00",
+      "published_date": "2026-11-15",
+      "published_time": "05:08",
+      "is_today": true
+    },
     {
       "id": "aa288db8dfed",
       "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
@@ -197,23 +384,6 @@
       "is_today": false
     },
     {
-      "id": "05ea26882098",
-      "title": "【ブラックフライデーセール】高品質のアナログシンセプラグインをエミュレートするu-heが、ブラックフライデーバンドルセール開催！",
-      "url": "https://computermusic.jp/2026/11/u-he-bf2026-bundle/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/u-he-everything-bundle.webp",
-      "summary": "高品質のアナログシンセプラグインをエミュレートするu-heが、ブラックフライデーバンドルセール開催です。 その他にもバンドルがセール中なので、是非チェックを。 u-he Everything Bundle ... The post 【ブラックフライデーセール】高品質のアナログシンセプラグインをエミュレートするu-heが、ブラックフライデーバンドルセール開催！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "高品質のアナログシンセプラグインをエミュレートするu-heが、ブラックフライデーバンドルセール開催です。 その他にもバンドルがセール中なので、是非チェックを。 u-he Everything Bundle ... The post 【ブラックフライデーセール】高品質のアナログシンセプラグインをエミュレートするu-heが、ブラックフライデーバンドルセール..."
-      ],
-      "published_at": "2026-11-14T21:17:26+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "21:17",
-      "is_today": false
-    },
-    {
       "id": "abc5b9d5f1fa",
       "title": "Motorola公式、やらかす。次の折りたたみの名前を意図せずフライング",
       "url": "https://www.gizmodo.jp/article/2611-motorola-razr-flex-2027/",
@@ -228,23 +398,6 @@
       "published_at": "2026-11-14T21:00:00+09:00",
       "published_date": "2026-11-14",
       "published_time": "21:00",
-      "is_today": false
-    },
-    {
-      "id": "00178645d381",
-      "title": "【ブラックフライデーセール】プロフェッショナルなコード進行、ベースライン、メロディー、アルペジオを簡単に作成する、Mozaic Beats「Chord Prism 2」が34%OFF！",
-      "url": "https://computermusic.jp/2026/11/chord-prism-2/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/11/MZB001_001.jpg",
-      "summary": "プロフェッショナルなコード進行、ベースライン、メロディー、アルペジオを簡単に作成する、Mozaic Beats「Chord Prism 2」が34%OFFとなっています。 Chord Prism 2 MIDIコントローラ... The post 【ブラックフライデーセール】プロフェッショナルなコード進行、ベースライン、メロディー、アルペジオを簡単に作成する、Mozaic Beats「Chord Prism 2」が34%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "プロフェッショナルなコード進行、ベースライン、メロディー、アルペジオを簡単に作成する、Mozaic Beats「Chord Prism 2」が34%OFFとなっています。 Chord Prism 2 MIDIコントローラ... The post 【ブラックフライデーセール】プロフェッショナルなコード進行、ベースライン、メロディー、アルペジオを簡単に作成..."
-      ],
-      "published_at": "2026-11-14T20:59:15+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "20:59",
       "is_today": false
     },
     {
@@ -503,23 +656,6 @@
       "is_today": false
     },
     {
-      "id": "df5621358632",
-      "title": "【ブラックフライデーセール】聴く者を深い瞑想へと誘うニューエイジ系ソフト音源、Best Service「NADA」が40％OFF！",
-      "url": "https://computermusic.jp/2026/11/best-service-nada/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/02/shot_BSNADA_1.jpeg",
-      "summary": "聴く者を深い瞑想へと誘うニューエイジ系ソフト音源、Best Service「NADA」が40％OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。合わせてチェックしてみてください。 B... The post 【ブラックフライデーセール】聴く者を深い瞑想へと誘うニューエイジ系ソフト音源、Best Service「NADA」が40％OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "聴く者を深い瞑想へと誘うニューエイジ系ソフト音源、Best Service「NADA」が40％OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。合わせてチェックしてみてください。 B... The post 【ブラックフライデーセール】聴く者を深い瞑想へと誘うニューエイジ系ソフト音源、Best Service「NA..."
-      ],
-      "published_at": "2026-11-14T12:46:57+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:46",
-      "is_today": false
-    },
-    {
       "id": "59cb1bda07d6",
       "title": "Ableton Live 13発表。待望のARA 2対応でVOCALOID／Synthesizer Vと連携、新機能をさっそく試してみた",
       "url": "https://www.dtmstation.com/archives/81700.html",
@@ -551,23 +687,6 @@
       "published_at": "2026-11-14T12:34:13+09:00",
       "published_date": "2026-11-14",
       "published_time": "12:34",
-      "is_today": false
-    },
-    {
-      "id": "78165c017ca5",
-      "title": "【ブラックフライデーセール】500シリーズラックマウント用G-Comp、Solid State Logic「Stereo Bus Compressor Module for 500 Series」が22,000円オフ！",
-      "url": "https://computermusic.jp/2026/11/solid-state-logic-stereo-bus-compressor-module-for-500-series/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/10/ssl-buscomp-500.jpg",
-      "summary": "500シリーズラックマウント用G-Comp、Solid State Logic「Stereo Bus Compressor Module for 500 Series」が22,000円オフとなっています。 Rock oN... The post 【ブラックフライデーセール】500シリーズラックマウント用G-Comp、Solid State Logic「Stereo Bus Compressor Module for 500 Series」が22,000円オフ！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "500シリーズラックマウント用G-Comp、Solid State Logic「Stereo Bus Compressor Module for 500 Series」が22,000円オフとなっています。 Rock oN... The post 【ブラックフライデーセール】500シリーズラックマウント用G-Comp、Solid State Logic「..."
-      ],
-      "published_at": "2026-11-14T12:31:52+09:00",
-      "published_date": "2026-11-14",
-      "published_time": "12:31",
       "is_today": false
     },
     {
@@ -993,635 +1112,6 @@
       "published_at": "2026-11-13T22:45:00+09:00",
       "published_date": "2026-11-13",
       "published_time": "22:45",
-      "is_today": false
-    },
-    {
-      "id": "bc0466729bd0",
-      "title": "STUTSと未来のしごとの話をしよう。高輪に移った「MUTEK.JP 2026」が楽しみすぎる",
-      "url": "https://www.gizmodo.jp/article/2611-mutek-jp-2026-takanawa-stuts/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/b0b6c6e9-91b3-4dce-a4b1-cc96ae3a0dcf/original.png?w=1200",
-      "summary": "高輪のTAKANAWA GATEWAY CITYで開催されるMUTEK.JP 2026の見所を紹介します。STUTSやリッチー・ホーティンの出演情報や未来の仕事についてお届けします。",
-      "summary_bullets": [
-        "高輪のTAKANAWA GATEWAY CITYで開催されるMUTEK.JP 2026の見所を紹介します。STUTSやリッチー・ホーティンの出演情報や未来の仕事についてお届けします。"
-      ],
-      "published_at": "2026-11-13T22:30:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "22:30",
-      "is_today": false
-    },
-    {
-      "id": "572ebc9c80ef",
-      "title": "NVIDIAのCEO、中国スパイと不倫。投資家による集団訴訟に発展。次期CEOはどうなる？",
-      "url": "https://www.gizmodo.jp/article/2611-nvidia-ceo-china-spy-scandal-lawsuit/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/89f25d41-6b3b-4613-88fb-eb8d9bb4d459/original.jpg?w=1200",
-      "summary": "NVIDIAのCEOが中国スパイとの不倫報道を受けて辞任しました。株価の急落や投資家による集団訴訟の動向、会社の統治体制への影響を詳しく解説します。",
-      "summary_bullets": [
-        "NVIDIAのCEOが中国スパイとの不倫報道を受けて辞任しました。株価の急落や投資家による集団訴訟の動向、会社の統治体制への影響を詳しく解説します。"
-      ],
-      "published_at": "2026-11-13T22:30:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "22:30",
-      "is_today": false
-    },
-    {
-      "id": "eddd3f1aa78b",
-      "title": "ソフトバンク、デジタルツインで被災建物の危険度判定を実証",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156411.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/411/00.jpg",
-      "summary": "ソフトバンクは11月11日、和歌山県すさみ町と連携し、デジタルツイン技術を活用して、被災した建物の応急危険度判定を遠隔から行なう実証を実施したと発表した。有資格者である応急危険度判定士が遠隔から確認を行ない、鉄筋コンクリート造の建物について、必要な全項目を遠隔から危険度を判定できることを確認した。",
-      "summary_bullets": [
-        "ソフトバンクは11月11日、和歌山県すさみ町と連携し、デジタルツイン技術を活用して、被災した建物の応急危険度判定を遠隔から行なう実証を実施したと発表した。有資格者である応急危険度判定士が遠隔から確認を行ない、鉄筋コンクリート造の建物について、必要な全項目を遠隔から危険度を判定できることを確認した。"
-      ],
-      "published_at": "2026-11-13T22:25:48+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "22:25",
-      "is_today": false
-    },
-    {
-      "id": "d3c4033fff74",
-      "title": "とにかくNVIDIAが好きな人。ガジェット業界から見たジェンスン・フアン氏の顔",
-      "url": "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-legacy/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/86208bd9-a35c-47f4-a14d-c85d9798c7ed/original.jpg?w=1200",
-      "summary": "NVIDIAのCEOを辞任したジェンスン・フアン氏の足跡をガジェット業界の視点から振り返り。彼はどんな人物で、何を成し遂げたのか。",
-      "summary_bullets": [
-        "NVIDIAのCEOを辞任したジェンスン・フアン氏の足跡をガジェット業界の視点から振り返り。彼はどんな人物で、何を成し遂げたのか。"
-      ],
-      "published_at": "2026-11-13T22:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "22:00",
-      "is_today": false
-    },
-    {
-      "id": "d7ea98964ee0",
-      "title": "「ボトルネック解消」――楽天、衛星通信に自信　今後の展開は“一気に加速”",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news094.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news094.jpg",
-      "summary": "楽天グループの三木谷浩史会長兼社長は11月13日の決算説明会で、市販スマホと直接つながる衛星通信を競争力の「最大の切り札」と位置付けた。国策事業への採択や新会社設立に加え、米AST SpaceMobileによるロケット打ち上げ契約で最大の課題だった輸送枠を確保した。超大型衛星による大容量通信と地上網の融合で、国内圏外ゼロと早期黒字化を目指す。",
-      "summary_bullets": [
-        "楽天グループの三木谷浩史会長兼社長は11月13日の決算説明会で、市販スマホと直接つながる衛星通信を競争力の「最大の切り札」と位置付けた。国策事業への採択や新会社設立に加え、米AST SpaceMobileによるロケット打ち上げ契約で最大の課題だった輸送枠を確保した。超大型衛星による大容量通信と地上網の融合で、国内圏外ゼロと早期黒字化を目指す。"
-      ],
-      "published_at": "2026-11-13T21:20:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "21:20",
-      "is_today": false
-    },
-    {
-      "id": "cbc455220acc",
-      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/449/01.jpg",
-      "summary": "マネックス証券は11月13日、外部委託先が運営する一部の口座開設システムが不正アクセスを受け、顧客の個人情報の一部が外部に漏洩したおそれがあると発表した。外部の専門機関が不正アクセスの原因や被害範囲を調べる調査（フォレンジック調査）を進めたところ、中間報告で判明した。",
-      "summary_bullets": [
-        "マネックス証券は11月13日、外部委託先が運営する一部の口座開設システムが不正アクセスを受け、顧客の個人情報の一部が外部に漏洩したおそれがあると発表した。外部の専門機関が不正アクセスの原因や被害範囲を調べる調査（フォレンジック調査）を進めたところ、中間報告で判明した。"
-      ],
-      "published_at": "2026-11-13T21:19:16+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "21:19",
-      "is_today": false
-    },
-    {
-      "id": "3a8933ef65bd",
-      "title": "楽天グループ、第3四半期の連結売上高が過去最高　EBITDAは1235億円で成長加速",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/437/005.jpg",
-      "summary": "楽天グループは13日、2026年度第3四半期決算を発表した。連結売上収益が第3四半期として過去最高を更新し、EBITDAも第3四半期として過去最高の1235億円に達した。携帯電話事業の赤字縮小やフィンテックの好調に加え、AI導入によるコスト削減が進み、収益構造が大きく改善した。",
-      "summary_bullets": [
-        "楽天グループは13日、2026年度第3四半期決算を発表した。連結売上収益が第3四半期として過去最高を更新し、EBITDAも第3四半期として過去最高の1235億円に達した。携帯電話事業の赤字縮小やフィンテックの好調に加え、AI導入によるコスト削減が進み、収益構造が大きく改善した。"
-      ],
-      "published_at": "2026-11-13T20:49:15+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "20:49",
-      "is_today": false
-    },
-    {
-      "id": "c957cd6ad663",
-      "title": "auとソフトバンクが「5G信頼性」で世界トップ　Opensignalが「5Gモバイルネットワークアワード2026」発表",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news092.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Opensignal_01.jpg",
-      "summary": "Opensignalは、11月10日に「5Gグローバル・モバイル・ネットワーク・エクスペリエンス・アワード2026」を発表。auとソフトバンクが「5G信頼性」部門で共同世界トップとなり、auは「5G音声アプリ」部門でも世界トップを獲得した。",
-      "summary_bullets": [
-        "Opensignalは、11月10日に「5Gグローバル・モバイル・ネットワーク・エクスペリエンス・アワード2026」を発表。auとソフトバンクが「5G信頼性」部門で共同世界トップとなり、auは「5G音声アプリ」部門でも世界トップを獲得した。"
-      ],
-      "published_at": "2026-11-13T20:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "20:00",
-      "is_today": false
-    },
-    {
-      "id": "1b7df51f50f3",
-      "title": "ベルキン、iPhone 18 Pro向けレザー調シリコンケース発売　360度回転するキックスタンド付き",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Belkin_01.jpg",
-      "summary": "ベルキンは、iPhone 18 Pro／18 Pro Max対応「SkinLuxシリーズ キックスタンド付きレザー調シリコンケース」を発売。独自のリキッドシリコン素材を取り入れ、2段階で折りたためるデュアルヒンジ式キックスタンドを備える。",
-      "summary_bullets": [
-        "ベルキンは、iPhone 18 Pro／18 Pro Max対応「SkinLuxシリーズ キックスタンド付きレザー調シリコンケース」を発売。独自のリキッドシリコン素材を取り入れ、2段階で折りたためるデュアルヒンジ式キックスタンドを備える。"
-      ],
-      "published_at": "2026-11-13T19:33:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:33",
-      "is_today": false
-    },
-    {
-      "id": "4e287a79f7ca",
-      "title": "NTT西日本、フィジカルAI分野での人材育成を京都大学と推進",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156428.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/428/0.jpg",
-      "summary": "NTT西日本は11月13日、フィジカルAIの発展・振興および次世代を担う人材の育成に向けて、京都大学成長戦略本部との連携を強化すると発表した。",
-      "summary_bullets": [
-        "NTT西日本は11月13日、フィジカルAIの発展・振興および次世代を担う人材の育成に向けて、京都大学成長戦略本部との連携を強化すると発表した。"
-      ],
-      "published_at": "2026-11-13T19:21:56+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:21",
-      "is_today": false
-    },
-    {
-      "id": "b632eb84ec2a",
-      "title": "auの「AQUOS sense10」がMNPで2年間9900円、機種変更でも1万円台に【スマホお得情報】",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news082.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_sumaotoku_01.jpg",
-      "summary": "KDDIは、au Online Shopで「AQUOS sense10」を安価で販売中。通常6万1900円のところ「スマホトクするプログラム＋」などを適用するとMNPは2年間9900円、機種変更は2年間1万5400円になる。",
-      "summary_bullets": [
-        "KDDIは、au Online Shopで「AQUOS sense10」を安価で販売中。通常6万1900円のところ「スマホトクするプログラム＋」などを適用するとMNPは2年間9900円、機種変更は2年間1万5400円になる。"
-      ],
-      "published_at": "2026-11-13T19:07:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:07",
-      "is_today": false
-    },
-    {
-      "id": "9575edd7811f",
-      "title": "Alesis MMT-8のWebイミュレーター、「WMT-8」が登場…… オウテカやカール・クレイグらが愛用したMIDIシーケンサーをブラウザ上に再現",
-      "url": "https://icon.jp/archives/28406",
-      "media": "ICON",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28406.jpg",
-      "summary": "Alesis MMT-8をブラウザ上に再現するWebアプリケーション、「WMT-8」が登場。好事家たちの間で注目を集めています。 Alesis MMTをブラウザ上に再現する「WMT-8」 Alesisが1987年に発売し […]",
-      "summary_bullets": [
-        "Alesis MMT-8をブラウザ上に再現するWebアプリケーション、「WMT-8」が登場。好事家たちの間で注目を集めています。 Alesis MMTをブラウザ上に再現する「WMT-8」 Alesisが1987年に発売し […]"
-      ],
-      "published_at": "2026-11-13T19:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "19:00",
-      "is_today": false
-    },
-    {
-      "id": "fbcfa398ad3f",
-      "title": "楽天三木谷氏、ローミング縮小の「影響は限定的」",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/404/mk.jpg",
-      "summary": "楽天は13日の2026年度第3四半期決算説明会において、パートナー回線ローミングの縮小状況や今後のネットワーク戦略を説明した。三木谷浩史会長はローミングを完全に終了するわけではなく、残るエリアについては基本的に継続する方針を強調した。",
-      "summary_bullets": [
-        "楽天は13日の2026年度第3四半期決算説明会において、パートナー回線ローミングの縮小状況や今後のネットワーク戦略を説明した。三木谷浩史会長はローミングを完全に終了するわけではなく、残るエリアについては基本的に継続する方針を強調した。"
-      ],
-      "published_at": "2026-11-13T18:37:15+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:37",
-      "is_today": false
-    },
-    {
-      "id": "86d3e2076b1b",
-      "title": "「GEO BLACK FRIDAY SALE 2026」開催、中古スマホ／ゲームや4Kテレビが割引に　11月21日から",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news076.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_geo_01.jpg",
-      "summary": "ゲオストアは、11月21日から29日まで「GEO BLACK FRIDAY SALE 2026」を開催。中古スマホ、タブレット、Apple Watchなどのモバイル関連商品や中古ゲームソフト／ゲーム機本体、4K対応液晶スマートテレビなどを割引販売する。",
-      "summary_bullets": [
-        "ゲオストアは、11月21日から29日まで「GEO BLACK FRIDAY SALE 2026」を開催。中古スマホ、タブレット、Apple Watchなどのモバイル関連商品や中古ゲームソフト／ゲーム機本体、4K対応液晶スマートテレビなどを割引販売する。"
-      ],
-      "published_at": "2026-11-13T18:29:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:29",
-      "is_today": false
-    },
-    {
-      "id": "2420ad94de65",
-      "title": "楽天モバイルとJTOWERが連携強化、27年3月末までに1000件以上導入へ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156403.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/403/main.jpeg",
-      "summary": "楽天モバイルとJTOWERは、楽天モバイルのネットワーク品質向上に向けた連携を強化する。",
-      "summary_bullets": [
-        "楽天モバイルとJTOWERは、楽天モバイルのネットワーク品質向上に向けた連携を強化する。"
-      ],
-      "published_at": "2026-11-13T18:24:41+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:24",
-      "is_today": false
-    },
-    {
-      "id": "b11176fdb233",
-      "title": "ホットウィール、リバティーウォーク製ボディキット装着GT-Rやシルビアなど1/64サイズのミニカー「カーカルチャーエアロスタイルズ」全5種",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156398.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/398/001.jpg",
-      "summary": "マテル・インターナショナルは、ダイキャストカーブランド「ホットウィール」より、時代やカテゴリーを超えた個性豊かな車両を、リアルな造形と本格的なデザインで再現した「ホットウィール カーカルチャー エアロスタイルズ」全5車種を発売した。価格はいずれも990円。",
-      "summary_bullets": [
-        "マテル・インターナショナルは、ダイキャストカーブランド「ホットウィール」より、時代やカテゴリーを超えた個性豊かな車両を、リアルな造形と本格的なデザインで再現した「ホットウィール カーカルチャー エアロスタイルズ」全5車種を発売した。価格はいずれも990円。"
-      ],
-      "published_at": "2026-11-13T18:08:27+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:08",
-      "is_today": false
-    },
-    {
-      "id": "8bee4501416a",
-      "title": "ABC、購入前にNVIDIA DGX SparkでLLMを実機検証できるサービス",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156397.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/397/00.jpg",
-      "summary": "ABCは11月13日、NVIDIA DGX Sparkを使った大規模言語モデル（LLM）のベンチマークと動作検証を受託するサービスを開始した。料金は1回20万円から（検証項目や構成など、作業量に応じて個別に見積もり）。",
-      "summary_bullets": [
-        "ABCは11月13日、NVIDIA DGX Sparkを使った大規模言語モデル（LLM）のベンチマークと動作検証を受託するサービスを開始した。料金は1回20万円から（検証項目や構成など、作業量に応じて個別に見積もり）。"
-      ],
-      "published_at": "2026-11-13T18:04:05+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:04",
-      "is_today": false
-    },
-    {
-      "id": "6204c92d33f4",
-      "title": "息づかい、キーの音まで。「Instrument X」が打ち込みの基準を変える",
-      "url": "https://sleepfreaks-dtm.com/dtm-materials/instrument-x-orchestra/",
-      "media": "Sleepfreaks",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://sleepfreaks-dtm.com/wordpress/wp-content/uploads/2026/11/0a7a9bc93a7803b66cd35f307c26e7c7.jpg?type=original",
-      "summary": "ベタ打ちから仕上げまで、オーケストラの楽器で実力をチェック Dreamtonicsの楽器音源「Instrument X」は、置かれたノートの並びからフレーズの流れを読み取り、演奏を生成する音源です。 ここでは、弦楽器・木 […]",
-      "summary_bullets": [
-        "ベタ打ちから仕上げまで、オーケストラの楽器で実力をチェック Dreamtonicsの楽器音源「Instrument X」は、置かれたノートの並びからフレーズの流れを読み取り、演奏を生成する音源です。 ここでは、弦楽器・木 […]"
-      ],
-      "published_at": "2026-11-13T18:03:34+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "18:03",
-      "is_today": false
-    },
-    {
-      "id": "a72b945bd0fa",
-      "title": "楽天モバイル「つながりにくさ解消」へ本腰――JTOWERとの連携で500市区町村超のエリア品質を強化",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news091.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news091.jpg",
-      "summary": "楽天モバイルとJTOWERは、全国ネットワークの通信品質向上に向けた連携強化を発表した。2027年3月末までに全国500以上の市区町村で、屋内外の1000件を超える物件へインフラシェアリングの活用を拡大する。JTOWERは専任本部を立ち上げ、大型商業施設やアリーナなど高トラフィック施設でのエリア整備を加速させる。",
-      "summary_bullets": [
-        "楽天モバイルとJTOWERは、全国ネットワークの通信品質向上に向けた連携強化を発表した。2027年3月末までに全国500以上の市区町村で、屋内外の1000件を超える物件へインフラシェアリングの活用を拡大する。JTOWERは専任本部を立ち上げ、大型商業施設やアリーナなど高トラフィック施設でのエリア整備を加速させる。"
-      ],
-      "published_at": "2026-11-13T17:59:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:59",
-      "is_today": false
-    },
-    {
-      "id": "16f0c93ede11",
-      "title": "フラワーパークかごしま、日本最大級の植物公園で約50万球のイルミネーション　休暇村指宿では宿泊者限定の無料直行バスが運行",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2156390.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/390/01.jpg",
-      "summary": "鹿児島県指宿市の植物公園「フラワーパークかごしま」で、11月27日（金）より「フラワーパークイルミネーション」が開催される。期間は2027年1月3日（日）まで。",
-      "summary_bullets": [
-        "鹿児島県指宿市の植物公園「フラワーパークかごしま」で、11月27日（金）より「フラワーパークイルミネーション」が開催される。期間は2027年1月3日（日）まで。"
-      ],
-      "published_at": "2026-11-13T17:47:33+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:47",
-      "is_today": false
-    },
-    {
-      "id": "7cc0aa526faf",
-      "title": "楽天モバイルが決算発表、ローミング通信量は約35％減少も解約には大きな影響なし",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156354.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/354/Rakuten_42.jpg",
-      "summary": "楽天グループは13日、2026年12月期第3四半期決算を発表した。",
-      "summary_bullets": [
-        "楽天グループは13日、2026年12月期第3四半期決算を発表した。"
-      ],
-      "published_at": "2026-11-13T17:44:17+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:44",
-      "is_today": false
-    },
-    {
-      "id": "5af16eb9c07a",
-      "title": "楽天モバイルとKDDIのローミング契約、縮小の影響は「非常に限定的」　三木谷氏が決算で説明",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news090.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news090.jpg",
-      "summary": "楽天グループの三木谷浩史会長兼社長は11月13日、2026年度第3四半期決算説明会で楽天モバイルのKDDIローミング縮小の影響について言及した。10月上旬に縮小を完了したものの影響は限定的で、自社回線のトラフィック比率は96％を超えている。今後はOpen RANや低軌道衛星通信を活用し、さらなるエリア拡充を進める方針だ。",
-      "summary_bullets": [
-        "楽天グループの三木谷浩史会長兼社長は11月13日、2026年度第3四半期決算説明会で楽天モバイルのKDDIローミング縮小の影響について言及した。10月上旬に縮小を完了したものの影響は限定的で、自社回線のトラフィック比率は96％を超えている。今後はOpen RANや低軌道衛星通信を活用し、さらなるエリア拡充を進める方針だ。"
-      ],
-      "published_at": "2026-11-13T17:43:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:43",
-      "is_today": false
-    },
-    {
-      "id": "5ab6ddf9bad9",
-      "title": "ポールスター、新型「フォーミュラ2030」初公開 次世代モデルを具現化",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156341.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/341/008.jpg",
-      "summary": "ポールスターは11月10日（現地時間）、ポールスターの新たな章を具現化した次世代モデル「フォーミュラ2030」を公開した。",
-      "summary_bullets": [
-        "ポールスターは11月10日（現地時間）、ポールスターの新たな章を具現化した次世代モデル「フォーミュラ2030」を公開した。"
-      ],
-      "published_at": "2026-11-13T17:36:40+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:36",
-      "is_today": false
-    },
-    {
-      "id": "3d7414bd0358",
-      "title": "猫や犬の抜け毛を24時間集め続けるペット専用集毛機",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2153852.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2153/852/00-top.jpg",
-      "summary": "ペット用品の開発、製造、販売を行なうジェックスは、床に落ちたペットの抜け毛を集めることに特化した据え置き型の集毛機「PURE PET FUR SWEEPER(ファースイーパー) PPFS01」を、11月24日に発売する。価格は29,480円。交換用リフィルセット(3カ月分/フィルター3枚と活性炭カートリッジ1個)の市場想定価格は1,680円。",
-      "summary_bullets": [
-        "ペット用品の開発、製造、販売を行なうジェックスは、床に落ちたペットの抜け毛を集めることに特化した据え置き型の集毛機「PURE PET FUR SWEEPER(ファースイーパー) PPFS01」を、11月24日に発売する。価格は29,480円。交換用リフィルセット(3カ月分/フィルター3枚と活性炭カートリッジ1個)の市場想定価格は1,680円。"
-      ],
-      "published_at": "2026-11-13T17:30:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:30",
-      "is_today": false
-    },
-    {
-      "id": "f985a537c3f4",
-      "title": "トヨタ「ヤリス クロス GR SPORT」純正装着タイヤにミシュラン「プライマシー5エナジー」採用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156352.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/352/01.jpg",
-      "summary": "日本ミシュランタイヤは11月13日、トヨタ自動車の一部改良した「ヤリス クロス GR SPORT」の新車装着用タイヤとして、「PRIMACY 5 energy（プライマシー ファイブエナジー）」が採用されたことを明らかにした。",
-      "summary_bullets": [
-        "日本ミシュランタイヤは11月13日、トヨタ自動車の一部改良した「ヤリス クロス GR SPORT」の新車装着用タイヤとして、「PRIMACY 5 energy（プライマシー ファイブエナジー）」が採用されたことを明らかにした。"
-      ],
-      "published_at": "2026-11-13T17:25:11+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:25",
-      "is_today": false
-    },
-    {
-      "id": "2d0f92cb0232",
-      "title": "三栄、「モーターファン・イラストレーテッド vol.242」発売",
-      "url": "https://car.watch.impress.co.jp/docs/news/2156336.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2156/336/001.jpg",
-      "summary": "三栄は11月13日、自動車の技術を写真と図解で詳解する「モーターファン・イラストレーテッド vol.242」を発売した。価格は2100円。",
-      "summary_bullets": [
-        "三栄は11月13日、自動車の技術を写真と図解で詳解する「モーターファン・イラストレーテッド vol.242」を発売した。価格は2100円。"
-      ],
-      "published_at": "2026-11-13T17:12:44+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:12",
-      "is_today": false
-    },
-    {
-      "id": "24928accd0cf",
-      "title": "本日のお買い得商品 星景写真など冬の屋外撮影に…ハクバのレンズヒーター",
-      "url": "https://dc.watch.impress.co.jp/docs/news/saleitem/2156201.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/201/01.jpg",
-      "summary": "ハクバのレンズヒーターが、Amazonで9%OFFのセール中となっている。11月13日（金）現在、参考価格が3,480円のところ、3,164円で購入可能だ。",
-      "summary_bullets": [
-        "ハクバのレンズヒーターが、Amazonで9%OFFのセール中となっている。11月13日（金）現在、参考価格が3,480円のところ、3,164円で購入可能だ。"
-      ],
-      "published_at": "2026-11-13T17:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:00",
-      "is_today": false
-    },
-    {
-      "id": "f1488f3586ea",
-      "title": "PCゲームの「起動に時間がかかりすぎる問題」と「プチフリーズ」はなぜ起こる？　その原因を乗り越える取り組みも",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news079.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2611/13/cover_news079.jpg",
-      "summary": "PCゲーム、とりわけWindows向けのものは、初回やグラフィックスドライバの更新後の起動に時間がかかったり、ゲーム中に動作が一瞬止まったりすることがある。その理由と、この現象を解消するための取り組みについて解説する。",
-      "summary_bullets": [
-        "PCゲーム、とりわけWindows向けのものは、初回やグラフィックスドライバの更新後の起動に時間がかかったり、ゲーム中に動作が一瞬止まったりすることがある。その理由と、この現象を解消するための取り組みについて解説する。"
-      ],
-      "published_at": "2026-11-13T17:00:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "17:00",
-      "is_today": false
-    },
-    {
-      "id": "b4d2141e16e6",
-      "title": "写真・カメラファンイベント「GANREF MEET 2026 Winter」を12月12日（土）に開催 メーカー出展に加えて写真家7名がセミナー登壇　モデル撮影や交流会も",
-      "url": "https://dc.watch.impress.co.jp/docs/news/event/2156337.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/337/01.jpg",
-      "summary": "弊社インプレスが運営する写真投稿サイト「GANREF」が、リアルイベント「GANREF MEET 2026 Winter」を12月12日（土）に開催する。今回で3回目となるカメラ・写真ファン向けのイベント。参加は無料で、事前申し込み制。",
-      "summary_bullets": [
-        "弊社インプレスが運営する写真投稿サイト「GANREF」が、リアルイベント「GANREF MEET 2026 Winter」を12月12日（土）に開催する。今回で3回目となるカメラ・写真ファン向けのイベント。参加は無料で、事前申し込み制。"
-      ],
-      "published_at": "2026-11-13T16:39:54+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:39",
-      "is_today": false
-    },
-    {
-      "id": "af5ce27294ce",
-      "title": "楽天モバイル、26年第3四半期の設備投資に403億円計上　基地局着工数は倍増",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156345.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/345/041.jpg",
-      "summary": "楽天モバイルは13日の決算説明会で、電波対策に関する進捗を公表した。基地局整備の内製化により着工数が前四半期比で倍増したほか、AIによるアンテナ自動制御や最大1480億円規模の衛星通信事業を進め、自社回線網を強化する。",
-      "summary_bullets": [
-        "楽天モバイルは13日の決算説明会で、電波対策に関する進捗を公表した。基地局整備の内製化により着工数が前四半期比で倍増したほか、AIによるアンテナ自動制御や最大1480億円規模の衛星通信事業を進め、自社回線網を強化する。"
-      ],
-      "published_at": "2026-11-13T16:37:03+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:37",
-      "is_today": false
-    },
-    {
-      "id": "b2cecec6b1e3",
-      "title": "楽天モバイルのローミング縮小、解約率への影響は軽微　ネットワークも安定",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156333.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/333/042.jpg",
-      "summary": "楽天モバイルは13日、パートナー回線ローミングの縮小状況を公表した。10月上旬に縮小を完了したが、解約率は改善し、自社回線トラフィック比率が96％超に達するなど、事業への影響は軽微にとどまった。",
-      "summary_bullets": [
-        "楽天モバイルは13日、パートナー回線ローミングの縮小状況を公表した。10月上旬に縮小を完了したが、解約率は改善し、自社回線トラフィック比率が96％超に達するなど、事業への影響は軽微にとどまった。"
-      ],
-      "published_at": "2026-11-13T16:18:35+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:18",
-      "is_today": false
-    },
-    {
-      "id": "500dd0cbe9eb",
-      "title": "Googleが新AI「Gemini 4 Hydrogen」発表、業務効率化を実現",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156307.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/307/0.jpg",
-      "summary": "Googleは11月12日、エージェントワークフロー向けの新AIモデル「Gemini 4 Hydrogen」を発表した。同日より開発者、企業、一般ユーザーの各プラットフォームを通じてグローバルに展開が開始されている。価格は100万トークンのコンテキストウィンドウ全体で、入力トークン100万個あたり1.50ドル、出力トークン100万個あたり7.50ドルに設定されている。",
-      "summary_bullets": [
-        "Googleは11月12日、エージェントワークフロー向けの新AIモデル「Gemini 4 Hydrogen」を発表した。同日より開発者、企業、一般ユーザーの各プラットフォームを通じてグローバルに展開が開始されている。価格は100万トークンのコンテキストウィンドウ全体で、入力トークン100万個あたり1.50ドル、出力トークン100万個あたり7.50ドルに..."
-      ],
-      "published_at": "2026-11-13T16:15:43+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:15",
-      "is_today": false
-    },
-    {
-      "id": "e73e668ed8ed",
-      "title": "那須ハイランドパーク、園内カメラが自動撮影しAIで動画を生成",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156322.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/322/00.jpg",
-      "summary": "日本テーマパーク開発は11月12日、那須ハイランドパークにおいて、吉積ホールディングスが提供するAI自動撮影サービス「プレスマ」を正式導入すると発表した。2025年11月からの実証実験を経て、正式にサービスを開始する。",
-      "summary_bullets": [
-        "日本テーマパーク開発は11月12日、那須ハイランドパークにおいて、吉積ホールディングスが提供するAI自動撮影サービス「プレスマ」を正式導入すると発表した。2025年11月からの実証実験を経て、正式にサービスを開始する。"
-      ],
-      "published_at": "2026-11-13T16:15:32+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:15",
-      "is_today": false
-    },
-    {
-      "id": "19b462259fbc",
-      "title": "Datacolorの撮影用バランスカードに「グレー」と「ホワイト」　メインターゲットと6段階グレースケールを1枚に",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2156321.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/321/01.jpg",
-      "summary": "イメージビジョン株式会社は、Datacolorの撮影用リファレンスカード「Spyder Checkr Photo グレーバランスカード」と「Spyder Checkr Photo ホワイトバランスカード」を11月18日（水）に発売する。価格は各4,250円。",
-      "summary_bullets": [
-        "イメージビジョン株式会社は、Datacolorの撮影用リファレンスカード「Spyder Checkr Photo グレーバランスカード」と「Spyder Checkr Photo ホワイトバランスカード」を11月18日（水）に発売する。価格は各4,250円。"
-      ],
-      "published_at": "2026-11-13T16:11:33+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:11",
-      "is_today": false
-    },
-    {
-      "id": "c2a81eba9831",
-      "title": "楽天モバイル、契約数1105万回線を突破",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156325.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/325/007.jpg",
-      "summary": "楽天は13日、2026年度第3四半期決算を発表した。楽天モバイルの全契約回線数は前年同期比172万回線増の1105万回線に達した。ローミング縮小への懸念から純増ペースは緩やかになったが、開通数が解約数を上回り純増構造を維持した。",
-      "summary_bullets": [
-        "楽天は13日、2026年度第3四半期決算を発表した。楽天モバイルの全契約回線数は前年同期比172万回線増の1105万回線に達した。ローミング縮小への懸念から純増ペースは緩やかになったが、開通数が解約数を上回り純増構造を維持した。"
-      ],
-      "published_at": "2026-11-13T16:04:28+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:04",
-      "is_today": false
-    },
-    {
-      "id": "4e903f6fe93e",
-      "title": "初代「日本AI大賞」発表！ 社員の“おせっかい心”でAIアプリ開発の博報堂DY子会社など大賞",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156302.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/302/00.jpg",
-      "summary": "日本AI大賞実行委員会（事務局：日本デジタルトランスフォーメーション推進協会、JDX）は11月12日、シティホール＆ギャラリー五反田で開催した「AI & Security Summit 2026」にて、「日本AI大賞2026」の受賞16組を発表した。",
-      "summary_bullets": [
-        "日本AI大賞実行委員会（事務局：日本デジタルトランスフォーメーション推進協会、JDX）は11月12日、シティホール＆ギャラリー五反田で開催した「AI & Security Summit 2026」にて、「日本AI大賞2026」の受賞16組を発表した。"
-      ],
-      "published_at": "2026-11-13T16:02:23+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "16:02",
-      "is_today": false
-    },
-    {
-      "id": "90937b83d841",
-      "title": "スマート望遠鏡のエントリーモデル「Seestar S30 Plus」　望遠・広角のデュアルレンズ　1.65kgで光害カットフィルター内蔵",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2156311.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2156/311/01.jpg",
-      "summary": "株式会社ビクセンは、ZWO社製のスマート天体望遠鏡「Seestar S30 Plus」を11月20日（金）に発売する。価格はオープン。11月6日（金）に国内での取り扱いを発表していた製品で、このたび発売日が決まった。",
-      "summary_bullets": [
-        "株式会社ビクセンは、ZWO社製のスマート天体望遠鏡「Seestar S30 Plus」を11月20日（金）に発売する。価格はオープン。11月6日（金）に国内での取り扱いを発表していた製品で、このたび発売日が決まった。"
-      ],
-      "published_at": "2026-11-13T15:45:00+09:00",
-      "published_date": "2026-11-13",
-      "published_time": "15:45",
       "is_today": false
     }
   ]
