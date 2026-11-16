@@ -390,7 +390,7 @@ function renderArticles() {
             </div>
 
             <!-- Title -->
-            <h2 class="card-title text-sm sm:text-base font-bold text-slate-900 dark:text-white line-clamp-2 hover:text-blue-600 dark:hover:text-blue-400 transition">
+            <h2 class="card-title text-sm sm:text-base font-bold text-slate-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition">
               <a href="${escapeHtml(art.url)}" target="_blank" rel="noopener noreferrer" class="article-link" data-id="${art.id}">
                 ${escapeHtml(art.title)}
               </a>
