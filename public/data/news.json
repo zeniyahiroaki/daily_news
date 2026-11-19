@@ -1,48 +1,303 @@
 {
-  "generated_at": "2026-11-19T21:34:03.199379+09:00",
-  "generated_at_formatted": "2026/11/19 21:34",
-  "target_date": "2026-11-19",
-  "yesterday_date": "2026-11-18",
-  "total_articles": 197,
-  "today_articles_count": 151,
+  "generated_at": "2026-11-20T06:12:52.435270+09:00",
+  "generated_at_formatted": "2026/11/20 06:12",
+  "target_date": "2026-11-20",
+  "yesterday_date": "2026-11-19",
+  "total_articles": 172,
+  "today_articles_count": 8,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 197
+      "count": 172
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 84
+      "count": 75
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 42
+      "count": 36
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 20
+      "count": 19
     },
     {
       "id": "music",
       "name": "音楽・DJ",
-      "count": 15
+      "count": 16
     },
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 25
+      "count": 20
     },
     {
       "id": "appliance",
       "name": "家電・ライフ",
-      "count": 11
+      "count": 6
     }
   ],
   "articles": [
+    {
+      "id": "83ea0246c8fd",
+      "title": "【やじうまミニレビュー】小型ゲーミングマウス愛好家が注目、UWB通信で49gの右手用「Rival Pro Mini」を試す",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157804.html",
+      "media": "PC Watch",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2157/804/01.png",
+      "summary": "【やじうまミニレビュー】小型ゲーミングマウス愛好家が注目、UWB通信で49gの右手用「Rival Pro Mini」を試す",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-20T06:08:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "06:08",
+      "is_today": true
+    },
+    {
+      "id": "e4f4ca19e2bb",
+      "title": "カメラバカにつける薬 in デジカメ Watch：すごい望遠レンズ",
+      "url": "https://dc.watch.impress.co.jp/docs/comic/clinic/2157574.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2157/574/list.jpg",
+      "summary": "カメラバカにつける薬 in デジカメ Watch：すごい望遠レンズ",
+      "summary_bullets": [
+        "（本文リンク先をご覧ください）"
+      ],
+      "published_at": "2026-11-20T06:00:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "06:00",
+      "is_today": true
+    },
+    {
+      "id": "4ee3f85adea0",
+      "title": "「4000個」のアプリを自作　最初は“全然興味ナシ“だった社員を巻き込んだ、老舗建設会社のDXがすごかった",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/20/news030.html",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://image.itmedia.co.jp/business/articles/2611/20/cover_news030.jpg",
+      "summary": "紙やFAXが当たり前だった建設現場で、4000以上のアプリが稼働する全社DXを実現した山形県の老舗建設業・後藤組。しかし導入当初は「作ったアプリが全く使われない」という壁に直面していたという。どう社員を巻き込み、デジタル化を進めたのか。",
+      "summary_bullets": [
+        "紙やFAXが当たり前だった建設現場で、4000以上のアプリが稼働する全社DXを実現した山形県の老舗建設業・後藤組。しかし導入当初は「作ったアプリが全く使われない」という壁に直面していたという。どう社員を巻き込み、デジタル化を進めたのか。"
+      ],
+      "published_at": "2026-11-20T05:30:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "05:30",
+      "is_today": true
+    },
+    {
+      "id": "3fae69acd61f",
+      "title": "【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る",
+      "url": "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/6aad9607-d62b-4903-bb54-bf079424143b/original.jpg?w=1200",
+      "summary": "2026年11月20日、Claudeを手がけるAI開発企業「Anthropic」がナスダックに株式を上場しました。新規株式公開（IPO）時の株価は1株あたり83ドルでしたが、取引が始まり、初値は111.50ドル（公開価格+34.4%）となり…",
+      "summary_bullets": [
+        "2026年11月20日、Claudeを手がけるAI開発企業「Anthropic」がナスダックに株式を上場しました。新規株式公開（IPO）時の株価は1株あたり83ドルでしたが、取引が始まり、初値は111.50ドル（公開価格+34.4%）となり…"
+      ],
+      "published_at": "2026-11-20T01:55:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "01:55",
+      "is_today": true
+    },
+    {
+      "id": "4d2d510fa22a",
+      "title": "[石川温の「スマホ業界 Watch」]「Premiere」モバイル版、アドビがAndroid版の開発に本腰を入れる理由",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2158013.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/013/2.jpg",
+      "summary": "11月10日から3日間、アメリカ・マイアミで開催された「Adobe MAX」を取材した。基調講演では全く触れられなかった編集アプリ「Premiereモバイル版」がかなり興味深かった。",
+      "summary_bullets": [
+        "11月10日から3日間、アメリカ・マイアミで開催された「Adobe MAX」を取材した。基調講演では全く触れられなかった編集アプリ「Premiereモバイル版」がかなり興味深かった。"
+      ],
+      "published_at": "2026-11-20T00:00:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "d1c0be289ba8",
+      "title": "[みんなのケータイ]ワイド画面や水冷スマホ、バンコクの展示会で見つけた珍しい端末",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2157957.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/957/05.jpg",
+      "summary": "11月5日～8日、バンコクで「Thailand Mobile Expo 2026」が開催されました。タイでスマートフォンのイベントってどんなものかと思われるでしょうが、これは一般消費者向けのスマートフォン販売イベント。",
+      "summary_bullets": [
+        "11月5日～8日、バンコクで「Thailand Mobile Expo 2026」が開催されました。タイでスマートフォンのイベントってどんなものかと思われるでしょうが、これは一般消費者向けのスマートフォン販売イベント。"
+      ],
+      "published_at": "2026-11-20T00:00:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "d4172a6042e5",
+      "title": "[てっぱんアプリ！] 紙の本が好きなあなたに、在庫確認＆取り寄せ依頼ができる「ほんらぶWEB」",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2157947.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/947/thumbnail.jpg",
+      "summary": "スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！",
+      "summary_bullets": [
+        "スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！"
+      ],
+      "published_at": "2026-11-20T00:00:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "2779aa2fb295",
+      "title": "賢くなったSiri AIと、漏れ続ける個人情報にユーザーが取るべき行動はあるのか[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/congress/2157604.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/604/b000.jpg",
+      "summary": "通信業界を中心に活躍するライター4人と編集長の関口による「スマホ会議（仮）」。今回はPHPの脆弱性や新しいAIサービス、JR東日本のteppay、楽天モバイルのKDDIローミング終了について話し合っていきます。",
+      "summary_bullets": [
+        "通信業界を中心に活躍するライター4人と編集長の関口による「スマホ会議（仮）」。今回はPHPの脆弱性や新しいAIサービス、JR東日本のteppay、楽天モバイルのKDDIローミング終了について話し合っていきます。"
+      ],
+      "published_at": "2026-11-20T00:00:00+09:00",
+      "published_date": "2026-11-20",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "6bc267125dce",
+      "title": "【ブラックフライデーセール】業界標準の音源ライブラリ、Native Instruments「Komplete 26」が50%OFF！さらに日本限定特典としてiZotopeなどのプラグインがもらえる！",
+      "url": "https://computermusic.jp/2026/11/komplete-26-blackfriday2026/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/komplete26.jpg",
+      "summary": "業界標準の音源ライブラリ、Native Instruments「Komplete 26」が50%OFFとなるセールCyber Seasonが開始されました。 Komplete 26の半額だけではなく、業界標準のサンプラー... The post 【ブラックフライデーセール】業界標準の音源ライブラリ、Native Instruments「Komplete 26」が50%OFF！さらに日本限定特典としてiZotopeなどのプラグインがもらえる！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "業界標準の音源ライブラリ、Native Instruments「Komplete 26」が50%OFFとなるセールCyber Seasonが開始されました。 Komplete 26の半額だけではなく、業界標準のサンプラー... The post 【ブラックフライデーセール】業界標準の音源ライブラリ、Native Instruments「Komplete..."
+      ],
+      "published_at": "2026-11-19T23:00:01+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "619cb75a6ae2",
+      "title": "パイロット不要のAI自律戦闘機、ついに滑走路まで不要に",
+      "url": "https://www.gizmodo.jp/article/2611-ai-fighter-jet-x-bat-vertical-takeoff/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/08/05/12e99d33-aa67-4f4a-b4a5-342f0b037000/original.jpg?w=1200",
+      "summary": "開発が進むAI自律戦闘機X-Bat。滑走路不要の垂直離着陸が実現すれば、さまざまな場所から発進できるステルス戦闘機に。",
+      "summary_bullets": [
+        "開発が進むAI自律戦闘機X-Bat。滑走路不要の垂直離着陸が実現すれば、さまざまな場所から発進できるステルス戦闘機に。"
+      ],
+      "published_at": "2026-11-19T23:00:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "b8dcf1465c70",
+      "title": "Native Instruments、年末恒例の大型プロモをスタート…… Komplete 26が初の50％OFF、好きなプラグインが1点もらえる日本限定特典も",
+      "url": "https://icon.jp/archives/28551",
+      "media": "ICON",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://icon.jp/wp-content/uploads/2026/11/28551-thumbnail.jpg",
+      "summary": "Native Instrumentsが年末恒例の大型プロモーションをスタート。今年の目玉はKomplete 26で、リリース後では初めて50％OFF（！）で販売されます。 Black Fridayを前に、Native I […]",
+      "summary_bullets": [
+        "Native Instrumentsが年末恒例の大型プロモーションをスタート。今年の目玉はKomplete 26で、リリース後では初めて50％OFF（！）で販売されます。 Black Fridayを前に、Native I […]"
+      ],
+      "published_at": "2026-11-19T23:00:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "b486161b01a8",
+      "title": "【ブラックフライデーセール】多彩な表現が可能なジャズオーケストラ音源、 STREZOV SAMPLING「DIAMOND JAZZ ORCHESTRA」が70%OFF！",
+      "url": "https://computermusic.jp/2026/11/diamond-jazz-orchestra-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2022/07/STREDJO_001-scaled-e1658892265813.jpeg",
+      "summary": "多彩な表現が可能なジャズオーケストラ音源、 STREZOV SAMPLING「DIAMOND JAZZ ORCHESTRA」が70%OFFとなっています。 Strezov Samplingではブラックフライデーセール20... The post 【ブラックフライデーセール】多彩な表現が可能なジャズオーケストラ音源、 STREZOV SAMPLING「DIAMOND JAZZ ORCHESTRA」が70%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "多彩な表現が可能なジャズオーケストラ音源、 STREZOV SAMPLING「DIAMOND JAZZ ORCHESTRA」が70%OFFとなっています。 Strezov Samplingではブラックフライデーセール20... The post 【ブラックフライデーセール】多彩な表現が可能なジャズオーケストラ音源、 STREZOV SAMPLING「D..."
+      ],
+      "published_at": "2026-11-19T22:56:18+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "22:56",
+      "is_today": false
+    },
+    {
+      "id": "02811debdb49",
+      "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
+      "url": "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/d0dfbc08-a35b-468d-aa64-0c57ce342965/original.jpg?w=1200",
+      "summary": "ジム・ジャームッシュ監督6年ぶりの新作映画の公開を控え、出演したルカ・サバトが撮影秘話や作品への想いを語るインタビューをお届けします。",
+      "summary_bullets": [
+        "ジム・ジャームッシュ監督6年ぶりの新作映画の公開を控え、出演したルカ・サバトが撮影秘話や作品への想いを語るインタビューをお届けします。"
+      ],
+      "published_at": "2026-11-19T22:30:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "22:30",
+      "is_today": false
+    },
+    {
+      "id": "b4ae61dcbc1e",
+      "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
+      "url": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/10/28/ed4ad72c-2cec-4bc7-b9e0-fa7bba8adce9/original.jpg?w=1200",
+      "summary": "支払いはほぼスマホ、カードも数枚あれば足りる。そんな毎日だと、財布に求めるものってかなり減るんですよね。 小さいこと。あとは、持っていて気分が上がること。正直、それくらいです。 この2つを叶えてくれたのが、MINIMALIGHT（ミニマライト）の「PLAY WALLET - LEATHER」。見つけてすぐにポチってしまったこの財布を、今回はレビューしていきます。",
+      "summary_bullets": [
+        "支払いはほぼスマホ、カードも数枚あれば足りる。そんな毎日だと、財布に求めるものってかなり減るんですよね。 小さいこと。あとは、持っていて気分が上がること。正直、それくらいです。 この2つを叶えてくれたのが、MINIMALIGHT（ミニマライト）の「PLAY WALLET - LEATHER」。見つけてすぐにポチってしまったこの財布を、今回はレビューして..."
+      ],
+      "published_at": "2026-11-19T22:00:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "22:00",
+      "is_today": false
+    },
+    {
+      "id": "17505a923583",
+      "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
+      "url": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/14705eeb-55f5-4c94-8404-57c95e969ce2/original.jpg?w=1200",
+      "summary": "辞任したNVIDIAの元CEOジェンスン・フアン氏へ、台湾テック業界から推しエール。台北101がライトアップされました。",
+      "summary_bullets": [
+        "辞任したNVIDIAの元CEOジェンスン・フアン氏へ、台湾テック業界から推しエール。台北101がライトアップされました。"
+      ],
+      "published_at": "2026-11-19T21:45:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "21:45",
+      "is_today": false
+    },
     {
       "id": "699033e6761e",
       "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…",
@@ -58,11 +313,28 @@
       "published_at": "2026-11-19T21:30:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "21:30",
-      "is_today": true
+      "is_today": false
+    },
+    {
+      "id": "d96685b9c927",
+      "title": "OPPO、公式ショップと楽天市場で「BLACK FRIDAY」開催　スマートフォンやタブレットがおトクに",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/19/news057.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_OPPO_01.jpg",
+      "summary": "オウガ・ジャパンは「OPPO公式オンラインショップ」や「楽天市場」で「BLACK FRIDAY」を開催。スマートフォン「OPPO Find X9」「OPPO Find N6」やタブレット「OPPO Pad SE」「OPPO Pad 2」などが対象となる。",
+      "summary_bullets": [
+        "オウガ・ジャパンは「OPPO公式オンラインショップ」や「楽天市場」で「BLACK FRIDAY」を開催。スマートフォン「OPPO Find X9」「OPPO Find N6」やタブレット「OPPO Pad SE」「OPPO Pad 2」などが対象となる。"
+      ],
+      "published_at": "2026-11-19T21:00:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "21:00",
+      "is_today": false
     },
     {
       "id": "b25f008bfc26",
-      "title": "いらっしゃいませ、ちょっと未来のびっくりドンキーへ。ハンバーグは20秒ごとに焼き上がり",
+      "title": "びっくりドンキーのハンバーグを焼くロボット。注文から約3分、1時間180食つくる",
       "url": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
       "media": "ギズモード・ジャパン",
       "genre": "tech",
@@ -75,7 +347,7 @@
       "published_at": "2026-11-19T21:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "21:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ef42f423e919",
@@ -92,7 +364,7 @@
       "published_at": "2026-11-19T20:53:55+09:00",
       "published_date": "2026-11-19",
       "published_time": "20:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9bc8698b3a52",
@@ -109,7 +381,7 @@
       "published_at": "2026-11-19T20:39:37+09:00",
       "published_date": "2026-11-19",
       "published_time": "20:39",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e8c2a6e56d6c",
@@ -126,7 +398,7 @@
       "published_at": "2026-11-19T20:16:14+09:00",
       "published_date": "2026-11-19",
       "published_time": "20:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "57e55fd8e42c",
@@ -143,7 +415,7 @@
       "published_at": "2026-11-19T20:10:13+09:00",
       "published_date": "2026-11-19",
       "published_time": "20:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0c2f038e768c",
@@ -160,7 +432,7 @@
       "published_at": "2026-11-19T20:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a76b58cfd418",
@@ -177,11 +449,28 @@
       "published_at": "2026-11-19T19:53:11+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:53",
-      "is_today": true
+      "is_today": false
+    },
+    {
+      "id": "06248188f2b2",
+      "title": "UQ mobile、PANTONEカラーの「motorola edge 60」がMNPで2年47円に【スマホお得情報】",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/19/news073.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_sumaotoku_01.jpg",
+      "summary": "KDDIは、UQオンラインショップで販売している「motorola edge 60」を安価に販売中。通常3万6800円のところ、MNPで契約して条件を満たすと47円になる。",
+      "summary_bullets": [
+        "KDDIは、UQオンラインショップで販売している「motorola edge 60」を安価に販売中。通常3万6800円のところ、MNPで契約して条件を満たすと47円になる。"
+      ],
+      "published_at": "2026-11-19T19:52:00+09:00",
+      "published_date": "2026-11-19",
+      "published_time": "19:52",
+      "is_today": false
     },
     {
       "id": "405212e2509d",
-      "title": "Google、対話型世界モデル「Genie 4」を「Project Genie」で提供開始",
+      "title": "Google、対話型「Genie 4」を「Project Genie」で提供開始",
       "url": "https://ai.watch.impress.co.jp/docs/news/2158017.html",
       "media": "AI Watch",
       "genre": "tech",
@@ -194,7 +483,7 @@
       "published_at": "2026-11-19T19:48:28+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1d07cd2ac523",
@@ -211,7 +500,7 @@
       "published_at": "2026-11-19T19:30:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "537acadb794a",
@@ -228,7 +517,7 @@
       "published_at": "2026-11-19T19:17:09+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:17",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d7a30a037345",
@@ -245,7 +534,7 @@
       "published_at": "2026-11-19T19:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2fef4ed44f5a",
@@ -262,7 +551,7 @@
       "published_at": "2026-11-19T19:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7445b4c078c3",
@@ -279,7 +568,7 @@
       "published_at": "2026-11-19T18:58:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4cc56d43a5f5",
@@ -296,7 +585,7 @@
       "published_at": "2026-11-19T18:32:31+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "aed001003a7b",
@@ -313,7 +602,7 @@
       "published_at": "2026-11-19T18:31:51+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4f95978522ce",
@@ -330,7 +619,7 @@
       "published_at": "2026-11-19T18:30:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7a5a6b1c157f",
@@ -347,7 +636,7 @@
       "published_at": "2026-11-19T18:23:14+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:23",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b02d70250207",
@@ -364,7 +653,7 @@
       "published_at": "2026-11-19T18:16:24+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6d57ed89946b",
@@ -381,7 +670,7 @@
       "published_at": "2026-11-19T18:15:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3641ae2d36da",
@@ -398,7 +687,7 @@
       "published_at": "2026-11-19T18:04:28+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b4493502d1c9",
@@ -415,7 +704,7 @@
       "published_at": "2026-11-19T18:01:05+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9d4d47216b56",
@@ -432,7 +721,7 @@
       "published_at": "2026-11-19T18:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "96785cf038a4",
@@ -449,7 +738,7 @@
       "published_at": "2026-11-19T17:53:17+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d2ee30e15e0d",
@@ -466,7 +755,7 @@
       "published_at": "2026-11-19T17:52:33+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:52",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7225e8414abc",
@@ -483,7 +772,7 @@
       "published_at": "2026-11-19T17:35:38+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5b9b4333b3b8",
@@ -500,7 +789,7 @@
       "published_at": "2026-11-19T17:33:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "32281170ec71",
@@ -517,7 +806,7 @@
       "published_at": "2026-11-19T17:32:12+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:32",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bde442111859",
@@ -534,7 +823,7 @@
       "published_at": "2026-11-19T17:20:36+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:20",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4532ba62e575",
@@ -551,7 +840,7 @@
       "published_at": "2026-11-19T17:17:43+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:17",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5a18d5d8ef08",
@@ -568,7 +857,7 @@
       "published_at": "2026-11-19T17:15:51+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e449f89c1b0f",
@@ -585,7 +874,7 @@
       "published_at": "2026-11-19T17:08:57+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b3499c4b1fac",
@@ -602,7 +891,7 @@
       "published_at": "2026-11-19T17:07:43+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "adff09f1dbe2",
@@ -619,7 +908,7 @@
       "published_at": "2026-11-19T17:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "65b4b4fbf384",
@@ -636,7 +925,7 @@
       "published_at": "2026-11-19T17:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "71a206dae0dd",
@@ -653,7 +942,7 @@
       "published_at": "2026-11-19T16:56:23+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:56",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3010eb77874f",
@@ -670,7 +959,7 @@
       "published_at": "2026-11-19T16:54:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:54",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6e7530178eda",
@@ -687,7 +976,7 @@
       "published_at": "2026-11-19T16:47:35+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cb53ee3158d1",
@@ -704,7 +993,7 @@
       "published_at": "2026-11-19T16:45:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8ec87330d217",
@@ -721,7 +1010,7 @@
       "published_at": "2026-11-19T16:37:27+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:37",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a4f0dbd73257",
@@ -738,7 +1027,7 @@
       "published_at": "2026-11-19T16:35:37+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "427c3c85644c",
@@ -755,7 +1044,7 @@
       "published_at": "2026-11-19T16:35:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "85d8d8dcfb89",
@@ -772,7 +1061,7 @@
       "published_at": "2026-11-19T16:31:39+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "40cc88f3d571",
@@ -789,7 +1078,7 @@
       "published_at": "2026-11-19T16:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "16:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e65eb624d407",
@@ -806,7 +1095,7 @@
       "published_at": "2026-11-19T15:57:27+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:57",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d800fa7ba057",
@@ -823,7 +1112,7 @@
       "published_at": "2026-11-19T15:47:54+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0d7cc5b855c0",
@@ -840,7 +1129,7 @@
       "published_at": "2026-11-19T15:43:11+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:43",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "deaa03621bcb",
@@ -857,7 +1146,7 @@
       "published_at": "2026-11-19T15:42:30+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5d28edc74512",
@@ -874,7 +1163,7 @@
       "published_at": "2026-11-19T15:38:32+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:38",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f672f41351af",
@@ -891,7 +1180,7 @@
       "published_at": "2026-11-19T15:34:19+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:34",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a1878f2e93a4",
@@ -908,7 +1197,7 @@
       "published_at": "2026-11-19T15:22:27+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "76cd847cca78",
@@ -925,7 +1214,7 @@
       "published_at": "2026-11-19T15:07:16+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2a93f648543e",
@@ -942,7 +1231,7 @@
       "published_at": "2026-11-19T15:03:13+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:03",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b404f4bd3a95",
@@ -959,7 +1248,7 @@
       "published_at": "2026-11-19T15:03:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:03",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "45a6de5ab58b",
@@ -976,7 +1265,7 @@
       "published_at": "2026-11-19T15:00:58+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f269714e1c93",
@@ -993,7 +1282,7 @@
       "published_at": "2026-11-19T15:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c290c3ba8718",
@@ -1010,7 +1299,7 @@
       "published_at": "2026-11-19T14:58:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a28aa7081dd4",
@@ -1027,7 +1316,7 @@
       "published_at": "2026-11-19T14:53:35+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "358b2781a758",
@@ -1044,7 +1333,7 @@
       "published_at": "2026-11-19T14:40:59+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:40",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c811228200b3",
@@ -1061,7 +1350,7 @@
       "published_at": "2026-11-19T14:35:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0510bc600a7a",
@@ -1078,7 +1367,7 @@
       "published_at": "2026-11-19T14:21:48+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "481c775bac82",
@@ -1095,7 +1384,7 @@
       "published_at": "2026-11-19T14:21:43+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a7f5ca2e690b",
@@ -1112,7 +1401,7 @@
       "published_at": "2026-11-19T14:15:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d8898c0d9263",
@@ -1129,7 +1418,7 @@
       "published_at": "2026-11-19T14:13:36+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:13",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b2fb13613d76",
@@ -1146,7 +1435,7 @@
       "published_at": "2026-11-19T14:13:11+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:13",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2dda173a1f98",
@@ -1163,7 +1452,7 @@
       "published_at": "2026-11-19T14:02:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:02",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "35585dbf015c",
@@ -1180,7 +1469,7 @@
       "published_at": "2026-11-19T14:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "14:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1e72a454341a",
@@ -1197,7 +1486,7 @@
       "published_at": "2026-11-19T13:58:51+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a1784fd0c2e4",
@@ -1214,7 +1503,7 @@
       "published_at": "2026-11-19T13:42:32+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:42",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "654656e89d10",
@@ -1231,7 +1520,7 @@
       "published_at": "2026-11-19T13:39:38+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:39",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8ebf3d40d243",
@@ -1248,7 +1537,7 @@
       "published_at": "2026-11-19T13:31:55+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6d08451ca550",
@@ -1265,7 +1554,7 @@
       "published_at": "2026-11-19T13:30:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7a31d8803287",
@@ -1282,7 +1571,7 @@
       "published_at": "2026-11-19T13:30:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8bdb7fe16961",
@@ -1299,24 +1588,7 @@
       "published_at": "2026-11-19T13:25:21+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:25",
-      "is_today": true
-    },
-    {
-      "id": "fe9f8525c521",
-      "title": "【ブラックフライデーセール】ベストセラードラム音源コレクションの最もビッグなバンドル、XLN Audio「Addictive Drums 2: Custom XXL Collection」が66％OFF！",
-      "url": "https://computermusic.jp/2026/11/xln-audio-addictive-drums-2-custom-xxl-collection/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/11/addictive-drums-2-gui-lockup-1352px-2x.png",
-      "summary": "ベストセラードラム音源コレクションの最もビッグなバンドル、XLN Audio「Addictive Drums 2: Custom XXL Collection」が66％OFFとなっています。 XLN Audioでは、ブラ... The post 【ブラックフライデーセール】ベストセラードラム音源コレクションの最もビッグなバンドル、XLN Audio「Addictive Drums 2: Custom XXL Collection」が66％OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "ベストセラードラム音源コレクションの最もビッグなバンドル、XLN Audio「Addictive Drums 2: Custom XXL Collection」が66％OFFとなっています。 XLN Audioでは、ブラ... The post 【ブラックフライデーセール】ベストセラードラム音源コレクションの最もビッグなバンドル、XLN Audio「A..."
-      ],
-      "published_at": "2026-11-19T13:16:42+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "13:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "18b93e181c45",
@@ -1333,7 +1605,7 @@
       "published_at": "2026-11-19T13:16:24+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "90f202f6a129",
@@ -1350,7 +1622,7 @@
       "published_at": "2026-11-19T13:15:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "724e9cee6d42",
@@ -1367,7 +1639,7 @@
       "published_at": "2026-11-19T13:12:05+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:12",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0464fb248f05",
@@ -1384,7 +1656,7 @@
       "published_at": "2026-11-19T13:10:01+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "da9f2c4df360",
@@ -1401,7 +1673,7 @@
       "published_at": "2026-11-19T13:09:04+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:09",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8702e3954e77",
@@ -1418,7 +1690,7 @@
       "published_at": "2026-11-19T13:06:07+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:06",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2ed227208b93",
@@ -1435,24 +1707,7 @@
       "published_at": "2026-11-19T13:03:43+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:03",
-      "is_today": true
-    },
-    {
-      "id": "df66dcf1160e",
-      "title": "革新的なオーディオ処理機能を備えた次世代ダイナミックEQ、Eventide「FX SplitEQ 2」リリース！",
-      "url": "https://computermusic.jp/2026/11/fx-spliteq-2/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/11/SplitEQ2.jpg",
-      "summary": "革新的なオーディオ処理機能を備えた次世代ダイナミックEQ、Eventide「FX SplitEQ 2」リリースです。 Eventideでは、ブラックフライデーセールを開催中です。合わせてチェックしてみてください。 FX ... The post 革新的なオーディオ処理機能を備えた次世代ダイナミックEQ、Eventide「FX SplitEQ 2」リリース！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "革新的なオーディオ処理機能を備えた次世代ダイナミックEQ、Eventide「FX SplitEQ 2」リリースです。 Eventideでは、ブラックフライデーセールを開催中です。合わせてチェックしてみてください。 FX ... The post 革新的なオーディオ処理機能を備えた次世代ダイナミックEQ、Eventide「FX SplitEQ 2」リリー..."
-      ],
-      "published_at": "2026-11-19T13:01:57+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "13:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "07a6900bcdc0",
@@ -1469,7 +1724,7 @@
       "published_at": "2026-11-19T13:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e98aeb95db44",
@@ -1486,7 +1741,7 @@
       "published_at": "2026-11-19T12:52:07+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:52",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "56574c7c26a7",
@@ -1503,7 +1758,7 @@
       "published_at": "2026-11-19T12:52:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:52",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cdc0185dbe9a",
@@ -1520,7 +1775,7 @@
       "published_at": "2026-11-19T12:51:06+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:51",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4c8ad2f98a35",
@@ -1537,7 +1792,7 @@
       "published_at": "2026-11-19T12:48:07+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a7211412d83e",
@@ -1554,7 +1809,7 @@
       "published_at": "2026-11-19T12:47:35+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:47",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e77ed063d372",
@@ -1571,7 +1826,7 @@
       "published_at": "2026-11-19T12:41:43+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:41",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e698664d50ee",
@@ -1588,41 +1843,7 @@
       "published_at": "2026-11-19T12:30:15+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:30",
-      "is_today": true
-    },
-    {
-      "id": "f664a59241ca",
-      "title": "JR、新幹線の点検にドローン。そばで飛ばして大丈夫？",
-      "url": "https://www.gizmodo.jp/article/2611-jr-east-shinkansen-drone-inspection/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/16/93d3273e-ee7f-4cf6-99e7-6af69a456a9e/original.jpg?w=1200",
-      "summary": "JR東日本が新幹線の車両基地点検にドローンを導入する取り組みを発表。安全性は大丈夫？ 落下実験の結果などを紹介します。",
-      "summary_bullets": [
-        "JR東日本が新幹線の車両基地点検にドローンを導入する取り組みを発表。安全性は大丈夫？ 落下実験の結果などを紹介します。"
-      ],
-      "published_at": "2026-11-19T12:30:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "12:30",
-      "is_today": true
-    },
-    {
-      "id": "c1ee99ef7c7a",
-      "title": "お、iPhone 17 Pro Maxも発見。 Amazonブラックフライデー、先行セールは11月27日スタート",
-      "url": "https://www.gizmodo.jp/article/2611-amazon-black-friday-2024-sale-dates/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/a090042b-c95e-45eb-9484-0b805e13d3d3/original.jpg?w=1200",
-      "summary": "Amazonブラックフライデーの先行セールが11月27日0時にスタートします。Appleガジェットや日用品など注目アイテムを事前にチェック。",
-      "summary_bullets": [
-        "Amazonブラックフライデーの先行セールが11月27日0時にスタートします。Appleガジェットや日用品など注目アイテムを事前にチェック。"
-      ],
-      "published_at": "2026-11-19T12:15:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "12:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8357da914095",
@@ -1639,7 +1860,7 @@
       "published_at": "2026-11-19T12:14:05+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8add24381b3b",
@@ -1656,7 +1877,7 @@
       "published_at": "2026-11-19T12:14:01+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "44d2e02e533d",
@@ -1673,24 +1894,7 @@
       "published_at": "2026-11-19T12:10:44+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:10",
-      "is_today": true
-    },
-    {
-      "id": "12514082c626",
-      "title": "【15％OFF中】さらば熱停止。Ankerの新型バッテリーはファンで強制冷却だ！",
-      "url": "https://www.gizmodo.jp/article/2611-anker-maggo-power-bank-2-pro/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/17/ee61fd29-3a4e-454c-b4c6-98dcd56ee14f/original.jpg?w=1200",
-      "summary": "Ankerの新型モバイルバッテリー、冷却ファン搭載で発熱を強制冷却。Qi2で25W、有線で45W、純粋パワータイプの製品だ！なお価格もパワーあります。",
-      "summary_bullets": [
-        "Ankerの新型モバイルバッテリー、冷却ファン搭載で発熱を強制冷却。Qi2で25W、有線で45W、純粋パワータイプの製品だ！なお価格もパワーあります。"
-      ],
-      "published_at": "2026-11-19T12:10:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "12:10",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "cabe18919479",
@@ -1707,7 +1911,7 @@
       "published_at": "2026-11-19T12:07:27+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:07",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bd246bf7f736",
@@ -1724,7 +1928,7 @@
       "published_at": "2026-11-19T12:02:35+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:02",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "181c81e49598",
@@ -1741,41 +1945,7 @@
       "published_at": "2026-11-19T12:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "12:00",
-      "is_today": true
-    },
-    {
-      "id": "d7f1add760e5",
-      "title": "「うちは狭いから」でロボット掃除機をあきらめていた人へ。SwitchBotは小型でガッツリ水拭き",
-      "url": "https://www.gizmodo.jp/article/2611-switchbot-robot-vacuum-cleaner-s30/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/18/8a660d0c-561a-4f69-9cd3-23da2d2e7e88/original.jpg?w=1200",
-      "summary": "直径約28cmの小型サイズながらローラー床洗浄までこなすSwitchBotのお掃除ロボットS30。日本の住宅にフィットする高機能なロボット掃除機の魅力をお届け。",
-      "summary_bullets": [
-        "直径約28cmの小型サイズながらローラー床洗浄までこなすSwitchBotのお掃除ロボットS30。日本の住宅にフィットする高機能なロボット掃除機の魅力をお届け。"
-      ],
-      "published_at": "2026-11-19T12:00:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "12:00",
-      "is_today": true
-    },
-    {
-      "id": "0ebb6caf6db7",
-      "title": "嫌われがちAIデータセンター、じゃあ結局どこに建てればいい？",
-      "url": "https://www.gizmodo.jp/article/2611-ai-data-center-location-tradeoffs/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/13/b3365eaf-f8b9-47ff-b526-1d6fbeeb164d/original.jpg?w=1200",
-      "summary": "嫌われがちAIデータセンターはどこに建てるべきか!? 用途別の適地や、騒音・電力問題などの地域負担とトレードオフを紹介。",
-      "summary_bullets": [
-        "嫌われがちAIデータセンターはどこに建てるべきか!? 用途別の適地や、騒音・電力問題などの地域負担とトレードオフを紹介。"
-      ],
-      "published_at": "2026-11-19T11:55:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "11:55",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "06039695f7fe",
@@ -1792,7 +1962,7 @@
       "published_at": "2026-11-19T11:53:08+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "fc5c6b59a971",
@@ -1809,7 +1979,7 @@
       "published_at": "2026-11-19T11:53:02+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5b2698cd72e9",
@@ -1826,7 +1996,7 @@
       "published_at": "2026-11-19T11:45:22+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1bee1f5714c1",
@@ -1843,7 +2013,7 @@
       "published_at": "2026-11-19T11:33:49+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "96027c9f1686",
@@ -1860,7 +2030,7 @@
       "published_at": "2026-11-19T11:33:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4ba2907bc03e",
@@ -1877,7 +2047,7 @@
       "published_at": "2026-11-19T11:25:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:25",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9e14bc8bb0ac",
@@ -1894,7 +2064,7 @@
       "published_at": "2026-11-19T11:09:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:09",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7d3b931bee41",
@@ -1911,7 +2081,7 @@
       "published_at": "2026-11-19T11:04:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "61aa25a2fadb",
@@ -1928,7 +2098,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6bd2ff7b55c5",
@@ -1945,7 +2115,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "016e13dfacaf",
@@ -1962,7 +2132,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "22037f8a1656",
@@ -1979,7 +2149,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a54d40064313",
@@ -1996,7 +2166,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d80126ce7874",
@@ -2013,7 +2183,7 @@
       "published_at": "2026-11-19T11:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "991584a67e45",
@@ -2030,7 +2200,7 @@
       "published_at": "2026-11-19T10:40:35+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:40",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d86472146523",
@@ -2047,7 +2217,7 @@
       "published_at": "2026-11-19T10:39:10+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:39",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "142bd5d33bf1",
@@ -2064,7 +2234,7 @@
       "published_at": "2026-11-19T10:15:22+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:15",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "5877c9434f13",
@@ -2081,7 +2251,7 @@
       "published_at": "2026-11-19T10:08:36+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1464a4ca8498",
@@ -2098,7 +2268,7 @@
       "published_at": "2026-11-19T10:04:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "374e3b819c51",
@@ -2115,7 +2285,7 @@
       "published_at": "2026-11-19T10:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ee94d6875944",
@@ -2132,7 +2302,7 @@
       "published_at": "2026-11-19T09:59:25+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:59",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "dae9789e4d80",
@@ -2149,7 +2319,7 @@
       "published_at": "2026-11-19T09:59:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:59",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f62e7bf2bf09",
@@ -2166,7 +2336,7 @@
       "published_at": "2026-11-19T09:48:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:48",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "faac0dfd2b89",
@@ -2183,7 +2353,7 @@
       "published_at": "2026-11-19T09:33:18+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:33",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4bfd247d3e44",
@@ -2200,7 +2370,7 @@
       "published_at": "2026-11-19T09:30:50+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "724c1e96b343",
@@ -2217,7 +2387,7 @@
       "published_at": "2026-11-19T09:21:54+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a3a7cdd466bc",
@@ -2234,7 +2404,7 @@
       "published_at": "2026-11-19T09:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d1465c396eb7",
@@ -2251,7 +2421,7 @@
       "published_at": "2026-11-19T09:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "04e6be9e2c03",
@@ -2268,7 +2438,7 @@
       "published_at": "2026-11-19T08:04:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "08:04",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "eaa35c691c4f",
@@ -2285,7 +2455,7 @@
       "published_at": "2026-11-19T08:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3912de6cbd88",
@@ -2302,7 +2472,7 @@
       "published_at": "2026-11-19T08:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "23e0c9c3d195",
@@ -2319,7 +2489,7 @@
       "published_at": "2026-11-19T08:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a9249ffa494d",
@@ -2336,7 +2506,7 @@
       "published_at": "2026-11-19T07:58:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "07:58",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "32886624e8a4",
@@ -2353,7 +2523,7 @@
       "published_at": "2026-11-19T07:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1127df18ee29",
@@ -2370,7 +2540,7 @@
       "published_at": "2026-11-19T07:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "91e4067c9640",
@@ -2387,7 +2557,7 @@
       "published_at": "2026-11-19T07:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "634ecb7fed3c",
@@ -2404,7 +2574,7 @@
       "published_at": "2026-11-19T07:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3692275853e6",
@@ -2421,7 +2591,7 @@
       "published_at": "2026-11-19T06:08:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "06:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e7d42df00810",
@@ -2438,7 +2608,7 @@
       "published_at": "2026-11-19T06:08:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "06:08",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "94cdd3c88012",
@@ -2455,7 +2625,7 @@
       "published_at": "2026-11-19T06:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "06:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f3c1d8ce5a30",
@@ -2472,7 +2642,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a1c87fd1f8e6",
@@ -2489,7 +2659,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "a175783745fe",
@@ -2506,7 +2676,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "032a1977f9b3",
@@ -2523,7 +2693,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8fba9f5b5fb1",
@@ -2540,7 +2710,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b11b17533f87",
@@ -2557,24 +2727,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
-    },
-    {
-      "id": "f116f5dd5fec",
-      "title": "OPPO Find X10が登場、広角・望遠のデュアル2億画素カメラとおサイフケータイ搭載　12月17日発売",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156836.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/836/101745.jpg",
-      "summary": "オウガ・ジャパンは、新型Androidスマートフォン「OPPO Find X10」を12月10日に発表し、17日に発売する。広角・望遠ともに約2億画素センサーを搭載するほか、8000mAhバッテリーやおサイフケータイ（FeliCa）を備える。",
-      "summary_bullets": [
-        "オウガ・ジャパンは、新型Androidスマートフォン「OPPO Find X10」を12月10日に発表し、17日に発売する。広角・望遠ともに約2億画素センサーを搭載するほか、8000mAhバッテリーやおサイフケータイ（FeliCa）を備える。"
-      ],
-      "published_at": "2026-11-19T00:00:00+09:00",
-      "published_date": "2026-11-19",
-      "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1fc3c7077772",
@@ -2591,7 +2744,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "7a26f12130be",
@@ -2608,7 +2761,7 @@
       "published_at": "2026-11-19T00:00:00+09:00",
       "published_date": "2026-11-19",
       "published_time": "00:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "54f95e5c8143",
@@ -2638,23 +2791,6 @@
       "summary": "小さな筐体で常時AIを稼働させることができる「RTX Spark Compact Desktops」が11月18日に登場した。",
       "summary_bullets": [
         "小さな筐体で常時AIを稼働させることができる「RTX Spark Compact Desktops」が11月18日に登場した。"
-      ],
-      "published_at": "2026-11-18T23:00:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "6a3ab2323aa8",
-      "title": "【Hothotレビュー】デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較",
-      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2157/471/DT01.jpg",
-      "summary": "【Hothotレビュー】デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
       ],
       "published_at": "2026-11-18T23:00:00+09:00",
       "published_date": "2026-11-18",
@@ -2699,9 +2835,9 @@
       "id": "e8d84c5629ac",
       "title": "KDDI社長「INFOBAR ZEROの開発を直前まで知らなかった」　25年目に新たな名機を結実させた背景",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news085.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
       "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news085.jpg",
       "summary": "KDDIは11月18日、通話とSMSに特化した新機種「INFOBAR ZERO」を発表した。発表会には松田浩路社長が急きょ登壇し、直前まで開発を知らされていなかった舞台裏を明かして現場主導の挑戦を称賛した。23年ぶりにタイルキーを復活させた同機は、利益よりもauのブランド姿勢を示す端末として12月25日に発売される。",
       "summary_bullets": [
@@ -2761,23 +2897,6 @@
       "published_at": "2026-11-18T18:53:28+09:00",
       "published_date": "2026-11-18",
       "published_time": "18:53",
-      "is_today": false
-    },
-    {
-      "id": "8f78d6455d76",
-      "title": "OpenAI、新AIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157619.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/619/01.jpg",
-      "summary": "OpenAIは、新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。高度な専門業務を担うフロンティアモデルのGPT-6.2 Astraと、日々の実務や日常的な用途を想定した汎用モデルのGPT-6.2 Solの2種類を展開する。",
-      "summary_bullets": [
-        "OpenAIは、新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。高度な専門業務を担うフロンティアモデルのGPT-6.2 Astraと、日々の実務や日常的な用途を想定した汎用モデルのGPT-6.2 Solの2種類を展開する。"
-      ],
-      "published_at": "2026-11-18T18:48:40+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "18:48",
       "is_today": false
     },
     {
@@ -2846,550 +2965,6 @@
       "published_at": "2026-11-18T18:25:00+09:00",
       "published_date": "2026-11-18",
       "published_time": "18:25",
-      "is_today": false
-    },
-    {
-      "id": "13c356978d57",
-      "title": "Xiaomi 18 Pro Maxが「SoftBank／Y!mobile Free Style」で27日発売",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157593.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/593/01.jpg",
-      "summary": "ソフトバンクは、SIMフリースマホを取り扱う「SoftBank Free Style」と「Y!mobile Free Style」で、Xiaomi 18 Pro Maxを27日に発売する。",
-      "summary_bullets": [
-        "ソフトバンクは、SIMフリースマホを取り扱う「SoftBank Free Style」と「Y!mobile Free Style」で、Xiaomi 18 Pro Maxを27日に発売する。"
-      ],
-      "published_at": "2026-11-18T18:13:30+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "18:13",
-      "is_today": false
-    },
-    {
-      "id": "c6738caacdfd",
-      "title": "8年ぶり復活の「INFOBAR ZERO」実機速攻レポート　先代「xv」と徹底比較して分かった“引き算の美学”と進化点",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news079.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news079.jpg",
-      "summary": "KDDIと沖縄セルラー電話が12月25日に発売する新型携帯電話「INFOBAR ZERO」の実機を、8年前の前モデル「INFOBAR xv」と徹底比較した。通話やSMSに特化した「ダムフォン」としての魅力や、進化したアクリルタイルキーの押し心地、USB Type-Cへの対応など細部の仕上がりを検証する。さらに、ネット非対応ながらWi-Fiを搭載した理由なども詳しく解説する。",
-      "summary_bullets": [
-        "KDDIと沖縄セルラー電話が12月25日に発売する新型携帯電話「INFOBAR ZERO」の実機を、8年前の前モデル「INFOBAR xv」と徹底比較した。通話やSMSに特化した「ダムフォン」としての魅力や、進化したアクリルタイルキーの押し心地、USB Type-Cへの対応など細部の仕上がりを検証する。さらに、ネット非対応ながらWi-Fiを搭載した理由..."
-      ],
-      "published_at": "2026-11-18T18:10:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "18:10",
-      "is_today": false
-    },
-    {
-      "id": "7d1272ccdcd6",
-      "title": "SwitchBot、GPT対応で自然な言葉で家電を操作可能なスマートリモコン「ハブ4」",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157575.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/575/0500.jpg",
-      "summary": "SwitchBotは、話しかけるだけで家電を操作できるスマートリモコン「ハブ4」の予約販売を11月18日より開始した。価格は19,980円だが、12月7日までの期間限定で15％OFFの16,983円で販売する発売記念キャンペーンを実施している。",
-      "summary_bullets": [
-        "SwitchBotは、話しかけるだけで家電を操作できるスマートリモコン「ハブ4」の予約販売を11月18日より開始した。価格は19,980円だが、12月7日までの期間限定で15％OFFの16,983円で販売する発売記念キャンペーンを実施している。"
-      ],
-      "published_at": "2026-11-18T17:52:17+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "17:52",
-      "is_today": false
-    },
-    {
-      "id": "37d009c0e21f",
-      "title": "HKS、豊田合成「Re-S」とのコラボトートバッグ2種 エアバッグ生地の端材で数量限定製作",
-      "url": "https://car.watch.impress.co.jp/docs/news/2157542.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2157/542/001.jpg",
-      "summary": "エッチ・ケー・エスは11月13日、豊田合成のオリジナルエシカルブランド「Re-S（リーズ）」との共同企画商品の第2弾として、エアバッグ生地の端材をアップサイクルしたトートバッグ2種を数量限定で発売した。価格はオイルカラーが5500円、SINCE1973 BLACKが6050円。",
-      "summary_bullets": [
-        "エッチ・ケー・エスは11月13日、豊田合成のオリジナルエシカルブランド「Re-S（リーズ）」との共同企画商品の第2弾として、エアバッグ生地の端材をアップサイクルしたトートバッグ2種を数量限定で発売した。価格はオイルカラーが5500円、SINCE1973 BLACKが6050円。"
-      ],
-      "published_at": "2026-11-18T17:46:59+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "17:46",
-      "is_today": false
-    },
-    {
-      "id": "d5cd2ecbf34a",
-      "title": "ブルーインパルスの隊形24種類がTシャツに　第303飛行隊の歴代部隊マークを並べたデザインも",
-      "url": "https://dc.watch.impress.co.jp/docs/news/2157561.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2157/561/01.jpg",
-      "summary": "イカロス出版の航空雑誌「月刊Jウイング」のTシャツに、航空自衛隊の部隊をテーマにした新作2種が加わった。",
-      "summary_bullets": [
-        "イカロス出版の航空雑誌「月刊Jウイング」のTシャツに、航空自衛隊の部隊をテーマにした新作2種が加わった。"
-      ],
-      "published_at": "2026-11-18T17:37:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "17:37",
-      "is_today": false
-    },
-    {
-      "id": "19fccbc18c4a",
-      "title": "マセラティ、日本限定12台の「グレカーレトロフェオV6ローンチエディション」 ブルーをテーマにした特別装備を採用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2157554.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2157/554/001.jpg",
-      "summary": "マセラティ ジャパンは11月18日、新型「グレカーレ」の日本導入を記念した特別仕様車「グレカーレ トロフェオ V6 ローンチエディション（Grecale Trofeo V6 Launch Edition）」を発売した。日本国内での販売台数は12台で、納期は2027年1月以降の予定。",
-      "summary_bullets": [
-        "マセラティ ジャパンは11月18日、新型「グレカーレ」の日本導入を記念した特別仕様車「グレカーレ トロフェオ V6 ローンチエディション（Grecale Trofeo V6 Launch Edition）」を発売した。日本国内での販売台数は12台で、納期は2027年1月以降の予定。"
-      ],
-      "published_at": "2026-11-18T17:29:51+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "17:29",
-      "is_today": false
-    },
-    {
-      "id": "1ed6e89a5eea",
-      "title": "Googleが2026年の人気アプリ・ゲームを発表　AI活用アプリや推し活ゲームが躍進、日本発IPの海外受賞も拡大",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news071.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news071.jpg",
-      "summary": "Googleは11月18日、2026年に日本で人気を集めたコンテンツを紹介する「Google Play ベスト オブ 2026」の受賞作品を発表した。ベストアプリには「あすけんダイエットアプリ」、ベストゲームには「ホロライブドリームス」が選出された。AIによる体験刷新や推し活文化の広がりのほか、日本発コンテンツの海外市場での評価も目立った。",
-      "summary_bullets": [
-        "Googleは11月18日、2026年に日本で人気を集めたコンテンツを紹介する「Google Play ベスト オブ 2026」の受賞作品を発表した。ベストアプリには「あすけんダイエットアプリ」、ベストゲームには「ホロライブドリームス」が選出された。AIによる体験刷新や推し活文化の広がりのほか、日本発コンテンツの海外市場での評価も目立った。"
-      ],
-      "published_at": "2026-11-18T17:00:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "17:00",
-      "is_today": false
-    },
-    {
-      "id": "439fcf933f48",
-      "title": "スズキの新型軽EV「e SKY」の「つながるナビ」にパイオニアのクラウド型カーナビを採用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2157535.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2157/535/001.jpg",
-      "summary": "パイオニアは11月18日、スズキの新型軽乗用EV（電気自動車）「e SKY」向けに提供するスズキコネクトのサービス「つながるナビ」に、同社のクラウド型カーナビゲーションが採用されたと発表した。",
-      "summary_bullets": [
-        "パイオニアは11月18日、スズキの新型軽乗用EV（電気自動車）「e SKY」向けに提供するスズキコネクトのサービス「つながるナビ」に、同社のクラウド型カーナビゲーションが採用されたと発表した。"
-      ],
-      "published_at": "2026-11-18T16:53:52+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:53",
-      "is_today": false
-    },
-    {
-      "id": "5f079ce6ea66",
-      "title": "キャンペーン：マウスコンピューター「ブラックフライデーセール」が開始　クリエイターPC「DAIV」が9万円OFFに",
-      "url": "https://dc.watch.impress.co.jp/docs/news/campaign/2157524.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2157/524/01.jpg",
-      "summary": "株式会社マウスコンピューターは、公式直販サイトで「ブラックフライデーセール」を11月18日（水）に開始した。期間は12月9日（水）10時59分まで。",
-      "summary_bullets": [
-        "株式会社マウスコンピューターは、公式直販サイトで「ブラックフライデーセール」を11月18日（水）に開始した。期間は12月9日（水）10時59分まで。"
-      ],
-      "published_at": "2026-11-18T16:48:27+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:48",
-      "is_today": false
-    },
-    {
-      "id": "8669493799cb",
-      "title": "1年間1100円割引になる「UQ親子応援割」開始　「コミコミプランバリュー」なら300GB（3年間）も",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news075.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_KDDI_01.jpg",
-      "summary": "KDDIは、18歳以下のユーザーとその家族が対象の「UQ親子応援割」を提供開始。UQ mobileの「コミコミプランバリュー」「トクトクプラン2」の料金が1年間、1100円割引になる。",
-      "summary_bullets": [
-        "KDDIは、18歳以下のユーザーとその家族が対象の「UQ親子応援割」を提供開始。UQ mobileの「コミコミプランバリュー」「トクトクプラン2」の料金が1年間、1100円割引になる。"
-      ],
-      "published_at": "2026-11-18T16:32:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:32",
-      "is_today": false
-    },
-    {
-      "id": "3d50f47cbd70",
-      "title": "アルプスアルパイン、「熊対策スピーカー」の開発で人と熊の安全な共存社会を目指す",
-      "url": "https://car.watch.impress.co.jp/docs/news/2157504.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2157/504/001.jpg",
-      "summary": "アルプスアルパインは11月18日、同社のハイレゾ音響技術を活用し、熊を傷つけることなく人の生活圏への近接を抑制し、共存を実現する「熊対策スピーカー（仮称）」の開発を開始したと発表した。",
-      "summary_bullets": [
-        "アルプスアルパインは11月18日、同社のハイレゾ音響技術を活用し、熊を傷つけることなく人の生活圏への近接を抑制し、共存を実現する「熊対策スピーカー（仮称）」の開発を開始したと発表した。"
-      ],
-      "published_at": "2026-11-18T16:18:54+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:18",
-      "is_today": false
-    },
-    {
-      "id": "338fc19f700f",
-      "title": "イヤフォン利用者の6割がワイヤレスを選択、シェア上位はAppleとソニーが拮抗　MM総研調べ",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news078.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_MMsouken_01.jpg",
-      "summary": "MM総研は「ワイヤレスイヤフォン利用実態調査（2026年7月）」の結果を発表。利用しているイヤフォン（ヘッドフォン含む）の種類は、左右一体型と完全ワイヤレス型いずれかの利用者は60.4％となった。",
-      "summary_bullets": [
-        "MM総研は「ワイヤレスイヤフォン利用実態調査（2026年7月）」の結果を発表。利用しているイヤフォン（ヘッドフォン含む）の種類は、左右一体型と完全ワイヤレス型いずれかの利用者は60.4％となった。"
-      ],
-      "published_at": "2026-11-18T16:04:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:04",
-      "is_today": false
-    },
-    {
-      "id": "8967765383e3",
-      "title": "川崎重工、AIカメラで神戸須磨シーワールドの人流分析を実証",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157516.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/516/0.jpg",
-      "summary": "川崎重工業は11月16日、神戸須磨シーワールドにおいて、AIカメラを活用した人流分析の実証実験を実施すると発表した。同実証では、施設内での来場者の移動や滞在等の傾向を分析し、AIカメラを活用した人流分析の有効性を検証する。",
-      "summary_bullets": [
-        "川崎重工業は11月16日、神戸須磨シーワールドにおいて、AIカメラを活用した人流分析の実証実験を実施すると発表した。同実証では、施設内での来場者の移動や滞在等の傾向を分析し、AIカメラを活用した人流分析の有効性を検証する。"
-      ],
-      "published_at": "2026-11-18T16:02:20+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "16:02",
-      "is_today": false
-    },
-    {
-      "id": "647cebadc283",
-      "title": "アストンマーティン、「Dreadnought」で「ダカール・ラリー2027」に初参戦 アロンソ選手、ローブ選手、モラエス選手を起用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2157486.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2157/486/001.jpg",
-      "summary": "英アストンマーティンのモータースポーツ部門であるアストンマーティン・レーシングは11月17日、2027年シーズンのダカール・ラリーに参戦することを発表した。",
-      "summary_bullets": [
-        "英アストンマーティンのモータースポーツ部門であるアストンマーティン・レーシングは11月17日、2027年シーズンのダカール・ラリーに参戦することを発表した。"
-      ],
-      "published_at": "2026-11-18T15:48:06+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "15:48",
-      "is_today": false
-    },
-    {
-      "id": "c4ef49a1f07f",
-      "title": "好きな人やモノだけを入れる「特別な器」に――通話・SMS専用「INFOBAR ZERO」に込めた開発陣の思い",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157497.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/497/102935.jpg",
-      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万2780円で、12月25日に発売する。",
-      "summary_bullets": [
-        "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万2780円で、12月25日に発売する。"
-      ],
-      "published_at": "2026-11-18T15:45:10+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "15:45",
-      "is_today": false
-    },
-    {
-      "id": "3c2b14bb6df8",
-      "title": "置きやすいスマート仏壇　思い出をAIが整理して表示",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2157401.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2157/401/00-top.jpg",
-      "summary": "アルファクラブ武蔵野は、家族の写真や動画、音声などを記録し、大切な人との思い出を呼び起こすAI仏壇「コハコ」を11月24日に発売する。価格は495,000円。",
-      "summary_bullets": [
-        "アルファクラブ武蔵野は、家族の写真や動画、音声などを記録し、大切な人との思い出を呼び起こすAI仏壇「コハコ」を11月24日に発売する。価格は495,000円。"
-      ],
-      "published_at": "2026-11-18T15:02:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "15:02",
-      "is_today": false
-    },
-    {
-      "id": "f11a7f4f4a9e",
-      "title": "Twilio、自然な音声で対話するAIエージェントの大規模導入を支援する新機能を導入",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157478.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/478/0401.jpg",
-      "summary": "Twilioは、企業がAIモデルや音声サービス、AIエージェントの実行環境を通話システムと連携させ、AIを活用した音声対応を実現する新機能を発表した。",
-      "summary_bullets": [
-        "Twilioは、企業がAIモデルや音声サービス、AIエージェントの実行環境を通話システムと連携させ、AIを活用した音声対応を実現する新機能を発表した。"
-      ],
-      "published_at": "2026-11-18T14:43:12+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "14:43",
-      "is_today": false
-    },
-    {
-      "id": "ba41f07390d7",
-      "title": "たまごっちのヒーターぬいぐるみ　膝にのせて温かい",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2157368.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2157/368/00-top.jpg",
-      "summary": "シー・シー・ピーは、キャラクター家電ブランド「きゃらニクス」から、「たまごっち」のキャラクターをモチーフにしたUSBヒーター内蔵の「あったかぬいぐるみ」の「まめっち KS-AN66-TMA」と「みみっち KS-AN66-TMI」を、11月下旬に発売する。価格は各7,260円。11月18日より、直営オンラインショップ「CCP公式オンラインストア」で予約受付を開始した。",
-      "summary_bullets": [
-        "シー・シー・ピーは、キャラクター家電ブランド「きゃらニクス」から、「たまごっち」のキャラクターをモチーフにしたUSBヒーター内蔵の「あったかぬいぐるみ」の「まめっち KS-AN66-TMA」と「みみっち KS-AN66-TMI」を、11月下旬に発売する。価格は各7,260円。11月18日より、直営オンラインショップ「CCP公式オンラインストア」で予約受..."
-      ],
-      "published_at": "2026-11-18T14:40:12+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "14:40",
-      "is_today": false
-    },
-    {
-      "id": "966dd69bf188",
-      "title": "SiMa.ai、フィジカルAIモデルで高性能化を実現する「Palette 3.0」",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157467.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/467/0.jpg",
-      "summary": "SiMa.aiは、フィジカルAIモデルで高性能化と大規模展開を実現するソフトウェアの新バージョン「Palette 3.0」を発表した。",
-      "summary_bullets": [
-        "SiMa.aiは、フィジカルAIモデルで高性能化と大規模展開を実現するソフトウェアの新バージョン「Palette 3.0」を発表した。"
-      ],
-      "published_at": "2026-11-18T14:17:14+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "14:17",
-      "is_today": false
-    },
-    {
-      "id": "5b31e42ff78b",
-      "title": "Suicaの新キャラクターは「B案（ウサギ）」に　キャラクター名を募集",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news072.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news072.jpg",
-      "summary": "JR東日本の交通系ICカード「Suica」の新キャラクターが「B案（ウサギ）」に決まった。これに伴い、12月15日15時59分まで、このキャラクターの愛称を募集する。【更新】",
-      "summary_bullets": [
-        "JR東日本の交通系ICカード「Suica」の新キャラクターが「B案（ウサギ）」に決まった。これに伴い、12月15日15時59分まで、このキャラクターの愛称を募集する。【更新】"
-      ],
-      "published_at": "2026-11-18T14:00:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "14:00",
-      "is_today": false
-    },
-    {
-      "id": "b220998b39d7",
-      "title": "OpenAI、高難度向け「GPT-6.2 Astra」と日常業務向け「Sol」を発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157437.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/437/0.jpg",
-      "summary": "OpenAIは11月17日、難度の高いプロジェクト向けのフロンティアモデル「GPT-6.2 Astra」と、日々の業務向けの「GPT-6.2 Sol」を発表した。",
-      "summary_bullets": [
-        "OpenAIは11月17日、難度の高いプロジェクト向けのフロンティアモデル「GPT-6.2 Astra」と、日々の業務向けの「GPT-6.2 Sol」を発表した。"
-      ],
-      "published_at": "2026-11-18T13:21:16+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "13:21",
-      "is_today": false
-    },
-    {
-      "id": "daac17754f5b",
-      "title": "ソフトバンク、バスケの試合をスマホで撮影しAIで解析しハイライト動画を作成",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157440.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/440/0300.jpg",
-      "summary": "ソフトバンクは、日本バスケットボール協会と連携し、スマートフォンで撮影したバスケットボールの試合映像をAIで解析し、ハイライト動画や、シュートやアシスト、リバウンドなどのプレーの成績（スタッツ）を自動生成する技術を、国内大会で実証した。",
-      "summary_bullets": [
-        "ソフトバンクは、日本バスケットボール協会と連携し、スマートフォンで撮影したバスケットボールの試合映像をAIで解析し、ハイライト動画や、シュートやアシスト、リバウンドなどのプレーの成績（スタッツ）を自動生成する技術を、国内大会で実証した。"
-      ],
-      "published_at": "2026-11-18T13:16:19+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "13:16",
-      "is_today": false
-    },
-    {
-      "id": "d17a61052bf9",
-      "title": "Copilotは「仕事の新しいOS」、マイクロソフトが新AI戦略を発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157411.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/411/01.jpg",
-      "summary": "マイクロソフトは年次カンファレンス「Microsoft Ignite 2026」を開催し、11月17日の基調講演にはサティア・ナデラCEOらが登壇。エンタープライズAIの次なる段階に向けた包括的なプラットフォーム戦略を発表した。",
-      "summary_bullets": [
-        "マイクロソフトは年次カンファレンス「Microsoft Ignite 2026」を開催し、11月17日の基調講演にはサティア・ナデラCEOらが登壇。エンタープライズAIの次なる段階に向けた包括的なプラットフォーム戦略を発表した。"
-      ],
-      "published_at": "2026-11-18T13:13:13+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "13:13",
-      "is_today": false
-    },
-    {
-      "id": "f9ea53146c11",
-      "title": "最大50％オフの「Xiaomi Hyper Black Friday 2026」開催　スマホやタブレット、ロボット掃除機も対象",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news069.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_XiaomiBF_01.jpg",
-      "summary": "11月19日0時から12月7日23時59分まで「Xiaomi Hyper Black Friday 2026」が開催。ハイエンドスマホ「Xiaomi 17T Pro」を最大17％オフ、スマートウォッチ「REDMI Watch 6」を26％オフなどで提供する。",
-      "summary_bullets": [
-        "11月19日0時から12月7日23時59分まで「Xiaomi Hyper Black Friday 2026」が開催。ハイエンドスマホ「Xiaomi 17T Pro」を最大17％オフ、スマートウォッチ「REDMI Watch 6」を26％オフなどで提供する。"
-      ],
-      "published_at": "2026-11-18T12:57:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "12:57",
-      "is_today": false
-    },
-    {
-      "id": "283a1eb8d872",
-      "title": "豆から挽くアイリスのコーヒーメーカーは好みの味わい。デカフェも作れる",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2157035.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2157/035/001.jpg",
-      "summary": "アイリスオーヤマは、コーン式全自動コーヒーメーカー「CMC-A60-B」を11月24日に発売する。直販価格は32,780円。",
-      "summary_bullets": [
-        "アイリスオーヤマは、コーン式全自動コーヒーメーカー「CMC-A60-B」を11月24日に発売する。直販価格は32,780円。"
-      ],
-      "published_at": "2026-11-18T12:04:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "12:04",
-      "is_today": false
-    },
-    {
-      "id": "24fefd8be4dc",
-      "title": "Google Cloud、日本のサイバーセキュリティ強化とAIの導入などを加速 Google AI プロフェッショナル認定証の受講アカウントを1万名に無償提供",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2157377.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2157/377/0201.jpg",
-      "summary": "Google CloudのThomas Kurian CEOは、片山さつき財務大臣と会談し、日本のサイバーセキュリティの強化と、全国規模でのAIスキル習得および業務への導入を支援する新たな取り組みを発表した。",
-      "summary_bullets": [
-        "Google CloudのThomas Kurian CEOは、片山さつき財務大臣と会談し、日本のサイバーセキュリティの強化と、全国規模でのAIスキル習得および業務への導入を支援する新たな取り組みを発表した。"
-      ],
-      "published_at": "2026-11-18T11:50:57+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "11:50",
-      "is_today": false
-    },
-    {
-      "id": "9b24b652c4c2",
-      "title": "「Xiaomi Smart Band 11」、ラグジュアリーな2色を数量限定発売　12月7日まで早割キャンペーン",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news065.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_Xiaomi_01.jpg",
-      "summary": "Xiaomi Japanは、スマートバンド「Xiaomi Smart Band 11」へ新色「ラベンダーパープル」と「ムーンゴールド」を数量限定で追加。Xiaomi公式サイトでは11月17日から先行購入が可能で、12月7日まで早割キャンペーンの対象となる。",
-      "summary_bullets": [
-        "Xiaomi Japanは、スマートバンド「Xiaomi Smart Band 11」へ新色「ラベンダーパープル」と「ムーンゴールド」を数量限定で追加。Xiaomi公式サイトでは11月17日から先行購入が可能で、12月7日まで早割キャンペーンの対象となる。"
-      ],
-      "published_at": "2026-11-18T11:37:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "11:37",
-      "is_today": false
-    },
-    {
-      "id": "b894bdc86268",
-      "title": "第411回：きっと有名な人【カデーニャカンパニー】- 家電 Watch",
-      "url": "https://kaden.watch.impress.co.jp/docs/kadenya/comic/2157347.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2157/347/k_t.png",
-      "summary": "第411回：きっと有名な人【カデーニャカンパニー】- 家電 Watch",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-18T11:06:58+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "11:06",
-      "is_today": false
-    },
-    {
-      "id": "a52e4bca3352",
-      "title": "Dynabook、「dynabook AI アシスタント」を搭載したスタンダードノートPCなど発表",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2156730.html",
-      "media": "AI Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2156/730/0200.jpg",
-      "summary": "Dynabookは、独自のAI機能などを搭載したスタンダードノートPC「dynabook C9・C8」を11月20日に、スタンダードモバイルノートPC「dynabook M6」を12月上旬に発売する。",
-      "summary_bullets": [
-        "Dynabookは、独自のAI機能などを搭載したスタンダードノートPC「dynabook C9・C8」を11月20日に、スタンダードモバイルノートPC「dynabook M6」を12月上旬に発売する。"
-      ],
-      "published_at": "2026-11-18T11:00:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "11:00",
-      "is_today": false
-    },
-    {
-      "id": "83bc2c689682",
-      "title": "KDDIが約8年ぶりに新「INFOBAR ZERO」発表　通話とSMSに特化　3万2780円で12月25日に発売",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news058.jpg",
-      "summary": "KDDIと沖縄セルラーは11月18日、au公式のSIMロックフリーブランドau Flex Style初のオリジナルモデルとなる携帯電話「INFOBAR ZERO（インフォバーゼロ）」を発表した。発売日は12月25日で、機能を通話とSMSに絞り込み、あえてWebブラウジングやSNSを非対応とした。デザインは深澤直人氏が手がけ、新色SUNANEKOを含む3色を展開する。",
-      "summary_bullets": [
-        "KDDIと沖縄セルラーは11月18日、au公式のSIMロックフリーブランドau Flex Style初のオリジナルモデルとなる携帯電話「INFOBAR ZERO（インフォバーゼロ）」を発表した。発売日は12月25日で、機能を通話とSMSに絞り込み、あえてWebブラウジングやSNSを非対応とした。デザインは深澤直人氏が手がけ、新色SUNANEKOを含む3..."
-      ],
-      "published_at": "2026-11-18T10:06:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "10:06",
-      "is_today": false
-    },
-    {
-      "id": "8e5c5d73ade4",
-      "title": "顔のたるみ分析する測定器、ヤーマンが開発",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2157077.html",
-      "media": "家電 Watch",
-      "genre": "appliance",
-      "genre_name": "家電・ライフ",
-      "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2157/077/001.jpg",
-      "summary": "ヤーマンは17日、顔のたるみを真皮・脂肪・筋肉の3層から分析する「3層たるみ測定機」を開発したことを発表した。",
-      "summary_bullets": [
-        "ヤーマンは17日、顔のたるみを真皮・脂肪・筋肉の3層から分析する「3層たるみ測定機」を開発したことを発表した。"
-      ],
-      "published_at": "2026-11-18T10:04:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "10:04",
-      "is_today": false
-    },
-    {
-      "id": "e668f2f8dbac",
-      "title": "【ダイソー】1100円の「イヤピタッ　完全ワイヤレスステレオイヤホン」　耳に挟んで圧迫感を軽減",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_100item_01.jpg",
-      "summary": "ダイソーで「イヤピタッ 完全ワイヤレスステレオイヤホン」が販売されている。耳に挟めば取り付けられ、長時間の利用でも圧迫感や疲労を軽減する。価格は1100円。",
-      "summary_bullets": [
-        "ダイソーで「イヤピタッ 完全ワイヤレスステレオイヤホン」が販売されている。耳に挟めば取り付けられ、長時間の利用でも圧迫感や疲労を軽減する。価格は1100円。"
-      ],
-      "published_at": "2026-11-18T10:00:00+09:00",
-      "published_date": "2026-11-18",
-      "published_time": "10:00",
       "is_today": false
     }
   ]
