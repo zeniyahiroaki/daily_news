@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-22T19:29:18.977502+09:00",
-  "generated_at_formatted": "2026/11/22 19:29",
+  "generated_at": "2026-11-22T21:19:39.048203+09:00",
+  "generated_at_formatted": "2026/11/22 21:19",
   "target_date": "2026-11-22",
   "yesterday_date": "2026-11-21",
-  "total_articles": 53,
-  "today_articles_count": 36,
+  "total_articles": 50,
+  "today_articles_count": 41,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 53
+      "count": 50
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 29
+      "count": 26
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 5
+      "count": 6
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 5
+      "count": 4
     },
     {
       "id": "music",
@@ -43,6 +43,91 @@
     }
   ],
   "articles": [
+    {
+      "id": "a0cea352a437",
+      "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
+      "url": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/c3a4e0b3-79b3-40c3-8260-61f4a5a2fbe5/original.jpg?w=1200",
+      "summary": "Neuralink元社長が率いるScience Corp.の評価額が35億ドルに到達。網膜チップPRIMAで失った視力を取り戻す最新のBCI技術と資金調達の背景とは。",
+      "summary_bullets": [
+        "Neuralink元社長が率いるScience Corp.の評価額が35億ドルに到達。網膜チップPRIMAで失った視力を取り戻す最新のBCI技術と資金調達の背景とは。"
+      ],
+      "published_at": "2026-11-22T21:00:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "21:00",
+      "is_today": true
+    },
+    {
+      "id": "8786811896ba",
+      "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
+      "url": "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/22/e588479b-15ba-4833-b7df-4b82d9766849/original.jpg?w=1200",
+      "summary": "日本のお菓子のおいしさを守る業務用バターカッターBataSlaをご紹介します。冷凍25kgのバターを風味が変わらないまま安全かつ素早くカット。製造現場の味方です。",
+      "summary_bullets": [
+        "日本のお菓子のおいしさを守る業務用バターカッターBataSlaをご紹介します。冷凍25kgのバターを風味が変わらないまま安全かつ素早くカット。製造現場の味方です。"
+      ],
+      "published_at": "2026-11-22T20:30:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "20:30",
+      "is_today": true
+    },
+    {
+      "id": "ec99515737c8",
+      "title": "「圏外が当たり前」の尾瀬国立公園に“つながる安心”を　KDDI×Starlinkでどう変わったのか",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/22/news008.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/22/cover_news008.jpg",
+      "summary": "KDDIは2025年9月下旬、尾瀬国立公園内の5つの山小屋に衛星通信サービス「Starlink」回線を活用した基地局を本格導入した。自然保護のため大型設備の設置や長距離ケーブルの敷設が難しい環境において、ヘリコプターでの資材搬入や角度調整などの工夫で高速通信を実現した。通信の安定化を目指してきた取り組みをXで発信した。",
+      "summary_bullets": [
+        "KDDIは2025年9月下旬、尾瀬国立公園内の5つの山小屋に衛星通信サービス「Starlink」回線を活用した基地局を本格導入した。自然保護のため大型設備の設置や長距離ケーブルの敷設が難しい環境において、ヘリコプターでの資材搬入や角度調整などの工夫で高速通信を実現した。通信の安定化を目指してきた取り組みをXで発信した。"
+      ],
+      "published_at": "2026-11-22T20:00:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "20:00",
+      "is_today": true
+    },
+    {
+      "id": "f289b766a6cb",
+      "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
+      "url": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/87b91f01-d139-45d9-a24c-36f46ecf29ae/original.png?w=1200",
+      "summary": "Anthropicの開発書類から見えてきた、AIが次のAIを作る時代の加速と安全性の懸念について解説。人間が管理しきれなくなるかもしれないAIの急速な進化の裏側と、これからの課題を読み解きます。",
+      "summary_bullets": [
+        "Anthropicの開発書類から見えてきた、AIが次のAIを作る時代の加速と安全性の懸念について解説。人間が管理しきれなくなるかもしれないAIの急速な進化の裏側と、これからの課題を読み解きます。"
+      ],
+      "published_at": "2026-11-22T20:00:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "20:00",
+      "is_today": true
+    },
+    {
+      "id": "1e1bb61ff355",
+      "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
+      "url": "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/2c794fb8-a7e2-4d28-8f92-193e77b92894/original.png?w=1200",
+      "summary": "AnthropicがClaudeを組み込んだ新オフィスツールを発表。表計算やホワイトボード機能でマイクロソフトやグーグルに挑む背景と詳細を解説します。",
+      "summary_bullets": [
+        "AnthropicがClaudeを組み込んだ新オフィスツールを発表。表計算やホワイトボード機能でマイクロソフトやグーグルに挑む背景と詳細を解説します。"
+      ],
+      "published_at": "2026-11-22T19:30:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "19:30",
+      "is_today": true
+    },
     {
       "id": "bc4172c27923",
       "title": "【ブラックフライデーセール】簡単操作でFender Stratocasterを奏でるエレキギター専用音源、AMPLE SOUND「AMPLE GUITAR SC」が20%OFF！",
@@ -690,74 +775,6 @@
       "is_today": false
     },
     {
-      "id": "7a2a5d86f70d",
-      "title": "“何をどう撮るか”を考える至福。モノクロ版「写ルンです」は最高の風合い",
-      "url": "https://www.gizmodo.jp/article/fujifilm_utsurundesu-black-and-white_review/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/14/4f258379-ed51-4e35-b383-8f35ed3ef27d/original.jpg?w=1200",
-      "summary": "白黒写真を楽しめる新しい「写ルンです Black and White」のレビュー。スマホとは違うフィルムの質感を簡単手軽に味わえます。プリントもデータ転送もできるんです。",
-      "summary_bullets": [
-        "白黒写真を楽しめる新しい「写ルンです Black and White」のレビュー。スマホとは違うフィルムの質感を簡単手軽に味わえます。プリントもデータ転送もできるんです。"
-      ],
-      "published_at": "2026-11-21T21:30:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "21:30",
-      "is_today": false
-    },
-    {
-      "id": "7ce8c4267426",
-      "title": "テカテカ、モコモコじゃないダウンが欲しいなら、出先では小さく携帯できるモンベルがいい",
-      "url": "https://www.gizmodo.jp/article/mont-bel_neigedownparka/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/16/31281b94-b014-4947-84c8-2c6e1ed9d722/original.jpg?w=1200",
-      "summary": "光沢を抑えたマットな質感とわずか363gの軽さを両立したモンベルのネージュダウン パーカ。街着として洗練されたデザインでありながら携帯性にも優れた一着の魅力をレビューします。",
-      "summary_bullets": [
-        "光沢を抑えたマットな質感とわずか363gの軽さを両立したモンベルのネージュダウン パーカ。街着として洗練されたデザインでありながら携帯性にも優れた一着の魅力をレビューします。"
-      ],
-      "published_at": "2026-11-21T21:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "21:00",
-      "is_today": false
-    },
-    {
-      "id": "23b7bf3bc896",
-      "title": "猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ",
-      "url": "https://www.gizmodo.jp/article/2611-elnino-phenomenon-strongest-forecast/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/15/f34cfbd5-7749-4137-a325-5f545d7e2a72/original.jpg?w=1200",
-      "summary": "観測史上最強クラスへ向かう今回のエルニーニョ現象について、猛暑や大雨、干ばつなどの気候リスクや今後の見通しを分かりやすく解説します。",
-      "summary_bullets": [
-        "観測史上最強クラスへ向かう今回のエルニーニョ現象について、猛暑や大雨、干ばつなどの気候リスクや今後の見通しを分かりやすく解説します。"
-      ],
-      "published_at": "2026-11-21T20:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "20:00",
-      "is_today": false
-    },
-    {
-      "id": "5cc7efd53a20",
-      "title": "トヨタの無人タクシー、もう客を乗せて走ってます。中国で24時間運行中",
-      "url": "https://www.gizmodo.jp/article/toyota-robotaxi-china/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/fc4281e5-469a-4e99-b709-0901e83b64da/original.png?w=1200",
-      "summary": "トヨタのEVbZ4Xを活用した無人タクシーが中国で24時間運行を開始しました。Pony.aiとの共同開発によるレベル4の自動運転サービスの詳細と今後の導入計画について紹介。",
-      "summary_bullets": [
-        "トヨタのEVbZ4Xを活用した無人タクシーが中国で24時間運行を開始しました。Pony.aiとの共同開発によるレベル4の自動運転サービスの詳細と今後の導入計画について紹介。"
-      ],
-      "published_at": "2026-11-21T19:30:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "19:30",
-      "is_today": false
-    },
-    {
       "id": "89f9eac2d086",
       "title": "太田格之進選手が初のスーパーフォーミュラチャンピオンに、第11戦は岩佐歩夢選手が優勝",
       "url": "https://car.watch.impress.co.jp/docs/news/2158441.html",
@@ -874,74 +891,6 @@
       "published_at": "2026-11-21T10:00:00+09:00",
       "published_date": "2026-11-21",
       "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "bad209e55f5e",
-      "title": "クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158420.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2158/420/01.jpg",
-      "summary": "ゲーミング向けパーツブランド「AORUS」の製品で主要パーツをそろえた完成品のゲーミングPCが登場した。GIGABYTEが11月20日に発売した、Ryzen 5 9500FとGeForce RTX 5060 Tiを搭載するデスクトップPC「AORUS PRIME 3 AP3A5N6T-5103P」だ。実売予想価格は41万1,000円前後。",
-      "summary_bullets": [
-        "ゲーミング向けパーツブランド「AORUS」の製品で主要パーツをそろえた完成品のゲーミングPCが登場した。GIGABYTEが11月20日に発売した、Ryzen 5 9500FとGeForce RTX 5060 Tiを搭載するデスクトップPC「AORUS PRIME 3 AP3A5N6T-5103P」だ。実売予想価格は41万1,000円前後。"
-      ],
-      "published_at": "2026-11-21T09:15:49+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "09:15",
-      "is_today": false
-    },
-    {
-      "id": "a90f387fba77",
-      "title": "49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158419.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2158/419/01.jpg",
-      "summary": "ASUSは11月20日、アクションゲーム「Phantom Blade Zero」とのコラボモデルとしてゲーミングデバイス3製品の予約を開始した。",
-      "summary_bullets": [
-        "ASUSは11月20日、アクションゲーム「Phantom Blade Zero」とのコラボモデルとしてゲーミングデバイス3製品の予約を開始した。"
-      ],
-      "published_at": "2026-11-21T09:02:32+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "09:02",
-      "is_today": false
-    },
-    {
-      "id": "1dd42d82ef24",
-      "title": "イベントレポート：LOFICセンサー搭載ライカカメラの「Xiaomi 18 Pro」を体験　表参道で発売記念イベントが開催中",
-      "url": "https://dc.watch.impress.co.jp/docs/news/eventreport/2158365.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2158/365/001.jpg",
-      "summary": "シャオミ・ジャパンは、新型スマートフォン「Xiaomi 18 Pro シリーズ」を体験できるイベント「Xiaomi 18 Pro シリーズ発売記念スペシャルイベント ～ハロー背中のひらめき。～」を東京・表参道で開催している。会期は11月23日（月・祝）まで。",
-      "summary_bullets": [
-        "シャオミ・ジャパンは、新型スマートフォン「Xiaomi 18 Pro シリーズ」を体験できるイベント「Xiaomi 18 Pro シリーズ発売記念スペシャルイベント ～ハロー背中のひらめき。～」を東京・表参道で開催している。会期は11月23日（月・祝）まで。"
-      ],
-      "published_at": "2026-11-21T09:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "09:00",
-      "is_today": false
-    },
-    {
-      "id": "b871ef949af9",
-      "title": "VALORANT王者Demon1と共同開発したゲーミングマウス。47gの軽量設計",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158406.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2158/406/01.jpg",
-      "summary": "ASUSは、プロゲーマーのDemon1選手と共同開発した軽量ワイヤレスゲーミングマウス「ROG Harpe II Ace Mini」および同氏のシグネチャーモデル「ROG Harpe II Ace Mini Demon1 Edition」を12月3日に発売する。予約は11月27日より受付開始し、価格はいずれも2万5,020円。",
-      "summary_bullets": [
-        "ASUSは、プロゲーマーのDemon1選手と共同開発した軽量ワイヤレスゲーミングマウス「ROG Harpe II Ace Mini」および同氏のシグネチャーモデル「ROG Harpe II Ace Mini Demon1 Edition」を12月3日に発売する。予約は11月27日より受付開始し、価格はいずれも2万5,020円。"
-      ],
-      "published_at": "2026-11-21T08:35:35+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "08:35",
       "is_today": false
     }
   ]
