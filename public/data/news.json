@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-22T21:19:39.048203+09:00",
-  "generated_at_formatted": "2026/11/22 21:19",
-  "target_date": "2026-11-22",
-  "yesterday_date": "2026-11-21",
-  "total_articles": 50,
-  "today_articles_count": 41,
+  "generated_at": "2026-11-23T05:10:55.123035+09:00",
+  "generated_at_formatted": "2026/11/23 05:10",
+  "target_date": "2026-11-23",
+  "yesterday_date": "2026-11-22",
+  "total_articles": 44,
+  "today_articles_count": 1,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 50
+      "count": 44
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 26
+      "count": 24
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 6
+      "count": 3
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 4
+      "count": 3
     },
     {
       "id": "music",
@@ -44,6 +44,57 @@
   ],
   "articles": [
     {
+      "id": "ee3e8db5c006",
+      "title": "【日下部保雄の悠悠閑閑】ハイブリッドの走らせ方??",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2158028.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2158/028/001.jpg",
+      "summary": "この原稿が掲載されるころには、2026-2027日本カー・オブ・ザ・イヤー（COTY）の10ベスト試乗会も行なわれ、イヤーカーの投票も終了しているはずだ。1年間担った重責を果たし、軽い気分になっているといいけれど。",
+      "summary_bullets": [
+        "この原稿が掲載されるころには、2026-2027日本カー・オブ・ザ・イヤー（COTY）の10ベスト試乗会も行なわれ、イヤーカーの投票も終了しているはずだ。1年間担った重責を果たし、軽い気分になっているといいけれど。"
+      ],
+      "published_at": "2026-11-23T00:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "00:00",
+      "is_today": true
+    },
+    {
+      "id": "9e3bb9ab02ee",
+      "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
+      "url": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2023/08/15/480372d9020b01cd0026cf5f68588e45.jpg?w=1200",
+      "summary": "カリフォルニア大学の科学者チームが南極近くの海で見つけた生物は、20本の腕を持つ生き物でした。",
+      "summary_bullets": [
+        "カリフォルニア大学の科学者チームが南極近くの海で見つけた生物は、20本の腕を持つ生き物でした。"
+      ],
+      "published_at": "2026-11-22T23:00:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "23:00",
+      "is_today": false
+    },
+    {
+      "id": "1d95fdcc1290",
+      "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
+      "url": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/466e87b1-f630-4560-a9cf-f5af942580f6/original.jpg?w=1200",
+      "summary": "スーパーエルニーニョが引き起こす東南アジアからアマゾンへの山火事、そしてCO2濃度上昇のメカニズムを紐解いていきます。",
+      "summary_bullets": [
+        "スーパーエルニーニョが引き起こす東南アジアからアマゾンへの山火事、そしてCO2濃度上昇のメカニズムを紐解いていきます。"
+      ],
+      "published_at": "2026-11-22T22:30:00+09:00",
+      "published_date": "2026-11-22",
+      "published_time": "22:30",
+      "is_today": false
+    },
+    {
       "id": "a0cea352a437",
       "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
       "url": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
@@ -58,7 +109,7 @@
       "published_at": "2026-11-22T21:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "21:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8786811896ba",
@@ -75,7 +126,7 @@
       "published_at": "2026-11-22T20:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "20:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "ec99515737c8",
@@ -92,7 +143,7 @@
       "published_at": "2026-11-22T20:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f289b766a6cb",
@@ -109,7 +160,7 @@
       "published_at": "2026-11-22T20:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "20:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "1e1bb61ff355",
@@ -126,7 +177,7 @@
       "published_at": "2026-11-22T19:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "19:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bc4172c27923",
@@ -143,7 +194,7 @@
       "published_at": "2026-11-22T19:16:19+09:00",
       "published_date": "2026-11-22",
       "published_time": "19:16",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "466c58bcc1f0",
@@ -160,7 +211,7 @@
       "published_at": "2026-11-22T19:01:48+09:00",
       "published_date": "2026-11-22",
       "published_time": "19:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "91795a928fdc",
@@ -177,7 +228,7 @@
       "published_at": "2026-11-22T19:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "19:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e20a01291fa1",
@@ -194,7 +245,7 @@
       "published_at": "2026-11-22T18:46:53+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:46",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "eda6a810fe03",
@@ -211,7 +262,7 @@
       "published_at": "2026-11-22T18:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "f3918f548b70",
@@ -228,7 +279,7 @@
       "published_at": "2026-11-22T18:28:46+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:28",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2f7b7d1fa441",
@@ -245,7 +296,7 @@
       "published_at": "2026-11-22T18:22:35+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:22",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "6ef6f5c0b100",
@@ -262,7 +313,7 @@
       "published_at": "2026-11-22T18:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "222de029b9bc",
@@ -279,7 +330,7 @@
       "published_at": "2026-11-22T17:35:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "17:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "3d265c06b205",
@@ -296,7 +347,7 @@
       "published_at": "2026-11-22T17:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "17:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d70a4c41581d",
@@ -313,7 +364,7 @@
       "published_at": "2026-11-22T16:35:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "16:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "0fd414a173f4",
@@ -330,7 +381,7 @@
       "published_at": "2026-11-22T15:01:32+09:00",
       "published_date": "2026-11-22",
       "published_time": "15:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "56cb2e18a187",
@@ -347,7 +398,7 @@
       "published_at": "2026-11-22T15:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "15:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8da5e3ef825f",
@@ -364,7 +415,7 @@
       "published_at": "2026-11-22T14:45:44+09:00",
       "published_date": "2026-11-22",
       "published_time": "14:45",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "2d31abc9ef26",
@@ -381,7 +432,7 @@
       "published_at": "2026-11-22T14:44:24+09:00",
       "published_date": "2026-11-22",
       "published_time": "14:44",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c133d8462354",
@@ -398,7 +449,7 @@
       "published_at": "2026-11-22T14:35:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "14:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b5dfd66b4e7d",
@@ -415,7 +466,7 @@
       "published_at": "2026-11-22T13:53:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "13:53",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "bf6f2314dd73",
@@ -432,7 +483,7 @@
       "published_at": "2026-11-22T13:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "13:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "53dda453a930",
@@ -449,7 +500,7 @@
       "published_at": "2026-11-22T12:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:30",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "685658449f88",
@@ -466,7 +517,7 @@
       "published_at": "2026-11-22T12:23:17+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:23",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "deaba87b12c7",
@@ -483,7 +534,7 @@
       "published_at": "2026-11-22T12:02:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:02",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "33787a49f336",
@@ -500,7 +551,7 @@
       "published_at": "2026-11-22T12:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c234171e6755",
@@ -517,7 +568,7 @@
       "published_at": "2026-11-22T12:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "4503e3388a20",
@@ -534,7 +585,7 @@
       "published_at": "2026-11-22T11:35:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:35",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "d14b32e0751a",
@@ -551,7 +602,7 @@
       "published_at": "2026-11-22T11:31:14+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:31",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "48febe534730",
@@ -568,7 +619,7 @@
       "published_at": "2026-11-22T11:14:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:14",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "62295d82bf58",
@@ -585,7 +636,7 @@
       "published_at": "2026-11-22T11:01:45+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:01",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "93b971c42d6f",
@@ -602,7 +653,7 @@
       "published_at": "2026-11-22T11:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "17c0a6d35e3a",
@@ -619,7 +670,7 @@
       "published_at": "2026-11-22T10:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "be31cc93fe9a",
@@ -636,7 +687,7 @@
       "published_at": "2026-11-22T10:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "10:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "925853e6f044",
@@ -653,7 +704,7 @@
       "published_at": "2026-11-22T09:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "09:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "9c1dcf4d9b13",
@@ -670,7 +721,7 @@
       "published_at": "2026-11-22T08:21:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "08:21",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "8c8e40a0d482",
@@ -687,7 +738,7 @@
       "published_at": "2026-11-22T08:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "08:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "e82807dc79ee",
@@ -704,7 +755,7 @@
       "published_at": "2026-11-22T07:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "c155812b22cf",
@@ -721,7 +772,7 @@
       "published_at": "2026-11-22T07:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "07:00",
-      "is_today": true
+      "is_today": false
     },
     {
       "id": "b19ef5be94c1",
@@ -738,159 +789,6 @@
       "published_at": "2026-11-22T06:00:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "06:00",
-      "is_today": true
-    },
-    {
-      "id": "1cefa7e591e7",
-      "title": "CTスキャンで明かされた少年ミイラの秘密。おそらく富裕層です",
-      "url": "https://www.gizmodo.jp/article/2611-golden-boy-mummy-ct-scan/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/gizmodo/dist/images/2023/01/26/1.jpg?w=1200",
-      "summary": "エジプトで2,300年前のミイラの中身をCTスキャンで解析。副葬品から見るに、ミイラの正体は富裕層の少年。",
-      "summary_bullets": [
-        "エジプトで2,300年前のミイラの中身をCTスキャンで解析。副葬品から見るに、ミイラの正体は富裕層の少年。"
-      ],
-      "published_at": "2026-11-21T23:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "23:00",
-      "is_today": false
-    },
-    {
-      "id": "d32c59952ce7",
-      "title": "カーチェイスでも逃げ切れない。『グランド・セフト・オートV』の街に迫る海面上昇の脅威",
-      "url": "https://www.gizmodo.jp/article/2611-gta5-sea-level-rise-los-angeles-simulation/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/21/a16dd5e5-e43b-4738-8fe0-5392b905d0c3/original.jpg?w=1200",
-      "summary": "人気ゲームGTA5の舞台ロスサントスを使い、海面上昇の脅威をシミュレーションした研究を紹介。馴染み深い仮想都市の浸水から気候変動の現実を学びます。",
-      "summary_bullets": [
-        "人気ゲームGTA5の舞台ロスサントスを使い、海面上昇の脅威をシミュレーションした研究を紹介。馴染み深い仮想都市の浸水から気候変動の現実を学びます。"
-      ],
-      "published_at": "2026-11-21T22:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "22:00",
-      "is_today": false
-    },
-    {
-      "id": "89f9eac2d086",
-      "title": "太田格之進選手が初のスーパーフォーミュラチャンピオンに、第11戦は岩佐歩夢選手が優勝",
-      "url": "https://car.watch.impress.co.jp/docs/news/2158441.html",
-      "media": "Car Watch",
-      "genre": "car",
-      "genre_name": "自動車・モビリティ",
-      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2158/441/003.jpg",
-      "summary": "スーパーフォーミュラの最終ラウンド「第25回JAF鈴鹿グランプリ」が11月20日～22日、鈴鹿サーキット（三重県鈴鹿市）で開催されている。21日には第11戦の予選、決勝が行なわれ、岩佐歩夢選手（1号車 AUTOBACS MUGEN SF23/ホンダ）が優勝した。",
-      "summary_bullets": [
-        "スーパーフォーミュラの最終ラウンド「第25回JAF鈴鹿グランプリ」が11月20日～22日、鈴鹿サーキット（三重県鈴鹿市）で開催されている。21日には第11戦の予選、決勝が行なわれ、岩佐歩夢選手（1号車 AUTOBACS MUGEN SF23/ホンダ）が優勝した。"
-      ],
-      "published_at": "2026-11-21T16:26:55+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "16:26",
-      "is_today": false
-    },
-    {
-      "id": "c294d347329e",
-      "title": "令和8年に「INFOBAR」が復活するも、通話とSMSしかできない「ダムフォン」に",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/21/news011.html",
-      "media": "ITmedia Top",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/21/cover_news011.jpg",
-      "summary": "KDDIの「au Design project」が、平成15年（2023年）に商品化した「INFOBAR（インフォバー）」を令和8年（2026年）の世に復活させました。スマホが当たり前の世の中で、欧米で昨今「ダムフォン」とも呼ばれる「音声通話とSMSしか対応しない携帯電話」として登場します。",
-      "summary_bullets": [
-        "KDDIの「au Design project」が、平成15年（2023年）に商品化した「INFOBAR（インフォバー）」を令和8年（2026年）の世に復活させました。スマホが当たり前の世の中で、欧米で昨今「ダムフォン」とも呼ばれる「音声通話とSMSしか対応しない携帯電話」として登場します。"
-      ],
-      "published_at": "2026-11-21T15:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "15:00",
-      "is_today": false
-    },
-    {
-      "id": "ec740d7f1fb5",
-      "title": "インテル50周年記念のゲーミングPC、ツクモが50万円で発売",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158418.html",
-      "media": "PC Watch",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2158/418/01.jpg",
-      "summary": "4月28日に設立50周年を迎えたインテル株式会社を記念し、ケースに特別デザインを施した数量限定のゲーミングPCがツクモネットショップで販売されている。ヤマダデンキは11月20日、TSUKUMOブランドのゲーミングPCシリーズ「G-GEAR」から、インテル株式会社設立50周年を記念したデザインのデスクトップPC「GE7J-M261BH/INTEL50」を発売した。直販価格は50万円。",
-      "summary_bullets": [
-        "4月28日に設立50周年を迎えたインテル株式会社を記念し、ケースに特別デザインを施した数量限定のゲーミングPCがツクモネットショップで販売されている。ヤマダデンキは11月20日、TSUKUMOブランドのゲーミングPCシリーズ「G-GEAR」から、インテル株式会社設立50周年を記念したデザインのデスクトップPC「GE7J-M261BH/INTEL50」を..."
-      ],
-      "published_at": "2026-11-21T13:26:16+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "13:26",
-      "is_today": false
-    },
-    {
-      "id": "23a5d9e329db",
-      "title": "忘れられない1台～私の愛したデジタルカメラ～ミノルタ DiMAGE A1",
-      "url": "https://dc.watch.impress.co.jp/docs/reader/memory/2158293.html",
-      "media": "デジカメ Watch",
-      "genre": "camera",
-      "genre_name": "カメラ・写真",
-      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2158/293/01.jpg",
-      "summary": "忘れられない1台～私の愛したデジタルカメラ～ミノルタ DiMAGE A1",
-      "summary_bullets": [
-        "（本文リンク先をご覧ください）"
-      ],
-      "published_at": "2026-11-21T12:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "12:00",
-      "is_today": false
-    },
-    {
-      "id": "d65372a0bb0c",
-      "title": "ダイソーの「ワイヤレススピーカー」に新作？　1100円で買える「パンクスタイル」で低音の響きを確かめてみた",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/21/news008.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/21/cover_news008.jpg",
-      "summary": "100円ショップなどで販売されている安価なガジェットを実際に試す連載。今回はダイソーにおいて1100円で販売されている「ワイヤレススピーカー（パンクスタイル）」を取り上げる。透明な外装から内部の基板が見えるデザインが特徴だ。手持ちの「Galaxy S25」とつないで、動画や音楽の聞こえ方、操作時の使い勝手を確かめた。",
-      "summary_bullets": [
-        "100円ショップなどで販売されている安価なガジェットを実際に試す連載。今回はダイソーにおいて1100円で販売されている「ワイヤレススピーカー（パンクスタイル）」を取り上げる。透明な外装から内部の基板が見えるデザインが特徴だ。手持ちの「Galaxy S25」とつないで、動画や音楽の聞こえ方、操作時の使い勝手を確かめた。"
-      ],
-      "published_at": "2026-11-21T11:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "11:00",
-      "is_today": false
-    },
-    {
-      "id": "b1986e025bd9",
-      "title": "サムスン「Galaxy Ring」米韓で睡眠時無呼吸検知に対応",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2158289.html",
-      "media": "ケータイ Watch",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/289/main.png",
-      "summary": "サムスン電子は、「Samsung Galaxy Watch」および「Samsung Galaxy Ring」が対応する「睡眠時無呼吸検知機能」をアップデートした。",
-      "summary_bullets": [
-        "サムスン電子は、「Samsung Galaxy Watch」および「Samsung Galaxy Ring」が対応する「睡眠時無呼吸検知機能」をアップデートした。"
-      ],
-      "published_at": "2026-11-21T10:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "10:00",
-      "is_today": false
-    },
-    {
-      "id": "a6e3c93d262e",
-      "title": "楽天市場で中古「Google Pixel 9a（128GB）」を販売中　ディスプレイの状態も選べて約7万円から",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/21/news007.html",
-      "media": "ITmedia Mobile",
-      "genre": "mobile",
-      "genre_name": "モバイル・通信",
-      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/21/l_asa_rakuten_01.jpg",
-      "summary": "楽天市場でニューズドテックが販売している中古「Google Pixel 9a（128GB）」を紹介。目立つ傷がない状態の「Aランク」で、液晶の状態も「液晶キレイめ（極）」と「液晶キレイめ」から選べる。価格は6万9000円から。",
-      "summary_bullets": [
-        "楽天市場でニューズドテックが販売している中古「Google Pixel 9a（128GB）」を紹介。目立つ傷がない状態の「Aランク」で、液晶の状態も「液晶キレイめ（極）」と「液晶キレイめ」から選べる。価格は6万9000円から。"
-      ],
-      "published_at": "2026-11-21T10:00:00+09:00",
-      "published_date": "2026-11-21",
-      "published_time": "10:00",
       "is_today": false
     }
   ]
