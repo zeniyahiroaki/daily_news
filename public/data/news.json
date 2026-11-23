@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-23T05:10:55.123035+09:00",
-  "generated_at_formatted": "2026/11/23 05:10",
+  "generated_at": "2026-11-23T11:19:50.541413+09:00",
+  "generated_at_formatted": "2026/11/23 11:19",
   "target_date": "2026-11-23",
   "yesterday_date": "2026-11-22",
-  "total_articles": 44,
-  "today_articles_count": 1,
+  "total_articles": 51,
+  "today_articles_count": 21,
   "genres": [
     {
       "id": "all",
       "name": "すべて",
-      "count": 44
+      "count": 51
     },
     {
       "id": "tech",
       "name": "テクノロジー・AI",
-      "count": 24
+      "count": 25
     },
     {
       "id": "mobile",
       "name": "モバイル・通信",
-      "count": 3
+      "count": 7
     },
     {
       "id": "camera",
       "name": "カメラ・写真",
-      "count": 3
+      "count": 4
     },
     {
       "id": "music",
@@ -34,7 +34,7 @@
     {
       "id": "car",
       "name": "自動車・モビリティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "appliance",
@@ -43,6 +43,346 @@
     }
   ],
   "articles": [
+    {
+      "id": "ab278be0c2da",
+      "title": "【ブラックフライデーセール】人工知能を用いたマスタリングプラグインバンドル、Newfangled Audio「Elevate Mastering Bundle」が50％OFF！",
+      "url": "https://computermusic.jp/2026/11/elevate-mastering-bundle/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2019/08/GH-EVN-Elevate_Bundle_PluginBoutique-1.jpg",
+      "summary": "人工知能を用いたマスタリングプラグインバンドル、Newfangled Audio「Elevate Mastering Bundle」が50％OFFとなっています。 Eventideでは、ブラックフライデーセールを開催中で... The post 【ブラックフライデーセール】人工知能を用いたマスタリングプラグインバンドル、Newfangled Audio「Elevate Mastering Bundle」が50％OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "人工知能を用いたマスタリングプラグインバンドル、Newfangled Audio「Elevate Mastering Bundle」が50％OFFとなっています。 Eventideでは、ブラックフライデーセールを開催中で... The post 【ブラックフライデーセール】人工知能を用いたマスタリングプラグインバンドル、Newfangled Audio..."
+      ],
+      "published_at": "2026-11-23T11:16:56+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "11:16",
+      "is_today": true
+    },
+    {
+      "id": "611e44ece81c",
+      "title": "【ブラックフライデーセール】簡単操作で奏でる、Alhambra Luthierクラシックギター専用音源、AMPLE SOUND「AMPLE GUITAR L」が20％OFF！",
+      "url": "https://computermusic.jp/2026/11/ample-guitar-l-iii/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2024/07/shot_AMPGL3_1.jpg",
+      "summary": "簡単操作で奏でる、Alhambra Luthierクラシックギター専用音源、AMPLE SOUND「AMPLE GUITAR L」が20％OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。... The post 【ブラックフライデーセール】簡単操作で奏でる、Alhambra Luthierクラシックギター専用音源、AMPLE SOUND「AMPLE GUITAR L」が20％OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "簡単操作で奏でる、Alhambra Luthierクラシックギター専用音源、AMPLE SOUND「AMPLE GUITAR L」が20％OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。... The post 【ブラックフライデーセール】簡単操作で奏でる、Alhambra Luthierクラシックギター専用音源、AM..."
+      ],
+      "published_at": "2026-11-23T11:01:49+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "11:01",
+      "is_today": true
+    },
+    {
+      "id": "81fe801234a9",
+      "title": "足元・手元にジャストサイズのぬくもり。3COINSのヒーターは小さくて自分だけ暖かい",
+      "url": "https://www.gizmodo.jp/article/3coins-compact-heater/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/16/e2c822cf-184d-4907-b6f4-9cc18dab17b8/original.jpg?w=1200",
+      "summary": "3COINSのコンパクトヒーターは、足元や手元を自分専用に温めてくれるミニサイズの暖房器具。出し入れも手軽で、デスクワークや家事の冷え対策に最適。",
+      "summary_bullets": [
+        "3COINSのコンパクトヒーターは、足元や手元を自分専用に温めてくれるミニサイズの暖房器具。出し入れも手軽で、デスクワークや家事の冷え対策に最適。"
+      ],
+      "published_at": "2026-11-23T11:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "11:00",
+      "is_today": true
+    },
+    {
+      "id": "a2396ddb8c60",
+      "title": "最新F1マシン「AMR26」が東京駅構内に登場 「Honda Racing Pit Garage in Tokyo」開催中",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158499.html",
+      "media": "Car Watch",
+      "genre": "car",
+      "genre_name": "自動車・モビリティ",
+      "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2158/499/003.jpg",
+      "summary": "本田技研工業は11月23日～29日の期間、東京駅イベントスペースにて、ホンダのモータースポーツの世界観を体感できる期間限定イベント「Honda Racing Pit Garage in Tokyo」を開催している。",
+      "summary_bullets": [
+        "本田技研工業は11月23日～29日の期間、東京駅イベントスペースにて、ホンダのモータースポーツの世界観を体感できる期間限定イベント「Honda Racing Pit Garage in Tokyo」を開催している。"
+      ],
+      "published_at": "2026-11-23T10:58:53+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:58",
+      "is_today": true
+    },
+    {
+      "id": "9a86c3f8e3d9",
+      "title": "【ブラックフライデーセール】どんなループも演奏可能なキットに変換する、Pitch Innovations「Loop 2 Kit」が50%OFF！",
+      "url": "https://computermusic.jp/2026/11/pitch-innovations-loop-2-kit/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/06/4ff27c76e69dcd450806db3d7088dee6.jpg",
+      "summary": "どんなループも演奏可能なキットに変換する、Pitch Innovations「Loop 2 Kit」が50%OFFとなっています。 Pitch Innovationsでは、ブラックフライデーセール2026を開催中です。合... The post 【ブラックフライデーセール】どんなループも演奏可能なキットに変換する、Pitch Innovations「Loop 2 Kit」が50%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "どんなループも演奏可能なキットに変換する、Pitch Innovations「Loop 2 Kit」が50%OFFとなっています。 Pitch Innovationsでは、ブラックフライデーセール2026を開催中です。合... The post 【ブラックフライデーセール】どんなループも演奏可能なキットに変換する、Pitch Innovations「L..."
+      ],
+      "published_at": "2026-11-23T10:46:05+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:46",
+      "is_today": true
+    },
+    {
+      "id": "fea9e4e2140a",
+      "title": "【ブラックフライデーセール】DAWをトータルにコントロールするための究極のシングルフェーダーコントローラー、Solid State Logic「UF1」が16,200円オフ！",
+      "url": "https://computermusic.jp/2026/11/uf1-ssl/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/09/uf1.jpg",
+      "summary": "DAWをトータルにコントロールするための究極のシングルフェーダーコントローラー、Solid State Logic「UF1」が16,200円オフとなっています。 Rock oNでは、ブラックフライデーセール2026を開催... The post 【ブラックフライデーセール】DAWをトータルにコントロールするための究極のシングルフェーダーコントローラー、Solid State Logic「UF1」が16,200円オフ！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "DAWをトータルにコントロールするための究極のシングルフェーダーコントローラー、Solid State Logic「UF1」が16,200円オフとなっています。 Rock oNでは、ブラックフライデーセール2026を開催... The post 【ブラックフライデーセール】DAWをトータルにコントロールするための究極のシングルフェーダーコントローラー、..."
+      ],
+      "published_at": "2026-11-23T10:31:24+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:31",
+      "is_today": true
+    },
+    {
+      "id": "b7fe454ea6da",
+      "title": "【ブラックフライデーセール】西アジア～中東地域に伝わる楽器を収録したシネマティック音源、Best Service「ANCIENT ERA PERSIA」が40%OFF！",
+      "url": "https://computermusic.jp/2026/11/ancient-era-persia/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/11/era_persia_1.jpg",
+      "summary": "西アジア～中東地域に伝わる楽器を収録したシネマティック音源、Best Service「ANCIENT ERA PERSIA」が40%OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。... The post 【ブラックフライデーセール】西アジア～中東地域に伝わる楽器を収録したシネマティック音源、Best Service「ANCIENT ERA PERSIA」が40%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "西アジア～中東地域に伝わる楽器を収録したシネマティック音源、Best Service「ANCIENT ERA PERSIA」が40%OFFとなっています。 Best Serviceではサイバーシーズンセールを開催中です。... The post 【ブラックフライデーセール】西アジア～中東地域に伝わる楽器を収録したシネマティック音源、Best Servi..."
+      ],
+      "published_at": "2026-11-23T10:16:16+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:16",
+      "is_today": true
+    },
+    {
+      "id": "ebcf64b45aee",
+      "title": "【ブラックフライデーセール】HDR技術に類似したアルゴリズムでサウンドに本来の明瞭さを与えるプラグイン、Zynaptiq「INTENSITY 2」が57%OFF！",
+      "url": "https://computermusic.jp/2026/11/intensity-2-2/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/05/intensity-2.jpeg",
+      "summary": "HDR技術に類似したアルゴリズムでサウンドに本来の明瞭さを与えるプラグイン、Zynaptiq「INTENSITY 2」が57%OFFとなっています。 Zynaptiqではブラックフライデーセールを開催中です。合わせてチェ... The post 【ブラックフライデーセール】HDR技術に類似したアルゴリズムでサウンドに本来の明瞭さを与えるプラグイン、Zynaptiq「INTENSITY 2」が57%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "HDR技術に類似したアルゴリズムでサウンドに本来の明瞭さを与えるプラグイン、Zynaptiq「INTENSITY 2」が57%OFFとなっています。 Zynaptiqではブラックフライデーセールを開催中です。合わせてチェ... The post 【ブラックフライデーセール】HDR技術に類似したアルゴリズムでサウンドに本来の明瞭さを与えるプラグイン、Zy..."
+      ],
+      "published_at": "2026-11-23T10:05:10+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:05",
+      "is_today": true
+    },
+    {
+      "id": "38bd69db3602",
+      "title": "【ブラックフライデーセール】簡単操作で9弦ギターを操るメタルギター音源、Ample Sound「AMPLE METAL HELLRAZER III」が20%OFF！",
+      "url": "https://computermusic.jp/2026/11/ample-metal-hellrazer-4/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2022/04/shot_AMPMH3_1-e1650670888309.jpeg",
+      "summary": "簡単操作で9弦ギターを操るメタルギター音源、Ample Sound「AMPLE METAL HELLRAZER III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。合わせてチ... The post 【ブラックフライデーセール】簡単操作で9弦ギターを操るメタルギター音源、Ample Sound「AMPLE METAL HELLRAZER III」が20%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "簡単操作で9弦ギターを操るメタルギター音源、Ample Sound「AMPLE METAL HELLRAZER III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。合わせてチ... The post 【ブラックフライデーセール】簡単操作で9弦ギターを操るメタルギター音源、Ample Sound「AMPLE ..."
+      ],
+      "published_at": "2026-11-23T10:01:30+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:01",
+      "is_today": true
+    },
+    {
+      "id": "0464635132f5",
+      "title": "楽天市場、ほぼ新品のSIMフリー「Xperia 10 VI」を約5万円で販売中",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/23/news007.html",
+      "media": "ITmedia Mobile",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2611/23/l_asa_rakuten_01.jpg",
+      "summary": "楽天市場で販売されている中古のSIMロックフリー「Xperia 10 VI」を紹介。店頭展示回収品のため一般ユーザーに渡っておらず、使用感が感じられない新品同様のランク「S」としている。価格は4万9800円。",
+      "summary_bullets": [
+        "楽天市場で販売されている中古のSIMロックフリー「Xperia 10 VI」を紹介。店頭展示回収品のため一般ユーザーに渡っておらず、使用感が感じられない新品同様のランク「S」としている。価格は4万9800円。"
+      ],
+      "published_at": "2026-11-23T10:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "10:00",
+      "is_today": true
+    },
+    {
+      "id": "8fb2553fc5a2",
+      "title": "【Goliath(通常35,000円相当)プレゼント】ワールド＆エスニック音源を代表する4製品バンドル、East West「ANCIENT BUNDLE」が81%OFF！",
+      "url": "https://computermusic.jp/2026/11/ancient-bundle/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/11/ancient-bundle.jpg",
+      "summary": "ワールド＆エスニック音源を代表する4製品バンドル、East West「ANCIENT BUNDLE」が81%OFFとなっています。 さらに、期間中にEastWest製品を購入すると、180以上の楽器と600を超えるパッチ... The post 【Goliath(通常35,000円相当)プレゼント】ワールド＆エスニック音源を代表する4製品バンドル、East West「ANCIENT BUNDLE」が81%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "ワールド＆エスニック音源を代表する4製品バンドル、East West「ANCIENT BUNDLE」が81%OFFとなっています。 さらに、期間中にEastWest製品を購入すると、180以上の楽器と600を超えるパッチ... The post 【Goliath(通常35,000円相当)プレゼント】ワールド＆エスニック音源を代表する4製品バンドル、Ea..."
+      ],
+      "published_at": "2026-11-23T09:46:17+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "09:46",
+      "is_today": true
+    },
+    {
+      "id": "31d636424384",
+      "title": "【ブラックフライデーセール】スムーズなワークフロー、制限のない柔軟性、目の覚めるような本物のアナログ・サウンドを備えたフィルタープラグイン、FabFilter「Volcano 3」が28%OFF！",
+      "url": "https://computermusic.jp/2026/11/volcano-3/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/11/Volcano3Gui-e1637234663380.png",
+      "summary": "スムーズなワークフロー、制限のない柔軟性、目の覚めるような本物のアナログ・サウンドを備えたフィルタープラグイン、FabFilter「Volcano 3」が28%OFFとなっています。 Fabfilterが最大25%OFF... The post 【ブラックフライデーセール】スムーズなワークフロー、制限のない柔軟性、目の覚めるような本物のアナログ・サウンドを備えたフィルタープラグイン、FabFilter「Volcano 3」が28%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "スムーズなワークフロー、制限のない柔軟性、目の覚めるような本物のアナログ・サウンドを備えたフィルタープラグイン、FabFilter「Volcano 3」が28%OFFとなっています。 Fabfilterが最大25%OFF... The post 【ブラックフライデーセール】スムーズなワークフロー、制限のない柔軟性、目の覚めるような本物のアナログ・サウン..."
+      ],
+      "published_at": "2026-11-23T09:31:53+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "09:31",
+      "is_today": true
+    },
+    {
+      "id": "fdad5875464f",
+      "title": "【ブラックフライデーセール】メタルをはじめ様々なヘビースタイルに最適なEBX拡張音源、Toontrack「EBX: Metal」が45%OFF！",
+      "url": "https://computermusic.jp/2026/11/ebx-metal/",
+      "media": "Computer Music Japan",
+      "genre": "music",
+      "genre_name": "音楽・DJ",
+      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/11/ef61dbc7281680b195f37d9377d3f99f.png",
+      "summary": "メタルをはじめ様々なヘビースタイルに最適なEBX拡張音源、Toontrack「EBX: Metal」が45%OFFとなっています。 Toontrakではブラックフライデーセールを開催中です。合わせてチェックしてみてくださ... The post 【ブラックフライデーセール】メタルをはじめ様々なヘビースタイルに最適なEBX拡張音源、Toontrack「EBX: Metal」が45%OFF！ first appeared on Computer Music Japan .",
+      "summary_bullets": [
+        "メタルをはじめ様々なヘビースタイルに最適なEBX拡張音源、Toontrack「EBX: Metal」が45%OFFとなっています。 Toontrakではブラックフライデーセールを開催中です。合わせてチェックしてみてくださ... The post 【ブラックフライデーセール】メタルをはじめ様々なヘビースタイルに最適なEBX拡張音源、Toontrack「E..."
+      ],
+      "published_at": "2026-11-23T09:16:42+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "09:16",
+      "is_today": true
+    },
+    {
+      "id": "00a9717ac5bd",
+      "title": "JAL NEOBANK、米ドルの受け取りで最大15万マイルもらえる",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2158387.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/387/01.jpg",
+      "summary": "日本航空（JAL）の銀行サービス「JAL NEOBANK」で、他の金融機関から米ドルを受け取ると、受取金額に応じて最大15万マイルがもらえる「外貨受取でマイルプレゼントキャンペーン」が実施している。対象期間は11月20日～2027年1月15日。",
+      "summary_bullets": [
+        "日本航空（JAL）の銀行サービス「JAL NEOBANK」で、他の金融機関から米ドルを受け取ると、受取金額に応じて最大15万マイルがもらえる「外貨受取でマイルプレゼントキャンペーン」が実施している。対象期間は11月20日～2027年1月15日。"
+      ],
+      "published_at": "2026-11-23T09:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "09:00",
+      "is_today": true
+    },
+    {
+      "id": "7614a0fbb8ef",
+      "title": "ドコモの「AQUOS sense10」、Android 17にアップデート",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2158009.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/009/01-1.jpg",
+      "summary": "NTTドコモは19日、シャープ製のAndroidスマートフォン「AQUOS sense10 SH-53F」において、Android 17へのOSバージョンアップを含むソフトウェアアップデートの提供を開始した。",
+      "summary_bullets": [
+        "NTTドコモは19日、シャープ製のAndroidスマートフォン「AQUOS sense10 SH-53F」において、Android 17へのOSバージョンアップを含むソフトウェアアップデートの提供を開始した。"
+      ],
+      "published_at": "2026-11-23T09:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "09:00",
+      "is_today": true
+    },
+    {
+      "id": "cedaf55a4826",
+      "title": "ドコモ、Amazonブラックフライデーでdポイントの還元・山分けキャンペーン",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2158259.html",
+      "media": "ケータイ Watch",
+      "genre": "mobile",
+      "genre_name": "モバイル・通信",
+      "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/259/main.jpeg",
+      "summary": "NTTドコモは、Amazonブラックフライデー開催にあわせたキャンペーンを実施する。キャンペーン期間は11月27日～12月7日まで。",
+      "summary_bullets": [
+        "NTTドコモは、Amazonブラックフライデー開催にあわせたキャンペーンを実施する。キャンペーン期間は11月27日～12月7日まで。"
+      ],
+      "published_at": "2026-11-23T08:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "9f9de09dd9d9",
+      "title": "安眠もイヤホンがもたらす時代。Ankerが睡眠デバイスに力を入れる理由",
+      "url": "https://www.gizmodo.jp/article/anker_sleep-earbuds-4-pro/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/18/995dfd11-1593-4783-bc4d-7cd135ea892d/original.jpg?w=1200",
+      "summary": "Ankerの最新睡眠特化型イヤホン「Sleep Earbuds 4 Pro」がいよいよ日本で販売開始。製品の特徴や、同社が睡眠市場に力を入れる背景と進化する睡眠テクノロジーを解説します。",
+      "summary_bullets": [
+        "Ankerの最新睡眠特化型イヤホン「Sleep Earbuds 4 Pro」がいよいよ日本で販売開始。製品の特徴や、同社が睡眠市場に力を入れる背景と進化する睡眠テクノロジーを解説します。"
+      ],
+      "published_at": "2026-11-23T08:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "08:00",
+      "is_today": true
+    },
+    {
+      "id": "6992c4982602",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "media": "ITmedia Top",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2611/23/2000003394/10012776/2048",
+      "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "summary_bullets": [
+        "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。"
+      ],
+      "published_at": "2026-11-23T07:49:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "07:49",
+      "is_today": true
+    },
+    {
+      "id": "9310ff12eb49",
+      "title": "岡嶋和幸の「あとで買う」 2,033点目：完全保存版の鉄道絶景のロケーションガイド - デジカメ Watch",
+      "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2158492.html",
+      "media": "デジカメ Watch",
+      "genre": "camera",
+      "genre_name": "カメラ・写真",
+      "thumbnail": "https://dc.watch.impress.co.jp/img/dcw/list/2158/492/01.jpg",
+      "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
+      "summary_bullets": [
+        "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
+      ],
+      "published_at": "2026-11-23T07:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "07:00",
+      "is_today": true
+    },
+    {
+      "id": "c183b1c2be30",
+      "title": "NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます",
+      "url": "https://www.gizmodo.jp/article/nasa-moon-mars-analog-volunteers/",
+      "media": "ギズモード・ジャパン",
+      "genre": "tech",
+      "genre_name": "テクノロジー・AI",
+      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/728f924f-564c-4ebf-b12a-a9034ab4dac4/original.jpg?w=1200",
+      "summary": "NASAが募集する1年間月と火星の模擬環境で暮らすミッションの詳細や応募条件を紹介します。",
+      "summary_bullets": [
+        "NASAが募集する1年間月と火星の模擬環境で暮らすミッションの詳細や応募条件を紹介します。"
+      ],
+      "published_at": "2026-11-23T07:00:00+09:00",
+      "published_date": "2026-11-23",
+      "published_time": "07:00",
+      "is_today": true
+    },
     {
       "id": "ee3e8db5c006",
       "title": "【日下部保雄の悠悠閑閑】ハイブリッドの走らせ方??",
@@ -180,40 +520,6 @@
       "is_today": false
     },
     {
-      "id": "bc4172c27923",
-      "title": "【ブラックフライデーセール】簡単操作でFender Stratocasterを奏でるエレキギター専用音源、AMPLE SOUND「AMPLE GUITAR SC」が20%OFF！",
-      "url": "https://computermusic.jp/2026/11/ample-sound-ample-guitar-sc-iii/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/07/shot_AMPGSC3_1.jpeg",
-      "summary": "簡単操作でFender Stratocasterを奏でるエレキギター専用音源、AMPLE SOUND「AMPLE GUITAR SC III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを... The post 【ブラックフライデーセール】簡単操作でFender Stratocasterを奏でるエレキギター専用音源、AMPLE SOUND「AMPLE GUITAR SC」が20%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "簡単操作でFender Stratocasterを奏でるエレキギター専用音源、AMPLE SOUND「AMPLE GUITAR SC III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを... The post 【ブラックフライデーセール】簡単操作でFender Stratocasterを奏でるエレキギター専用音源、A..."
-      ],
-      "published_at": "2026-11-22T19:16:19+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "19:16",
-      "is_today": false
-    },
-    {
-      "id": "466c58bcc1f0",
-      "title": "【ブラックフライデーセール】世界で唯一、スピーカー／ヘッドフォン、全てのPC出力に対応する音響補正ソリューション、Sonarworks「SoundID Reference for Speakers & Headphones（マイク付属）」が41%OFF！",
-      "url": "https://computermusic.jp/2026/11/soundid/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/06/soundid.jpg",
-      "summary": "世界で唯一、スピーカー／ヘッドフォン、全てのPC出力に対応する音響補正ソリューション、Sonarworks「SoundID Reference for Speakers & Headphones（マイク付属）」が... The post 【ブラックフライデーセール】世界で唯一、スピーカー／ヘッドフォン、全てのPC出力に対応する音響補正ソリューション、Sonarworks「SoundID Reference for Speakers & Headphones（マイク付属）」が41%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "世界で唯一、スピーカー／ヘッドフォン、全てのPC出力に対応する音響補正ソリューション、Sonarworks「SoundID Reference for Speakers & Headphones（マイク付属）」が... The post 【ブラックフライデーセール】世界で唯一、スピーカー／ヘッドフォン、全てのPC出力に対応する音響補正ソリューション、S..."
-      ],
-      "published_at": "2026-11-22T19:01:48+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "19:01",
-      "is_today": false
-    },
-    {
       "id": "91795a928fdc",
       "title": "AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される",
       "url": "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
@@ -231,23 +537,6 @@
       "is_today": false
     },
     {
-      "id": "e20a01291fa1",
-      "title": "【ブラックフライデーセール】Sound toysのエフェクト14種類がプリロードされたマルチエフェクトシステム「Sound toys Effect Rack」が67%OFF！",
-      "url": "https://computermusic.jp/2026/11/soundtoys-soundtoys-effect-rack/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2020/04/Effect_Rack_Small-1.png",
-      "summary": "Sound toysのエフェクト14種類がプリロードされたマルチエフェクトシステム「Sound toys Effect Rack」が67%OFFとなっています。 Sound Toysではブラックフライデーセール2026を... The post 【ブラックフライデーセール】Sound toysのエフェクト14種類がプリロードされたマルチエフェクトシステム「Sound toys Effect Rack」が67%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "Sound toysのエフェクト14種類がプリロードされたマルチエフェクトシステム「Sound toys Effect Rack」が67%OFFとなっています。 Sound Toysではブラックフライデーセール2026を... The post 【ブラックフライデーセール】Sound toysのエフェクト14種類がプリロードされたマルチエフェクトシステ..."
-      ],
-      "published_at": "2026-11-22T18:46:53+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "18:46",
-      "is_today": false
-    },
-    {
       "id": "eda6a810fe03",
       "title": "豆腐も生ウニも「そのまま」元通り。マイナス35℃の液体凍結機がすごかった",
       "url": "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
@@ -262,40 +551,6 @@
       "published_at": "2026-11-22T18:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "18:30",
-      "is_today": false
-    },
-    {
-      "id": "f3918f548b70",
-      "title": "【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFF！",
-      "url": "https://computermusic.jp/2026/11/rhodope-2-ethnic-bulgarian-choir/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/08/Rhodope2_Legato_GUI.jpeg",
-      "summary": "本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFFとなっています。 Strezov Samplin... The post 【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFFとなっています。 Strezov Samplin... The post 【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAM..."
-      ],
-      "published_at": "2026-11-22T18:28:46+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "18:28",
-      "is_today": false
-    },
-    {
-      "id": "2f7b7d1fa441",
-      "title": "【ブラックフライデーセール】簡単操作でアコースティックギターを奏でるギター音源、AMPLE SOUND「AMPLE GUITAR M」が20%OFF！",
-      "url": "https://computermusic.jp/2026/11/ample-guitar-m-iii/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2023/07/shot_AMPGM3_1.jpg",
-      "summary": "簡単操作でアコースティックギターを奏でるギター音源、AMPLE SOUND「AMPLE GUITAR M III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。合わせてチェック... The post 【ブラックフライデーセール】簡単操作でアコースティックギターを奏でるギター音源、AMPLE SOUND「AMPLE GUITAR M」が20%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "簡単操作でアコースティックギターを奏でるギター音源、AMPLE SOUND「AMPLE GUITAR M III」が20%OFFとなっています。 AMPLE SOUNDでは、ウインターセールを開催中です。合わせてチェック... The post 【ブラックフライデーセール】簡単操作でアコースティックギターを奏でるギター音源、AMPLE SOUND「AM..."
-      ],
-      "published_at": "2026-11-22T18:22:35+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "18:22",
       "is_today": false
     },
     {
@@ -401,40 +656,6 @@
       "is_today": false
     },
     {
-      "id": "8da5e3ef825f",
-      "title": "【ブラックフライデーセール】スピーディーなドラム・トラックの制作を実現する定番ドラム音源の最新版、TOONTRACK「EZ DRUMMER 3」が44%OFF！",
-      "url": "https://computermusic.jp/2026/11/ez-drummer-3/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2022/08/shot_EZXRCK.jpeg",
-      "summary": "スピーディーなドラム・トラックの制作を実現する定番ドラム音源の最新版、TOONTRACK「EZ DRUMMER 3」が44%OFFとなっています。 Toontrakではブラックフライデーセールを開催中です。合わせてチェッ... The post 【ブラックフライデーセール】スピーディーなドラム・トラックの制作を実現する定番ドラム音源の最新版、TOONTRACK「EZ DRUMMER 3」が44%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "スピーディーなドラム・トラックの制作を実現する定番ドラム音源の最新版、TOONTRACK「EZ DRUMMER 3」が44%OFFとなっています。 Toontrakではブラックフライデーセールを開催中です。合わせてチェッ... The post 【ブラックフライデーセール】スピーディーなドラム・トラックの制作を実現する定番ドラム音源の最新版、TOONT..."
-      ],
-      "published_at": "2026-11-22T14:45:44+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "14:45",
-      "is_today": false
-    },
-    {
-      "id": "2d31abc9ef26",
-      "title": "【ブラックフライデーセール】SWAMで構築する最上位の仮想オーケストラバンドル、Audio Modeling「SWAM Orchestra bundle」が33%OFF！",
-      "url": "https://computermusic.jp/2026/11/audio-modeling-swam-orchestra-bundle/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2026/04/orchestra-bundle-audiomodeling.jpg",
-      "summary": "SWAMで構築する最上位の仮想オーケストラバンドル、Audio Modeling「SWAM Orchestra bundle」が33%OFFとなっています。 Audio Modelingでは、PolySWAM除く全製品が... The post 【ブラックフライデーセール】SWAMで構築する最上位の仮想オーケストラバンドル、Audio Modeling「SWAM Orchestra bundle」が33%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "SWAMで構築する最上位の仮想オーケストラバンドル、Audio Modeling「SWAM Orchestra bundle」が33%OFFとなっています。 Audio Modelingでは、PolySWAM除く全製品が... The post 【ブラックフライデーセール】SWAMで構築する最上位の仮想オーケストラバンドル、Audio Modeling..."
-      ],
-      "published_at": "2026-11-22T14:44:24+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "14:44",
-      "is_today": false
-    },
-    {
       "id": "c133d8462354",
       "title": "中国の優秀な卒業生はテック系や金融分野ではなく、製造業やエネルギー分野を選ぶ",
       "url": "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
@@ -500,23 +721,6 @@
       "published_at": "2026-11-22T12:30:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "12:30",
-      "is_today": false
-    },
-    {
-      "id": "685658449f88",
-      "title": "【ブラックフライデーセール】主要製品を網羅した4種類のエフェクターバンドル、Fabfilter「Mastering Bundle」が28%OFF！",
-      "url": "https://computermusic.jp/2026/11/mastering-bundle/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2025/06/mastering-mundle-fabfilter.jpeg",
-      "summary": "主要製品を網羅した4種類のエフェクターバンドル、Fabfilter「Mastering Bundle」が28%OFFとなっています。 Fabfilterが最大25%OFFとなるブラックフライデーセールを開催中です。 Ma... The post 【ブラックフライデーセール】主要製品を網羅した4種類のエフェクターバンドル、Fabfilter「Mastering Bundle」が28%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "主要製品を網羅した4種類のエフェクターバンドル、Fabfilter「Mastering Bundle」が28%OFFとなっています。 Fabfilterが最大25%OFFとなるブラックフライデーセールを開催中です。 Ma... The post 【ブラックフライデーセール】主要製品を網羅した4種類のエフェクターバンドル、Fabfilter「Master..."
-      ],
-      "published_at": "2026-11-22T12:23:17+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "12:23",
       "is_today": false
     },
     {
@@ -588,23 +792,6 @@
       "is_today": false
     },
     {
-      "id": "d14b32e0751a",
-      "title": "【ブラックフライデーセール】SSLコンソールクオリティのアナログサミングミックスを可能にする16chデスクトップ ・ミキシング・コンソール、Solid State Logic「BiG SiX」が35,000円オフ！",
-      "url": "https://computermusic.jp/2026/11/solid-state-logic-big-six/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2021/12/SSL-BiG-SIX-cutout-angle-e1638979741769.jpeg",
-      "summary": "SSLコンソールクオリティのアナログサミングミックスを可能にする16chデスクトップ ・ミキシング・コンソール、Solid State Logic「BiG SiX」が35,000円オフとなっています。 Rock oNでは... The post 【ブラックフライデーセール】SSLコンソールクオリティのアナログサミングミックスを可能にする16chデスクトップ ・ミキシング・コンソール、Solid State Logic「BiG SiX」が35,000円オフ！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "SSLコンソールクオリティのアナログサミングミックスを可能にする16chデスクトップ ・ミキシング・コンソール、Solid State Logic「BiG SiX」が35,000円オフとなっています。 Rock oNでは... The post 【ブラックフライデーセール】SSLコンソールクオリティのアナログサミングミックスを可能にする16chデスクト..."
-      ],
-      "published_at": "2026-11-22T11:31:14+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "11:31",
-      "is_today": false
-    },
-    {
       "id": "48febe534730",
       "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説",
       "url": "https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
@@ -619,40 +806,6 @@
       "published_at": "2026-11-22T11:14:00+09:00",
       "published_date": "2026-11-22",
       "published_time": "11:14",
-      "is_today": false
-    },
-    {
-      "id": "62295d82bf58",
-      "title": "【ブラックフライデーセール】10種類のサチュレーションを搭載したマルチバンドエンハンサー、Wavesfactory「Spectre」が53%OFF！",
-      "url": "https://computermusic.jp/2026/11/wavesfactory-spectre/",
-      "media": "Computer Music Japan",
-      "genre": "music",
-      "genre_name": "音楽・DJ",
-      "thumbnail": "https://computermusic.jp/wp-content/uploads/2019/11/Spectre_UserInterface_PluginBoutique-e1574656417748.jpg",
-      "summary": "10種類のサチュレーションを搭載したマルチバンドエンハンサー、Wavesfactory「Spectre」が53%OFFとなっています。 Wavesfactoryでは、ブラックフライデーセールを開催中です。合わせてチェック... The post 【ブラックフライデーセール】10種類のサチュレーションを搭載したマルチバンドエンハンサー、Wavesfactory「Spectre」が53%OFF！ first appeared on Computer Music Japan .",
-      "summary_bullets": [
-        "10種類のサチュレーションを搭載したマルチバンドエンハンサー、Wavesfactory「Spectre」が53%OFFとなっています。 Wavesfactoryでは、ブラックフライデーセールを開催中です。合わせてチェック... The post 【ブラックフライデーセール】10種類のサチュレーションを搭載したマルチバンドエンハンサー、Wavesfact..."
-      ],
-      "published_at": "2026-11-22T11:01:45+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "11:01",
-      "is_today": false
-    },
-    {
-      "id": "93b971c42d6f",
-      "title": "人気を伸ばす「動画付きポッドキャスト」。Apple TVでも配信スタート",
-      "url": "https://www.gizmodo.jp/article/apple-tv_video-podcasts/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/7f56d283-39b7-41ae-846d-9d2cb7b71396/original.jpg?w=1200",
-      "summary": "Apple TVアプリでのビデオポッドキャストが配信スタート。国内外の動向や他社サービスの取り組みについても合わせて紹介。先行している他社の動きとは。",
-      "summary_bullets": [
-        "Apple TVアプリでのビデオポッドキャストが配信スタート。国内外の動向や他社サービスの取り組みについても合わせて紹介。先行している他社の動きとは。"
-      ],
-      "published_at": "2026-11-22T11:00:00+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "11:00",
       "is_today": false
     },
     {
@@ -724,23 +877,6 @@
       "is_today": false
     },
     {
-      "id": "8c8e40a0d482",
-      "title": "Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」",
-      "url": "https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/19/5c9709d8-d9d0-4d70-b3af-7bb2286a72cd/original.png?w=1200",
-      "summary": "10.3インチの電子ペーパーを2枚搭載し、漫画や小説を見開きで読める電子書籍端末「Inkleaf」。Kindleアプリにも対応し、PDFへの手書きメモも可能です。",
-      "summary_bullets": [
-        "10.3インチの電子ペーパーを2枚搭載し、漫画や小説を見開きで読める電子書籍端末「Inkleaf」。Kindleアプリにも対応し、PDFへの手書きメモも可能です。"
-      ],
-      "published_at": "2026-11-22T08:00:00+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "08:00",
-      "is_today": false
-    },
-    {
       "id": "e82807dc79ee",
       "title": "岡嶋和幸の「あとで買う」 2,032点目：ゴリラに握手されるような？強力ハンドケア - デジカメ Watch",
       "url": "https://dc.watch.impress.co.jp/docs/column/okajima/2158465.html",
@@ -751,23 +887,6 @@
       "summary": "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。",
       "summary_bullets": [
         "ネットショップのカートの中にある「あとで買う」には、様子見をしているなど気になるアイテムがたくさん入っています。この連載では、フォトライフに関連する製品を中心にその中身をお届けします。どのような物に興味を持ち、どのような視点で選んでいるのかなど、日々の物欲をお楽しみください。"
-      ],
-      "published_at": "2026-11-22T07:00:00+09:00",
-      "published_date": "2026-11-22",
-      "published_time": "07:00",
-      "is_today": false
-    },
-    {
-      "id": "c155812b22cf",
-      "title": "宇宙を夢見るバリスタ、募集中。時給3,590円",
-      "url": "https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/",
-      "media": "ギズモード・ジャパン",
-      "genre": "tech",
-      "genre_name": "テクノロジー・AI",
-      "thumbnail": "https://media.loom-app.com/loom/2026/11/20/e39f585a-3d31-48b6-b119-105618c995be/original.jpg?w=1200",
-      "summary": "SpaceXがテキサス州スターベースとワシントン州レドモンドの拠点でのバリスタを募集しています。時給約3,590円から。宇宙企業でコーヒーを淹れる仕事はいかが？",
-      "summary_bullets": [
-        "SpaceXがテキサス州スターベースとワシントン州レドモンドの拠点でのバリスタを募集しています。時給約3,590円から。宇宙企業でコーヒーを淹れる仕事はいかが？"
       ],
       "published_at": "2026-11-22T07:00:00+09:00",
       "published_date": "2026-11-22",
